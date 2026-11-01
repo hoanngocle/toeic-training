@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-18-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "To assure that your order is ____ filled, it will be checked by a two-person team.",
+        "choiceTexts": {
+          "A": "accurately",
+          "B": "accurateness",
+          "C": "accurate",
+          "D": "accuracy"
+        },
+        "explanation": "Accurately là trạng từ bổ nghĩa cho filled: đơn hàng được xử lý chính xác; hai người kiểm tra để bảo đảm điều đó."
+      },
+      {
+        "id": "11",
+        "prompt": "The suppliers have ____ the terms of our agreement and are now our supplier of choice.",
+        "choiceTexts": {
+          "A": "fulfilling",
+          "B": "fulfillment",
+          "C": "fulfilled",
+          "D": "fulfill"
+        },
+        "explanation": "Sau have cần quá khứ phân từ fulfilled để tạo thì hiện tại hoàn thành: nhà cung cấp đã thực hiện các điều khoản."
+      },
+      {
+        "id": "12",
+        "prompt": "Scanning the shipment number is an ____ part of tracking these containers.",
+        "choiceTexts": {
+          "A": "integral",
+          "B": "integrate",
+          "C": "integrating",
+          "D": "integration"
+        },
+        "explanation": "Integral là tính từ bổ nghĩa cho part; an integral part of nghĩa là một phần không thể thiếu của việc theo dõi hàng."
+      },
+      {
+        "id": "13",
+        "prompt": "Keeping customer complaints to a ____ is the job of everyone who works in the store.",
+        "choiceTexts": {
+          "A": "minimum",
+          "B": "minimal",
+          "C": "minimize",
+          "D": "minimally"
+        },
+        "explanation": "Cụm keep something to a minimum nghĩa là giữ ở mức tối thiểu; sau a cần danh từ minimum."
+      },
+      {
+        "id": "14",
+        "prompt": "To keep distribution costs low, we have selected only two ____ firms for the region.",
+        "choiceTexts": {
+          "A": "ship",
+          "B": "shipment",
+          "C": "shipping",
+          "D": "shipper"
+        },
+        "explanation": "Shipping firms là các công ty vận chuyển, phù hợp với mục tiêu giảm chi phí phân phối."
+      },
+      {
+        "id": "15",
+        "prompt": "Based on their credit check, it seems likely that they have ____ funds to cover this order.",
+        "choiceTexts": {
+          "A": "suffice",
+          "B": "sufficient",
+          "C": "sufficiently",
+          "D": "sufficed"
+        },
+        "explanation": "Sufficient là tính từ đứng trước funds, diễn tả có đủ tiền để thanh toán đơn hàng."
+      }
+    ]
+  },
+  {
+    "id": "essential-18-reading-6",
+    "readingPassage": "Packing Guidelines\nIn order to [16] ____ breakage of merchandise and loss of shipments and to ensure accurate fulfillment of orders,\nplease observe the following guidelines when preparing packages for shipment:\n1) Check the order form carefully to make sure the item number matches the item number and description in the\ncatalog.\n2) Make sure that the address label has been [17] ____ filled out, and particularly that names have been spelled\ncorrectly.\n3) Each box must be [18] ____ filled with packing material to protect the contents from damage.\n4) Packages must be ready to be picked up by the carrier before 3:30 p.m. daily.\nFollowing these guidelines is of the utmost importance. Lost and damaged shipments cost the company valuable time\nand money.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "minimum",
+          "B": "minimize",
+          "C": "minimal",
+          "D": "minimally"
+        },
+        "explanation": "In order to đi với động từ nguyên mẫu minimize: nhằm giảm thiểu hư hỏng và thất lạc hàng."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "acutely",
+          "B": "accessibly",
+          "C": "actively",
+          "D": "accurately"
+        },
+        "explanation": "Accurately nghĩa là chính xác; nhãn địa chỉ cần được điền chính xác, đặc biệt là tên người nhận."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "sufficiently",
+          "B": "sufficient",
+          "C": "suffice",
+          "D": "suffuse"
+        },
+        "explanation": "Sufficiently là trạng từ bổ nghĩa cho filled: hộp phải được chèn đủ vật liệu để bảo vệ hàng."
+      }
+    ]
+  },
+  {
+    "id": "essential-18-reading-7",
+    "readingPassage": "April 15\nCustomer Service Department\nFleetwood Fashions\n21986 North Featherstone Avenue\nHiawatha, MN\n\nDear Customer Service,\nI am writing about an order I made from the Fleetwood Fashions catalog over a month ago, which I have not yet received. When I called to order two new purses and several spring shirts, the customer service representative assured me that there was sufficient inventory on hand to fulfill the order. He told me that it would be shipped before the end of the week and that I would receive it within ten days. When I still had not received the shipment after 14 days, I called the company. The customer service representative checked the ordering information on the computer, and we discovered that my address had not been accurately recorded. He promised to reship the order with my correct address and told me I would receive it within ten days. That was over two weeks ago, and I still have not received the shipment. I cannot understand this. Perhaps the carrier that you use is not reliable. In any case, I am tired of waiting for my order and would like to cancel it. I am not sure whether I will make an order from your company again. This is unfortunate since it is one of the few places that carry dresses and shoes in my size and at a reasonable price. However, this is the second time I have had a problem with an order, and I don't want this to happen again. Please cancel my order #20857631. Thank you.\n\nSincerely,\nLucinda Walker",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "When did Lucinda Walker make an order from Fleetwood Fashions?",
+        "choiceTexts": {
+          "A": "Last week.",
+          "B": "Ten days ago.",
+          "C": "Fourteen days ago.",
+          "D": "Last month."
+        },
+        "explanation": "Ngay đầu thư, Lucinda nói đã đặt hàng over a month ago, tức từ tháng trước."
+      },
+      {
+        "id": "20",
+        "prompt": "What did she order?",
+        "choiceTexts": {
+          "A": "Purses.",
+          "B": "Skirts.",
+          "C": "Shoes.",
+          "D": "Dresses."
+        },
+        "explanation": "Thư nêu two new purses and several spring shirts; trong bốn lựa chọn, purses là mặt hàng bà đã đặt."
+      },
+      {
+        "id": "21",
+        "prompt": "What is the problem with her order?",
+        "choiceTexts": {
+          "A": "The price is unreasonable.",
+          "B": "The dress size is wrong.",
+          "C": "She hasn't received it yet.",
+          "D": "It contained the wrong merchandise."
+        },
+        "explanation": "Lucinda lặp lại rằng vẫn chưa nhận được hàng dù đã gọi công ty và chờ gửi lại."
+      },
+      {
+        "id": "22",
+        "prompt": "The word fulfill in the letter is closest in meaning to",
+        "choiceTexts": {
+          "A": "pay for",
+          "B": "complete",
+          "C": "send",
+          "D": "receive"
+        },
+        "explanation": "Fulfill the order là hoàn tất/thực hiện đơn hàng; complete gần nghĩa nhất, không chỉ riêng gửi hay thanh toán."
+      },
+      {
+        "id": "23",
+        "prompt": "The word carrier in the letter is closest in meaning to",
+        "choiceTexts": {
+          "A": "communication",
+          "B": "employee",
+          "C": "transporter",
+          "D": "operator"
+        },
+        "explanation": "Carrier là đơn vị vận chuyển hàng; transporter diễn đạt đúng vai trò này."
+      }
+    ]
+  }
+]

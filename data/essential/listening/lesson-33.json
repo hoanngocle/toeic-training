@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-33.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-33.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 33"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "Why does the man want to have lunch at the office?",
+      "choiceTexts": {
+        "A": "It is burdensome to leave the office.",
+        "B": "He has a bad impression of the restaurant.",
+        "C": "The office is more elegant than the restaurant.",
+        "D": "He wants to show slides during lunch."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "Who will the man have lunch with?",
+      "choiceTexts": {
+        "A": "The woman.",
+        "B": "The sales staff.",
+        "C": "The regional manager.",
+        "D": "The conference attendees."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What time will lunch be delivered?",
+      "choiceTexts": {
+        "A": "Noon.",
+        "B": "1:00.",
+        "C": "1:30.",
+        "D": "2:00."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What takes 10 minutes?",
+      "choiceTexts": {
+        "A": "Delivering the order.",
+        "B": "Selecting a meal from the list.",
+        "C": "Getting the food ready to be picked up.",
+        "D": "Making a group order."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "How much does a delivery cost?",
+      "choiceTexts": {
+        "A": "15 percent.",
+        "B": "50 cents.",
+        "C": "It's free.",
+        "D": "50 percent."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What kind of food can be ordered from the Parkside Café?",
+      "choiceTexts": {
+        "A": "Rice.",
+        "B": "Meat.",
+        "C": "Sandwiches.",
+        "D": "Ice cream."
+      }
+    }
+  ]
+}

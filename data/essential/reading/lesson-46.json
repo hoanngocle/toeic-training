@@ -1,0 +1,175 @@
+[
+  {
+    "id": "essential-46-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "Luckily, the test results show no ____ damage from the accident.",
+        "choiceTexts": {
+          "A": "assess",
+          "B": "assessment",
+          "C": "assessing",
+          "D": "assessable"
+        },
+        "explanation": "Trước “damage” cần tính từ “assessable”, nghĩa là tổn thương có thể đánh giá được. Các dạng động từ không bổ nghĩa phù hợp cho danh từ này."
+      },
+      {
+        "id": "11",
+        "prompt": "This is not an easy ____ to make without the benefit of numerous test results.",
+        "choiceTexts": {
+          "A": "diagnosis",
+          "B": "diagnose",
+          "C": "diagnostic",
+          "D": "diagnosed"
+        },
+        "explanation": "“Make a diagnosis” là đưa ra chẩn đoán. Sau “an easy” cần danh từ, không phải động từ “diagnose”."
+      },
+      {
+        "id": "12",
+        "prompt": "The most effective way to treat illness is to ____ it from ever occurring.",
+        "choiceTexts": {
+          "A": "prevention",
+          "B": "preventable",
+          "C": "preventing",
+          "D": "prevent"
+        },
+        "explanation": "Sau “to” dùng nguyên mẫu “prevent”; “prevent something from occurring” nghĩa là ngăn điều đó xảy ra."
+      },
+      {
+        "id": "13",
+        "prompt": "Gabriela did not consistently follow her doctor's ____ and her condition did not improve.",
+        "choiceTexts": {
+          "A": "recommendations",
+          "C": "recommended",
+          "B": "recommendable",
+          "D": "recommending"
+        },
+        "explanation": "“Follow her doctor's recommendations” là làm theo các khuyến nghị của bác sĩ. Sau sở hữu cách cần danh từ."
+      },
+      {
+        "id": "14",
+        "prompt": "Jane's doctor asked her to ____ everything she ate for a week.",
+        "choiceTexts": {
+          "A": "records",
+          "C": "recording",
+          "B": "record",
+          "D": "recorded"
+        },
+        "explanation": "“Asked her to” cần động từ nguyên mẫu “record”, nghĩa là ghi lại những gì cô ấy ăn."
+      },
+      {
+        "id": "15",
+        "prompt": "Public health officials are just now realizing the ____ of this disease.",
+        "choiceTexts": {
+          "A": "seriousness",
+          "C": "seriously",
+          "B": "serious",
+          "D": "series"
+        },
+        "explanation": "“The seriousness of” là mức độ nghiêm trọng. Vị trí giữa “the” và “of” cần danh từ."
+      }
+    ]
+  },
+  {
+    "id": "essential-46-reading-6",
+    "readingPassage": "Welcome to the office of Dr. Shaw. The following office policies are in effect.\n\n• Please check in with the receptionist when you arrive. If you were given a referral, please tell the receptionist the name of the doctor who [16] ____ you.\n\n• We recognize that sometimes you must cancel your appointment. Cancellations must be made 24 hours ahead of time or you will [17] ____ a missed appointment fee.\n\n• Please don't call us to find out the results of [18] ____ tests. We will call you when the results are ready.\n\n• Effective January 1, all bills must be paid in full at the time of your visit. We accept all major credit cards.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "will refer",
+          "B": "did refer",
+          "C": "referred",
+          "D": "refers"
+        },
+        "explanation": "Việc giới thiệu đã xảy ra (“were given a referral”), nên dùng quá khứ đơn “referred”."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "assess",
+          "B": "assessed",
+          "C": "be assessed",
+          "D": "be assessing"
+        },
+        "explanation": "Bệnh nhân là người bị tính phí nên cần bị động “will be assessed”; sau “will” là nguyên mẫu “be”."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "diagnostically",
+          "B": "diagnostic",
+          "C": "diagnosed",
+          "D": "diagnose"
+        },
+        "explanation": "“Diagnostic tests” là các xét nghiệm chẩn đoán. Trước danh từ “tests” cần tính từ “diagnostic”; “diagnose” là động từ nên không phù hợp.",
+        "answerOverride": "B",
+        "sourceNote": "Đáp án in ở trang PDF 336 ghi D, nhưng trang đề PDF 305 cho D là “diagnose” (động từ). Cụm đúng là “diagnostic tests”, nên bài này chấm B sau khi đối chiếu đề và đáp án gốc."
+      }
+    ]
+  },
+  {
+    "id": "essential-46-reading-7",
+    "readingPassage": "Caring for Your Health\n\nYour health is one of your most valuable assets, so caring for it properly is very important. Regular visits to the doctor can help prevent any health problems from becoming serious. You should visit your doctor annually if you are in good health. If you have certain health conditions or if your doctor recommends it, you may need more frequent appointments.\n\nIt is important to have a doctor you can trust. The best way to find one is to get a recommendation from a trustworthy person such as a friend or relative. Call to make an appointment several weeks or even a month ahead of time. When you call, you can also ask a few questions about the doctor's background, such as which university he got his degree from and how long he has been practicing in the area. You will also want to find out which hospital the doctor is affiliated with. When you arrive for your appointment, make sure you bring a copy of your medical records with you.\n\n\n\nWhen you meet with the doctor, you will want to ask him what his approach to treatment is and what diagnostic tools he uses. This way you can find out something about his skills, as well as whether or not he is a person you can talk to and feel comfortable with. Also, take a look around the office. Is it comfortable and organized? Do the instruments look clean and well-maintained?\n\nIf your appointment goes well and you feel comfortable with the doctor, then don't forget to make an appointment for your next physical before you leave the office. If you have any doubts, look around for another doctor. Having a good doctor is an essential part of your health care plan.",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Who is this article for?",
+        "choiceTexts": {
+          "A": "Patients.",
+          "B": "Doctors.",
+          "C": "Hospital staff.",
+          "D": "Medical equipment salespeople."
+        },
+        "explanation": "Bài hướng dẫn chọn bác sĩ, đặt lịch và chuẩn bị hồ sơ, nên dành cho bệnh nhân."
+      },
+      {
+        "id": "20",
+        "prompt": "How often should a healthy person visit the doctor?",
+        "choiceTexts": {
+          "A": "Once a month.",
+          "B": "Twice a month.",
+          "C": "Once a year.",
+          "D": "Twice a year."
+        },
+        "explanation": "Theo bài đọc, người khỏe mạnh nên khám “annually”, nghĩa là một lần mỗi năm."
+      },
+      {
+        "id": "21",
+        "prompt": "What is the best way to find a good doctor?",
+        "choiceTexts": {
+          "A": "Look in the phone book.",
+          "B": "Call the hospital.",
+          "C": "Go to a university.",
+          "D": "Ask a friend."
+        },
+        "explanation": "Đoạn hai nói cách tốt nhất là xin lời giới thiệu từ người đáng tin như bạn bè hoặc người thân."
+      },
+      {
+        "id": "22",
+        "prompt": "The word records in the second paragraph, line 6 is closest in meaning to",
+        "choiceTexts": {
+          "A": "plans",
+          "B": "documents",
+          "C": "descriptions",
+          "D": "instructions"
+        },
+        "explanation": "“Medical records” là hồ sơ y tế; “documents” gần nghĩa nhất, không phải kế hoạch hay hướng dẫn."
+      },
+      {
+        "id": "23",
+        "prompt": "The word instruments in the third paragraph, line 4 is closest in meaning to",
+        "choiceTexts": {
+          "A": "equipment",
+          "B": "furniture",
+          "C": "environment",
+          "D": "clothing"
+        },
+        "explanation": "“Instruments” trong phòng khám là dụng cụ, thiết bị y tế, gần nghĩa “equipment”."
+      }
+    ]
+  }
+]

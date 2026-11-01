@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-32-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "Would you like to ____ your meal with an after-dinner drink?",
+        "choiceTexts": {
+          "A": "complete",
+          "B": "completed",
+          "C": "completely",
+          "D": "completion"
+        },
+        "explanation": "Would you like to + động từ nguyên mẫu complete: kết thúc bữa ăn bằng một đồ uống sau bữa tối."
+      },
+      {
+        "id": "11",
+        "prompt": "I've had enough ____ for the day.",
+        "choiceTexts": {
+          "A": "excite",
+          "B": "exciting",
+          "C": "excitement",
+          "D": "excites"
+        },
+        "explanation": "Enough đứng trước danh từ excitement, chỉ sự hào hứng/sự kiện kích thích đã đủ trong ngày."
+      },
+      {
+        "id": "12",
+        "prompt": "I can't figure out which ingredients the chef used to ____ this dish.",
+        "choiceTexts": {
+          "A": "flavored",
+          "B": "flavorful",
+          "C": "flavors",
+          "D": "flavor"
+        },
+        "explanation": "Used to flavor ở đây là dùng nguyên liệu để tạo hương vị; to chỉ mục đích và theo sau là động từ nguyên mẫu."
+      },
+      {
+        "id": "13",
+        "prompt": "I've already ____ what the last table of guests ordered.",
+        "choiceTexts": {
+          "A": "forget",
+          "B": "forgetful",
+          "C": "forgotten",
+          "D": "forgetfulness"
+        },
+        "explanation": "I've already forgotten là hiện tại hoàn thành; sau have cần quá khứ phân từ forgotten."
+      },
+      {
+        "id": "14",
+        "prompt": "Unfortunately, on the day the restaurant opened there was a huge ____ in the kitchen.",
+        "choiceTexts": {
+          "A": "mix-up",
+          "B": "mixed up",
+          "C": "mix up",
+          "D": "mixing up"
+        },
+        "explanation": "A huge mix-up cần danh từ mix-up, nghĩa là một sự nhầm lẫn lớn trong bếp."
+      },
+      {
+        "id": "15",
+        "prompt": "No one could have ____ how successful the restaurant would become.",
+        "choiceTexts": {
+          "A": "predictive",
+          "B": "predictably",
+          "C": "predictable",
+          "D": "predicted"
+        },
+        "explanation": "Could have + quá khứ phân từ predicted: không ai có thể đoán trước mức độ thành công của nhà hàng."
+      }
+    ]
+  },
+  {
+    "id": "essential-32-reading-6",
+    "readingPassage": "One of the joys of traveling abroad is taking the opportunity to try out different kinds of food. Travelers should always make a point of eating the local dishes. It is exciting to try out dishes made with unfamiliar ingredients and unusual [16] ____. Daring travelers can order [17] ____ from the menu. Or, they can look at the dishes that other patrons are eating and order one that looks appealing. A traveler who doesn't speak the local language well can order by pointing to the dishes he wishes to order. That is the easiest way to avoid a mix [18] ____. Finally, dessert should not be forgotten. A sweet treat at the end of the meal will complete the experience of enjoying foreign cooking.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "favors",
+          "B": "flavors",
+          "C": "fivers",
+          "D": "fevers"
+        },
+        "explanation": "Unusual flavors là những hương vị lạ, phù hợp với món ăn và nguyên liệu xa lạ."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "random",
+          "B": "randomly",
+          "C": "randomize",
+          "D": "randomness"
+        },
+        "explanation": "Randomly là trạng từ bổ nghĩa cho order: người thích mạo hiểm có thể chọn món ngẫu nhiên."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "up",
+          "B": "in",
+          "C": "of",
+          "D": "out"
+        },
+        "explanation": "Mix-up là sự nhầm lẫn; chỉ vào món ăn giúp tránh gọi nhầm khi không thông thạo ngôn ngữ."
+      }
+    ]
+  },
+  {
+    "id": "essential-32-reading-7",
+    "readingPassage": "Don't miss the Yorktown Festival of Food. This exciting annual\nevent will take place May 10-16 at the Yorktown Fairgrounds.*\nOver 100 local restaurants will participate. Which are the best\nrestaurants in town? You be the judge! The price of admission\nincludes:\n- Samples of food from all participating restaurants\n- Cooking demonstrations by local chefs\n- Copies of recipes of some of Yorktown's favorite dishes, including\ningredients lists and preparation instructions\n- A free Festival of Food chef's hat and apron\nFifty festival ticket holders will be randomly selected to enjoy a\nmeal especially prepared for the festival by world-renowned chef\nJean Pierre de la Farge, director of the Paris School of Cuisine. You\ncould be one of them! Get your tickets today. An unforgettable\nexperience is guaranteed.\nTickets are available at all participating restaurants and at the\nYorktown Office of Tourism. Ticket prices are $15/day or $50 for\nthe entire week.\n*If rain is predicted, the event will take place in the Yorktown\nSports Arena.",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "How often does the festival take place?",
+        "choiceTexts": {
+          "A": "Once a day.",
+          "B": "Once a week.",
+          "C": "Once a month.",
+          "D": "Once a year."
+        },
+        "explanation": "Quảng cáo gọi đây là annual event, tức sự kiện diễn ra hằng năm."
+      },
+      {
+        "id": "20",
+        "prompt": "What can people do at the festival?",
+        "choiceTexts": {
+          "A": "Try different kinds of food.",
+          "B": "Cook a meal.",
+          "C": "Judge a contest.",
+          "D": "Buy hats and aprons."
+        },
+        "explanation": "Giá vé bao gồm samples of food from all participating restaurants, nên khách có thể thử nhiều loại thức ăn."
+      },
+      {
+        "id": "21",
+        "prompt": "What will 50 people win?",
+        "choiceTexts": {
+          "A": "A ticket.",
+          "B": "A cooking lesson.",
+          "C": "A free meal.",
+          "D": "A trip to Paris."
+        },
+        "explanation": "Năm mươi người có vé được chọn để thưởng thức bữa ăn do đầu bếp nổi tiếng chuẩn bị, tức một bữa ăn miễn phí."
+      },
+      {
+        "id": "22",
+        "prompt": "The word randomly in the advertisement is closest in meaning to",
+        "choiceTexts": {
+          "A": "quickly",
+          "B": "by chance",
+          "C": "beforehand",
+          "D": "with determination"
+        },
+        "explanation": "Randomly selected nghĩa là được chọn ngẫu nhiên, tương đương by chance."
+      },
+      {
+        "id": "23",
+        "prompt": "The word predicted in the advertisement is closest in meaning to",
+        "choiceTexts": {
+          "A": "heavy",
+          "B": "expected",
+          "C": "falling",
+          "D": "problematic"
+        },
+        "explanation": "Rain is predicted nghĩa là dự báo sẽ có mưa; expected gần nghĩa nhất trong các lựa chọn."
+      }
+    ]
+  }
+]

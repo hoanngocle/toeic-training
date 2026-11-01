@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-31.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-31.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 31"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "How often do restaurant reviews appear in the local newspaper?",
+      "choiceTexts": {
+        "A": "Every day.",
+        "B": "Every week.",
+        "C": "Every month.",
+        "D": "Every year."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "What is the speakers' opinion of restaurant reviews?",
+      "choiceTexts": {
+        "A": "They are appealing.",
+        "B": "They are usually helpful.",
+        "C": "They are very subjective.",
+        "D": "They are mean."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "Who recommends restaurants to the man?",
+      "choiceTexts": {
+        "A": "His friends.",
+        "B": "His mother.",
+        "C": "His brother.",
+        "D": "His coworkers."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Where is the listener now?",
+      "choiceTexts": {
+        "A": "At home.",
+        "B": "In the bar.",
+        "C": "At the restaurant.",
+        "D": "In the parking lot."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What does the speaker suggest?",
+      "choiceTexts": {
+        "A": "Driving to the restaurant.",
+        "B": "Arriving early for drinks.",
+        "C": "Making a reservation.",
+        "D": "Bringing a big appetite."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What time is the reservation for?",
+      "choiceTexts": {
+        "A": "7:30.",
+        "B": "8:00.",
+        "C": "8:30.",
+        "D": "11:00."
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-27.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-27.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 27"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What do the speakers say about the meeting?",
+      "choiceTexts": {
+        "A": "They had a good time.",
+        "B": "A lot was accomplished.",
+        "C": "Important matters were discussed.",
+        "D": "It was too long."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "How long did the meeting last?",
+      "choiceTexts": {
+        "A": "Two hours.",
+        "B": "Three hours.",
+        "C": "Four hours.",
+        "D": "Nine hours."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What will the speakers do the next time there is a meeting?",
+      "choiceTexts": {
+        "A": "Look at the agenda.",
+        "B": "Accomplish more things.",
+        "C": "Avoid attending it.",
+        "D": "Plan it better."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What is this talk about?",
+      "choiceTexts": {
+        "A": "How to have a better staff meeting.",
+        "B": "How to make speeches.",
+        "C": "How to write an agenda.",
+        "D": "How to develop guidelines."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What are the listeners asked to do?",
+      "choiceTexts": {
+        "A": "Make long speeches.",
+        "B": "Discuss personal matters.",
+        "C": "Bring something to the meeting.",
+        "D": "Follow the agenda."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What will happen at 4:30?",
+      "choiceTexts": {
+        "A": "The meeting will end.",
+        "B": "Goals will be discussed.",
+        "C": "Guidelines will be presented.",
+        "D": "A new item will be introduced."
+      }
+    }
+  ]
+}

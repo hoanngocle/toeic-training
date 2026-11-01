@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-46.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-46.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 46"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What does the doctor recommend that the man do?",
+      "choiceTexts": {
+        "A": "Research diagnostic methods.",
+        "B": "Visit patients.",
+        "C": "See a specialist.",
+        "D": "Check into the best hospital."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "When does the doctor say that the man should do this?",
+      "choiceTexts": {
+        "A": "This afternoon.",
+        "B": "Before 10:00.",
+        "C": "This month.",
+        "D": "In ten months."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What does the man ask the doctor to give him?",
+      "choiceTexts": {
+        "A": "An appointment.",
+        "B": "A new diagnosis.",
+        "C": "A special treatment.",
+        "D": "A copy of his record."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What kind of job is being advertised?",
+      "choiceTexts": {
+        "A": "Doctor.",
+        "B": "Office manager.",
+        "C": "Director.",
+        "D": "Office assistant."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "How can someone apply for this job?",
+      "choiceTexts": {
+        "A": "Send in a résumé.",
+        "B": "Make an appointment.",
+        "C": "Telephone the office.",
+        "D": "Submit records."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What is a benefit of the job?",
+      "choiceTexts": {
+        "A": "An annual doctor's appointment.",
+        "B": "Three weeks of vacation a year.",
+        "C": "A yearly salary raise.",
+        "D": "Health insurance."
+      }
+    }
+  ]
+}

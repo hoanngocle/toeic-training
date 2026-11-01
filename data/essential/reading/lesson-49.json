@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-49-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "Before my father was ____ to the hospital, he had to undergo a series of tests.",
+        "choiceTexts": {
+          "A": "admit",
+          "C": "admittance",
+          "B": "admitted",
+          "D": "admissions"
+        },
+        "explanation": "“Was admitted to the hospital” là được nhận vào bệnh viện; sau “was” cần phân từ quá khứ trong cấu trúc bị động."
+      },
+      {
+        "id": "11",
+        "prompt": "Will your insurance company ____ a visit to a specialist?",
+        "choiceTexts": {
+          "A": "authorize",
+          "C": "authority",
+          "B": "authorization",
+          "D": "authorizing"
+        },
+        "explanation": "Câu hỏi tương lai “Will + chủ ngữ + động từ nguyên mẫu” cần “authorize”, nghĩa là chấp thuận việc khám chuyên khoa."
+      },
+      {
+        "id": "12",
+        "prompt": "As a precaution, it's wise to ____ someone in your family to make health care decisions for you in case there is a time that you cannot.",
+        "choiceTexts": {
+          "A": "designation",
+          "C": "designator",
+          "B": "designate",
+          "D": "designated"
+        },
+        "explanation": "“It's wise to” theo sau bởi nguyên mẫu “designate”, nghĩa là chỉ định người quyết định thay mình."
+      },
+      {
+        "id": "13",
+        "prompt": "Your X-rays will have your name and social security number printed on them, so we can easily ____ them as yours.",
+        "choiceTexts": {
+          "A": "identifiably",
+          "B": "identification",
+          "C": "identifiable",
+          "D": "identify"
+        },
+        "explanation": "Sau “can” dùng nguyên mẫu “identify”; “easily” chỉ là trạng từ chen giữa, không thay đổi cấu trúc."
+      },
+      {
+        "id": "14",
+        "prompt": "Before we can begin the surgery, we will need your signed ____ authorizing us to perform the procedure.",
+        "choiceTexts": {
+          "A": "permit",
+          "B": "permissive",
+          "C": "permission",
+          "D": "permissible"
+        },
+        "explanation": "“Signed permission” là sự cho phép bằng văn bản có chữ ký, phù hợp với việc đồng ý cho phẫu thuật."
+      },
+      {
+        "id": "15",
+        "prompt": "Is it ____ for a doctor to order so many tests?",
+        "choiceTexts": {
+          "A": "usual",
+          "B": "usually",
+          "C": "unusually",
+          "D": "used"
+        },
+        "explanation": "“Is it usual for ... to” cần tính từ “usual”, nghĩa là thông thường. “Usually” là trạng từ."
+      }
+    ]
+  },
+  {
+    "id": "essential-49-reading-6",
+    "readingPassage": "City Hospital\nAdmissions Procedures\n\n• When you arrive, check in with the nurse on duty at the front desk.\n\n• All patients must have signed [16] ____ from a doctor before entering the hospital. Please give the signed form to the nurse.\n\n• The nurse will also need to see a form of identification and proof of insurance. We cannot [17] ____ anyone to the hospital without these. There will be no exceptions.\n\n• The nurse will complete the pertinent paperwork and assign you to a room.\n\n• Please wait in the designated area. A hospital staff member [18] ____ you to your room.\n\n• Family members are not permitted to accompany patients to their rooms. They must wait until the usual visiting hours to see their loved ones. A schedule of visiting hours is posted in the main lobby.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "author",
+          "B": "authorize",
+          "C": "authority",
+          "D": "authorization"
+        },
+        "explanation": "“Signed authorization from a doctor” là giấy cho phép có chữ ký bác sĩ. “Authorization” là danh từ chỉ sự chấp thuận."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "submit",
+          "B": "admit",
+          "C": "remit",
+          "D": "omit"
+        },
+        "explanation": "“Admit anyone to the hospital” nghĩa là tiếp nhận người vào viện, đúng với thủ tục kiểm tra giấy tờ."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "escorts",
+          "B": "will escort",
+          "C": "is escorting",
+          "D": "has escorted"
+        },
+        "explanation": "Lời hướng dẫn nói hãy chờ vì một nhân viên sẽ đưa bạn đến phòng, nên dùng tương lai “will escort”."
+      }
+    ]
+  },
+  {
+    "id": "essential-49-reading-7",
+    "readingPassage": "To: Annabelle Pope\nFrom: Henry Rice\nSubject: Surgery\n\nHi Annabelle,\n\nI was wondering if you could help me out with something. My doctor has recommended that I get knee replacement surgery. I am trying to identify the best hospital for this sort of procedure. My doctor says she usually recommends City Hospital, but I have heard that Upstate Hospital specializes in this kind of surgery. You had a similar procedure last year, didn't you? I think you broke your knee, or was it your elbow? Which hospital did you go to? Were you satisfied with the results of your treatment, and were you well cared for by the staff? I would appreciate the benefit of your advice. I need to make a decision soon since my doctor thinks this should be done before another month goes by. Thanks.\n\nHenry\n\nTo: Henry Rice\nFrom: Annabelle Pope\nSubject: Re: Surgery\n\nHi Henry,\n\nI am sorry you need surgery, but I am sure you will feel it is worth it. I had my procedure done at Upstate Hospital, and I would recommend that place to anyone. The procedure I had was similar to yours, except it was my hip, not my knee. My surgeon was excellent, and I received good care from all the staff. The mission of the hospital is to provide the highest level of care possible, and the entire staff works hard to fulfill that mission. I was originally told that I would need to be in the hospital for a week, but when it became clear that I wouldn't be recovered enough by that time, the doctor didn't hesitate to keep me there for an extra three days. They wouldn't permit me to go home until they were sure I was ready. I really think Upstate is the best hospital for your surgery. Let me know when it is scheduled, and I will visit you there.\n\nAnnabelle",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What does Henry ask Annabelle to do?",
+        "choiceTexts": {
+          "A": "Recommend a hospital.",
+          "B": "Perform surgery.",
+          "C": "Visit him in the hospital.",
+          "D": "Talk to his doctor."
+        },
+        "explanation": "Henry đang chọn bệnh viện và hỏi trải nghiệm của Annabelle để quyết định, nên muốn cô giới thiệu bệnh viện."
+      },
+      {
+        "id": "20",
+        "prompt": "Why was Annabelle in the hospital last year?",
+        "choiceTexts": {
+          "A": "For a broken knee.",
+          "B": "For a broken elbow.",
+          "C": "For a hip replacement.",
+          "D": "For a knee replacement."
+        },
+        "explanation": "Annabelle nói thủ thuật tương tự Henry nhưng ở hông, không phải đầu gối; đó là thay khớp hông."
+      },
+      {
+        "id": "21",
+        "prompt": "How long was Annabelle in the hospital?",
+        "choiceTexts": {
+          "A": "Three days.",
+          "B": "A week.",
+          "C": "Ten days.",
+          "D": "A month."
+        },
+        "explanation": "Ban đầu cô dự kiến ở một tuần, rồi ở thêm ba ngày: tổng cộng mười ngày."
+      },
+      {
+        "id": "22",
+        "prompt": "The word results in the first e-mail, line 10 is closest in meaning to",
+        "choiceTexts": {
+          "A": "outcome",
+          "B": "process",
+          "C": "nature",
+          "D": "price"
+        },
+        "explanation": "“Results of your treatment” là kết quả điều trị, tương đương “outcome”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word mission in the second e-mail, line 7 is closest in meaning to",
+        "choiceTexts": {
+          "A": "rule",
+          "B": "goal",
+          "C": "demand",
+          "D": "requirement"
+        },
+        "explanation": "“Mission” là mục tiêu mà bệnh viện và nhân viên hướng tới: chăm sóc ở mức cao nhất; gần nghĩa “goal”."
+      }
+    ]
+  }
+]

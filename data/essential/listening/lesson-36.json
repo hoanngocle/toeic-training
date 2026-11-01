@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-36.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-36.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 36"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "Who is the man speaking with?",
+      "choiceTexts": {
+        "A": "A pilot.",
+        "B": "A waitress.",
+        "C": "A travel agent.",
+        "D": "A flight attendant."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "What does the woman offer the man?",
+      "choiceTexts": {
+        "A": "Something to eat.",
+        "B": "Something to read.",
+        "C": "Something to drink.",
+        "D": "Something to listen to."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "When will they arrive?",
+      "choiceTexts": {
+        "A": "In one hour.",
+        "B": "In two hours.",
+        "C": "In three hours.",
+        "D": "In four hours."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What do passengers have to show the flight attendant?",
+      "choiceTexts": {
+        "A": "An embarkation card.",
+        "B": "A passport.",
+        "C": "A trip itinerary.",
+        "D": "A boarding pass."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "When will the flight leave?",
+      "choiceTexts": {
+        "A": "At 1:15.",
+        "B": "In twenty minutes.",
+        "C": "At nine o'clock.",
+        "D": "In five minutes."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What is not allowed before takeoff?",
+      "choiceTexts": {
+        "A": "Talking on the phone.",
+        "B": "Selling things.",
+        "C": "Drinking.",
+        "D": "Dining."
+      }
+    }
+  ]
+}

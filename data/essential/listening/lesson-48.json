@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-48.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-48.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 48"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What will happen if the man sees a specialist without a referral?",
+      "choiceTexts": {
+        "A": "He will be dropped from his health plan.",
+        "B": "He will see only a portion of the bill.",
+        "C": "He won't be provided with good care.",
+        "D": "He will pay a higher percentage of the cost."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "When can the man get an appointment with his primary care provider?",
+      "choiceTexts": {
+        "A": "In three days.",
+        "B": "In ten days.",
+        "C": "In two weeks.",
+        "D": "In three weeks."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What does the woman recommend to the man?",
+      "choiceTexts": {
+        "A": "See a specialist soon.",
+        "B": "See his primary care provider first.",
+        "C": "Get a treatment for his headache.",
+        "D": "Get a special procedure."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Why has a new health plan been chosen?",
+      "choiceTexts": {
+        "A": "To help people save money.",
+        "B": "Because the old plan is no longer available.",
+        "C": "To get more benefits.",
+        "D": "Because people are interested in alternative medicine."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "Who will the new plan be available to?",
+      "choiceTexts": {
+        "A": "Only people who earn a low salary.",
+        "B": "Anyone who is interested.",
+        "C": "Only people who have special health concerns.",
+        "D": "Just those who have worked at the company for a long time."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "When will the new health plan be in effect?",
+      "choiceTexts": {
+        "A": "Today.",
+        "B": "In two weeks.",
+        "C": "In several months.",
+        "D": "Next year."
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-36-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "The desk clerk ____ the change in gate numbers at least an hour ago.",
+        "choiceTexts": {
+          "A": "announcement",
+          "C": "announcer",
+          "B": "announcing",
+          "D": "announced"
+        },
+        "explanation": "“At least an hour ago” xác định thời điểm quá khứ nên dùng động từ quá khứ “announced”."
+      },
+      {
+        "id": "11",
+        "prompt": "When it's time to ____ the flight, an announcement will be made.",
+        "choiceTexts": {
+          "A": "boarded",
+          "C": "board",
+          "B": "boarding",
+          "D": "boarder"
+        },
+        "explanation": "“It is time to” đi với động từ nguyên mẫu “board”, nghĩa là lên máy bay."
+      },
+      {
+        "id": "12",
+        "prompt": "As soon as John ____ his luggage, he went outside to look for a taxi.",
+        "choiceTexts": {
+          "A": "claim",
+          "C": "claimant",
+          "B": "claimed",
+          "D": "claims"
+        },
+        "explanation": "Mệnh đề chính dùng “went”; việc nhận hành lý cũng đã xảy ra nên dùng “claimed”."
+      },
+      {
+        "id": "13",
+        "prompt": "The man had to ____ his travel plans because an emergency came up at work.",
+        "choiceTexts": {
+          "A": "delay",
+          "C": "delayed",
+          "B": "delaying",
+          "D": "delays"
+        },
+        "explanation": "Sau “had to” dùng động từ nguyên mẫu “delay”, nghĩa là hoãn kế hoạch vì công việc khẩn cấp."
+      },
+      {
+        "id": "14",
+        "prompt": "The train's ____ was delayed because of a problem on the track.",
+        "choiceTexts": {
+          "A": "departed",
+          "C": "departs",
+          "B": "departure",
+          "D": "depart"
+        },
+        "explanation": "Sau sở hữu cách “train's” cần danh từ làm chủ ngữ. “Departure” là sự khởi hành bị trì hoãn."
+      },
+      {
+        "id": "15",
+        "prompt": "The airport applied a blanket rule that all passengers must be in possession of ____ tickets in order to enter the waiting area.",
+        "choiceTexts": {
+          "A": "valid",
+          "C": "validate",
+          "B": "validity",
+          "D": "validation"
+        },
+        "explanation": "Trước danh từ “tickets” cần tính từ “valid”, nghĩa là vé hợp lệ để vào khu vực chờ."
+      }
+    ]
+  },
+  {
+    "id": "essential-36-reading-6",
+    "readingPassage": "Information for Travelers\n\n• We make every effort to leave on time. To avoid [16] ____, please plan to arrive at least one hour before your scheduled departure time. This is especially important because all passengers must pass through security control.\n\n• Scissors, nail clippers, and other sharp instruments [17] ____ on board. Leave these items at home or surrender them to the security officer in charge.\n\n• Each passenger is allowed two small carry-on bags. Check your excess luggage with the attendant. You can claim it at the end of your trip.\n\n• We request that passengers remain in the waiting area until the attendant [18] ____ the embarkation time. Please don't attempt to board ahead of time.\n\n• Your comfort is our priority. Snack service is available on board. Please ask the attendant for pillows and blankets if you require them.\n\nThank you for traveling with us. Have a safe and happy trip.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "delays",
+          "B": "delights",
+          "C": "deliveries",
+          "D": "delusions"
+        },
+        "explanation": "Đến sớm và qua kiểm tra an ninh giúp tránh chậm trễ, nên chọn “delays”. Các từ khác không phù hợp mục đích này."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "prohibit",
+          "B": "prohibits",
+          "C": "are prohibited",
+          "D": "are prohibiting"
+        },
+        "explanation": "Dụng cụ sắc nhọn là vật bị cấm, nên cần thể bị động số nhiều “are prohibited”."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "announce",
+          "B": "announces",
+          "C": "will announce",
+          "D": "does announce"
+        },
+        "explanation": "Trong mệnh đề thời gian sau “until”, dùng hiện tại đơn diễn đạt tương lai. Chủ ngữ “the attendant” số ít nên chọn “announces”."
+      }
+    ]
+  },
+  {
+    "id": "essential-36-reading-7",
+    "readingPassage": "Breezeway Travel Agency\nItinerary for: Edward Rochester\n\nApril 15\nDepart New York City — 10:30 P.M.\n*Solar Airlines flight 133\nArrive Seattle, WA — 12:15 P.M.\nHotel: Puget Inn\n1764 Capital Street\nSeattle, WA\n\nApril 18\nDepart Seattle — 8:05 A.M.\n**Train # 10\n***Arrive Vancouver, Canada 11:20 A.M.\nHotel: Gas Town Hotel\n375 Alaska Avenue\nVancouver, Canada\n\nApril 20\nDepart Vancouver — 11:30 P.M.\n*Solar Airlines flight 136\n\nApril 21\nArrive New York City — 5:10 A.M.\n\n* Please arrive at airport at least one hour ahead of scheduled departure time.\nPlane will begin boarding 20 minutes ahead of scheduled departure time.\nIt is prohibited to bring firearms, explosive devices, or sharp instruments on board any Solar Airlines flight.\nThere is no meal service on board any Solar Airlines flight. Beverages will be available for sale.\n\n** Please arrive at train station 30 minutes before scheduled departure time.\n\n*** A valid passport is required for entry into Canada.",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "How many nights will Mr. Rochester stay at the Puget Inn?",
+        "choiceTexts": {
+          "A": "One.",
+          "B": "Two.",
+          "C": "Three.",
+          "D": "Four."
+        },
+        "explanation": "Ông đến Seattle ngày 15 và rời đi sáng ngày 18, tức ở ba đêm 15, 16 và 17."
+      },
+      {
+        "id": "20",
+        "prompt": "What time can he get on the return flight to New York City?",
+        "choiceTexts": {
+          "A": "10:30.",
+          "B": "11:10.",
+          "C": "11:30.",
+          "D": "5:10."
+        },
+        "explanation": "Chuyến về khởi hành lúc 11:30 tối; máy bay bắt đầu đón khách trước 20 phút, tức 11:10."
+      },
+      {
+        "id": "21",
+        "prompt": "What can he buy during the flight?",
+        "choiceTexts": {
+          "A": "A meal.",
+          "B": "A drink.",
+          "C": "A passport.",
+          "D": "A train ticket."
+        },
+        "explanation": "Lịch trình ghi không phục vụ bữa ăn nhưng có bán đồ uống (“Beverages will be available for sale”)."
+      },
+      {
+        "id": "22",
+        "prompt": "The word itinerary in line 2 is closest in meaning to",
+        "choiceTexts": {
+          "A": "bill",
+          "B": "ticket",
+          "C": "advice",
+          "D": "schedule"
+        },
+        "explanation": "“Itinerary” là lịch trình gồm ngày, giờ và các chặng đi, gần nghĩa “schedule”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word prohibited in line 20 is closest in meaning to",
+        "choiceTexts": {
+          "A": "not encouraged",
+          "B": "uncommon",
+          "C": "permitted",
+          "D": "not allowed"
+        },
+        "explanation": "“Prohibited” diễn tả điều bị cấm mang lên máy bay, tương đương “not allowed”."
+      }
+    ]
+  }
+]

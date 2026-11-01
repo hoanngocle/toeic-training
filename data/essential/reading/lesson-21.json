@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-21-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "I'm going to call the bank manager ahead of time to make certain that she will ____ a personal check to start a new account.",
+        "choiceTexts": {
+          "A": "accept",
+          "B": "accepted",
+          "C": "acceptance",
+          "D": "acceptable"
+        },
+        "explanation": "Sau will dùng động từ nguyên mẫu accept: ngân hàng sẽ chấp nhận séc cá nhân để mở tài khoản."
+      },
+      {
+        "id": "11",
+        "prompt": "We felt ____ about applying for such a large loan.",
+        "choiceTexts": {
+          "A": "cautiously",
+          "B": "caution",
+          "C": "cautioning",
+          "D": "cautious"
+        },
+        "explanation": "Felt là động từ liên kết cần tính từ cautious, diễn tả tâm trạng thận trọng khi xin khoản vay lớn."
+      },
+      {
+        "id": "12",
+        "prompt": "Every month my automatic car loan payment shows up as a ____ on my monthly statement.",
+        "choiceTexts": {
+          "A": "deduct",
+          "B": "deduction",
+          "C": "deducting",
+          "D": "deducted"
+        },
+        "explanation": "Sau a cần danh từ deduction, tức khoản tiền khấu trừ xuất hiện trên sao kê."
+      },
+      {
+        "id": "13",
+        "prompt": "The number of withdrawals at no charge from your savings account is ____ to three.",
+        "choiceTexts": {
+          "A": "restricting",
+          "B": "restricted",
+          "C": "restrict",
+          "D": "restriction"
+        },
+        "explanation": "Is restricted to là cấu trúc bị động chỉ giới hạn: số lần rút tiền miễn phí bị giới hạn ở ba lần."
+      },
+      {
+        "id": "14",
+        "prompt": "There is a counter in the bank lobby where customers can ____ their documents.",
+        "choiceTexts": {
+          "A": "signing",
+          "B": "signed",
+          "C": "sign",
+          "D": "signature"
+        },
+        "explanation": "Sau can dùng động từ nguyên mẫu sign: khách hàng có thể ký giấy tờ tại quầy."
+      },
+      {
+        "id": "15",
+        "prompt": "These ____ must be completed before the close of business today.",
+        "choiceTexts": {
+          "A": "transacts",
+          "B": "transacting",
+          "C": "transacted",
+          "D": "transactions"
+        },
+        "explanation": "These đi với danh từ số nhiều transactions, làm chủ ngữ cho must be completed: các giao dịch phải hoàn tất."
+      }
+    ]
+  },
+  {
+    "id": "essential-21-reading-6",
+    "readingPassage": "Dear Customer,\nOur records show that you qualify for our new automatic mortgage payment plan. Under this plan, your monthly mortgage payments [16] ____ from your savings account automatically. Now you no longer have to worry about making your payments on time! We do it all for you. You must maintain a sufficient [17] ____ in your account to cover the monthly payments. If you are interested in participating in this plan, simply complete the enclosed form. Certain [18] ____ apply to this plan, so read the explanation on the back of the form carefully. You may return the form in the enclosed envelope. Don't forget to sign it at the bottom. Your automatic deductions could begin as early as next month.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "deduct",
+          "B": "deducted",
+          "C": "are deducted",
+          "D": "are deducting"
+        },
+        "explanation": "Payments là khoản tiền bị khấu trừ nên cần hiện tại đơn bị động are deducted, không phải chủ động deduct."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "dividend",
+          "B": "balance",
+          "C": "transaction",
+          "D": "down payment"
+        },
+        "explanation": "Balance là số dư tài khoản; phải duy trì số dư đủ để thanh toán khoản vay hằng tháng."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "restrictions",
+          "B": "restrictive",
+          "C": "restricted",
+          "D": "restricts"
+        },
+        "explanation": "Sau certain cần danh từ số nhiều restrictions làm chủ ngữ cho apply, chỉ các giới hạn của chương trình."
+      }
+    ]
+  },
+  {
+    "id": "essential-21-reading-7",
+    "readingPassage": "July 16, 20Customer Service Office\nNational Bank of Augusta\n1398 State Street\nAugusta, MD\nDear Customer Service Office,\nI am a new customer at your bank. I opened an\naccount with you last month, and I have recently\nreceived my first monthly statement. I find that there\nis a service charge on three of the checks that I wrote.\nI understood that this account had free checking, so I\nwas surprised to see this charge. Perhaps it is a mistake. I am enclosing a copy of the statement. Please\nclarify this matter for me. Thank you.\nSincerely,\nMarvin Gardner\nAugust 3, 20Marvin Gardner\n145 Merrywood Lane\nAugusta, MD\nDear Mr. Gardner,\nWe recently received your letter asking about charges to\nyour account. While it is true that your account has free\nchecking, some restrictions apply. You may write five checks\na month free of charge. After that, you must maintain a minimum average balance of $600 in your account in order to\ncontinue with free checking. Since your average account\nbalance last month was only $435, you were entitled to only\nfive free checks. A service charge was applied to the checks\nyou wrote beyond that minimum. I hope this explanation is\nsatisfactory to you.\nLet me take this opportunity to make sure that you are\naware of other services you can get with your account. You\ncan arrange to have your monthly utility bills deducted from\nyour account. You are also eligible to borrow small amounts\nof money from the bank at a low interest rate. If you are\ninterested in these or any other services, please visit us at\nthe bank, and an officer will be happy to explain all the\ndetails to you. Thank you for being a National Bank of\nAugusta customer.\nSincerely,\nEloise Lockwood\nCustomer Service Officer",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Why did Mr. Gardner write this letter?",
+        "choiceTexts": {
+          "A": "To pay his monthly utility bills.",
+          "B": "To find out about borrowing money.",
+          "C": "To ask a question about his monthly statement.",
+          "D": "To order some free checks."
+        },
+        "explanation": "Gardner thắc mắc phí dịch vụ trên sao kê tháng đầu, vì ông nghĩ tài khoản được miễn phí séc."
+      },
+      {
+        "id": "20",
+        "prompt": "When did he open an account at the National Bank of Augusta?",
+        "choiceTexts": {
+          "A": "May.",
+          "B": "June.",
+          "C": "July.",
+          "D": "August."
+        },
+        "explanation": "Thư đề ngày 16/7 và nói opened an account ... last month, nên tài khoản được mở tháng Sáu."
+      },
+      {
+        "id": "21",
+        "prompt": "How many checks did he write last month?",
+        "choiceTexts": {
+          "A": "Three.",
+          "B": "Five.",
+          "C": "Six.",
+          "D": "Eight."
+        },
+        "explanation": "Ông được miễn phí năm séc và bị thu phí ba séc nữa, tổng cộng đã viết tám séc."
+      },
+      {
+        "id": "22",
+        "prompt": "The word restrictions is closest in meaning to",
+        "choiceTexts": {
+          "A": "limitations",
+          "B": "fees",
+          "C": "customers",
+          "D": "numbers"
+        },
+        "explanation": "Restrictions là những điều kiện giới hạn miễn phí séc, gần nghĩa với limitations."
+      },
+      {
+        "id": "23",
+        "prompt": "The word deducted is closest in meaning to",
+        "choiceTexts": {
+          "A": "borrowed",
+          "B": "attached",
+          "C": "subtracted",
+          "D": "added"
+        },
+        "explanation": "Deducted from your account nghĩa là trừ tiền khỏi tài khoản, tương đương subtracted."
+      }
+    ]
+  }
+]

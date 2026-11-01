@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-28.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-28.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 28"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What does the company do with garments that have defects?",
+      "choiceTexts": {
+        "A": "It exchanges them for better products.",
+        "B": "It throws them out.",
+        "C": "It stores them at the factory.",
+        "D": "It sells them at a discount."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "How many of the garments end up with defects?",
+      "choiceTexts": {
+        "A": "15 percent.",
+        "B": "16 percent.",
+        "C": "50 percent.",
+        "D": "60 percent."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What type of garment does the company manufacture?",
+      "choiceTexts": {
+        "A": "Shirts.",
+        "B": "Skirts.",
+        "C": "Sweaters.",
+        "D": "Uniforms."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who is this talk directed at?",
+      "choiceTexts": {
+        "A": "Store employees.",
+        "B": "Factory workers.",
+        "C": "Product inspectors.",
+        "D": "Customers."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "When is a product inspected?",
+      "choiceTexts": {
+        "A": "When it reaches the store.",
+        "B": "Before it leaves the factory.",
+        "C": "Before the customer takes it home.",
+        "D": "When the customer returns it."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What can a customer do with a defective product?",
+      "choiceTexts": {
+        "A": "Ask for a new product in exchange.",
+        "B": "Send it back to the factory.",
+        "C": "Show it to an inspector.",
+        "D": "Return it to the store."
+      }
+    }
+  ]
+}

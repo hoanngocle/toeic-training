@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-42.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-42.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 42"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "When did the review appear in the newspaper?",
+      "choiceTexts": {
+        "A": "Today.",
+        "B": "Yesterday.",
+        "C": "Four weeks ago.",
+        "D": "Five weeks ago."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "What does the woman say about the play?",
+      "choiceTexts": {
+        "A": "She has heard that it is funny.",
+        "B": "Tickets are still on sale.",
+        "C": "It got a bad review.",
+        "D": "The dialogue is hard to understand."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What did the woman do last Friday?",
+      "choiceTexts": {
+        "A": "She wrote a review.",
+        "B": "She won a prize.",
+        "C": "She saw a performance.",
+        "D": "She bought tickets."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "When can a performance of Romeo and Juliet be seen?",
+      "choiceTexts": {
+        "A": "Today.",
+        "B": "On Thursday afternoon.",
+        "C": "On Sunday morning.",
+        "D": "On Thursday evening."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "How can you get tickets to the play?",
+      "choiceTexts": {
+        "A": "Call the Shakespeare Organization.",
+        "B": "Call 656-9025.",
+        "C": "Write to the theater.",
+        "D": "Order them by e-mail."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "Where can reviews of the play be read?",
+      "choiceTexts": {
+        "A": "In a newspaper.",
+        "B": "On a web site.",
+        "C": "In a magazine.",
+        "D": "At the theater."
+      }
+    }
+  ]
+}

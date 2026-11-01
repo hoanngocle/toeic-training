@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-16-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "It's hard to tell if these shoes will be ____ because the leather is so stiff.",
+        "choiceTexts": {
+          "A": "comfort",
+          "B": "comfortably",
+          "C": "comfortable",
+          "D": "comforting"
+        },
+        "explanation": "Sau “will be” cần tính từ “comfortable”, diễn tả đôi giày có thoải mái hay không."
+      },
+      {
+        "id": "11",
+        "prompt": "Due to the store's success, the owners began to plan an ____ into a larger location.",
+        "choiceTexts": {
+          "A": "expansion",
+          "B": "expand",
+          "C": "expanse",
+          "D": "expanded"
+        },
+        "explanation": "Sau “an” cần danh từ “expansion”, chỉ việc mở rộng sang địa điểm lớn hơn."
+      },
+      {
+        "id": "12",
+        "prompt": "I'd like to ____ this issue with you, but I don't have time today.",
+        "choiceTexts": {
+          "A": "exploratory",
+          "B": "exploration",
+          "C": "explorer",
+          "D": "explore"
+        },
+        "explanation": "“Would like to” theo sau bởi nguyên mẫu “explore”, nghĩa là tìm hiểu/thảo luận vấn đề."
+      },
+      {
+        "id": "13",
+        "prompt": "Our company policy used to ____ that male employees keep their hair short, but that policy was considered sexist.",
+        "choiceTexts": {
+          "A": "mandate",
+          "B": "mandates",
+          "C": "mandated",
+          "D": "mandatory"
+        },
+        "explanation": "Cấu trúc “used to + nguyên mẫu” yêu cầu “mandate”, tức trước đây từng bắt buộc."
+      },
+      {
+        "id": "14",
+        "prompt": "When you select ____ for the display windows, be sure to include seasonal gifts and clothing.",
+        "choiceTexts": {
+          "A": "merchant",
+          "B": "merchants",
+          "C": "merchandise",
+          "D": "merchandising"
+        },
+        "explanation": "Tân ngữ của “select” là hàng hóa để trưng bày: “merchandise”; “merchant” chỉ người buôn bán."
+      },
+      {
+        "id": "15",
+        "prompt": "We ____ adhere to the store's policy of only specially ordering products that have been paid for in advance.",
+        "choiceTexts": {
+          "A": "strictness",
+          "B": "strict",
+          "C": "strictly",
+          "D": "strictest"
+        },
+        "explanation": "Cần trạng từ bổ nghĩa “adhere”; “strictly adhere to” là tuân thủ nghiêm ngặt."
+      }
+    ]
+  },
+  {
+    "id": "essential-16-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "explore",
+          "B": "explores",
+          "C": "to explore",
+          "D": "exploring"
+        },
+        "explanation": "“Wanted” đi với “to + nguyên mẫu”, nên “to explore” đúng cấu trúc."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "comfort",
+          "B": "comforter",
+          "C": "comfortable",
+          "D": "comfortably"
+        },
+        "explanation": "Trước “bed” cần tính từ; “more comfortable” là thoải mái hơn."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "will expand",
+          "B": "can expand",
+          "C": "expansion",
+          "D": "expanding"
+        },
+        "explanation": "Sau giới từ “of” dùng V-ing “expanding”, nghĩa là mơ mở rộng bộ sưu tập."
+      }
+    ],
+    "readingPassage": "Attention Bargain Hunters!\n\nGreene's Department Store is having its biggest sale ever. Every single item in the store is on sale at unbelievable\nprices. That's right-all merchandise, including clothes, shoes, toys, sports equipment, home furnishing, music, and\nmusic equipment, is 25 to 75 percent off the usual price.\n* Have you always wanted [16] ____ the underwater world? We have diving equipment on sale at 50 percent off.\n* Would you like to sleep in a more [17] ____ bed? The prices of beds, mattresses, and bedroom furniture have been\nreduced by 35 percent.\n* Do you dream of [18] ____ your CD collection? Now you can, at a more than affordable price. All CDs, including\nclassical, jazz, rock, and pop, are on sale at three for the price of one.\nVisit Greene's for the bargains of a lifetime. Sale ends Sunday."
+  },
+  {
+    "id": "essential-16-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "According to the article, which shoppers buy more?",
+        "choiceTexts": {
+          "A": "Those who have more money.",
+          "B": "Those who can reach high shelves.",
+          "C": "Those who feel comfortable in the store.",
+          "D": "Those who shop in the summer."
+        },
+        "explanation": "Bài nói người mua thấy vui vẻ, thư giãn sẽ mua nhiều hơn, tức cảm thấy thoải mái trong cửa hàng."
+      },
+      {
+        "id": "20",
+        "prompt": "What does the article say about self-service checkout aisles?",
+        "choiceTexts": {
+          "A": "They are popular everywhere.",
+          "B": "They aren't always easy to use.",
+          "C": "They are personal.",
+          "D": "They are mandatory."
+        },
+        "explanation": "Quầy tự thanh toán “often confusing to use”, nên không phải lúc nào cũng dễ sử dụng."
+      },
+      {
+        "id": "21",
+        "prompt": "According to the article, what is the most important thing for a store owner?",
+        "choiceTexts": {
+          "A": "More sales.",
+          "B": "Lighting and music.",
+          "C": "Pleasant cashiers.",
+          "D": "Wide aisles."
+        },
+        "explanation": "Câu cuối xác định mục tiêu cuối cùng của chủ cửa hàng là “increased sales”, tức tăng doanh số."
+      },
+      {
+        "id": "22",
+        "prompt": "The word behavior in line 2 is closest in meaning to",
+        "choiceTexts": {
+          "A": "questions",
+          "B": "desires",
+          "C": "interests",
+          "D": "actions"
+        },
+        "explanation": "“Consumer behavior” chỉ hành vi/hành động của người tiêu dùng, gần nghĩa “actions”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word bear in line 9 is closest in meaning to",
+        "choiceTexts": {
+          "A": "tolerate",
+          "B": "understand",
+          "C": "refuse",
+          "D": "decrease"
+        },
+        "explanation": "“Cannot bear long waits” nghĩa là không chịu đựng được chờ lâu; “tolerate” tương đương."
+      }
+    ],
+    "readingPassage": "Designing retail space takes careful planning. Attention should be paid to what research tells us about consumer\nbehavior. Stores must be designed with the comfort of shoppers in mind. The aisles should be wide enough to allow\nshoppers to move through them comfortably. Items should be placed where they can be easily seen by shoppers.\nNothing should be put on high shelves where it cannot be reached. Pleasant lighting and music also contribute to the\ncomfort and good feeling of shoppers. Shoppers who feel happy and relaxed will make more purchases.\nWhen organizing the merchandise in a store, the trends of each season should be kept in mind. Picnic and beach equipment should be prominently displayed in the summer, for example, while warm clothing should be featured in the winter. Then, shoppers will return to the store because they will see it as a place that provides what they need.\nThere should be plenty of checkout aisles so that long lines are avoided. Many people cannot bear long waits, and long\ncheckout lines scare shoppers away from stores. Many stores are now using self-service checkout aisles, although they\nhave not yet been completely accepted by shoppers. They are often confusing to use, and many shoppers find them\nimpersonal. The old-fashioned human cashier is still popular in most retail outlets. Therefore, it is still considered\nmandatory for stores to have at least some full-service checkout lines manned by cashiers.\nWhen a store is properly designed, shoppers have a pleasant experience and will want to return. This helps the bottom\nline of the store owner which is, of course, increased sales."
+  }
+]

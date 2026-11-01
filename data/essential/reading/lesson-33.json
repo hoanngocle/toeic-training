@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-33-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "George no longer wants to be in charge of lunch orders because he finds that job too ____.",
+        "choiceTexts": {
+          "A": "burdens",
+          "B": "burdened",
+          "C": "burden",
+          "D": "burdensome"
+        },
+        "explanation": "Find + tân ngữ + tính từ: finds that job too burdensome nghĩa là thấy việc đặt cơm quá phiền nặng."
+      },
+      {
+        "id": "11",
+        "prompt": "We ____ meet the delivery person in the lobby to pick up our orders.",
+        "choiceTexts": {
+          "A": "common",
+          "B": "in common",
+          "C": "commonly",
+          "D": "commonness"
+        },
+        "explanation": "Commonly là trạng từ bổ nghĩa cho meet, diễn tả họ thường gặp người giao hàng ở sảnh."
+      },
+      {
+        "id": "12",
+        "prompt": "The ____ from that restaurant always arrive late.",
+        "choiceTexts": {
+          "A": "delivers",
+          "B": "deliveries",
+          "C": "delivered",
+          "D": "delivering"
+        },
+        "explanation": "Deliveries là danh từ số nhiều làm chủ ngữ cho arrive, chỉ những lần giao hàng từ nhà hàng."
+      },
+      {
+        "id": "13",
+        "prompt": "Despite being served in disposable containers, the meal had an ____ touch.",
+        "choiceTexts": {
+          "A": "elegant",
+          "B": "elegance",
+          "C": "elegantly",
+          "D": "elegancy"
+        },
+        "explanation": "Elegant là tính từ bổ nghĩa touch, nghĩa là bữa ăn vẫn có nét tinh tế dù dùng hộp một lần."
+      },
+      {
+        "id": "14",
+        "prompt": "Our office manager was so ____ by the speed of the delivery, she decided to order from them again.",
+        "choiceTexts": {
+          "A": "impressive",
+          "B": "impressed",
+          "C": "impression",
+          "D": "impressionable"
+        },
+        "explanation": "Was impressed by diễn tả cảm giác được gây ấn tượng bởi tốc độ giao hàng; impressive mô tả thứ gây ấn tượng."
+      },
+      {
+        "id": "15",
+        "prompt": "Let's order ____ so we can all get what we want for lunch.",
+        "choiceTexts": {
+          "A": "individualize",
+          "B": "individualist",
+          "C": "individually",
+          "D": "individual"
+        },
+        "explanation": "Individually là trạng từ bổ nghĩa order: mỗi người đặt riêng để có món mình muốn."
+      }
+    ]
+  },
+  {
+    "id": "essential-33-reading-6",
+    "readingPassage": "Memo\nTo: All department staff\nFrom: J. Holtzman, Manager\nRe: Ordering Lunch\nIt has long been the practice in this department to order lunch to be served during department meetings. While this is\na custom we all enjoy, it has become a [16] ____ on our budget. Therefore, I have developed the following guidelines\nfor ordering meeting lunches.\n- We cannot afford to constantly order elegant lunches. Please limit your orders to common, everyday lunch choices\nsuch as sandwiches and salads.\n- There are many restaurants in the area that offer take-out lunches. I will [17] ____ the choices down to three or four\nplaces that have reasonable prices, then let you know which they are. Please order only from the restaurants on\nthe approved list.\n- We will no longer pay for delivery. All lunch orders must be [18] ____ up in person.\nThank you in advance for your cooperation.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "burden",
+          "B": "burglar",
+          "C": "burnish",
+          "D": "burnoose"
+        },
+        "explanation": "A burden on our budget là gánh nặng lên ngân sách, phù hợp lý do phải đặt ra giới hạn chi tiêu."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "select",
+          "B": "allow",
+          "C": "enlarge",
+          "D": "narrow"
+        },
+        "explanation": "Narrow the choices down to three or four nghĩa là thu hẹp lựa chọn còn ba hoặc bốn nhà hàng."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "stood",
+          "B": "taken",
+          "C": "looked",
+          "D": "picked"
+        },
+        "explanation": "Must be picked up là bị động của pick up: các phần ăn phải được đến lấy trực tiếp, không trả phí giao."
+      }
+    ]
+  },
+  {
+    "id": "essential-33-reading-7",
+    "readingPassage": "Now Open\nThe Broad Street Eatery\n1001 Broad Street\nphone: 298-0943\nServing breakfast and lunch\nMonday–Saturday 6:30 A.M. – 2:30 P.M.\nDon't settle for the common lunch choices you can find anywhere.\nAt the Broad Street Eatery, we offer a tempting range of soups, sandwiches, and salads for the discerning eater.\nWe specialize in take-out orders. Call ahead for pick up.\nWe also offer free delivery on all orders over $30.\n(There is a 10 percent delivery charge on smaller orders.)\n\nTo: Molly Anderson\nFrom: Jerry Pinsky\nSubject: New restaurant\nHi Molly,\nHave you heard about the Broad Street Eatery? It's that new place that opened up last month just around the corner. I think we should order the lunch for this Friday's meeting from there. Some of the menu choices look quite elegant and I'm sure will impress our clients. Best of all, the prices are quite reasonable. I'll send you a list later of what I want you to order. Since the order will be large, I think you should call it in the day before the meeting. I'm sure we'll qualify for the free delivery, so you won't have to worry about picking it up. That will lighten your burden a bit. Thanks for your help with this.\nJerry",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "When should Molly place the lunch order?",
+        "choiceTexts": {
+          "A": "Monday.",
+          "B": "Thursday.",
+          "C": "Friday.",
+          "D": "Saturday."
+        },
+        "explanation": "Cuộc họp vào thứ Sáu, Jerry yêu cầu gọi đặt the day before the meeting, tức thứ Năm."
+      },
+      {
+        "id": "20",
+        "prompt": "If the order costs $45, how much will the delivery charge be?",
+        "choiceTexts": {
+          "A": "$0.",
+          "B": "$3.",
+          "C": "$4.50.",
+          "D": "$30."
+        },
+        "explanation": "Nhà hàng miễn phí giao cho đơn trên $30; đơn $45 đủ điều kiện nên phí là $0."
+      },
+      {
+        "id": "21",
+        "prompt": "What is Jerry's opinion of the restaurant?",
+        "choiceTexts": {
+          "A": "It's too far away.",
+          "B": "The prices are very high.",
+          "C": "It should be open later.",
+          "D": "The food looks good."
+        },
+        "explanation": "Jerry cho rằng các món trông elegant và sẽ gây ấn tượng với khách hàng; giá cũng được mô tả là hợp lý."
+      },
+      {
+        "id": "22",
+        "prompt": "The word common in the advertisement is closest in meaning to",
+        "choiceTexts": {
+          "A": "usual",
+          "B": "boring",
+          "C": "tasty",
+          "D": "different"
+        },
+        "explanation": "Common lunch choices là các món trưa thông thường có thể tìm ở mọi nơi, tương đương usual."
+      },
+      {
+        "id": "23",
+        "prompt": "The word elegant in the e-mail is closest in meaning to",
+        "choiceTexts": {
+          "A": "ordinary",
+          "B": "expensive",
+          "C": "pleasing",
+          "D": "large"
+        },
+        "explanation": "Elegant chỉ vẻ tinh tế, đẹp mắt của món ăn; pleasing gần nghĩa nhất, không đồng nghĩa với đắt tiền."
+      }
+    ]
+  }
+]

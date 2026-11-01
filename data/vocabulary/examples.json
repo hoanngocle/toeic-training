@@ -1,0 +1,4330 @@
+{
+  "lesson-2": {
+    "1": {
+      "english": "The new computer system will allow employees to process orders more quickly.",
+      "vietnamese": "Hệ thống máy tính mới sẽ giúp nhân viên xử lý đơn hàng nhanh hơn."
+    },
+    "2": {
+      "english": "A technician will inspect the office printers tomorrow morning.",
+      "vietnamese": "Một kỹ thuật viên sẽ kiểm tra các máy in của văn phòng vào sáng mai."
+    },
+    "3": {
+      "english": "The supermarket will remain open until midnight during the holiday season.",
+      "vietnamese": "Siêu thị sẽ mở cửa đến nửa đêm trong mùa lễ."
+    },
+    "4": {
+      "english": "Production will resume once the new equipment has been installed.",
+      "vietnamese": "Hoạt động sản xuất sẽ tiếp tục sau khi thiết bị mới được lắp đặt."
+    },
+    "5": {
+      "english": "Visitors must wear safety helmets while touring the factory.",
+      "vietnamese": "Khách tham quan phải đội mũ bảo hộ khi tham quan nhà máy."
+    },
+    "6": {
+      "english": "Please ask your supervisor to approve your overtime request.",
+      "vietnamese": "Vui lòng nhờ cấp trên phê duyệt yêu cầu làm thêm giờ của bạn."
+    },
+    "7": {
+      "english": "Ms. Lee has a dentist appointment at two and will return to the office afterward.",
+      "vietnamese": "Cô Lee có lịch hẹn nha sĩ lúc hai giờ và sẽ trở lại văn phòng sau đó."
+    },
+    "8": {
+      "english": "The safety inspector checked all emergency exits before the store opened.",
+      "vietnamese": "Thanh tra an toàn đã kiểm tra tất cả các lối thoát hiểm trước khi cửa hàng mở cửa."
+    },
+    "9": {
+      "english": "Employees are supposed to submit their travel receipts by Friday.",
+      "vietnamese": "Nhân viên phải nộp hóa đơn cho các chi phí công tác chậm nhất vào thứ Sáu."
+    },
+    "10": {
+      "english": "The marketing director will present the new advertising strategy at the meeting.",
+      "vietnamese": "Giám đốc tiếp thị sẽ trình bày chiến lược quảng cáo mới tại cuộc họp."
+    },
+    "11": {
+      "english": "The secretary has reserved a conference room for the afternoon meeting.",
+      "vietnamese": "Thư ký đã đặt phòng hội nghị cho cuộc họp buổi chiều."
+    },
+    "12": {
+      "english": "You can find extra pens and envelopes in the supply cabinet.",
+      "vietnamese": "Bạn có thể tìm thêm bút và phong bì trong tủ đựng đồ dùng văn phòng."
+    },
+    "13": {
+      "english": "Please order more paper before we run out.",
+      "vietnamese": "Vui lòng đặt thêm giấy trước khi chúng ta dùng hết."
+    },
+    "14": {
+      "english": "Ms. Garcia will take charge of the sales team while the manager is away.",
+      "vietnamese": "Cô Garcia sẽ phụ trách nhóm bán hàng trong thời gian quản lý vắng mặt."
+    },
+    "15": {
+      "english": "Remember to charge the battery before taking the camera to the construction site.",
+      "vietnamese": "Hãy nhớ sạc pin trước khi mang máy ảnh đến công trường."
+    },
+    "16": {
+      "english": "The company is sponsoring a basketball tournament to raise money for a local charity.",
+      "vietnamese": "Công ty đang tài trợ một giải đấu bóng rổ để gây quỹ cho một tổ chức từ thiện địa phương."
+    },
+    "17": {
+      "english": "Additional buses will run between the train station and the stadium on game days.",
+      "vietnamese": "Sẽ có thêm xe buýt chạy giữa ga tàu và sân vận động vào những ngày diễn ra trận đấu."
+    },
+    "18": {
+      "english": "A customer is placing fresh vegetables in a shopping basket.",
+      "vietnamese": "Một khách hàng đang đặt rau tươi vào giỏ mua sắm."
+    },
+    "19": {
+      "english": "The grocery store on Oak Street offers free delivery for orders over fifty dollars.",
+      "vietnamese": "Cửa hàng tạp hóa trên phố Oak miễn phí giao hàng cho các đơn trên năm mươi đô la."
+    },
+    "20": {
+      "english": "Please report any broken equipment to the maintenance department.",
+      "vietnamese": "Vui lòng báo cho bộ phận bảo trì về bất kỳ thiết bị nào bị hỏng."
+    },
+    "21": {
+      "english": "The facilities team is responsible for keeping the meeting rooms clean.",
+      "vietnamese": "Nhóm phụ trách cơ sở vật chất chịu trách nhiệm giữ các phòng họp sạch sẽ."
+    },
+    "22": {
+      "english": "You will receive an invitation to the awards ceremony by email.",
+      "vietnamese": "Bạn sẽ nhận được lời mời tham dự lễ trao giải qua email."
+    },
+    "23": {
+      "english": "Our customer service team can handle requests for refunds or exchanges.",
+      "vietnamese": "Nhóm dịch vụ khách hàng của chúng tôi có thể xử lý các yêu cầu hoàn tiền hoặc đổi hàng."
+    },
+    "24": {
+      "english": "Each guest room has a television and complimentary wireless Internet access.",
+      "vietnamese": "Mỗi phòng khách đều có ti-vi và kết nối Internet không dây miễn phí."
+    },
+    "25": {
+      "english": "As a result of the renovation, the lobby will be closed for two weeks.",
+      "vietnamese": "Do việc cải tạo, sảnh sẽ đóng cửa trong hai tuần."
+    },
+    "26": {
+      "english": "All new employees must have a physical before starting work at the factory.",
+      "vietnamese": "Tất cả nhân viên mới phải khám sức khỏe trước khi bắt đầu làm việc tại nhà máy."
+    },
+    "27": {
+      "english": "The design project includes a new logo and updated product packaging.",
+      "vietnamese": "Dự án thiết kế bao gồm một biểu trưng mới và bao bì sản phẩm được cập nhật."
+    },
+    "28": {
+      "english": "Please review the factory sample before we approve the full production run.",
+      "vietnamese": "Vui lòng xem xét mẫu sản phẩm của nhà máy trước khi chúng ta phê duyệt sản xuất toàn bộ lô hàng."
+    },
+    "29": {
+      "english": "The committee will review the conference proposal at its next meeting.",
+      "vietnamese": "Ủy ban sẽ xem xét bản đề xuất hội nghị tại cuộc họp tiếp theo."
+    },
+    "30": {
+      "english": "Payment for the office furniture is due at the end of the month.",
+      "vietnamese": "Khoản thanh toán cho đồ nội thất văn phòng đến hạn vào cuối tháng."
+    },
+    "31": {
+      "english": "Please notify the payroll department if your bank account details change.",
+      "vietnamese": "Vui lòng thông báo cho bộ phận tiền lương nếu thông tin tài khoản ngân hàng của bạn thay đổi."
+    },
+    "32": {
+      "english": "Customers can pay in cash or by credit card at any checkout counter.",
+      "vietnamese": "Khách hàng có thể thanh toán bằng tiền mặt hoặc thẻ tín dụng tại bất kỳ quầy thanh toán nào."
+    },
+    "33": {
+      "english": "There is a public phone near the main entrance to the train station.",
+      "vietnamese": "Có một điện thoại công cộng gần lối vào chính của ga tàu."
+    },
+    "34": {
+      "english": "The instructor will explain how to use the new scheduling software.",
+      "vietnamese": "Người hướng dẫn sẽ giải thích cách sử dụng phần mềm lập lịch mới."
+    },
+    "35": {
+      "english": "The cashier is counting the money in the cash register.",
+      "vietnamese": "Nhân viên thu ngân đang đếm tiền trong máy tính tiền."
+    },
+    "36": {
+      "english": "The lead engineer will oversee the installation of the new ventilation system.",
+      "vietnamese": "Kỹ sư trưởng sẽ giám sát việc lắp đặt hệ thống thông gió mới."
+    },
+    "37": {
+      "english": "Please turn off the engine before leaving the delivery vehicle.",
+      "vietnamese": "Vui lòng tắt động cơ trước khi rời khỏi xe giao hàng."
+    },
+    "38": {
+      "english": "The maintenance team will repair the elevator over the weekend.",
+      "vietnamese": "Đội bảo trì sẽ sửa chữa thang máy vào cuối tuần."
+    },
+    "39": {
+      "english": "Mr. Wilson will return from his business trip on Thursday.",
+      "vietnamese": "Ông Wilson sẽ trở về sau chuyến công tác vào thứ Năm."
+    },
+    "40": {
+      "english": "Please submit your vacation request at least two weeks in advance.",
+      "vietnamese": "Vui lòng nộp đơn xin nghỉ phép trước ít nhất hai tuần."
+    }
+  },
+  "lesson-1": {
+    "1": {
+      "english": "The jewelry is arranged neatly in a glass display case.",
+      "vietnamese": "Trang sức được sắp xếp gọn gàng trong một tủ trưng bày bằng kính."
+    },
+    "2": {
+      "english": "Please keep your receipt as proof of purchase.",
+      "vietnamese": "Vui lòng giữ hóa đơn làm bằng chứng mua hàng."
+    },
+    "3": {
+      "english": "Remember to switch off the lights before leaving the office.",
+      "vietnamese": "Hãy nhớ tắt đèn trước khi rời văn phòng."
+    },
+    "4": {
+      "english": "She pulled the curtain aside to let in more sunlight.",
+      "vietnamese": "Cô ấy kéo rèm sang một bên để đón thêm ánh nắng."
+    },
+    "5": {
+      "english": "Please arrange the chairs in a circle for the discussion.",
+      "vietnamese": "Vui lòng xếp ghế thành vòng tròn cho buổi thảo luận."
+    },
+    "6": {
+      "english": "The gardener will trim the bushes along the walkway.",
+      "vietnamese": "Người làm vườn sẽ cắt tỉa những bụi cây dọc lối đi."
+    },
+    "7": {
+      "english": "A red scarf is hanging beside the coats.",
+      "vietnamese": "Một chiếc khăn choàng đỏ đang được treo cạnh những chiếc áo khoác."
+    },
+    "8": {
+      "english": "The waiter began to pour water into the glasses.",
+      "vietnamese": "Người phục vụ bắt đầu rót nước vào những chiếc ly."
+    },
+    "9": {
+      "english": "The visitors walked toward the main entrance.",
+      "vietnamese": "Khách tham quan đi về phía lối vào chính."
+    },
+    "10": {
+      "english": "She placed the fresh vegetables in a shopping basket.",
+      "vietnamese": "Cô ấy đặt rau tươi vào giỏ mua hàng."
+    },
+    "11": {
+      "english": "Please remove all personal items from your desk before the move.",
+      "vietnamese": "Vui lòng dọn hết đồ dùng cá nhân khỏi bàn trước khi chuyển chỗ."
+    },
+    "12": {
+      "english": "A shop assistant helped the customer find the right size.",
+      "vietnamese": "Một nhân viên bán hàng giúp khách tìm đúng kích cỡ."
+    },
+    "13": {
+      "english": "The cashier handed the customer a receipt.",
+      "vietnamese": "Thu ngân đưa hóa đơn cho khách hàng."
+    },
+    "14": {
+      "english": "The store displays its new merchandise near the entrance.",
+      "vietnamese": "Cửa hàng trưng bày hàng hóa mới gần lối vào."
+    },
+    "15": {
+      "english": "Several boats are anchored close to the shore.",
+      "vietnamese": "Một số chiếc thuyền đang neo gần bờ."
+    },
+    "16": {
+      "english": "He carried a fishing pole down to the lake.",
+      "vietnamese": "Anh ấy mang cần câu xuống hồ."
+    },
+    "17": {
+      "english": "The workers will load the boxes onto the delivery truck.",
+      "vietnamese": "Các công nhân sẽ chất những chiếc hộp lên xe giao hàng."
+    },
+    "18": {
+      "english": "The technician had to kneel beside the machine to inspect the cable.",
+      "vietnamese": "Kỹ thuật viên phải quỳ xuống cạnh máy để kiểm tra dây cáp."
+    },
+    "19": {
+      "english": "Please stack the empty trays on the shelf.",
+      "vietnamese": "Vui lòng xếp chồng các khay trống lên kệ."
+    },
+    "20": {
+      "english": "Employees can park their cars in the underground garage.",
+      "vietnamese": "Nhân viên có thể đỗ xe trong nhà để xe dưới lòng đất."
+    },
+    "21": {
+      "english": "A glass partition separates the reception area from the offices.",
+      "vietnamese": "Một vách ngăn kính tách khu vực lễ tân khỏi các phòng làm việc."
+    },
+    "22": {
+      "english": "Please approach the reception desk when your number is called.",
+      "vietnamese": "Vui lòng tiến đến quầy lễ tân khi số của bạn được gọi."
+    },
+    "23": {
+      "english": "The customer left her shopping bag on the counter.",
+      "vietnamese": "Khách hàng để túi mua sắm trên quầy."
+    },
+    "24": {
+      "english": "The signed contracts are kept in the bottom file drawer.",
+      "vietnamese": "Các hợp đồng đã ký được cất trong ngăn kéo hồ sơ dưới cùng."
+    },
+    "25": {
+      "english": "Visitors can leave their coats on the rack by the door.",
+      "vietnamese": "Khách có thể treo áo khoác lên giá cạnh cửa."
+    },
+    "26": {
+      "english": "He packed his suit in a garment bag before the business trip.",
+      "vietnamese": "Anh ấy cất bộ com lê vào túi đựng quần áo trước chuyến công tác."
+    },
+    "27": {
+      "english": "The new tenants will occupy the offices starting next month.",
+      "vietnamese": "Những người thuê mới sẽ bắt đầu sử dụng các văn phòng từ tháng sau."
+    },
+    "28": {
+      "english": "The security guard opened the gate for the delivery van.",
+      "vietnamese": "Nhân viên bảo vệ mở cổng cho xe giao hàng."
+    },
+    "29": {
+      "english": "Please use the stairway while the elevator is being repaired.",
+      "vietnamese": "Vui lòng đi cầu thang trong khi thang máy đang được sửa chữa."
+    },
+    "30": {
+      "english": "A national flag flies above the entrance to the building.",
+      "vietnamese": "Một lá quốc kỳ bay phía trên lối vào tòa nhà."
+    },
+    "31": {
+      "english": "The workers used a crane to raise the steel beam.",
+      "vietnamese": "Các công nhân dùng cần cẩu để nâng dầm thép lên."
+    },
+    "32": {
+      "english": "Passengers should wait behind the line as trains approach the platform.",
+      "vietnamese": "Hành khách nên đứng sau vạch khi tàu tiến vào sân ga."
+    },
+    "33": {
+      "english": "The tourists waited on the pier for the ferry.",
+      "vietnamese": "Du khách đợi phà trên cầu tàu."
+    },
+    "34": {
+      "english": "The staff sweep the floor every evening after closing.",
+      "vietnamese": "Nhân viên quét sàn vào mỗi buổi tối sau khi đóng cửa."
+    },
+    "35": {
+      "english": "The cargo ship arrived at the dock early this morning.",
+      "vietnamese": "Tàu chở hàng đến bến vào sáng sớm hôm nay."
+    },
+    "36": {
+      "english": "The crew will put up a tent for the outdoor reception.",
+      "vietnamese": "Đội nhân viên sẽ dựng lều cho buổi tiếp đón ngoài trời."
+    },
+    "37": {
+      "english": "A metal barrier prevents cars from entering the construction site.",
+      "vietnamese": "Một hàng rào kim loại ngăn ô tô đi vào công trường."
+    },
+    "38": {
+      "english": "Passengers may board the train through any open door.",
+      "vietnamese": "Hành khách có thể lên tàu qua bất kỳ cửa nào đang mở."
+    },
+    "39": {
+      "english": "The mason placed another brick on the wall.",
+      "vietnamese": "Người thợ nề đặt thêm một viên gạch lên bức tường."
+    },
+    "40": {
+      "english": "The gardener used a wheelbarrow to move soil across the yard.",
+      "vietnamese": "Người làm vườn dùng xe cút kít để chuyển đất qua sân."
+    }
+  },
+  "lesson-3": {
+    "1": {
+      "english": "The seminar begins at nine.",
+      "vietnamese": "Hội thảo bắt đầu lúc chín giờ."
+    },
+    "2": {
+      "english": "Sign at the bottom of the form.",
+      "vietnamese": "Ký ở cuối mẫu đơn."
+    },
+    "3": {
+      "english": "Road construction has delayed our shipment.",
+      "vietnamese": "Việc thi công đường đã làm chậm lô hàng của chúng tôi."
+    },
+    "4": {
+      "english": "The restaurant accepts online reservations.",
+      "vietnamese": "Nhà hàng nhận đặt bàn trực tuyến."
+    },
+    "5": {
+      "english": "We booked an early flight.",
+      "vietnamese": "Chúng tôi đã đặt chuyến bay sớm."
+    },
+    "6": {
+      "english": "Banks close on this national holiday.",
+      "vietnamese": "Các ngân hàng đóng cửa vào ngày lễ quốc gia này."
+    },
+    "7": {
+      "english": "The theater opens at six.",
+      "vietnamese": "Nhà hát mở cửa lúc sáu giờ."
+    },
+    "8": {
+      "english": "This bus stops outside the hotel.",
+      "vietnamese": "Xe buýt này dừng bên ngoài khách sạn."
+    },
+    "9": {
+      "english": "Our budget covers the training costs.",
+      "vietnamese": "Ngân sách của chúng tôi đủ chi trả chi phí đào tạo."
+    },
+    "10": {
+      "english": "The company exports to South America.",
+      "vietnamese": "Công ty xuất khẩu sang Nam Mỹ."
+    },
+    "11": {
+      "english": "She will transfer to our headquarters.",
+      "vietnamese": "Cô ấy sẽ chuyển công tác đến trụ sở chính của chúng tôi."
+    },
+    "12": {
+      "english": "The hotel has a small gymnasium.",
+      "vietnamese": "Khách sạn có một phòng tập thể hình nhỏ."
+    },
+    "13": {
+      "english": "We serve breakfast until ten.",
+      "vietnamese": "Chúng tôi phục vụ bữa sáng đến mười giờ."
+    },
+    "14": {
+      "english": "Several ships entered the harbor.",
+      "vietnamese": "Một số tàu đã vào cảng."
+    },
+    "15": {
+      "english": "Employees will celebrate the store's anniversary.",
+      "vietnamese": "Nhân viên sẽ mừng ngày kỷ niệm thành lập cửa hàng."
+    },
+    "16": {
+      "english": "His retirement takes effect in June.",
+      "vietnamese": "Ông ấy chính thức nghỉ hưu vào tháng Sáu."
+    },
+    "17": {
+      "english": "We will throw a party for our colleagues.",
+      "vietnamese": "Chúng tôi sẽ tổ chức tiệc cho các đồng nghiệp."
+    },
+    "18": {
+      "english": "Please confirm your appointment by email.",
+      "vietnamese": "Vui lòng xác nhận cuộc hẹn qua email."
+    },
+    "19": {
+      "english": "The museum offers guided tours.",
+      "vietnamese": "Bảo tàng có các chuyến tham quan có hướng dẫn."
+    },
+    "20": {
+      "english": "Each postcard costs one euro.",
+      "vietnamese": "Mỗi tấm bưu thiếp có giá một euro."
+    },
+    "21": {
+      "english": "The hourly pay rate includes a bonus.",
+      "vietnamese": "Mức lương theo giờ bao gồm tiền thưởng."
+    },
+    "22": {
+      "english": "This position requires accounting experience.",
+      "vietnamese": "Vị trí này yêu cầu kinh nghiệm kế toán."
+    },
+    "23": {
+      "english": "Please attach your receipt to the form.",
+      "vietnamese": "Vui lòng đính kèm hóa đơn vào mẫu đơn."
+    },
+    "24": {
+      "english": "Would you like some orange juice?",
+      "vietnamese": "Bạn có muốn dùng chút nước cam không?"
+    },
+    "25": {
+      "english": "The chef sliced a fresh peach.",
+      "vietnamese": "Đầu bếp đã thái một quả đào tươi."
+    },
+    "26": {
+      "english": "The guests will arrive before noon.",
+      "vietnamese": "Khách sẽ đến trước buổi trưa."
+    },
+    "27": {
+      "english": "This room is big enough for everyone.",
+      "vietnamese": "Phòng này đủ rộng cho mọi người."
+    },
+    "28": {
+      "english": "The weather forecast predicts heavy rain.",
+      "vietnamese": "Bản dự báo thời tiết dự báo mưa lớn."
+    },
+    "29": {
+      "english": "Analysts predict higher sales next quarter.",
+      "vietnamese": "Các nhà phân tích dự đoán doanh số quý tới sẽ cao hơn."
+    },
+    "30": {
+      "english": "Check the schedule before booking tickets.",
+      "vietnamese": "Kiểm tra lịch trình trước khi đặt vé."
+    },
+    "31": {
+      "english": "We need to change the meeting date.",
+      "vietnamese": "Chúng tôi cần thay đổi ngày họp."
+    },
+    "32": {
+      "english": "The train station is nearby.",
+      "vietnamese": "Nhà ga xe lửa ở gần đây."
+    },
+    "33": {
+      "english": "The new software is fairly simple.",
+      "vietnamese": "Phần mềm mới khá đơn giản."
+    },
+    "34": {
+      "english": "The truck carries a heavy load.",
+      "vietnamese": "Chiếc xe tải chở một lượng hàng nặng."
+    },
+    "35": {
+      "english": "Tickets for the special event are available.",
+      "vietnamese": "Vé cho sự kiện đặc biệt hiện đã có bán."
+    },
+    "36": {
+      "english": "A technician will inspect the office printers tomorrow morning.",
+      "vietnamese": "Một kỹ thuật viên sẽ kiểm tra các máy in của văn phòng vào sáng mai."
+    },
+    "37": {
+      "english": "Her presentation explains the new policy.",
+      "vietnamese": "Bài thuyết trình của cô ấy giải thích chính sách mới."
+    },
+    "38": {
+      "english": "Please inspect the goods upon arrival.",
+      "vietnamese": "Vui lòng kiểm tra hàng khi nhận được."
+    },
+    "39": {
+      "english": "The report includes a brief summary.",
+      "vietnamese": "Báo cáo có một bản tóm tắt ngắn."
+    },
+    "40": {
+      "english": "Could you repeat the address, please?",
+      "vietnamese": "Bạn có thể nhắc lại địa chỉ không?"
+    }
+  },
+  "lesson-4": {
+    "1": {
+      "english": "Prices are likely to rise.",
+      "vietnamese": "Giá cả có khả năng tăng."
+    },
+    "2": {
+      "english": "Please fill out this application.",
+      "vietnamese": "Vui lòng điền đơn đăng ký này."
+    },
+    "3": {
+      "english": "We will inform you of any changes.",
+      "vietnamese": "Chúng tôi sẽ thông báo cho bạn về mọi thay đổi."
+    },
+    "4": {
+      "english": "Her interview lasted thirty minutes.",
+      "vietnamese": "Buổi phỏng vấn của cô ấy kéo dài ba mươi phút."
+    },
+    "5": {
+      "english": "Keep the emergency exit clear.",
+      "vietnamese": "Hãy giữ lối thoát hiểm thông thoáng."
+    },
+    "6": {
+      "english": "Meet me at the main entrance.",
+      "vietnamese": "Hãy gặp tôi ở lối vào chính."
+    },
+    "7": {
+      "english": "The fitness center offers evening classes.",
+      "vietnamese": "Trung tâm thể hình có các lớp học buổi tối."
+    },
+    "8": {
+      "english": "The printer is in good condition.",
+      "vietnamese": "Máy in vẫn trong tình trạng tốt."
+    },
+    "9": {
+      "english": "The hotel received a positive review.",
+      "vietnamese": "Khách sạn nhận được một bài đánh giá tích cực."
+    },
+    "10": {
+      "english": "Market conditions remain favorable.",
+      "vietnamese": "Điều kiện thị trường vẫn thuận lợi."
+    },
+    "11": {
+      "english": "Read each instruction before assembly.",
+      "vietnamese": "Đọc từng hướng dẫn trước khi lắp ráp."
+    },
+    "12": {
+      "english": "We had a wonderful stay.",
+      "vietnamese": "Chúng tôi đã có một kỳ nghỉ tuyệt vời."
+    },
+    "13": {
+      "english": "He wore a blue tie.",
+      "vietnamese": "Anh ấy đeo cà vạt xanh."
+    },
+    "14": {
+      "english": "Formal attire is required tonight.",
+      "vietnamese": "Tối nay cần mặc trang phục trang trọng."
+    },
+    "15": {
+      "english": "We had trouble opening the file.",
+      "vietnamese": "Chúng tôi gặp khó khăn khi mở tệp."
+    },
+    "16": {
+      "english": "The training program lasts two weeks.",
+      "vietnamese": "Chương trình đào tạo kéo dài hai tuần."
+    },
+    "17": {
+      "english": "The commuter train arrives every hour.",
+      "vietnamese": "Tàu chở khách đi làm đến mỗi giờ một chuyến."
+    },
+    "18": {
+      "english": "A Mexican restaurant opened nearby.",
+      "vietnamese": "Một nhà hàng món Mexico đã mở ở gần đây."
+    },
+    "19": {
+      "english": "Delivery is free for large orders.",
+      "vietnamese": "Đơn hàng lớn được giao miễn phí."
+    },
+    "20": {
+      "english": "The staff provided excellent service.",
+      "vietnamese": "Nhân viên đã phục vụ rất tốt."
+    },
+    "21": {
+      "english": "Please bring your identification card.",
+      "vietnamese": "Vui lòng mang theo thẻ căn cước."
+    },
+    "22": {
+      "english": "The manual explains the safety features.",
+      "vietnamese": "Sách hướng dẫn giải thích các tính năng an toàn."
+    },
+    "23": {
+      "english": "The projector needs a new bulb.",
+      "vietnamese": "Máy chiếu cần thay bóng đèn mới."
+    },
+    "24": {
+      "english": "He placed his briefcase on the desk.",
+      "vietnamese": "Anh ấy đặt cặp tài liệu lên bàn."
+    },
+    "25": {
+      "english": "Do you have change for this bill?",
+      "vietnamese": "Bạn có tiền lẻ đổi tờ tiền này không?"
+    },
+    "26": {
+      "english": "Our budget covers the training costs.",
+      "vietnamese": "Ngân sách của chúng tôi đủ chi trả chi phí đào tạo."
+    },
+    "27": {
+      "english": "Technicians will install the new system.",
+      "vietnamese": "Các kỹ thuật viên sẽ lắp đặt hệ thống mới."
+    },
+    "28": {
+      "english": "All equipment must be cleaned daily.",
+      "vietnamese": "Tất cả thiết bị phải được vệ sinh hằng ngày."
+    },
+    "29": {
+      "english": "The new process is more efficient.",
+      "vietnamese": "Quy trình mới hiệu quả hơn."
+    },
+    "30": {
+      "english": "Workers inspect the assembly line daily.",
+      "vietnamese": "Công nhân kiểm tra dây chuyền lắp ráp hằng ngày."
+    },
+    "31": {
+      "english": "Contact the manufacturer for replacement parts.",
+      "vietnamese": "Liên hệ nhà sản xuất để mua phụ tùng thay thế."
+    },
+    "32": {
+      "english": "Can you recommend a nearby hotel?",
+      "vietnamese": "Bạn có thể giới thiệu một khách sạn gần đây không?"
+    },
+    "33": {
+      "english": "The warranty covers repairs for one year.",
+      "vietnamese": "Bảo hành bao gồm sửa chữa trong một năm."
+    },
+    "34": {
+      "english": "The speaker began with a brief introduction.",
+      "vietnamese": "Diễn giả bắt đầu bằng phần giới thiệu ngắn."
+    },
+    "35": {
+      "english": "The upstairs office is vacant.",
+      "vietnamese": "Văn phòng ở tầng trên đang trống."
+    },
+    "36": {
+      "english": "My colleague will handle your request.",
+      "vietnamese": "Đồng nghiệp của tôi sẽ xử lý yêu cầu của bạn."
+    },
+    "37": {
+      "english": "We look forward to meeting you.",
+      "vietnamese": "Chúng tôi mong được gặp bạn."
+    },
+    "38": {
+      "english": "Unfortunately, the flight was canceled.",
+      "vietnamese": "Thật tiếc là chuyến bay đã bị hủy."
+    },
+    "39": {
+      "english": "The café serves freshly baked bread.",
+      "vietnamese": "Quán cà phê phục vụ bánh mì mới nướng."
+    },
+    "40": {
+      "english": "Our client requested a detailed quote.",
+      "vietnamese": "Khách hàng của chúng tôi yêu cầu báo giá chi tiết."
+    }
+  },
+  "lesson-5": {
+    "1": {
+      "english": "The shop sells inexpensive office supplies.",
+      "vietnamese": "Cửa hàng bán văn phòng phẩm giá rẻ."
+    },
+    "2": {
+      "english": "Please review the agenda before lunch.",
+      "vietnamese": "Vui lòng xem lịch trình cuộc họp trước bữa trưa."
+    },
+    "3": {
+      "english": "We will discuss pricing tomorrow.",
+      "vietnamese": "Chúng tôi sẽ thảo luận về giá vào ngày mai."
+    },
+    "4": {
+      "english": "Our client requested a detailed quote.",
+      "vietnamese": "Khách hàng của chúng tôi yêu cầu báo giá chi tiết."
+    },
+    "5": {
+      "english": "Several employees attended the workshop.",
+      "vietnamese": "Một số nhân viên đã tham dự buổi tập huấn."
+    },
+    "6": {
+      "english": "The fax machine is beside the printer.",
+      "vietnamese": "Máy fax nằm cạnh máy in."
+    },
+    "7": {
+      "english": "File these names in alphabetical order.",
+      "vietnamese": "Sắp xếp những tên này theo thứ tự bảng chữ cái."
+    },
+    "8": {
+      "english": "Is this the correct delivery address?",
+      "vietnamese": "Đây có phải địa chỉ giao hàng chính xác không?"
+    },
+    "9": {
+      "english": "Registration closes on Friday.",
+      "vietnamese": "Việc đăng ký kết thúc vào thứ Sáu."
+    },
+    "10": {
+      "english": "The guests will arrive before noon.",
+      "vietnamese": "Khách sẽ đến trước buổi trưa."
+    },
+    "11": {
+      "english": "The hall seats two hundred people.",
+      "vietnamese": "Hội trường có chỗ ngồi cho hai trăm người."
+    },
+    "12": {
+      "english": "The banquet follows the awards ceremony.",
+      "vietnamese": "Bữa tiệc diễn ra sau lễ trao giải."
+    },
+    "13": {
+      "english": "There is a hole in the packaging.",
+      "vietnamese": "Có một lỗ thủng trên bao bì."
+    },
+    "14": {
+      "english": "We import coffee from Vietnam.",
+      "vietnamese": "Chúng tôi nhập khẩu cà phê từ Việt Nam."
+    },
+    "15": {
+      "english": "The manager will look into your complaint.",
+      "vietnamese": "Quản lý sẽ xem xét khiếu nại của bạn."
+    },
+    "16": {
+      "english": "Please cancel my hotel reservation.",
+      "vietnamese": "Vui lòng hủy đặt phòng khách sạn của tôi."
+    },
+    "17": {
+      "english": "We must postpone the product launch.",
+      "vietnamese": "Chúng tôi phải hoãn việc ra mắt sản phẩm."
+    },
+    "18": {
+      "english": "The instructions seem easy to follow.",
+      "vietnamese": "Các hướng dẫn có vẻ dễ làm theo."
+    },
+    "19": {
+      "english": "Please submit your updated expense report.",
+      "vietnamese": "Vui lòng nộp báo cáo chi phí đã cập nhật."
+    },
+    "20": {
+      "english": "Repairs may be expensive.",
+      "vietnamese": "Việc sửa chữa có thể tốn kém."
+    },
+    "21": {
+      "english": "We check inventory every Friday.",
+      "vietnamese": "Chúng tôi kiểm tra hàng tồn kho vào mỗi thứ Sáu."
+    },
+    "22": {
+      "english": "Construction will begin next month.",
+      "vietnamese": "Việc xây dựng sẽ bắt đầu vào tháng tới."
+    },
+    "23": {
+      "english": "The site manager approved the delivery.",
+      "vietnamese": "Người quản lý công trường đã chấp thuận việc giao hàng."
+    },
+    "24": {
+      "english": "The office reopens on Wednesday.",
+      "vietnamese": "Văn phòng mở cửa trở lại vào thứ Tư."
+    },
+    "25": {
+      "english": "This sweater comes in three colors.",
+      "vietnamese": "Áo len này có ba màu."
+    },
+    "26": {
+      "english": "Please turn up the microphone volume.",
+      "vietnamese": "Vui lòng tăng âm lượng micrô."
+    },
+    "27": {
+      "english": "Our seats are in the front row.",
+      "vietnamese": "Ghế của chúng tôi ở hàng đầu."
+    },
+    "28": {
+      "english": "The payment terms are rather unclear.",
+      "vietnamese": "Các điều khoản thanh toán khá không rõ ràng."
+    },
+    "29": {
+      "english": "The printer is not working either.",
+      "vietnamese": "Máy in cũng không hoạt động."
+    },
+    "30": {
+      "english": "You will receive a confirmation email.",
+      "vietnamese": "Bạn sẽ nhận được email xác nhận."
+    },
+    "31": {
+      "english": "Recent market data supports our forecast.",
+      "vietnamese": "Dữ liệu thị trường gần đây củng cố dự báo của chúng tôi."
+    },
+    "32": {
+      "english": "The sales increase was surprising.",
+      "vietnamese": "Mức tăng doanh số thật bất ngờ."
+    },
+    "33": {
+      "english": "Each guest received a welcome gift.",
+      "vietnamese": "Mỗi khách mời nhận được một món quà chào mừng."
+    },
+    "34": {
+      "english": "He began to cough during the meeting.",
+      "vietnamese": "Anh ấy bắt đầu ho trong cuộc họp."
+    },
+    "35": {
+      "english": "The restaurant's soup is delicious.",
+      "vietnamese": "Món súp của nhà hàng rất ngon."
+    },
+    "36": {
+      "english": "She will present the quarterly results.",
+      "vietnamese": "Cô ấy sẽ trình bày kết quả quý."
+    },
+    "37": {
+      "english": "The board accepted our proposal.",
+      "vietnamese": "Hội đồng quản trị đã chấp nhận đề xuất của chúng tôi."
+    },
+    "38": {
+      "english": "The council meeting starts at noon.",
+      "vietnamese": "Cuộc họp hội đồng bắt đầu vào buổi trưa."
+    },
+    "39": {
+      "english": "We ordered a dozen chairs.",
+      "vietnamese": "Chúng tôi đã đặt mua một tá ghế."
+    },
+    "40": {
+      "english": "The safety workshop was informative.",
+      "vietnamese": "Buổi tập huấn an toàn cung cấp nhiều thông tin hữu ích."
+    }
+  },
+  "lesson-6": {
+    "1": {
+      "english": "The suitcase handle is broken.",
+      "vietnamese": "Tay cầm va li đã bị gãy."
+    },
+    "2": {
+      "english": "Plug the charger into the wall outlet.",
+      "vietnamese": "Cắm bộ sạc vào ổ điện trên tường."
+    },
+    "3": {
+      "english": "Clean cups are in the cupboard.",
+      "vietnamese": "Cốc sạch ở trong tủ chén."
+    },
+    "4": {
+      "english": "The worker knelt to inspect the pipe.",
+      "vietnamese": "Người thợ quỳ xuống kiểm tra đường ống."
+    },
+    "5": {
+      "english": "The tile floor is still wet.",
+      "vietnamese": "Sàn gạch vẫn còn ướt."
+    },
+    "6": {
+      "english": "Hang your coat on the rack.",
+      "vietnamese": "Treo áo khoác của bạn lên giá."
+    },
+    "7": {
+      "english": "You can purchase tickets online.",
+      "vietnamese": "Bạn có thể mua vé trực tuyến."
+    },
+    "8": {
+      "english": "The customer needs a replacement lace.",
+      "vietnamese": "Khách hàng cần một dây giày thay thế."
+    },
+    "9": {
+      "english": "The outdoor path leads to the pool.",
+      "vietnamese": "Lối đi ngoài trời dẫn đến hồ bơi."
+    },
+    "10": {
+      "english": "The train passed through a tunnel.",
+      "vietnamese": "Tàu đã đi qua một đường hầm."
+    },
+    "11": {
+      "english": "A bush grows beside the entrance.",
+      "vietnamese": "Một bụi cây mọc cạnh lối vào."
+    },
+    "12": {
+      "english": "Please stack the empty trays on the shelf.",
+      "vietnamese": "Vui lòng xếp chồng các khay trống lên kệ."
+    },
+    "13": {
+      "english": "Each chair has a soft cushion.",
+      "vietnamese": "Mỗi chiếc ghế có một đệm mềm."
+    },
+    "14": {
+      "english": "This light fixture needs replacing.",
+      "vietnamese": "Thiết bị chiếu sáng này cần được thay thế."
+    },
+    "15": {
+      "english": "The lamps are suspended above the counter.",
+      "vietnamese": "Các đèn được treo phía trên quầy."
+    },
+    "16": {
+      "english": "A rug lies beneath the table.",
+      "vietnamese": "Một tấm thảm nằm dưới bàn."
+    },
+    "17": {
+      "english": "Please roll up the carpet carefully.",
+      "vietnamese": "Vui lòng cuộn thảm lại cẩn thận."
+    },
+    "18": {
+      "english": "Contact the accounting department for details.",
+      "vietnamese": "Liên hệ phòng kế toán để biết chi tiết."
+    },
+    "19": {
+      "english": "Extra towels are in the closet.",
+      "vietnamese": "Khăn dự phòng ở trong tủ âm tường."
+    },
+    "20": {
+      "english": "A colorful mural decorates the lobby.",
+      "vietnamese": "Một bức tranh tường đầy màu sắc trang trí sảnh."
+    },
+    "21": {
+      "english": "Most guests prefer rooms overlooking the garden.",
+      "vietnamese": "Đa số khách thích phòng nhìn ra vườn hơn."
+    },
+    "22": {
+      "english": "We found a practical solution.",
+      "vietnamese": "Chúng tôi đã tìm ra giải pháp thiết thực."
+    },
+    "23": {
+      "english": "The piano recital begins tonight.",
+      "vietnamese": "Buổi biểu diễn piano bắt đầu tối nay."
+    },
+    "24": {
+      "english": "The receptionist greeted the visitors.",
+      "vietnamese": "Nhân viên lễ tân chào đón khách."
+    },
+    "25": {
+      "english": "The truck delivered lumber yesterday.",
+      "vietnamese": "Xe tải đã giao gỗ xẻ hôm qua."
+    },
+    "26": {
+      "english": "This printer is out of stock.",
+      "vietnamese": "Máy in này đã hết hàng."
+    },
+    "27": {
+      "english": "The packaging machine needs maintenance.",
+      "vietnamese": "Máy đóng gói cần được bảo trì."
+    },
+    "28": {
+      "english": "The conference room is awfully cold.",
+      "vietnamese": "Phòng hội nghị lạnh vô cùng."
+    },
+    "29": {
+      "english": "My daily commute takes forty minutes.",
+      "vietnamese": "Việc đi làm hằng ngày của tôi mất bốn mươi phút."
+    },
+    "30": {
+      "english": "The architect reviewed the blueprint.",
+      "vietnamese": "Kiến trúc sư đã xem lại bản thiết kế."
+    },
+    "31": {
+      "english": "Our office occupies a high-rise building.",
+      "vietnamese": "Văn phòng chúng tôi nằm trong một tòa nhà cao tầng."
+    },
+    "32": {
+      "english": "The assembly plant employs local workers.",
+      "vietnamese": "Nhà máy lắp ráp tuyển dụng lao động địa phương."
+    },
+    "33": {
+      "english": "Record each travel expense on this form.",
+      "vietnamese": "Ghi từng khoản công tác phí vào mẫu này."
+    },
+    "34": {
+      "english": "The vending machine accepts coins.",
+      "vietnamese": "Máy bán hàng tự động nhận tiền xu."
+    },
+    "35": {
+      "english": "The travel agency arranged our flights.",
+      "vietnamese": "Đại lý du lịch đã sắp xếp các chuyến bay của chúng tôi."
+    },
+    "36": {
+      "english": "She applied for a management position.",
+      "vietnamese": "Cô ấy ứng tuyển vào vị trí quản lý."
+    },
+    "37": {
+      "english": "The footwear department is upstairs.",
+      "vietnamese": "Quầy giày dép ở tầng trên."
+    },
+    "38": {
+      "english": "There is a charging station outside.",
+      "vietnamese": "Có một trạm sạc bên ngoài."
+    },
+    "39": {
+      "english": "The revenue report shows steady growth.",
+      "vietnamese": "Báo cáo doanh thu cho thấy sự tăng trưởng ổn định."
+    },
+    "40": {
+      "english": "Lock the filing cabinet before leaving.",
+      "vietnamese": "Khóa tủ hồ sơ trước khi rời đi."
+    },
+    "41": {
+      "english": "Please send us a cost estimate.",
+      "vietnamese": "Vui lòng gửi cho chúng tôi bảng dự toán chi phí."
+    },
+    "42": {
+      "english": "The bag exceeds the permitted weight.",
+      "vietnamese": "Túi vượt quá trọng lượng cho phép."
+    },
+    "43": {
+      "english": "Construction requires a valid permit.",
+      "vietnamese": "Việc xây dựng cần có giấy phép hợp lệ."
+    },
+    "44": {
+      "english": "We manufacture furniture from recycled materials.",
+      "vietnamese": "Chúng tôi sản xuất nội thất từ vật liệu tái chế."
+    },
+    "45": {
+      "english": "She is in charge of recruitment.",
+      "vietnamese": "Cô ấy phụ trách tuyển dụng."
+    },
+    "46": {
+      "english": "The supplier contract expires in December.",
+      "vietnamese": "Hợp đồng nhà cung cấp hết hạn vào tháng Mười Hai."
+    },
+    "47": {
+      "english": "Keep spare chairs in the storage room.",
+      "vietnamese": "Cất ghế dự phòng trong phòng kho."
+    },
+    "48": {
+      "english": "The cargo airplane landed safely.",
+      "vietnamese": "Máy bay chở hàng đã hạ cánh an toàn."
+    },
+    "49": {
+      "english": "The department store closes at nine.",
+      "vietnamese": "Cửa hàng bách hóa đóng cửa lúc chín giờ."
+    },
+    "50": {
+      "english": "Tickets for the comedy show sold out.",
+      "vietnamese": "Vé xem buổi biểu diễn hài đã bán hết."
+    }
+  },
+  "lesson-7": {
+    "1": {
+      "english": "Speech recognition software transcribes the interviews.",
+      "vietnamese": "Phần mềm nhận diện giọng nói chép lại các cuộc phỏng vấn."
+    },
+    "2": {
+      "english": "She will head up the sales team.",
+      "vietnamese": "Cô ấy sẽ lãnh đạo nhóm bán hàng."
+    },
+    "3": {
+      "english": "Our sales efforts attracted new customers.",
+      "vietnamese": "Các nỗ lực bán hàng đã thu hút khách hàng mới."
+    },
+    "4": {
+      "english": "Facilities will repair the broken door.",
+      "vietnamese": "Bộ phận cơ sở vật chất sẽ sửa cánh cửa bị hỏng."
+    },
+    "5": {
+      "english": "Please get in touch before Friday.",
+      "vietnamese": "Vui lòng liên hệ trước thứ Sáu."
+    },
+    "6": {
+      "english": "We are discussing the proposed budget.",
+      "vietnamese": "Chúng tôi đang thảo luận về ngân sách đề xuất."
+    },
+    "7": {
+      "english": "His job transfer was approved.",
+      "vietnamese": "Việc thuyên chuyển công tác của anh ấy đã được duyệt."
+    },
+    "8": {
+      "english": "Please review the trip itinerary.",
+      "vietnamese": "Vui lòng xem lịch trình chuyến đi."
+    },
+    "9": {
+      "english": "The advertising campaign targets local shoppers.",
+      "vietnamese": "Chiến dịch quảng cáo nhắm đến người mua sắm địa phương."
+    },
+    "10": {
+      "english": "The human resources manager handles recruitment.",
+      "vietnamese": "Trưởng phòng nhân sự phụ trách tuyển dụng."
+    },
+    "11": {
+      "english": "A real estate agent showed us apartments.",
+      "vietnamese": "Một nhân viên môi giới bất động sản dẫn chúng tôi xem căn hộ."
+    },
+    "12": {
+      "english": "The computer programmer fixed the error.",
+      "vietnamese": "Lập trình viên máy tính đã sửa lỗi."
+    },
+    "13": {
+      "english": "May I have your business card?",
+      "vietnamese": "Tôi có thể xin danh thiếp của bạn không?"
+    },
+    "14": {
+      "english": "Read the rental agreement before signing.",
+      "vietnamese": "Đọc hợp đồng thuê trước khi ký."
+    },
+    "15": {
+      "english": "The carpet needs cleaning.",
+      "vietnamese": "Tấm thảm cần được làm sạch."
+    },
+    "16": {
+      "english": "The broken chairs were replaced yesterday.",
+      "vietnamese": "Những chiếc ghế hỏng đã được thay thế hôm qua."
+    },
+    "17": {
+      "english": "Our computers were upgraded last month.",
+      "vietnamese": "Máy tính của chúng tôi đã được nâng cấp tháng trước."
+    },
+    "18": {
+      "english": "Work assignments appear on the noticeboard.",
+      "vietnamese": "Các phân công công việc được đăng trên bảng thông báo."
+    },
+    "19": {
+      "english": "Brochures were distributed at the entrance.",
+      "vietnamese": "Tờ quảng cáo được phát ở lối vào."
+    },
+    "20": {
+      "english": "We are concerned about rising costs.",
+      "vietnamese": "Chúng tôi lo ngại về chi phí tăng cao."
+    },
+    "21": {
+      "english": "The new ramp improves accessibility.",
+      "vietnamese": "Đường dốc mới giúp việc tiếp cận dễ dàng hơn."
+    },
+    "22": {
+      "english": "The training coordinator booked a classroom.",
+      "vietnamese": "Điều phối viên đào tạo đã đặt phòng học."
+    },
+    "23": {
+      "english": "Security checks every visitor's identification.",
+      "vietnamese": "Bộ phận bảo vệ kiểm tra giấy tờ của mọi khách đến."
+    },
+    "24": {
+      "english": "The maintenance supervisor inspected the elevator.",
+      "vietnamese": "Giám sát viên bảo trì đã kiểm tra thang máy."
+    },
+    "25": {
+      "english": "Contact the technical support department for assistance.",
+      "vietnamese": "Liên hệ phòng hỗ trợ kỹ thuật để được trợ giúp."
+    },
+    "26": {
+      "english": "The hotel provides catering services.",
+      "vietnamese": "Khách sạn cung cấp dịch vụ tiệc."
+    },
+    "27": {
+      "english": "The banquet follows the awards ceremony.",
+      "vietnamese": "Bữa tiệc diễn ra sau lễ trao giải."
+    },
+    "28": {
+      "english": "The florist delivered beautiful flower arrangements.",
+      "vietnamese": "Người bán hoa đã giao những bình hoa được cắm đẹp mắt."
+    },
+    "29": {
+      "english": "We provide free parking for guests.",
+      "vietnamese": "Chúng tôi cung cấp chỗ đỗ xe miễn phí cho khách."
+    },
+    "30": {
+      "english": "Delivery instructions are printed on the label.",
+      "vietnamese": "Hướng dẫn giao hàng được in trên nhãn."
+    },
+    "31": {
+      "english": "Large orders require advance notice.",
+      "vietnamese": "Đơn hàng lớn cần được thông báo trước."
+    },
+    "32": {
+      "english": "All visitors require a security pass.",
+      "vietnamese": "Tất cả khách đến cần có thẻ ra vào."
+    },
+    "33": {
+      "english": "Our new line of cookware is affordable.",
+      "vietnamese": "Dòng dụng cụ nấu ăn mới của chúng tôi có giá phải chăng."
+    },
+    "34": {
+      "english": "The company launched a new website.",
+      "vietnamese": "Công ty đã ra mắt trang web mới."
+    },
+    "35": {
+      "english": "The documentary explores sustainable farming.",
+      "vietnamese": "Bộ phim tài liệu tìm hiểu về nông nghiệp bền vững."
+    },
+    "36": {
+      "english": "This hotel is known for excellent service.",
+      "vietnamese": "Khách sạn này nổi tiếng về dịch vụ tuyệt vời."
+    },
+    "37": {
+      "english": "Owning a restaurant requires careful planning.",
+      "vietnamese": "Sở hữu nhà hàng đòi hỏi lập kế hoạch cẩn thận."
+    },
+    "38": {
+      "english": "The chain of stores is expanding.",
+      "vietnamese": "Chuỗi cửa hàng đang mở rộng."
+    },
+    "39": {
+      "english": "Her magazine column covers business travel.",
+      "vietnamese": "Chuyên mục tạp chí của cô ấy viết về đi công tác."
+    },
+    "40": {
+      "english": "Registering online takes only a minute.",
+      "vietnamese": "Đăng ký trực tuyến chỉ mất một phút."
+    },
+    "41": {
+      "english": "Subscribing to the journal includes online access.",
+      "vietnamese": "Đăng ký tạp chí bao gồm quyền truy cập trực tuyến."
+    },
+    "42": {
+      "english": "Our newsletter announces upcoming events.",
+      "vietnamese": "Bản tin của chúng tôi thông báo các sự kiện sắp tới."
+    },
+    "43": {
+      "english": "Late cancellations incur a fee.",
+      "vietnamese": "Việc hủy muộn sẽ bị tính phí."
+    },
+    "44": {
+      "english": "Fresh flower arrangements decorated the reception desk.",
+      "vietnamese": "Những bình hoa tươi trang trí quầy lễ tân."
+    },
+    "45": {
+      "english": "The awards banquet takes place tonight.",
+      "vietnamese": "Bữa tiệc trao giải diễn ra tối nay."
+    },
+    "46": {
+      "english": "We specialize in office renovations.",
+      "vietnamese": "Chúng tôi chuyên cải tạo văn phòng."
+    },
+    "47": {
+      "english": "The centerpieces matched the tablecloths.",
+      "vietnamese": "Các vật trang trí giữa bàn phù hợp với khăn trải bàn."
+    },
+    "48": {
+      "english": "Please reserve your seat in advance.",
+      "vietnamese": "Vui lòng đặt chỗ trước."
+    },
+    "49": {
+      "english": "These batteries are currently in stock.",
+      "vietnamese": "Những loại pin này hiện có sẵn trong kho."
+    },
+    "50": {
+      "english": "She teaches at a culinary institute.",
+      "vietnamese": "Cô ấy giảng dạy tại một học viện ẩm thực."
+    }
+  },
+  "lesson-8": {
+    "1": {
+      "english": "Thank you for the invitation.",
+      "vietnamese": "Cảm ơn bạn về lời mời."
+    },
+    "2": {
+      "english": "The passenger looked confused.",
+      "vietnamese": "Hành khách trông có vẻ bối rối."
+    },
+    "3": {
+      "english": "The reimbursement process takes five days.",
+      "vietnamese": "Quy trình hoàn tiền mất năm ngày."
+    },
+    "4": {
+      "english": "Both parties accepted the terms.",
+      "vietnamese": "Cả hai bên đã chấp nhận các điều khoản."
+    },
+    "5": {
+      "english": "Our itinerary includes two factory visits.",
+      "vietnamese": "Lịch trình của chúng tôi gồm hai chuyến thăm nhà máy."
+    },
+    "6": {
+      "english": "Consult the manual for cleaning instructions.",
+      "vietnamese": "Tham khảo sách hướng dẫn để biết cách vệ sinh."
+    },
+    "7": {
+      "english": "An electronic version is available online.",
+      "vietnamese": "Phiên bản điện tử có sẵn trên mạng."
+    },
+    "8": {
+      "english": "A malfunction stopped the conveyor belt.",
+      "vietnamese": "Một trục trặc đã làm băng chuyền dừng lại."
+    },
+    "9": {
+      "english": "Our refund policy is clearly stated.",
+      "vietnamese": "Chính sách hoàn tiền của chúng tôi được nêu rõ."
+    },
+    "10": {
+      "english": "She requested an extension of the deadline.",
+      "vietnamese": "Cô ấy đề nghị gia hạn thời hạn."
+    },
+    "11": {
+      "english": "The manager addressed my complaint promptly.",
+      "vietnamese": "Quản lý đã giải quyết khiếu nại của tôi nhanh chóng."
+    },
+    "12": {
+      "english": "Service at this branch is inconsistent.",
+      "vietnamese": "Dịch vụ ở chi nhánh này không ổn định."
+    },
+    "13": {
+      "english": "The filing system is disorganized.",
+      "vietnamese": "Hệ thống lưu trữ hồ sơ rất lộn xộn."
+    },
+    "14": {
+      "english": "Profits increased during the summer.",
+      "vietnamese": "Lợi nhuận tăng trong mùa hè."
+    },
+    "15": {
+      "english": "The council approved the development plan.",
+      "vietnamese": "Hội đồng đã thông qua kế hoạch phát triển."
+    },
+    "16": {
+      "english": "The building passed its safety inspection.",
+      "vietnamese": "Tòa nhà đã vượt qua đợt kiểm tra an toàn."
+    },
+    "17": {
+      "english": "Staff members will offer assistance.",
+      "vietnamese": "Các nhân viên sẽ hỗ trợ."
+    },
+    "18": {
+      "english": "She deserves recognition for her work.",
+      "vietnamese": "Cô ấy xứng đáng được ghi nhận vì công việc của mình."
+    },
+    "19": {
+      "english": "His promotion was announced yesterday.",
+      "vietnamese": "Việc thăng chức của anh ấy được công bố hôm qua."
+    },
+    "20": {
+      "english": "We will postpone the outdoor concert.",
+      "vietnamese": "Chúng tôi sẽ hoãn buổi hòa nhạc ngoài trời."
+    },
+    "21": {
+      "english": "The anniversary celebration begins at six.",
+      "vietnamese": "Lễ kỷ niệm bắt đầu lúc sáu giờ."
+    },
+    "22": {
+      "english": "Let me introduce our new director.",
+      "vietnamese": "Để tôi giới thiệu giám đốc mới của chúng tôi."
+    },
+    "23": {
+      "english": "Please provide your contact details.",
+      "vietnamese": "Vui lòng cung cấp thông tin liên hệ."
+    },
+    "24": {
+      "english": "The instructor demonstrated the safety procedure.",
+      "vietnamese": "Người hướng dẫn đã làm mẫu quy trình an toàn."
+    },
+    "25": {
+      "english": "The clerk checked the receipt.",
+      "vietnamese": "Nhân viên bán hàng đã kiểm tra hóa đơn."
+    },
+    "26": {
+      "english": "An electrician repaired the faulty wiring.",
+      "vietnamese": "Thợ điện đã sửa hệ thống dây điện bị lỗi."
+    },
+    "27": {
+      "english": "The manual explains the safety features.",
+      "vietnamese": "Sách hướng dẫn giải thích các tính năng an toàn."
+    },
+    "28": {
+      "english": "Please keep these important documents safe.",
+      "vietnamese": "Vui lòng giữ an toàn các tài liệu quan trọng này."
+    },
+    "29": {
+      "english": "The meeting minutes were emailed today.",
+      "vietnamese": "Biên bản cuộc họp đã được gửi qua email hôm nay."
+    },
+    "30": {
+      "english": "The parking signs are confusing.",
+      "vietnamese": "Các biển chỉ dẫn đỗ xe gây khó hiểu."
+    },
+    "31": {
+      "english": "Forms are on the internal Web site.",
+      "vietnamese": "Các mẫu đơn có trên trang web nội bộ."
+    },
+    "32": {
+      "english": "The reimbursement procedures have changed.",
+      "vietnamese": "Thủ tục hoàn tiền đã thay đổi."
+    },
+    "33": {
+      "english": "Deliveries must arrive during office hours.",
+      "vietnamese": "Hàng phải được giao trong giờ làm việc."
+    },
+    "34": {
+      "english": "We occasionally work on Saturdays.",
+      "vietnamese": "Thỉnh thoảng chúng tôi làm việc vào thứ Bảy."
+    },
+    "35": {
+      "english": "Customer complaints have decreased.",
+      "vietnamese": "Các lời phàn nàn của khách hàng đã giảm."
+    },
+    "36": {
+      "english": "Your feedback is valuable to us.",
+      "vietnamese": "Phản hồi của bạn rất có giá trị với chúng tôi."
+    },
+    "37": {
+      "english": "She consistently meets her sales targets.",
+      "vietnamese": "Cô ấy đều đặn đạt chỉ tiêu doanh số."
+    },
+    "38": {
+      "english": "You will receive a confirmation email.",
+      "vietnamese": "Bạn sẽ nhận được email xác nhận."
+    },
+    "39": {
+      "english": "The team achieved outstanding results.",
+      "vietnamese": "Nhóm đã đạt kết quả xuất sắc."
+    },
+    "40": {
+      "english": "Performance reviews take place every December.",
+      "vietnamese": "Việc đánh giá hiệu suất diễn ra vào mỗi tháng Mười Hai."
+    },
+    "41": {
+      "english": "Safety is everyone's responsibility.",
+      "vietnamese": "An toàn là trách nhiệm của mọi người."
+    },
+    "42": {
+      "english": "Report lost keys to the Security Office.",
+      "vietnamese": "Báo mất chìa khóa cho phòng bảo vệ."
+    },
+    "43": {
+      "english": "Employees must wear their badges.",
+      "vietnamese": "Nhân viên phải đeo thẻ nhân viên."
+    },
+    "44": {
+      "english": "Her promotion comes with a salary increase.",
+      "vietnamese": "Việc thăng chức của cô ấy đi kèm tăng lương."
+    },
+    "45": {
+      "english": "Do not leave personal belongings unattended.",
+      "vietnamese": "Đừng để đồ cá nhân mà không trông coi."
+    },
+    "46": {
+      "english": "We took inventory before placing orders.",
+      "vietnamese": "Chúng tôi đã kiểm kê trước khi đặt hàng."
+    },
+    "47": {
+      "english": "Dust accumulated on the unused shelves.",
+      "vietnamese": "Bụi đã tích tụ trên những kệ không dùng đến."
+    },
+    "48": {
+      "english": "Flatten the cardboard boxes for recycling.",
+      "vietnamese": "Làm phẳng các thùng giấy carton để tái chế."
+    },
+    "49": {
+      "english": "According to the schedule, boarding starts now.",
+      "vietnamese": "Theo lịch trình, việc lên máy bay bắt đầu ngay bây giờ."
+    },
+    "50": {
+      "english": "This device runs on battery power.",
+      "vietnamese": "Thiết bị này hoạt động bằng pin."
+    }
+  },
+  "lesson-9": {
+    "1": {
+      "english": "Please confirm your arrival time.",
+      "vietnamese": "Vui lòng xác nhận giờ đến của bạn."
+    },
+    "2": {
+      "english": "Your seat assignment appears on the ticket.",
+      "vietnamese": "Chỗ ngồi được phân cho bạn ghi trên vé."
+    },
+    "3": {
+      "english": "Our travel policy covers meal expenses.",
+      "vietnamese": "Chính sách đi công tác của chúng tôi bao gồm chi phí ăn uống."
+    },
+    "4": {
+      "english": "The car rental agency closes at eight.",
+      "vietnamese": "Đại lý cho thuê xe đóng cửa lúc tám giờ."
+    },
+    "5": {
+      "english": "Meet us at baggage claim.",
+      "vietnamese": "Gặp chúng tôi ở khu nhận hành lý ký gửi."
+    },
+    "6": {
+      "english": "Please show your identification card.",
+      "vietnamese": "Vui lòng xuất trình giấy tờ tùy thân."
+    },
+    "7": {
+      "english": "Late checkout involves an additional charge.",
+      "vietnamese": "Trả phòng muộn sẽ phát sinh phụ phí."
+    },
+    "8": {
+      "english": "The gift shop sells local souvenirs.",
+      "vietnamese": "Cửa hàng quà tặng bán đồ lưu niệm địa phương."
+    },
+    "9": {
+      "english": "The lab technician labeled each sample.",
+      "vietnamese": "Kỹ thuật viên phòng thí nghiệm đã dán nhãn từng mẫu."
+    },
+    "10": {
+      "english": "The receptionist answered the phone.",
+      "vietnamese": "Nhân viên lễ tân đã trả lời điện thoại."
+    },
+    "11": {
+      "english": "The pharmacist explained the label.",
+      "vietnamese": "Dược sĩ đã giải thích nhãn thuốc."
+    },
+    "12": {
+      "english": "Check the quantity before signing.",
+      "vietnamese": "Kiểm tra số lượng trước khi ký."
+    },
+    "13": {
+      "english": "Medical records are stored securely.",
+      "vietnamese": "Hồ sơ y tế được lưu trữ an toàn."
+    },
+    "14": {
+      "english": "We celebrated the company's tenth anniversary.",
+      "vietnamese": "Chúng tôi đã mừng kỷ niệm mười năm thành lập công ty."
+    },
+    "15": {
+      "english": "The grand opening attracted many shoppers.",
+      "vietnamese": "Lễ khai trương thu hút nhiều người mua sắm."
+    },
+    "16": {
+      "english": "Regular maintenance prevents costly repairs.",
+      "vietnamese": "Bảo trì thường xuyên giúp tránh sửa chữa tốn kém."
+    },
+    "17": {
+      "english": "Security has been increased at headquarters.",
+      "vietnamese": "An ninh đã được tăng cường tại trụ sở."
+    },
+    "18": {
+      "english": "She studied accounting at university.",
+      "vietnamese": "Cô ấy học kế toán ở đại học."
+    },
+    "19": {
+      "english": "The interior decorator selected new curtains.",
+      "vietnamese": "Nhà thiết kế nội thất đã chọn rèm mới."
+    },
+    "20": {
+      "english": "The renovation will take three weeks.",
+      "vietnamese": "Việc cải tạo sẽ mất ba tuần."
+    },
+    "21": {
+      "english": "Visitors have limited access to this floor.",
+      "vietnamese": "Khách chỉ được tiếp cận tầng này ở phạm vi hạn chế."
+    },
+    "22": {
+      "english": "He is demonstrating the new blender.",
+      "vietnamese": "Anh ấy đang trình diễn tính năng máy xay mới."
+    },
+    "23": {
+      "english": "Each appliance includes a warranty.",
+      "vietnamese": "Mỗi thiết bị gia dụng đều có bảo hành."
+    },
+    "24": {
+      "english": "This train car has reserved seating.",
+      "vietnamese": "Toa tàu này có chỗ ngồi đặt trước."
+    },
+    "25": {
+      "english": "Pardon me, which platform should I use?",
+      "vietnamese": "Xin lỗi, tôi nên lên tàu ở sân ga nào?"
+    },
+    "26": {
+      "english": "Place your bag on the overhead rack.",
+      "vietnamese": "Đặt túi của bạn lên giá phía trên đầu."
+    },
+    "27": {
+      "english": "We charge a small delivery fee.",
+      "vietnamese": "Chúng tôi tính một khoản phí giao hàng nhỏ."
+    },
+    "28": {
+      "english": "There is no extra fee for parking.",
+      "vietnamese": "Không có phụ phí đỗ xe."
+    },
+    "29": {
+      "english": "The truck needs more fuel.",
+      "vietnamese": "Xe tải cần thêm nhiên liệu."
+    },
+    "30": {
+      "english": "We stopped at a rest area.",
+      "vietnamese": "Chúng tôi đã dừng tại một trạm dừng chân."
+    },
+    "31": {
+      "english": "The university offers courses in dentistry.",
+      "vietnamese": "Trường đại học có các khóa học về nha khoa."
+    },
+    "32": {
+      "english": "Please confirm your appointment by email.",
+      "vietnamese": "Vui lòng xác nhận cuộc hẹn qua email."
+    },
+    "33": {
+      "english": "She scheduled a sales call for Tuesday.",
+      "vietnamese": "Cô ấy đã lên lịch gọi bán hàng vào thứ Ba."
+    },
+    "34": {
+      "english": "We appreciate your patience.",
+      "vietnamese": "Chúng tôi cảm kích sự kiên nhẫn của bạn."
+    },
+    "35": {
+      "english": "The dental workshop includes practical demonstrations.",
+      "vietnamese": "Hội thảo nha khoa có các phần trình diễn thực hành."
+    },
+    "36": {
+      "english": "Please mark down the delivery date.",
+      "vietnamese": "Vui lòng ghi lại ngày giao hàng."
+    },
+    "37": {
+      "english": "The store entrance faces the station.",
+      "vietnamese": "Lối vào cửa hàng hướng về phía nhà ga."
+    },
+    "38": {
+      "english": "Camping equipment is available for rent.",
+      "vietnamese": "Thiết bị cắm trại hiện có sẵn để cho thuê."
+    },
+    "39": {
+      "english": "Bring the package and drop it off here.",
+      "vietnamese": "Mang gói hàng đến và gửi tại đây."
+    },
+    "40": {
+      "english": "The sales executive negotiated the contract.",
+      "vietnamese": "Giám đốc kinh doanh đã đàm phán hợp đồng."
+    },
+    "41": {
+      "english": "This role requires customer service experience.",
+      "vietnamese": "Vị trí này yêu cầu kinh nghiệm dịch vụ khách hàng."
+    },
+    "42": {
+      "english": "I looked it up in the directory.",
+      "vietnamese": "Tôi đã tra thông tin đó trong danh bạ."
+    },
+    "43": {
+      "english": "Our department meeting starts at ten.",
+      "vietnamese": "Cuộc họp bộ phận của chúng tôi bắt đầu lúc mười giờ."
+    },
+    "44": {
+      "english": "The brochure introduces our latest products.",
+      "vietnamese": "Tờ quảng cáo giới thiệu các sản phẩm mới nhất của chúng tôi."
+    },
+    "45": {
+      "english": "The seminar offers useful strategies for negotiation.",
+      "vietnamese": "Hội thảo cung cấp các chiến lược đàm phán hữu ích."
+    },
+    "46": {
+      "english": "The apartment building manager handles repairs.",
+      "vietnamese": "Quản lý tòa nhà chung cư phụ trách sửa chữa."
+    },
+    "47": {
+      "english": "Our rental agreement expires next month.",
+      "vietnamese": "Hợp đồng thuê nhà của chúng tôi hết hạn tháng tới."
+    },
+    "48": {
+      "english": "Hotel amenities include a pool.",
+      "vietnamese": "Tiện ích khách sạn bao gồm hồ bơi."
+    },
+    "49": {
+      "english": "The corner unit has extra windows.",
+      "vietnamese": "Căn hộ góc có thêm cửa sổ."
+    },
+    "50": {
+      "english": "We chose the farthest parking space.",
+      "vietnamese": "Chúng tôi đã chọn chỗ đỗ xe xa nhất."
+    }
+  },
+  "lesson-10": {
+    "1": {
+      "english": "We accept all major credit cards.",
+      "vietnamese": "Chúng tôi chấp nhận mọi loại thẻ tín dụng phổ biến."
+    },
+    "2": {
+      "english": "Join our customer loyalty program today.",
+      "vietnamese": "Tham gia chương trình khách hàng thân thiết hôm nay."
+    },
+    "3": {
+      "english": "Express shipping rates vary by destination.",
+      "vietnamese": "Cước vận chuyển hỏa tốc thay đổi tùy điểm đến."
+    },
+    "4": {
+      "english": "Please provide proof of ownership.",
+      "vietnamese": "Vui lòng cung cấp giấy tờ chứng minh quyền sở hữu."
+    },
+    "5": {
+      "english": "The vehicle passed its mechanical inspection.",
+      "vietnamese": "Xe đã vượt qua đợt kiểm tra kỹ thuật."
+    },
+    "6": {
+      "english": "Traffic was redirected around the construction site.",
+      "vietnamese": "Giao thông đã được chuyển hướng vòng qua công trường."
+    },
+    "7": {
+      "english": "A representative will contact you tomorrow.",
+      "vietnamese": "Một nhân viên đại diện sẽ liên hệ bạn ngày mai."
+    },
+    "8": {
+      "english": "Listen carefully to the announcement.",
+      "vietnamese": "Lắng nghe thông báo thật kỹ."
+    },
+    "9": {
+      "english": "The book fair opens on Saturday.",
+      "vietnamese": "Hội chợ sách khai mạc vào thứ Bảy."
+    },
+    "10": {
+      "english": "The product launch attracted several journalists.",
+      "vietnamese": "Buổi ra mắt sản phẩm thu hút một số nhà báo."
+    },
+    "11": {
+      "english": "The charity fundraiser exceeded its goal.",
+      "vietnamese": "Buổi gây quỹ từ thiện đã vượt mục tiêu."
+    },
+    "12": {
+      "english": "A focus group tested the packaging.",
+      "vietnamese": "Một nhóm nghiên cứu thị trường đã đánh giá bao bì."
+    },
+    "13": {
+      "english": "Please use the alternate entrance.",
+      "vietnamese": "Vui lòng sử dụng lối vào thay thế."
+    },
+    "14": {
+      "english": "Park only in designated spaces.",
+      "vietnamese": "Chỉ đỗ xe tại các chỗ được chỉ định."
+    },
+    "15": {
+      "english": "The investment banker reviewed the proposal.",
+      "vietnamese": "Nhân viên ngân hàng đầu tư đã xem xét đề xuất."
+    },
+    "16": {
+      "english": "A city official opened the new library.",
+      "vietnamese": "Một quan chức thành phố đã khai trương thư viện mới."
+    },
+    "17": {
+      "english": "The food scientist tested the samples.",
+      "vietnamese": "Nhà khoa học thực phẩm đã kiểm tra các mẫu."
+    },
+    "18": {
+      "english": "Send the contract to our corporate office.",
+      "vietnamese": "Gửi hợp đồng đến văn phòng công ty chúng tôi."
+    },
+    "19": {
+      "english": "Signs warn drivers about the sharp turn.",
+      "vietnamese": "Biển báo cảnh báo tài xế về khúc cua gấp."
+    },
+    "20": {
+      "english": "Proper attire is required in the dining room.",
+      "vietnamese": "Phòng ăn yêu cầu trang phục phù hợp."
+    },
+    "21": {
+      "english": "Please record all expenses accurately.",
+      "vietnamese": "Vui lòng ghi chính xác mọi khoản chi."
+    },
+    "22": {
+      "english": "Taking inventory helps prevent stock shortages.",
+      "vietnamese": "Kiểm kê hàng hóa giúp ngăn ngừa thiếu hàng."
+    },
+    "23": {
+      "english": "She studied accounting at university.",
+      "vietnamese": "Cô ấy học kế toán ở đại học."
+    },
+    "24": {
+      "english": "Tourism supports many local businesses.",
+      "vietnamese": "Du lịch hỗ trợ nhiều doanh nghiệp địa phương."
+    },
+    "25": {
+      "english": "She studied interior design.",
+      "vietnamese": "Cô ấy đã học thiết kế nội thất."
+    },
+    "26": {
+      "english": "Our strategies focus on customer retention.",
+      "vietnamese": "Các chiến lược của chúng tôi tập trung vào giữ chân khách hàng."
+    },
+    "27": {
+      "english": "The conference explores international trade.",
+      "vietnamese": "Hội nghị tìm hiểu về thương mại quốc tế."
+    },
+    "28": {
+      "english": "Modern home-decorating styles favor simple furniture.",
+      "vietnamese": "Các phong cách trang trí nhà hiện đại ưa chuộng nội thất đơn giản."
+    },
+    "29": {
+      "english": "Effective speech-writing techniques improve audience engagement.",
+      "vietnamese": "Kỹ thuật viết diễn văn hiệu quả giúp thu hút khán giả hơn."
+    },
+    "30": {
+      "english": "We will split the delivery costs.",
+      "vietnamese": "Chúng tôi sẽ chia nhau chi phí giao hàng."
+    },
+    "31": {
+      "english": "Participants formed small discussion groups.",
+      "vietnamese": "Người tham gia chia thành các nhóm thảo luận nhỏ."
+    },
+    "32": {
+      "english": "The monument stands near the station.",
+      "vietnamese": "Tượng đài nằm gần nhà ga."
+    },
+    "33": {
+      "english": "A celebrity attended the opening ceremony.",
+      "vietnamese": "Một người nổi tiếng đã dự lễ khai mạc."
+    },
+    "34": {
+      "english": "The airport handles international flights.",
+      "vietnamese": "Sân bay phục vụ các chuyến bay quốc tế."
+    },
+    "35": {
+      "english": "Our company has expanded overseas.",
+      "vietnamese": "Công ty chúng tôi đã mở rộng ra nước ngoài."
+    },
+    "36": {
+      "english": "Quality control checks occur daily.",
+      "vietnamese": "Các đợt kiểm soát chất lượng diễn ra hằng ngày."
+    },
+    "37": {
+      "english": "The staffing transition went smoothly.",
+      "vietnamese": "Việc chuyển giao nhân sự diễn ra suôn sẻ."
+    },
+    "38": {
+      "english": "Your responsibilities include processing orders.",
+      "vietnamese": "Trách nhiệm của bạn bao gồm xử lý đơn hàng."
+    },
+    "39": {
+      "english": "The new invoice process saves time.",
+      "vietnamese": "Quy trình xử lý hóa đơn mới tiết kiệm thời gian."
+    },
+    "40": {
+      "english": "Educational technology supports remote learning.",
+      "vietnamese": "Công nghệ giáo dục hỗ trợ học từ xa."
+    },
+    "41": {
+      "english": "The convention attracted industry leaders.",
+      "vietnamese": "Hội nghị thu hút các lãnh đạo trong ngành."
+    },
+    "42": {
+      "english": "The laboratory is closed for cleaning.",
+      "vietnamese": "Phòng thí nghiệm đóng cửa để vệ sinh."
+    },
+    "43": {
+      "english": "Corporate headquarters will relocate next year.",
+      "vietnamese": "Trụ sở chính công ty sẽ chuyển địa điểm năm tới."
+    },
+    "44": {
+      "english": "Complimentary beverages are available in the lounge.",
+      "vietnamese": "Đồ uống miễn phí có sẵn tại phòng chờ."
+    },
+    "45": {
+      "english": "This firm specializes in commercial property.",
+      "vietnamese": "Công ty này chuyên về bất động sản thương mại."
+    },
+    "46": {
+      "english": "Our firm offers international tax preparation.",
+      "vietnamese": "Công ty chúng tôi cung cấp dịch vụ lập hồ sơ thuế quốc tế."
+    },
+    "47": {
+      "english": "City officials reviewed the traffic plan.",
+      "vietnamese": "Các quan chức thành phố đã xem xét kế hoạch giao thông."
+    },
+    "48": {
+      "english": "The fund-raising dinner sold out.",
+      "vietnamese": "Vé dự tiệc tối gây quỹ đã bán hết."
+    },
+    "49": {
+      "english": "The exhibition was a huge success.",
+      "vietnamese": "Triển lãm đã thành công lớn."
+    },
+    "50": {
+      "english": "The project supported the creation of jobs.",
+      "vietnamese": "Dự án hỗ trợ tạo ra việc làm."
+    }
+  },
+  "lesson-11": {
+    "1": {
+      "english": "The art supply store sells brushes.",
+      "vietnamese": "Cửa hàng dụng cụ mỹ thuật bán cọ vẽ."
+    },
+    "2": {
+      "english": "Buy replacement screws at the hardware store.",
+      "vietnamese": "Mua vít thay thế tại cửa hàng kim khí."
+    },
+    "3": {
+      "english": "The product demonstration starts shortly.",
+      "vietnamese": "Buổi giới thiệu sản phẩm sắp bắt đầu."
+    },
+    "4": {
+      "english": "Our discussion-group meeting ended at noon.",
+      "vietnamese": "Buổi họp nhóm thảo luận kết thúc vào buổi trưa."
+    },
+    "5": {
+      "english": "Refreshments will be served during the break.",
+      "vietnamese": "Đồ ăn nhẹ và nước uống sẽ được phục vụ giờ nghỉ."
+    },
+    "6": {
+      "english": "The appliance salesperson explained the features.",
+      "vietnamese": "Nhân viên bán thiết bị gia dụng đã giải thích các tính năng."
+    },
+    "7": {
+      "english": "A repair technician checked the printer.",
+      "vietnamese": "Kỹ thuật viên sửa chữa đã kiểm tra máy in."
+    },
+    "8": {
+      "english": "Submit your receipt to claim the rebate.",
+      "vietnamese": "Nộp hóa đơn để nhận khoản hoàn tiền."
+    },
+    "9": {
+      "english": "The expired warranty no longer covers repairs.",
+      "vietnamese": "Bảo hành đã hết hạn không còn chi trả sửa chữa."
+    },
+    "10": {
+      "english": "The parking garage is temporarily inaccessible.",
+      "vietnamese": "Tạm thời không thể vào nhà để xe."
+    },
+    "11": {
+      "english": "Bring the broken appliance to our workshop.",
+      "vietnamese": "Mang thiết bị gia dụng bị hỏng đến xưởng chúng tôi."
+    },
+    "12": {
+      "english": "Please drop off the keys at reception.",
+      "vietnamese": "Vui lòng gửi chìa khóa tại quầy lễ tân."
+    },
+    "13": {
+      "english": "You can make a payment online.",
+      "vietnamese": "Bạn có thể thanh toán trực tuyến."
+    },
+    "14": {
+      "english": "The procedure is described in the manual.",
+      "vietnamese": "Quy trình được mô tả trong sách hướng dẫn."
+    },
+    "15": {
+      "english": "Competition has lowered prices.",
+      "vietnamese": "Sự cạnh tranh đã làm giá giảm."
+    },
+    "16": {
+      "english": "Watch the demonstration video before assembly.",
+      "vietnamese": "Xem video hướng dẫn trước khi lắp ráp."
+    },
+    "17": {
+      "english": "Connecting flight information appears on the screens.",
+      "vietnamese": "Thông tin chuyến bay nối chuyến hiển thị trên màn hình."
+    },
+    "18": {
+      "english": "Describe your lost item to the clerk.",
+      "vietnamese": "Mô tả món đồ bị mất cho nhân viên."
+    },
+    "19": {
+      "english": "The flight cancellation disrupted our schedule.",
+      "vietnamese": "Việc hủy chuyến bay làm gián đoạn lịch trình của chúng tôi."
+    },
+    "20": {
+      "english": "The advertising seminar covers digital marketing.",
+      "vietnamese": "Hội thảo quảng cáo đề cập đến tiếp thị kỹ thuật số."
+    },
+    "21": {
+      "english": "Company finances improved this quarter.",
+      "vietnamese": "Tài chính công ty đã cải thiện trong quý này."
+    },
+    "22": {
+      "english": "Human resources will arrange the interviews.",
+      "vietnamese": "Bộ phận nhân sự sẽ sắp xếp các cuộc phỏng vấn."
+    },
+    "23": {
+      "english": "Our competitors offer similar services.",
+      "vietnamese": "Các đối thủ của chúng tôi cung cấp dịch vụ tương tự."
+    },
+    "24": {
+      "english": "The bookstore specializes in contemporary fiction.",
+      "vietnamese": "Hiệu sách chuyên về tiểu thuyết đương đại."
+    },
+    "25": {
+      "english": "Art supplies are on the second floor.",
+      "vietnamese": "Dụng cụ mỹ thuật ở tầng hai."
+    },
+    "26": {
+      "english": "Submissions must arrive by Friday.",
+      "vietnamese": "Các bài nộp phải đến trước hoặc trong thứ Sáu."
+    },
+    "27": {
+      "english": "The workshop welcomes aspiring photographers.",
+      "vietnamese": "Buổi tập huấn chào đón những người mong muốn trở thành nhiếp ảnh gia."
+    },
+    "28": {
+      "english": "You need permission to use this image.",
+      "vietnamese": "Bạn cần được cho phép để sử dụng hình ảnh này."
+    },
+    "29": {
+      "english": "Her absence delayed the decision.",
+      "vietnamese": "Sự vắng mặt của cô ấy làm chậm quyết định."
+    },
+    "30": {
+      "english": "The Annual Cook-Off attracts local chefs.",
+      "vietnamese": "Cuộc thi nấu ăn thường niên thu hút đầu bếp địa phương."
+    },
+    "31": {
+      "english": "A panel of judges tasted each dish.",
+      "vietnamese": "Ban giám khảo đã nếm từng món ăn."
+    },
+    "32": {
+      "english": "The dish earned praise for its presentation.",
+      "vietnamese": "Món ăn được khen về cách trình bày."
+    },
+    "33": {
+      "english": "Customers appreciate the uniqueness of our designs.",
+      "vietnamese": "Khách hàng đánh giá cao sự độc đáo trong thiết kế của chúng tôi."
+    },
+    "34": {
+      "english": "Complete the contest registration form online.",
+      "vietnamese": "Điền phiếu đăng ký dự thi trực tuyến."
+    },
+    "35": {
+      "english": "Keep in mind that parking is limited.",
+      "vietnamese": "Lưu ý rằng chỗ đỗ xe có hạn."
+    },
+    "36": {
+      "english": "She works for an investment firm.",
+      "vietnamese": "Cô ấy làm việc cho một công ty đầu tư."
+    },
+    "37": {
+      "english": "Consultant fees are included in the budget.",
+      "vietnamese": "Phí tư vấn đã được tính vào ngân sách."
+    },
+    "38": {
+      "english": "May I have your business card?",
+      "vietnamese": "Tôi có thể xin danh thiếp của bạn không?"
+    },
+    "39": {
+      "english": "Inclement weather delayed the delivery.",
+      "vietnamese": "Thời tiết khắc nghiệt làm chậm việc giao hàng."
+    },
+    "40": {
+      "english": "We made alternative travel arrangements.",
+      "vietnamese": "Chúng tôi đã sắp xếp phương án đi lại thay thế."
+    },
+    "41": {
+      "english": "Check your boarding zone numbers carefully.",
+      "vietnamese": "Kiểm tra kỹ số khu vực lên máy bay của bạn."
+    },
+    "42": {
+      "english": "Please have your boarding passes ready.",
+      "vietnamese": "Vui lòng chuẩn bị sẵn thẻ lên máy bay."
+    },
+    "43": {
+      "english": "A separate announcement will explain the changes.",
+      "vietnamese": "Một thông báo riêng sẽ giải thích những thay đổi."
+    },
+    "44": {
+      "english": "Please retrieve your luggage from the carousel.",
+      "vietnamese": "Vui lòng lấy hành lý từ băng chuyền."
+    },
+    "45": {
+      "english": "Thank you for your patience.",
+      "vietnamese": "Cảm ơn sự kiên nhẫn của bạn."
+    },
+    "46": {
+      "english": "Your cooperation helped us finish early.",
+      "vietnamese": "Sự hợp tác của bạn giúp chúng tôi hoàn thành sớm."
+    },
+    "47": {
+      "english": "Our yearly retreat includes team activities.",
+      "vietnamese": "Chuyến nghỉ dưỡng thường niên có các hoạt động nhóm."
+    },
+    "48": {
+      "english": "We now carry more of these lamps.",
+      "vietnamese": "Hiện chúng tôi bán nhiều loại đèn này hơn."
+    },
+    "49": {
+      "english": "The art section displays local paintings.",
+      "vietnamese": "Khu vực nghệ thuật trưng bày tranh địa phương."
+    },
+    "50": {
+      "english": "The sale will reduce excess inventory.",
+      "vietnamese": "Đợt giảm giá sẽ giảm hàng tồn kho dư thừa."
+    }
+  },
+  "lesson-12": {
+    "1": {
+      "english": "A branch hangs over the walkway.",
+      "vietnamese": "Một cành cây vươn ra trên lối đi."
+    },
+    "2": {
+      "english": "The worker is climbing a ladder.",
+      "vietnamese": "Người thợ đang leo thang."
+    },
+    "3": {
+      "english": "All equipment must be cleaned daily.",
+      "vietnamese": "Tất cả thiết bị phải được vệ sinh hằng ngày."
+    },
+    "4": {
+      "english": "The store displays its new merchandise near the entrance.",
+      "vietnamese": "Cửa hàng trưng bày hàng hóa mới gần lối vào."
+    },
+    "5": {
+      "english": "New products are on display.",
+      "vietnamese": "Các sản phẩm mới đang được trưng bày."
+    },
+    "6": {
+      "english": "The baker is wearing an apron.",
+      "vietnamese": "Thợ làm bánh đang mặc tạp dề."
+    },
+    "7": {
+      "english": "Her suitcase is beside the desk.",
+      "vietnamese": "Va li của cô ấy nằm cạnh bàn."
+    },
+    "8": {
+      "english": "Passengers are sitting on a bench.",
+      "vietnamese": "Hành khách đang ngồi trên ghế dài."
+    },
+    "9": {
+      "english": "Workers are setting up a tent.",
+      "vietnamese": "Công nhân đang dựng lều."
+    },
+    "10": {
+      "english": "Local artwork decorates the lobby.",
+      "vietnamese": "Tác phẩm nghệ thuật địa phương trang trí sảnh."
+    },
+    "11": {
+      "english": "A fan hangs from the ceiling.",
+      "vietnamese": "Một chiếc quạt treo trên trần nhà."
+    },
+    "12": {
+      "english": "Please stack the chairs neatly.",
+      "vietnamese": "Vui lòng xếp ghế thành chồng gọn gàng."
+    },
+    "13": {
+      "english": "Choose a beverage from the menu.",
+      "vietnamese": "Chọn đồ uống từ thực đơn."
+    },
+    "14": {
+      "english": "Hold the railing while climbing.",
+      "vietnamese": "Bám lan can khi đi lên."
+    },
+    "15": {
+      "english": "Visitors are descending the stairs.",
+      "vietnamese": "Khách tham quan đang xuống cầu thang."
+    },
+    "16": {
+      "english": "The projector needs a new bulb.",
+      "vietnamese": "Máy chiếu cần thay bóng đèn mới."
+    },
+    "17": {
+      "english": "We need to reposition the projector.",
+      "vietnamese": "Chúng tôi cần đổi vị trí máy chiếu."
+    },
+    "18": {
+      "english": "Printed material is available at reception.",
+      "vietnamese": "Tài liệu in sẵn có tại quầy lễ tân."
+    },
+    "19": {
+      "english": "Volunteers distribute maps to visitors.",
+      "vietnamese": "Tình nguyện viên phát bản đồ cho khách."
+    },
+    "20": {
+      "english": "The audience applauded the speaker.",
+      "vietnamese": "Khán giả vỗ tay tán thưởng diễn giả."
+    },
+    "21": {
+      "english": "Attach the label to the box.",
+      "vietnamese": "Dán nhãn lên hộp."
+    },
+    "22": {
+      "english": "This meeting room is unoccupied.",
+      "vietnamese": "Phòng họp này đang trống."
+    },
+    "23": {
+      "english": "Put the receipt in a file folder.",
+      "vietnamese": "Cho hóa đơn vào bìa kẹp hồ sơ."
+    },
+    "24": {
+      "english": "Her presentation explains the new policy.",
+      "vietnamese": "Bài thuyết trình của cô ấy giải thích chính sách mới."
+    },
+    "25": {
+      "english": "The technician had to kneel beside the machine to inspect the cable.",
+      "vietnamese": "Kỹ thuật viên phải quỳ xuống cạnh máy để kiểm tra dây cáp."
+    },
+    "26": {
+      "english": "She left her purse on the chair.",
+      "vietnamese": "Cô ấy để túi xách trên ghế."
+    },
+    "27": {
+      "english": "Customers are waiting at the checkout counter.",
+      "vietnamese": "Khách hàng đang đợi tại quầy thanh toán."
+    },
+    "28": {
+      "english": "Plants line the windowsill.",
+      "vietnamese": "Cây cảnh được xếp dọc bệ cửa sổ."
+    },
+    "29": {
+      "english": "The fishing pier is closed today.",
+      "vietnamese": "Cầu tàu câu cá đóng cửa hôm nay."
+    },
+    "30": {
+      "english": "A path circles the pond.",
+      "vietnamese": "Một lối đi bao quanh ao."
+    },
+    "31": {
+      "english": "Keep the milk in the refrigerator.",
+      "vietnamese": "Để sữa trong tủ lạnh."
+    },
+    "32": {
+      "english": "The chef added a handful of nuts.",
+      "vietnamese": "Đầu bếp thêm một nắm hạt."
+    },
+    "33": {
+      "english": "Twist the cap to open the bottle.",
+      "vietnamese": "Vặn nắp để mở chai."
+    },
+    "34": {
+      "english": "The electrician replaced the damaged wire.",
+      "vietnamese": "Thợ điện đã thay dây điện bị hỏng."
+    },
+    "35": {
+      "english": "Gardeners prune the trees each spring.",
+      "vietnamese": "Người làm vườn cắt tỉa cây mỗi mùa xuân."
+    },
+    "36": {
+      "english": "A flowering bush borders the driveway.",
+      "vietnamese": "Một bụi cây có hoa nằm cạnh lối xe vào."
+    },
+    "37": {
+      "english": "Spread the butter evenly on the bread.",
+      "vietnamese": "Phết bơ đều lên bánh mì."
+    },
+    "38": {
+      "english": "The workers are mixing cement.",
+      "vietnamese": "Các công nhân đang trộn xi măng."
+    },
+    "39": {
+      "english": "He moved the soil with a shovel.",
+      "vietnamese": "Anh ấy chuyển đất bằng xẻng."
+    },
+    "40": {
+      "english": "Be careful not to spill your coffee.",
+      "vietnamese": "Cẩn thận đừng làm đổ cà phê."
+    }
+  },
+  "lesson-13": {
+    "1": {
+      "english": "Untie the string before opening the package.",
+      "vietnamese": "Tháo dây trước khi mở gói hàng."
+    },
+    "2": {
+      "english": "The cook wore a cloth apron.",
+      "vietnamese": "Đầu bếp mặc tạp dề vải."
+    },
+    "3": {
+      "english": "Place empty bottles in the plastic bin.",
+      "vietnamese": "Cho chai rỗng vào thùng nhựa."
+    },
+    "4": {
+      "english": "Slice the bread before serving.",
+      "vietnamese": "Thái bánh mì trước khi phục vụ."
+    },
+    "5": {
+      "english": "She carried a bag of groceries.",
+      "vietnamese": "Cô ấy xách một túi thực phẩm."
+    },
+    "6": {
+      "english": "He leaned over the counter to sign.",
+      "vietnamese": "Anh ấy cúi người qua quầy để ký."
+    },
+    "7": {
+      "english": "A sign marks the entrance.",
+      "vietnamese": "Một biển báo đánh dấu lối vào."
+    },
+    "8": {
+      "english": "Count the cash before closing.",
+      "vietnamese": "Đếm tiền mặt trước khi đóng cửa."
+    },
+    "9": {
+      "english": "Please prop open the door during delivery.",
+      "vietnamese": "Vui lòng kê giữ cửa mở khi giao hàng."
+    },
+    "10": {
+      "english": "Workers are painting the fence.",
+      "vietnamese": "Công nhân đang sơn hàng rào."
+    },
+    "11": {
+      "english": "The light fixture above the desk flickers.",
+      "vietnamese": "Đèn phía trên bàn nhấp nháy."
+    },
+    "12": {
+      "english": "The jewelry is arranged neatly in a glass display case.",
+      "vietnamese": "Trang sức được sắp xếp gọn gàng trong một tủ trưng bày bằng kính."
+    },
+    "13": {
+      "english": "Wipe the counter with a clean cloth.",
+      "vietnamese": "Lau quầy bằng khăn sạch."
+    },
+    "14": {
+      "english": "The server brought our menus.",
+      "vietnamese": "Nhân viên phục vụ mang thực đơn cho chúng tôi."
+    },
+    "15": {
+      "english": "Please distribute these brochures after lunch.",
+      "vietnamese": "Vui lòng phát những tờ quảng cáo này sau bữa trưa."
+    },
+    "16": {
+      "english": "The waiter is ready to take an order.",
+      "vietnamese": "Người phục vụ đã sẵn sàng nhận gọi món."
+    },
+    "17": {
+      "english": "Do not lean against the glass.",
+      "vietnamese": "Đừng dựa vào kính."
+    },
+    "18": {
+      "english": "Our company joined a bowling league.",
+      "vietnamese": "Công ty chúng tôi đã tham gia một giải bowling."
+    },
+    "19": {
+      "english": "Submit your expense report by Monday.",
+      "vietnamese": "Nộp báo cáo chi phí trước hoặc trong thứ Hai."
+    },
+    "20": {
+      "english": "May I have your business card?",
+      "vietnamese": "Tôi có thể xin danh thiếp của bạn không?"
+    },
+    "21": {
+      "english": "Each dessert has a fresh strawberry.",
+      "vietnamese": "Mỗi món tráng miệng có một quả dâu tây tươi."
+    },
+    "22": {
+      "english": "Sales rose sharply last quarter.",
+      "vietnamese": "Doanh số đã tăng mạnh trong quý trước."
+    },
+    "23": {
+      "english": "Technical support is available all day.",
+      "vietnamese": "Dịch vụ hỗ trợ kỹ thuật có sẵn cả ngày."
+    },
+    "24": {
+      "english": "This guide provides useful advice.",
+      "vietnamese": "Hướng dẫn này cung cấp lời khuyên hữu ích."
+    },
+    "25": {
+      "english": "The software program tracks customer orders.",
+      "vietnamese": "Chương trình phần mềm theo dõi đơn hàng của khách."
+    },
+    "26": {
+      "english": "The exhibit line runs along the wall.",
+      "vietnamese": "Dãy trưng bày chạy dọc theo bức tường."
+    },
+    "27": {
+      "english": "The ceremony begins at eleven.",
+      "vietnamese": "Buổi lễ bắt đầu lúc mười một giờ."
+    },
+    "28": {
+      "english": "A fitness trainer demonstrated the exercise.",
+      "vietnamese": "Huấn luyện viên thể hình làm mẫu bài tập."
+    },
+    "29": {
+      "english": "A round-trip ticket costs less.",
+      "vietnamese": "Vé khứ hồi có giá thấp hơn."
+    },
+    "30": {
+      "english": "She will take charge of the project.",
+      "vietnamese": "Cô ấy sẽ đảm nhận dự án."
+    },
+    "31": {
+      "english": "His retirement party is on Friday.",
+      "vietnamese": "Tiệc chia tay nghỉ hưu của ông ấy vào thứ Sáu."
+    },
+    "32": {
+      "english": "The assistant director approved the schedule.",
+      "vietnamese": "Phó giám đốc đã duyệt lịch trình."
+    },
+    "33": {
+      "english": "We will definitely attend the conference.",
+      "vietnamese": "Chúng tôi chắc chắn sẽ dự hội nghị."
+    },
+    "34": {
+      "english": "The inspection revealed a minor defect.",
+      "vietnamese": "Việc kiểm tra phát hiện một lỗi nhỏ."
+    },
+    "35": {
+      "english": "A steel pipe needs replacing.",
+      "vietnamese": "Một ống thép cần được thay thế."
+    },
+    "36": {
+      "english": "Only authorized staff may enter.",
+      "vietnamese": "Chỉ nhân viên được phép mới được vào."
+    },
+    "37": {
+      "english": "Employees receive an annual medical checkup.",
+      "vietnamese": "Nhân viên được khám sức khỏe hằng năm."
+    },
+    "38": {
+      "english": "The clinic provides treatment for minor injuries.",
+      "vietnamese": "Phòng khám điều trị các chấn thương nhẹ."
+    },
+    "39": {
+      "english": "The campaign will promote our new service.",
+      "vietnamese": "Chiến dịch sẽ quảng bá dịch vụ mới của chúng tôi."
+    },
+    "40": {
+      "english": "The approval process takes two days.",
+      "vietnamese": "Quy trình phê duyệt mất hai ngày."
+    }
+  },
+  "lesson-14": {
+    "1": {
+      "english": "Please pass out the meeting notes.",
+      "vietnamese": "Vui lòng phát ghi chú cuộc họp."
+    },
+    "2": {
+      "english": "We need to rearrange the furniture.",
+      "vietnamese": "Chúng tôi cần sắp xếp lại nội thất."
+    },
+    "3": {
+      "english": "Please take off your muddy boots.",
+      "vietnamese": "Vui lòng cởi đôi ủng dính bùn."
+    },
+    "4": {
+      "english": "A technician will examine the device.",
+      "vietnamese": "Kỹ thuật viên sẽ kiểm tra thiết bị."
+    },
+    "5": {
+      "english": "Wear safety glasses in the workshop.",
+      "vietnamese": "Đeo kính bảo hộ trong xưởng."
+    },
+    "6": {
+      "english": "Laboratory equipment must remain clean.",
+      "vietnamese": "Thiết bị phòng thí nghiệm phải luôn sạch."
+    },
+    "7": {
+      "english": "Keep the receipt for your purchase.",
+      "vietnamese": "Giữ hóa đơn cho món hàng đã mua."
+    },
+    "8": {
+      "english": "The store displays its new merchandise near the entrance.",
+      "vietnamese": "Cửa hàng trưng bày hàng hóa mới gần lối vào."
+    },
+    "9": {
+      "english": "Two workers will assemble the shelves.",
+      "vietnamese": "Hai công nhân sẽ lắp ráp các kệ."
+    },
+    "10": {
+      "english": "The light fixture above the desk flickers.",
+      "vietnamese": "Đèn phía trên bàn nhấp nháy."
+    },
+    "11": {
+      "english": "Turn left at the next intersection.",
+      "vietnamese": "Rẽ trái ở giao lộ tiếp theo."
+    },
+    "12": {
+      "english": "This restaurant is popular with tourists.",
+      "vietnamese": "Nhà hàng này được du khách yêu thích."
+    },
+    "13": {
+      "english": "The real estate agent arranged a viewing.",
+      "vietnamese": "Nhân viên môi giới bất động sản sắp xếp buổi xem nhà."
+    },
+    "14": {
+      "english": "Our train leaves from platform four.",
+      "vietnamese": "Tàu của chúng tôi khởi hành từ sân ga số bốn."
+    },
+    "15": {
+      "english": "The facilities team is responsible for keeping the meeting rooms clean.",
+      "vietnamese": "Nhóm phụ trách cơ sở vật chất chịu trách nhiệm giữ các phòng họp sạch sẽ."
+    },
+    "16": {
+      "english": "All equipment must be cleaned daily.",
+      "vietnamese": "Tất cả thiết bị phải được vệ sinh hằng ngày."
+    },
+    "17": {
+      "english": "Cleaning supplies are in the storage closet.",
+      "vietnamese": "Đồ dùng vệ sinh ở trong tủ kho."
+    },
+    "18": {
+      "english": "Keep the milk in the refrigerator.",
+      "vietnamese": "Để sữa trong tủ lạnh."
+    },
+    "19": {
+      "english": "A technician will inspect the office printers tomorrow morning.",
+      "vietnamese": "Một kỹ thuật viên sẽ kiểm tra các máy in của văn phòng vào sáng mai."
+    },
+    "20": {
+      "english": "The chef shared her soup recipe.",
+      "vietnamese": "Đầu bếp chia sẻ công thức nấu súp của cô ấy."
+    },
+    "21": {
+      "english": "Your signature is required here.",
+      "vietnamese": "Cần chữ ký của bạn ở đây."
+    },
+    "22": {
+      "english": "The sales director reviewed the targets.",
+      "vietnamese": "Giám đốc kinh doanh đã xem xét các chỉ tiêu."
+    },
+    "23": {
+      "english": "Ask the receptionist for directions.",
+      "vietnamese": "Hỏi nhân viên lễ tân để được chỉ đường."
+    },
+    "24": {
+      "english": "The workshop covers negotiation skills.",
+      "vietnamese": "Hội thảo đề cập đến kỹ năng đàm phán."
+    },
+    "25": {
+      "english": "Each attendee received a name tag.",
+      "vietnamese": "Mỗi người tham dự nhận một thẻ tên."
+    },
+    "26": {
+      "english": "The conference lasts three days.",
+      "vietnamese": "Hội nghị kéo dài ba ngày."
+    },
+    "27": {
+      "english": "The luncheon honors our volunteers.",
+      "vietnamese": "Bữa tiệc trưa tôn vinh các tình nguyện viên."
+    },
+    "28": {
+      "english": "New insulation will reduce heating costs.",
+      "vietnamese": "Vật liệu cách nhiệt mới sẽ giảm chi phí sưởi."
+    },
+    "29": {
+      "english": "The mail carrier delivered a parcel.",
+      "vietnamese": "Nhân viên phát thư đã giao một bưu kiện."
+    },
+    "30": {
+      "english": "The medical building has three floors.",
+      "vietnamese": "Tòa nhà y tế có ba tầng."
+    },
+    "31": {
+      "english": "The art gallery opens at ten.",
+      "vietnamese": "Phòng tranh mở cửa lúc mười giờ."
+    },
+    "32": {
+      "english": "The wholesaler supplies several restaurants.",
+      "vietnamese": "Nhà bán sỉ cung cấp hàng cho một số nhà hàng."
+    },
+    "33": {
+      "english": "A local farmer supplies fresh vegetables.",
+      "vietnamese": "Một nông dân địa phương cung cấp rau tươi."
+    },
+    "34": {
+      "english": "The vegetables were overcooked.",
+      "vietnamese": "Rau đã bị nấu quá chín."
+    },
+    "35": {
+      "english": "This room seats twenty people comfortably.",
+      "vietnamese": "Phòng này có chỗ ngồi thoải mái cho hai mươi người."
+    },
+    "36": {
+      "english": "My magazine subscription expires soon.",
+      "vietnamese": "Gói đặt mua tạp chí của tôi sắp hết hạn."
+    },
+    "37": {
+      "english": "We rented a storage unit nearby.",
+      "vietnamese": "Chúng tôi thuê một kho chứa đồ gần đây."
+    },
+    "38": {
+      "english": "Refrigerate the leftover food promptly.",
+      "vietnamese": "Cho thức ăn thừa vào tủ lạnh ngay."
+    },
+    "39": {
+      "english": "Choose a beverage from the menu.",
+      "vietnamese": "Chọn đồ uống từ thực đơn."
+    },
+    "40": {
+      "english": "The loan specialist explained the terms.",
+      "vietnamese": "Chuyên viên tín dụng đã giải thích các điều khoản."
+    }
+  },
+  "lesson-15": {
+    "1": {
+      "english": "Wear a pair of gloves when cleaning.",
+      "vietnamese": "Đeo một đôi găng tay khi vệ sinh."
+    },
+    "2": {
+      "english": "The server carried a tray of drinks.",
+      "vietnamese": "Nhân viên phục vụ bưng khay đồ uống."
+    },
+    "3": {
+      "english": "Raise your hand to ask questions.",
+      "vietnamese": "Giơ tay để đặt câu hỏi."
+    },
+    "4": {
+      "english": "The barrel began to roll down the ramp.",
+      "vietnamese": "Thùng bắt đầu lăn xuống đường dốc."
+    },
+    "5": {
+      "english": "The shop sells handmade jewelry.",
+      "vietnamese": "Cửa hàng bán trang sức thủ công."
+    },
+    "6": {
+      "english": "This necklace comes with a gift box.",
+      "vietnamese": "Dây chuyền này đi kèm hộp quà."
+    },
+    "7": {
+      "english": "Write your suggestions on the whiteboard.",
+      "vietnamese": "Viết đề xuất của bạn lên bảng trắng."
+    },
+    "8": {
+      "english": "Prop the ladder against the wall.",
+      "vietnamese": "Chống thang dựa vào tường."
+    },
+    "9": {
+      "english": "Separate paper from other waste.",
+      "vietnamese": "Tách giấy ra khỏi các loại rác khác."
+    },
+    "10": {
+      "english": "Spotlights illuminate the display.",
+      "vietnamese": "Đèn rọi chiếu sáng khu trưng bày."
+    },
+    "11": {
+      "english": "Light refreshment is provided during breaks.",
+      "vietnamese": "Đồ ăn thức uống nhẹ được phục vụ trong giờ nghỉ."
+    },
+    "12": {
+      "english": "An armchair stands beside the window.",
+      "vietnamese": "Một chiếc ghế bành nằm cạnh cửa sổ."
+    },
+    "13": {
+      "english": "Measure the doorway before ordering furniture.",
+      "vietnamese": "Đo ô cửa trước khi đặt nội thất."
+    },
+    "14": {
+      "english": "The bank approved our business loan.",
+      "vietnamese": "Ngân hàng đã duyệt khoản vay kinh doanh của chúng tôi."
+    },
+    "15": {
+      "english": "The safety inspector checked the exits.",
+      "vietnamese": "Thanh tra an toàn đã kiểm tra các lối thoát."
+    },
+    "16": {
+      "english": "The shipment is due to arrive tomorrow.",
+      "vietnamese": "Lô hàng dự kiến đến vào ngày mai."
+    },
+    "17": {
+      "english": "The production line operates continuously.",
+      "vietnamese": "Dây chuyền sản xuất hoạt động liên tục."
+    },
+    "18": {
+      "english": "The warehouse stores spare parts.",
+      "vietnamese": "Kho hàng chứa các phụ tùng dự phòng."
+    },
+    "19": {
+      "english": "Follow each instruction carefully.",
+      "vietnamese": "Làm theo từng hướng dẫn cẩn thận."
+    },
+    "20": {
+      "english": "The candidate has relevant experience.",
+      "vietnamese": "Ứng viên có kinh nghiệm phù hợp."
+    },
+    "21": {
+      "english": "The receptionist position is still available.",
+      "vietnamese": "Vị trí lễ tân vẫn còn tuyển."
+    },
+    "22": {
+      "english": "The art installation fills the courtyard.",
+      "vietnamese": "Tác phẩm nghệ thuật sắp đặt chiếm toàn bộ sân."
+    },
+    "23": {
+      "english": "A technology consultant assessed our network.",
+      "vietnamese": "Tư vấn viên công nghệ đã đánh giá mạng của chúng tôi."
+    },
+    "24": {
+      "english": "The finance department handles reimbursements.",
+      "vietnamese": "Phòng tài chính xử lý các khoản hoàn tiền."
+    },
+    "25": {
+      "english": "Your submission must include contact information.",
+      "vietnamese": "Hồ sơ nộp của bạn phải có thông tin liên hệ."
+    },
+    "26": {
+      "english": "A freelance writer prepared the article.",
+      "vietnamese": "Một người viết tự do đã soạn bài báo."
+    },
+    "27": {
+      "english": "The application fee is nonrefundable.",
+      "vietnamese": "Phí nộp hồ sơ không được hoàn lại."
+    },
+    "28": {
+      "english": "The editorial assistant checked the references.",
+      "vietnamese": "Trợ lý biên tập đã kiểm tra các tài liệu tham khảo."
+    },
+    "29": {
+      "english": "This plan includes one international call.",
+      "vietnamese": "Gói này bao gồm một cuộc gọi quốc tế."
+    },
+    "30": {
+      "english": "The projector needs a new bulb.",
+      "vietnamese": "Máy chiếu cần thay bóng đèn mới."
+    },
+    "31": {
+      "english": "This month's figures show steady growth.",
+      "vietnamese": "Số liệu tháng này cho thấy tăng trưởng ổn định."
+    },
+    "32": {
+      "english": "We moved to a quieter location.",
+      "vietnamese": "Chúng tôi đã chuyển đến địa điểm yên tĩnh hơn."
+    },
+    "33": {
+      "english": "The apartment building has an elevator.",
+      "vietnamese": "Tòa nhà chung cư có thang máy."
+    },
+    "34": {
+      "english": "The color scheme matches our logo.",
+      "vietnamese": "Cách phối màu phù hợp với logo của chúng tôi."
+    },
+    "35": {
+      "english": "The banquet follows the awards ceremony.",
+      "vietnamese": "Bữa tiệc diễn ra sau lễ trao giải."
+    },
+    "36": {
+      "english": "The tablecloth needs washing.",
+      "vietnamese": "Khăn trải bàn cần được giặt."
+    },
+    "37": {
+      "english": "We must push back the deadline.",
+      "vietnamese": "Chúng tôi phải lùi thời hạn lại."
+    },
+    "38": {
+      "english": "The television station interviewed our director.",
+      "vietnamese": "Đài truyền hình đã phỏng vấn giám đốc của chúng tôi."
+    },
+    "39": {
+      "english": "Download the application form from our website.",
+      "vietnamese": "Tải mẫu đơn đăng ký từ trang web của chúng tôi."
+    },
+    "40": {
+      "english": "The budget report is ready.",
+      "vietnamese": "Báo cáo ngân sách đã sẵn sàng."
+    }
+  },
+  "lesson-16": {
+    "1": {
+      "english": "Employees will gather in the lobby.",
+      "vietnamese": "Nhân viên sẽ tập trung ở sảnh."
+    },
+    "2": {
+      "english": "The cashier opened the cash register.",
+      "vietnamese": "Thu ngân đã mở máy tính tiền."
+    },
+    "3": {
+      "english": "The rear window needs cleaning.",
+      "vietnamese": "Kính sau xe cần được lau sạch."
+    },
+    "4": {
+      "english": "The patient waited at reception.",
+      "vietnamese": "Bệnh nhân đợi ở quầy lễ tân."
+    },
+    "5": {
+      "english": "The jacket's sleeve is too long.",
+      "vietnamese": "Tay áo khoác quá dài."
+    },
+    "6": {
+      "english": "Push up your sleeves before washing.",
+      "vietnamese": "Xắn tay áo lên trước khi rửa."
+    },
+    "7": {
+      "english": "The clinic offers eyesight tests.",
+      "vietnamese": "Phòng khám có dịch vụ kiểm tra thị lực."
+    },
+    "8": {
+      "english": "The documents lie on her desk.",
+      "vietnamese": "Các tài liệu nằm trên bàn của cô ấy."
+    },
+    "9": {
+      "english": "Workers repaired the porch roof.",
+      "vietnamese": "Công nhân đã sửa mái hiên."
+    },
+    "10": {
+      "english": "The porch steps are wet.",
+      "vietnamese": "Các bậc thềm hiên nhà đang ướt."
+    },
+    "11": {
+      "english": "The warehouse door is wide open.",
+      "vietnamese": "Cửa kho đang mở toang."
+    },
+    "12": {
+      "english": "The board approved the budget proposal.",
+      "vietnamese": "Hội đồng quản trị đã duyệt đề xuất ngân sách."
+    },
+    "13": {
+      "english": "The associate director chaired the meeting.",
+      "vietnamese": "Phó giám đốc đã chủ trì cuộc họp."
+    },
+    "14": {
+      "english": "The project needs additional funding.",
+      "vietnamese": "Dự án cần khoản tài trợ bổ sung."
+    },
+    "15": {
+      "english": "The manual explains the safety features.",
+      "vietnamese": "Sách hướng dẫn giải thích các tính năng an toàn."
+    },
+    "16": {
+      "english": "The table measures two meters long.",
+      "vietnamese": "Chiếc bàn dài hai mét."
+    },
+    "17": {
+      "english": "The packaging machine needs maintenance.",
+      "vietnamese": "Máy đóng gói cần được bảo trì."
+    },
+    "18": {
+      "english": "The truck stopped at the loading dock.",
+      "vietnamese": "Xe tải đã dừng tại bến bốc dỡ hàng."
+    },
+    "19": {
+      "english": "Each actor received a new costume.",
+      "vietnamese": "Mỗi diễn viên nhận một bộ trang phục biểu diễn mới."
+    },
+    "20": {
+      "english": "Musicians are waiting in the rehearsal hall.",
+      "vietnamese": "Các nhạc công đang đợi trong phòng tập."
+    },
+    "21": {
+      "english": "The performance starts at seven.",
+      "vietnamese": "Buổi biểu diễn bắt đầu lúc bảy giờ."
+    },
+    "22": {
+      "english": "The building inspector examined the staircase.",
+      "vietnamese": "Thanh tra xây dựng đã kiểm tra cầu thang."
+    },
+    "23": {
+      "english": "This safety regulation applies to everyone.",
+      "vietnamese": "Quy định an toàn này áp dụng cho mọi người."
+    },
+    "24": {
+      "english": "We will launch the app tomorrow.",
+      "vietnamese": "Chúng tôi sẽ ra mắt ứng dụng ngày mai."
+    },
+    "25": {
+      "english": "This accessory is sold separately.",
+      "vietnamese": "Phụ kiện này được bán riêng."
+    },
+    "26": {
+      "english": "The pharmaceutical company opened a laboratory.",
+      "vietnamese": "Công ty dược phẩm đã mở phòng thí nghiệm."
+    },
+    "27": {
+      "english": "The new facility includes a cafeteria.",
+      "vietnamese": "Cơ sở mới có nhà ăn."
+    },
+    "28": {
+      "english": "Several pharmacies offer evening hours.",
+      "vietnamese": "Một số nhà thuốc mở cửa buổi tối."
+    },
+    "29": {
+      "english": "This fabric is easy to clean.",
+      "vietnamese": "Loại vải này dễ làm sạch."
+    },
+    "30": {
+      "english": "The warehouse is near the port.",
+      "vietnamese": "Nhà kho nằm gần cảng."
+    },
+    "31": {
+      "english": "The sculpture exhibit opens tomorrow.",
+      "vietnamese": "Triển lãm điêu khắc khai mạc ngày mai."
+    },
+    "32": {
+      "english": "The museum explores ancient cultures.",
+      "vietnamese": "Bảo tàng tìm hiểu các nền văn hóa cổ đại."
+    },
+    "33": {
+      "english": "We received multiple applications.",
+      "vietnamese": "Chúng tôi đã nhận được nhiều hồ sơ ứng tuyển."
+    },
+    "34": {
+      "english": "Use a measuring stick to check the height.",
+      "vietnamese": "Dùng thước đo để kiểm tra chiều cao."
+    },
+    "35": {
+      "english": "This contract requires legal expertise.",
+      "vietnamese": "Hợp đồng này đòi hỏi chuyên môn pháp lý."
+    },
+    "36": {
+      "english": "A compact vehicle is easier to park.",
+      "vietnamese": "Xe ô tô nhỏ gọn dễ đỗ hơn."
+    },
+    "37": {
+      "english": "Today's specials include grilled salmon.",
+      "vietnamese": "Các món đặc biệt hôm nay có cá hồi nướng."
+    },
+    "38": {
+      "english": "Medical records are stored securely.",
+      "vietnamese": "Hồ sơ y tế được lưu trữ an toàn."
+    },
+    "39": {
+      "english": "Experience is a basic requirement.",
+      "vietnamese": "Kinh nghiệm là yêu cầu cơ bản."
+    },
+    "40": {
+      "english": "Your reservation has been confirmed.",
+      "vietnamese": "Việc đặt chỗ của bạn đã được xác nhận."
+    }
+  },
+  "lesson-17": {
+    "1": {
+      "english": "The customer packed her groceries.",
+      "vietnamese": "Khách hàng đã đóng gói thực phẩm của mình."
+    },
+    "2": {
+      "english": "Several tables remain unoccupied.",
+      "vietnamese": "Một số bàn vẫn còn trống."
+    },
+    "3": {
+      "english": "Drivers must watch for pedestrians.",
+      "vietnamese": "Tài xế phải chú ý người đi bộ."
+    },
+    "4": {
+      "english": "Visitors are crossing the courtyard.",
+      "vietnamese": "Khách tham quan đang băng qua sân."
+    },
+    "5": {
+      "english": "Turn left at the next intersection.",
+      "vietnamese": "Rẽ trái ở giao lộ tiếp theo."
+    },
+    "6": {
+      "english": "Tree branches shade the terrace.",
+      "vietnamese": "Cành cây che mát sân hiên."
+    },
+    "7": {
+      "english": "We booked a direct flight.",
+      "vietnamese": "Chúng tôi đã đặt chuyến bay thẳng."
+    },
+    "8": {
+      "english": "Brochures are available at reception.",
+      "vietnamese": "Tờ quảng cáo có sẵn ở quầy lễ tân."
+    },
+    "9": {
+      "english": "She is scheduling next week's interviews.",
+      "vietnamese": "Cô ấy đang lên lịch phỏng vấn tuần tới."
+    },
+    "10": {
+      "english": "Ask your supervisor for approval.",
+      "vietnamese": "Xin sự chấp thuận của người giám sát."
+    },
+    "11": {
+      "english": "Thirsty visitors can use the water fountain.",
+      "vietnamese": "Khách khát nước có thể dùng vòi nước uống."
+    },
+    "12": {
+      "english": "The hallway leads to the elevators.",
+      "vietnamese": "Hành lang dẫn đến thang máy."
+    },
+    "13": {
+      "english": "Please indicate your seating preference.",
+      "vietnamese": "Vui lòng cho biết chỗ ngồi bạn ưu tiên."
+    },
+    "14": {
+      "english": "Cleaning supplies are stored separately.",
+      "vietnamese": "Vật dụng vệ sinh được cất riêng."
+    },
+    "15": {
+      "english": "Our latest catalog lists all prices.",
+      "vietnamese": "Danh mục sản phẩm mới nhất ghi đầy đủ giá."
+    },
+    "16": {
+      "english": "The projector needs a new bulb.",
+      "vietnamese": "Máy chiếu cần thay bóng đèn mới."
+    },
+    "17": {
+      "english": "The shop sells prescription sunglasses.",
+      "vietnamese": "Cửa hàng bán kính râm có độ."
+    },
+    "18": {
+      "english": "A bronze sculpture stands outside.",
+      "vietnamese": "Một tác phẩm điêu khắc bằng đồng đặt bên ngoài."
+    },
+    "19": {
+      "english": "The gallery features local artists.",
+      "vietnamese": "Phòng trưng bày giới thiệu các nghệ sĩ địa phương."
+    },
+    "20": {
+      "english": "The renovation requires substantial investment.",
+      "vietnamese": "Việc cải tạo cần khoản đầu tư đáng kể."
+    },
+    "21": {
+      "english": "Our travel agency arranged the tour.",
+      "vietnamese": "Công ty du lịch của chúng tôi đã tổ chức chuyến tham quan."
+    },
+    "22": {
+      "english": "Floral decorations brighten the lobby.",
+      "vietnamese": "Đồ trang trí bằng hoa làm sảnh tươi sáng hơn."
+    },
+    "23": {
+      "english": "She works in public relations.",
+      "vietnamese": "Cô ấy làm trong lĩnh vực quan hệ công chúng."
+    },
+    "24": {
+      "english": "We selected candidates from a large pool.",
+      "vietnamese": "Chúng tôi chọn ứng viên từ một nhóm đông người."
+    },
+    "25": {
+      "english": "Applicants must submit a résumé.",
+      "vietnamese": "Ứng viên phải nộp sơ yếu lý lịch."
+    },
+    "26": {
+      "english": "Our newest branch opens on Monday.",
+      "vietnamese": "Chi nhánh mới nhất của chúng tôi mở cửa thứ Hai."
+    },
+    "27": {
+      "english": "The financial report is confidential.",
+      "vietnamese": "Báo cáo tài chính là tài liệu mật."
+    },
+    "28": {
+      "english": "Staples are in the supply drawer.",
+      "vietnamese": "Ghim bấm ở trong ngăn kéo đồ văn phòng."
+    },
+    "29": {
+      "english": "The graph shows monthly sales.",
+      "vietnamese": "Biểu đồ thể hiện doanh số hằng tháng."
+    },
+    "30": {
+      "english": "Our projections indicate steady growth.",
+      "vietnamese": "Các số liệu dự kiến cho thấy tăng trưởng ổn định."
+    },
+    "31": {
+      "english": "Check the directory for office numbers.",
+      "vietnamese": "Xem danh bạ để biết số văn phòng."
+    },
+    "32": {
+      "english": "The factory occupies an industrial site.",
+      "vietnamese": "Nhà máy nằm trên khu đất công nghiệp."
+    },
+    "33": {
+      "english": "Your application is under review.",
+      "vietnamese": "Đơn của bạn đang được xem xét."
+    },
+    "34": {
+      "english": "Bring your driver's license when renting.",
+      "vietnamese": "Mang bằng lái xe khi thuê xe."
+    },
+    "35": {
+      "english": "Two bus routes serve this area.",
+      "vietnamese": "Hai tuyến xe buýt phục vụ khu vực này."
+    },
+    "36": {
+      "english": "The lecture begins at noon.",
+      "vietnamese": "Bài giảng bắt đầu vào buổi trưa."
+    },
+    "37": {
+      "english": "An economist discussed market trends.",
+      "vietnamese": "Một nhà kinh tế học đã thảo luận xu hướng thị trường."
+    },
+    "38": {
+      "english": "Can you make it to Friday's meeting?",
+      "vietnamese": "Bạn có thể đến cuộc họp thứ Sáu không?"
+    },
+    "39": {
+      "english": "A focus group tested the packaging.",
+      "vietnamese": "Một nhóm nghiên cứu thị trường đã đánh giá bao bì."
+    },
+    "40": {
+      "english": "The launch date has been confirmed.",
+      "vietnamese": "Ngày ra mắt đã được xác nhận."
+    }
+  },
+  "lesson-18": {
+    "1": {
+      "english": "The schedule is on the bulletin board.",
+      "vietnamese": "Lịch trình nằm trên bảng thông báo."
+    },
+    "2": {
+      "english": "Spread out the plans on the table.",
+      "vietnamese": "Trải các bản thiết kế lên bàn."
+    },
+    "3": {
+      "english": "Scaffolding surrounds the building.",
+      "vietnamese": "Giàn giáo bao quanh tòa nhà."
+    },
+    "4": {
+      "english": "A temporary fence was erected yesterday.",
+      "vietnamese": "Hàng rào tạm đã được dựng lên hôm qua."
+    },
+    "5": {
+      "english": "A stone wall borders the garden.",
+      "vietnamese": "Một bức tường đá bao quanh vườn."
+    },
+    "6": {
+      "english": "Visitors enter through an archway.",
+      "vietnamese": "Khách tham quan đi vào qua cổng vòm."
+    },
+    "7": {
+      "english": "A railing separates the walkway from traffic.",
+      "vietnamese": "Lan can ngăn lối đi bộ với đường xe chạy."
+    },
+    "8": {
+      "english": "A crowd gathered outside the theater.",
+      "vietnamese": "Đám đông tụ tập ngoài nhà hát."
+    },
+    "9": {
+      "english": "The budget estimate includes labor costs.",
+      "vietnamese": "Dự toán ngân sách bao gồm chi phí nhân công."
+    },
+    "10": {
+      "english": "The repair will cost a thousand dollars.",
+      "vietnamese": "Việc sửa chữa sẽ tốn một nghìn đô la."
+    },
+    "11": {
+      "english": "The section head approved the request.",
+      "vietnamese": "Trưởng bộ phận đã duyệt yêu cầu."
+    },
+    "12": {
+      "english": "Renovation will improve the reception area.",
+      "vietnamese": "Việc cải tạo sẽ nâng cấp khu vực lễ tân."
+    },
+    "13": {
+      "english": "Good management improves team performance.",
+      "vietnamese": "Quản lý tốt cải thiện hiệu suất của nhóm."
+    },
+    "14": {
+      "english": "The director called an urgent meeting.",
+      "vietnamese": "Giám đốc đã triệu tập cuộc họp khẩn."
+    },
+    "15": {
+      "english": "Our quarterly results exceeded expectations.",
+      "vietnamese": "Kết quả quý của chúng tôi vượt kỳ vọng."
+    },
+    "16": {
+      "english": "The dry cleaners closes at six.",
+      "vietnamese": "Tiệm giặt khô đóng cửa lúc sáu giờ."
+    },
+    "17": {
+      "english": "I will definitely return your call.",
+      "vietnamese": "Tôi chắc chắn sẽ gọi lại cho bạn."
+    },
+    "18": {
+      "english": "Free samples are available today.",
+      "vietnamese": "Hôm nay có mẫu thử miễn phí."
+    },
+    "19": {
+      "english": "We offer a wide variety of fabrics.",
+      "vietnamese": "Chúng tôi cung cấp nhiều loại vải đa dạng."
+    },
+    "20": {
+      "english": "The supplier confirmed our order.",
+      "vietnamese": "Nhà cung cấp đã xác nhận đơn hàng."
+    },
+    "21": {
+      "english": "Watches are displayed in a glass case.",
+      "vietnamese": "Đồng hồ được trưng bày trong tủ kính."
+    },
+    "22": {
+      "english": "Please pay at the register.",
+      "vietnamese": "Vui lòng thanh toán tại quầy tính tiền."
+    },
+    "23": {
+      "english": "The banquet was catered by a local restaurant.",
+      "vietnamese": "Một nhà hàng địa phương đã phục vụ đồ ăn cho bữa tiệc."
+    },
+    "24": {
+      "english": "Please reserve a table for four.",
+      "vietnamese": "Vui lòng đặt bàn cho bốn người."
+    },
+    "25": {
+      "english": "The proposed changes will reduce costs.",
+      "vietnamese": "Những thay đổi được đề xuất sẽ giảm chi phí."
+    },
+    "26": {
+      "english": "The architecture firm designed our headquarters.",
+      "vietnamese": "Công ty kiến trúc đã thiết kế trụ sở của chúng tôi."
+    },
+    "27": {
+      "english": "The hardware store sells gardening tools.",
+      "vietnamese": "Cửa hàng kim khí bán dụng cụ làm vườn."
+    },
+    "28": {
+      "english": "The air-conditioning needs servicing.",
+      "vietnamese": "Máy điều hòa cần được bảo dưỡng."
+    },
+    "29": {
+      "english": "The weather forecast predicts heavy rain.",
+      "vietnamese": "Bản dự báo thời tiết dự báo mưa lớn."
+    },
+    "30": {
+      "english": "We can certainly arrange a refund.",
+      "vietnamese": "Chúng tôi chắc chắn có thể sắp xếp hoàn tiền."
+    },
+    "31": {
+      "english": "On-site training begins next week.",
+      "vietnamese": "Đào tạo tại chỗ bắt đầu tuần tới."
+    },
+    "32": {
+      "english": "The teleconference connects our regional offices.",
+      "vietnamese": "Hội nghị trực tuyến kết nối các văn phòng khu vực."
+    },
+    "33": {
+      "english": "The ceremony honors long-serving employees.",
+      "vietnamese": "Buổi lễ tôn vinh nhân viên lâu năm."
+    },
+    "34": {
+      "english": "Attendance at the workshop is mandatory.",
+      "vietnamese": "Việc tham dự buổi tập huấn là bắt buộc."
+    },
+    "35": {
+      "english": "She began her career in retail.",
+      "vietnamese": "Cô ấy bắt đầu sự nghiệp trong ngành bán lẻ."
+    },
+    "36": {
+      "english": "The view from the terrace is incredible.",
+      "vietnamese": "Quang cảnh từ sân hiên thật tuyệt vời."
+    },
+    "37": {
+      "english": "Approved travel costs will be reimbursed.",
+      "vietnamese": "Chi phí đi lại đã duyệt sẽ được hoàn trả."
+    },
+    "38": {
+      "english": "Keep receipts for all expenses.",
+      "vietnamese": "Giữ hóa đơn cho mọi khoản chi phí."
+    },
+    "39": {
+      "english": "The board approved the expansion.",
+      "vietnamese": "Hội đồng quản trị đã phê duyệt việc mở rộng."
+    },
+    "40": {
+      "english": "We conduct an inventory every month.",
+      "vietnamese": "Chúng tôi kiểm kê hàng hóa mỗi tháng."
+    }
+  },
+  "lesson-19": {
+    "1": {
+      "english": "Tie your shoelaces before entering the workshop.",
+      "vietnamese": "Buộc dây giày trước khi vào xưởng."
+    },
+    "2": {
+      "english": "The doorman offered an umbrella.",
+      "vietnamese": "Người gác cửa đưa một chiếc ô."
+    },
+    "3": {
+      "english": "Two guests are jogging beside the lake.",
+      "vietnamese": "Hai vị khách đang chạy bộ bên hồ."
+    },
+    "4": {
+      "english": "The ceiling lights have been replaced.",
+      "vietnamese": "Các đèn trần đã được thay thế."
+    },
+    "5": {
+      "english": "Flower pots line the hotel entrance.",
+      "vietnamese": "Các chậu hoa xếp dọc lối vào khách sạn."
+    },
+    "6": {
+      "english": "Adjust the computer monitor to eye level.",
+      "vietnamese": "Điều chỉnh màn hình máy tính ngang tầm mắt."
+    },
+    "7": {
+      "english": "Her presentation explains the new policy.",
+      "vietnamese": "Bài thuyết trình của cô ấy giải thích chính sách mới."
+    },
+    "8": {
+      "english": "The fragile items were packed carefully.",
+      "vietnamese": "Những món đồ dễ vỡ đã được đóng gói cẩn thận."
+    },
+    "9": {
+      "english": "Maps are spread out on the desk.",
+      "vietnamese": "Các bản đồ được trải ra trên bàn."
+    },
+    "10": {
+      "english": "The customer left her shopping bag on the counter.",
+      "vietnamese": "Khách hàng để túi mua sắm trên quầy."
+    },
+    "11": {
+      "english": "Local vendors sell fresh fruit outside.",
+      "vietnamese": "Người bán hàng địa phương bán trái cây tươi bên ngoài."
+    },
+    "12": {
+      "english": "The store displays its new merchandise near the entrance.",
+      "vietnamese": "Cửa hàng trưng bày hàng hóa mới gần lối vào."
+    },
+    "13": {
+      "english": "Can you translate this notice into Vietnamese?",
+      "vietnamese": "Bạn có thể dịch thông báo này sang tiếng Việt không?"
+    },
+    "14": {
+      "english": "Place the signed form in the envelope.",
+      "vietnamese": "Cho mẫu đơn đã ký vào phong bì."
+    },
+    "15": {
+      "english": "The front entrance is temporarily closed.",
+      "vietnamese": "Lối vào phía trước tạm thời đóng cửa."
+    },
+    "16": {
+      "english": "The advertisement lists the job requirements.",
+      "vietnamese": "Bài đăng tuyển dụng liệt kê yêu cầu công việc."
+    },
+    "17": {
+      "english": "My coworkers helped prepare the presentation.",
+      "vietnamese": "Các đồng nghiệp đã giúp tôi chuẩn bị bài thuyết trình."
+    },
+    "18": {
+      "english": "The renovation is behind schedule.",
+      "vietnamese": "Việc cải tạo đang chậm tiến độ."
+    },
+    "19": {
+      "english": "We attended a baseball game after work.",
+      "vietnamese": "Chúng tôi xem một trận bóng chày sau giờ làm."
+    },
+    "20": {
+      "english": "Reducing waste will save money.",
+      "vietnamese": "Giảm rác thải sẽ tiết kiệm tiền."
+    },
+    "21": {
+      "english": "Please highlight your changes in the document.",
+      "vietnamese": "Vui lòng đánh dấu các sửa đổi trong tài liệu."
+    },
+    "22": {
+      "english": "Both companies signed the agreement.",
+      "vietnamese": "Cả hai công ty đã ký thỏa thuận."
+    },
+    "23": {
+      "english": "The shipment will probably arrive tomorrow.",
+      "vietnamese": "Lô hàng có lẽ sẽ đến ngày mai."
+    },
+    "24": {
+      "english": "Use this number to track your package.",
+      "vietnamese": "Dùng số này để theo dõi gói hàng."
+    },
+    "25": {
+      "english": "Meal expenses are included in the allowance.",
+      "vietnamese": "Chi phí ăn uống được tính trong khoản phụ cấp."
+    },
+    "26": {
+      "english": "Sales increased during the second quarter.",
+      "vietnamese": "Doanh số tăng trong quý hai."
+    },
+    "27": {
+      "english": "We will donate our old computers.",
+      "vietnamese": "Chúng tôi sẽ quyên góp máy tính cũ."
+    },
+    "28": {
+      "english": "Office equipment must be returned before departure.",
+      "vietnamese": "Thiết bị văn phòng phải được trả trước khi rời đi."
+    },
+    "29": {
+      "english": "The registration fee includes lunch.",
+      "vietnamese": "Phí đăng ký bao gồm bữa trưa."
+    },
+    "30": {
+      "english": "Will you accept payment by check?",
+      "vietnamese": "Bạn có chấp nhận thanh toán bằng séc không?"
+    },
+    "31": {
+      "english": "The new library is under construction.",
+      "vietnamese": "Thư viện mới đang được xây dựng."
+    },
+    "32": {
+      "english": "We check inventory every Friday.",
+      "vietnamese": "Chúng tôi kiểm tra hàng tồn kho vào mỗi thứ Sáu."
+    },
+    "33": {
+      "english": "Spare cups are stored in the cupboard.",
+      "vietnamese": "Cốc dự phòng được cất trong tủ chén."
+    },
+    "34": {
+      "english": "The boardroom seats twelve people.",
+      "vietnamese": "Phòng họp hội đồng quản trị có mười hai chỗ."
+    },
+    "35": {
+      "english": "We cannot afford another delay.",
+      "vietnamese": "Chúng tôi không thể để chậm trễ thêm lần nữa."
+    },
+    "36": {
+      "english": "Refer to the accounting manual for details.",
+      "vietnamese": "Tham khảo sách hướng dẫn kế toán để biết chi tiết."
+    },
+    "37": {
+      "english": "A technician will inspect the office printers tomorrow morning.",
+      "vietnamese": "Một kỹ thuật viên sẽ kiểm tra các máy in của văn phòng vào sáng mai."
+    },
+    "38": {
+      "english": "Double-sided printing saves paper.",
+      "vietnamese": "In hai mặt giúp tiết kiệm giấy."
+    },
+    "39": {
+      "english": "Passengers are boarding the aircraft.",
+      "vietnamese": "Hành khách đang lên máy bay."
+    },
+    "40": {
+      "english": "Your reservation has been confirmed.",
+      "vietnamese": "Việc đặt chỗ của bạn đã được xác nhận."
+    }
+  },
+  "lesson-20": {
+    "1": {
+      "english": "The rainstorm delayed our flight.",
+      "vietnamese": "Cơn bão mưa đã làm chậm chuyến bay của chúng tôi."
+    },
+    "2": {
+      "english": "Please correct this typographical error.",
+      "vietnamese": "Vui lòng sửa lỗi đánh máy này."
+    },
+    "3": {
+      "english": "The road closure affects bus services.",
+      "vietnamese": "Việc đóng đường ảnh hưởng dịch vụ xe buýt."
+    },
+    "4": {
+      "english": "Our commercial airs during the evening news.",
+      "vietnamese": "Quảng cáo của chúng tôi phát trong bản tin tối."
+    },
+    "5": {
+      "english": "We ordered a replacement printer.",
+      "vietnamese": "Chúng tôi đã đặt một máy in thay thế."
+    },
+    "6": {
+      "english": "The director will give a speech.",
+      "vietnamese": "Giám đốc sẽ phát biểu."
+    },
+    "7": {
+      "english": "Corporate policy requires written approval.",
+      "vietnamese": "Chính sách công ty yêu cầu phê duyệt bằng văn bản."
+    },
+    "8": {
+      "english": "The complaint was mishandled at first.",
+      "vietnamese": "Khiếu nại ban đầu đã bị xử lý sai."
+    },
+    "9": {
+      "english": "Our contract was renewed for another year.",
+      "vietnamese": "Hợp đồng đã được gia hạn thêm một năm."
+    },
+    "10": {
+      "english": "We will conduct a customer survey.",
+      "vietnamese": "Chúng tôi sẽ tiến hành khảo sát khách hàng."
+    },
+    "11": {
+      "english": "Calculate the total before adding tax.",
+      "vietnamese": "Tính tổng trước khi cộng thuế."
+    },
+    "12": {
+      "english": "Your reservation has been confirmed.",
+      "vietnamese": "Việc đặt chỗ của bạn đã được xác nhận."
+    },
+    "13": {
+      "english": "Ask the receptionist for a visitor badge.",
+      "vietnamese": "Xin lễ tân một thẻ khách."
+    },
+    "14": {
+      "english": "Take the elevator to the fifth floor.",
+      "vietnamese": "Đi thang máy lên tầng năm."
+    },
+    "15": {
+      "english": "Higher sales justify the extra expense.",
+      "vietnamese": "Doanh số cao hơn chứng minh khoản chi thêm là hợp lý."
+    },
+    "16": {
+      "english": "The instructor will explain how to use the new scheduling software.",
+      "vietnamese": "Người hướng dẫn sẽ giải thích cách sử dụng phần mềm lập lịch mới."
+    },
+    "17": {
+      "english": "These charts illustrate our progress.",
+      "vietnamese": "Các biểu đồ này minh họa tiến độ của chúng tôi."
+    },
+    "18": {
+      "english": "We would like to express our thanks.",
+      "vietnamese": "Chúng tôi muốn bày tỏ lời cảm ơn."
+    },
+    "19": {
+      "english": "She expressed regret over the delay.",
+      "vietnamese": "Cô ấy bày tỏ sự tiếc nuối về việc chậm trễ."
+    },
+    "20": {
+      "english": "Electronics are sold on the third floor.",
+      "vietnamese": "Hàng điện tử được bán trên tầng ba."
+    },
+    "21": {
+      "english": "Calendars are available at the front desk.",
+      "vietnamese": "Lịch có sẵn ở quầy lễ tân."
+    },
+    "22": {
+      "english": "Additional chairs are available upon request.",
+      "vietnamese": "Có ghế bổ sung khi được yêu cầu."
+    },
+    "23": {
+      "english": "Revising the budget will take time.",
+      "vietnamese": "Việc sửa đổi ngân sách sẽ mất thời gian."
+    },
+    "24": {
+      "english": "This material is waterproof.",
+      "vietnamese": "Chất liệu này không thấm nước."
+    },
+    "25": {
+      "english": "We propose extending the opening hours.",
+      "vietnamese": "Chúng tôi đề xuất kéo dài giờ mở cửa."
+    },
+    "26": {
+      "english": "Developing new products requires research.",
+      "vietnamese": "Phát triển sản phẩm mới cần nghiên cứu."
+    },
+    "27": {
+      "english": "The consultant recommended a simpler process.",
+      "vietnamese": "Chuyên gia tư vấn đề xuất quy trình đơn giản hơn."
+    },
+    "28": {
+      "english": "Please provide two professional references.",
+      "vietnamese": "Vui lòng cung cấp hai người giới thiệu về công việc."
+    },
+    "29": {
+      "english": "She received a promotion last month.",
+      "vietnamese": "Cô ấy đã được thăng chức tháng trước."
+    },
+    "30": {
+      "english": "Bonus pay depends on annual performance.",
+      "vietnamese": "Tiền thưởng phụ thuộc kết quả làm việc hằng năm."
+    },
+    "31": {
+      "english": "The goalkeeper signed autographs after the match.",
+      "vietnamese": "Thủ môn ký tặng sau trận đấu."
+    },
+    "32": {
+      "english": "This assignment is challenging but rewarding.",
+      "vietnamese": "Nhiệm vụ này nhiều thử thách nhưng đáng làm."
+    },
+    "33": {
+      "english": "The floor becomes slippery when wet.",
+      "vietnamese": "Sàn trở nên trơn trượt khi ướt."
+    },
+    "34": {
+      "english": "The event continued despite the rain.",
+      "vietnamese": "Sự kiện vẫn tiếp tục dù trời mưa."
+    },
+    "35": {
+      "english": "We returned after a short commercial break.",
+      "vietnamese": "Chúng tôi trở lại sau quãng nghỉ quảng cáo ngắn."
+    },
+    "36": {
+      "english": "Stay tuned for the traffic report.",
+      "vietnamese": "Hãy tiếp tục theo dõi bản tin giao thông."
+    },
+    "37": {
+      "english": "The installation went smoothly.",
+      "vietnamese": "Việc lắp đặt diễn ra suôn sẻ."
+    },
+    "38": {
+      "english": "Please pay the deposit in advance.",
+      "vietnamese": "Vui lòng trả tiền đặt cọc trước."
+    },
+    "39": {
+      "english": "I will definitely return your call.",
+      "vietnamese": "Tôi chắc chắn sẽ gọi lại cho bạn."
+    },
+    "40": {
+      "english": "The rooftop offers views of the skyline.",
+      "vietnamese": "Sân thượng nhìn ra đường chân trời thành phố."
+    },
+    "41": {
+      "english": "This vending machine is out of order.",
+      "vietnamese": "Máy bán hàng tự động này bị hỏng."
+    },
+    "42": {
+      "english": "The maintenance crew repaired the leak.",
+      "vietnamese": "Đội bảo trì đã sửa chỗ rò rỉ."
+    },
+    "43": {
+      "english": "Apparently, the meeting has been postponed.",
+      "vietnamese": "Có vẻ cuộc họp đã bị hoãn."
+    },
+    "44": {
+      "english": "The software requires newer hardware.",
+      "vietnamese": "Phần mềm yêu cầu phần cứng mới hơn."
+    },
+    "45": {
+      "english": "These cabinets are custom made.",
+      "vietnamese": "Những chiếc tủ này được làm theo yêu cầu riêng."
+    },
+    "46": {
+      "english": "Our semiannual sale begins tomorrow.",
+      "vietnamese": "Đợt giảm giá bán niên của chúng tôi bắt đầu ngày mai."
+    },
+    "47": {
+      "english": "The apprenticeship includes practical training.",
+      "vietnamese": "Kỳ học nghề bao gồm đào tạo thực hành."
+    },
+    "48": {
+      "english": "The workshop teaches modern printing techniques.",
+      "vietnamese": "Buổi tập huấn dạy các kỹ thuật in hiện đại."
+    },
+    "49": {
+      "english": "Metal welding requires protective equipment.",
+      "vietnamese": "Hàn kim loại cần thiết bị bảo hộ."
+    },
+    "50": {
+      "english": "Guests can purchase tickets at reception.",
+      "vietnamese": "Khách có thể mua vé tại quầy lễ tân."
+    }
+  },
+  "lesson-21": {
+    "1": {
+      "english": "Each musician brought an instrument.",
+      "vietnamese": "Mỗi nhạc công mang theo một nhạc cụ."
+    },
+    "2": {
+      "english": "Each appliance includes a warranty.",
+      "vietnamese": "Mỗi thiết bị gia dụng đều có bảo hành."
+    },
+    "3": {
+      "english": "Unplug the power tool before cleaning.",
+      "vietnamese": "Rút điện dụng cụ trước khi vệ sinh."
+    },
+    "4": {
+      "english": "This feature saves energy.",
+      "vietnamese": "Tính năng này tiết kiệm năng lượng."
+    },
+    "5": {
+      "english": "We are proud of our team.",
+      "vietnamese": "Chúng tôi tự hào về đội ngũ của mình."
+    },
+    "6": {
+      "english": "The tablet has excellent battery life.",
+      "vietnamese": "Máy tính bảng có thời lượng pin rất tốt."
+    },
+    "7": {
+      "english": "The store offers a wide selection.",
+      "vietnamese": "Cửa hàng cung cấp nhiều lựa chọn."
+    },
+    "8": {
+      "english": "We had to decline the invitation.",
+      "vietnamese": "Chúng tôi đã phải từ chối lời mời."
+    },
+    "9": {
+      "english": "The ceremony will begin shortly.",
+      "vietnamese": "Buổi lễ sẽ bắt đầu ngay sau đây."
+    },
+    "10": {
+      "english": "Accommodations are included in the package.",
+      "vietnamese": "Chỗ ở được bao gồm trong gói dịch vụ."
+    },
+    "11": {
+      "english": "Transportation to the airport is provided.",
+      "vietnamese": "Dịch vụ vận chuyển đến sân bay được cung cấp."
+    },
+    "12": {
+      "english": "The delivery truck is out of fuel.",
+      "vietnamese": "Xe tải giao hàng đã hết nhiên liệu."
+    },
+    "13": {
+      "english": "An electronics repair shop opened nearby.",
+      "vietnamese": "Một cửa hàng sửa đồ điện tử đã mở gần đây."
+    },
+    "14": {
+      "english": "Preparing the report took two hours.",
+      "vietnamese": "Việc chuẩn bị báo cáo mất hai giờ."
+    },
+    "15": {
+      "english": "The medical practice is accepting new patients.",
+      "vietnamese": "Phòng khám đang tiếp nhận bệnh nhân mới."
+    },
+    "16": {
+      "english": "Please submit the form electronically.",
+      "vietnamese": "Vui lòng nộp mẫu đơn bằng hình thức điện tử."
+    },
+    "17": {
+      "english": "The medical procedure requires written consent.",
+      "vietnamese": "Thủ thuật y khoa này cần sự đồng ý bằng văn bản."
+    },
+    "18": {
+      "english": "We need additional storage space.",
+      "vietnamese": "Chúng tôi cần thêm không gian kho chứa."
+    },
+    "19": {
+      "english": "We plan to increase production.",
+      "vietnamese": "Chúng tôi dự định tăng sản lượng."
+    },
+    "20": {
+      "english": "Conferring with colleagues helped resolve the issue.",
+      "vietnamese": "Việc bàn bạc với đồng nghiệp giúp giải quyết vấn đề."
+    },
+    "21": {
+      "english": "The employment agency arranged an interview.",
+      "vietnamese": "Công ty môi giới việc làm đã sắp xếp buổi phỏng vấn."
+    },
+    "22": {
+      "english": "Read the care instructions before washing.",
+      "vietnamese": "Đọc hướng dẫn bảo quản trước khi giặt."
+    },
+    "23": {
+      "english": "The label states the country of origin.",
+      "vietnamese": "Nhãn ghi rõ nước xuất xứ."
+    },
+    "24": {
+      "english": "Landscaping work will begin in spring.",
+      "vietnamese": "Việc chỉnh trang cảnh quan sẽ bắt đầu vào mùa xuân."
+    },
+    "25": {
+      "english": "We are looking forward to your visit.",
+      "vietnamese": "Chúng tôi đang mong đợi chuyến thăm của bạn."
+    },
+    "26": {
+      "english": "This lightweight suitcase is easy to carry.",
+      "vietnamese": "Va li nhẹ này dễ mang theo."
+    },
+    "27": {
+      "english": "The server entered our order on a tablet.",
+      "vietnamese": "Nhân viên phục vụ nhập đơn gọi món trên máy tính bảng."
+    },
+    "28": {
+      "english": "The battery lasts all day on a single charge.",
+      "vietnamese": "Pin dùng cả ngày chỉ với một lần sạc."
+    },
+    "29": {
+      "english": "The view from the terrace is incredible.",
+      "vietnamese": "Quang cảnh từ sân hiên thật tuyệt vời."
+    },
+    "30": {
+      "english": "The event coordinator confirmed the venue.",
+      "vietnamese": "Điều phối viên sự kiện đã xác nhận địa điểm."
+    },
+    "31": {
+      "english": "My associate will lead the discussion.",
+      "vietnamese": "Cộng sự của tôi sẽ chủ trì buổi thảo luận."
+    },
+    "32": {
+      "english": "The annual awards banquet honors top performers.",
+      "vietnamese": "Tiệc trao giải thường niên tôn vinh những người đạt thành tích cao."
+    },
+    "33": {
+      "english": "The ballroom accommodates three hundred guests.",
+      "vietnamese": "Phòng hội sảnh lớn chứa được ba trăm khách."
+    },
+    "34": {
+      "english": "Both ceremonies will be held outdoors.",
+      "vietnamese": "Cả hai buổi lễ sẽ tổ chức ngoài trời."
+    },
+    "35": {
+      "english": "Please send a quote for the repairs.",
+      "vietnamese": "Vui lòng gửi báo giá sửa chữa."
+    },
+    "36": {
+      "english": "Our daily rate includes breakfast.",
+      "vietnamese": "Giá phòng mỗi ngày bao gồm bữa sáng."
+    },
+    "37": {
+      "english": "Additionally, guests receive free parking.",
+      "vietnamese": "Ngoài ra, khách được đỗ xe miễn phí."
+    },
+    "38": {
+      "english": "My laptop is out of power.",
+      "vietnamese": "Máy tính xách tay của tôi đã hết pin."
+    },
+    "39": {
+      "english": "A wall socket is behind the desk.",
+      "vietnamese": "Ổ cắm điện trên tường nằm sau bàn."
+    },
+    "40": {
+      "english": "All meeting rooms are occupied.",
+      "vietnamese": "Tất cả phòng họp đang có người sử dụng."
+    },
+    "41": {
+      "english": "The hotel stands on a hill.",
+      "vietnamese": "Khách sạn nằm trên một ngọn đồi."
+    },
+    "42": {
+      "english": "An error message appeared on screen.",
+      "vietnamese": "Thông báo lỗi xuất hiện trên màn hình."
+    },
+    "43": {
+      "english": "Check the billing codes before submission.",
+      "vietnamese": "Kiểm tra mã thanh toán trước khi nộp."
+    },
+    "44": {
+      "english": "She was referring to last month's report.",
+      "vietnamese": "Cô ấy đang nhắc đến báo cáo tháng trước."
+    },
+    "45": {
+      "english": "The nurse explained the procedure.",
+      "vietnamese": "Y tá đã giải thích quy trình y tế."
+    },
+    "46": {
+      "english": "Our team will deal with your request.",
+      "vietnamese": "Nhóm chúng tôi sẽ xử lý yêu cầu của bạn."
+    },
+    "47": {
+      "english": "Each garment is inspected before shipping.",
+      "vietnamese": "Mỗi sản phẩm may mặc được kiểm tra trước khi giao."
+    },
+    "48": {
+      "english": "The business complex includes several cafés.",
+      "vietnamese": "Khu phức hợp văn phòng có một số quán cà phê."
+    },
+    "49": {
+      "english": "The avenue leads to the convention center.",
+      "vietnamese": "Đại lộ dẫn đến trung tâm hội nghị."
+    },
+    "50": {
+      "english": "He received a fine for a parking violation.",
+      "vietnamese": "Anh ấy bị phạt vì đỗ xe sai quy định."
+    }
+  },
+  "lesson-22": {
+    "1": {
+      "english": "The journalist interviewed our founder.",
+      "vietnamese": "Nhà báo đã phỏng vấn người sáng lập của chúng tôi."
+    },
+    "2": {
+      "english": "Each actor received a new costume.",
+      "vietnamese": "Mỗi diễn viên nhận một bộ trang phục biểu diễn mới."
+    },
+    "3": {
+      "english": "Tickets for tonight's performance are available.",
+      "vietnamese": "Vé cho suất diễn tối nay đang được bán."
+    },
+    "4": {
+      "english": "We will conduct a customer survey.",
+      "vietnamese": "Chúng tôi sẽ tiến hành khảo sát khách hàng."
+    },
+    "5": {
+      "english": "Background research helped shape the proposal.",
+      "vietnamese": "Việc tìm hiểu thông tin nền giúp định hình đề xuất."
+    },
+    "6": {
+      "english": "A scheduling conflict prevented my attendance.",
+      "vietnamese": "Việc trùng lịch khiến tôi không thể tham dự."
+    },
+    "7": {
+      "english": "Both projectors need new bulbs.",
+      "vietnamese": "Cả hai máy chiếu cần bóng đèn mới."
+    },
+    "8": {
+      "english": "We compared our competitors' prices.",
+      "vietnamese": "Chúng tôi so sánh giá của các đối thủ."
+    },
+    "9": {
+      "english": "Postponing the launch will increase costs.",
+      "vietnamese": "Hoãn ra mắt sẽ làm tăng chi phí."
+    },
+    "10": {
+      "english": "The teleconference starts at nine.",
+      "vietnamese": "Hội nghị trực tuyến bắt đầu lúc chín giờ."
+    },
+    "11": {
+      "english": "The medical office closes at five.",
+      "vietnamese": "Phòng khám đóng cửa lúc năm giờ."
+    },
+    "12": {
+      "english": "The retailer sells affordable electronics.",
+      "vietnamese": "Nhà bán lẻ bán đồ điện tử giá phải chăng."
+    },
+    "13": {
+      "english": "Please leave some feedback after your visit.",
+      "vietnamese": "Vui lòng để lại phản hồi sau chuyến thăm."
+    },
+    "14": {
+      "english": "Your application is under review.",
+      "vietnamese": "Đơn của bạn đang được xem xét."
+    },
+    "15": {
+      "english": "Keep your receipt for returns.",
+      "vietnamese": "Giữ hóa đơn để đổi trả hàng."
+    },
+    "16": {
+      "english": "Complete your registration card at reception.",
+      "vietnamese": "Điền thẻ đăng ký tại quầy lễ tân."
+    },
+    "17": {
+      "english": "Follow the instructions on the label.",
+      "vietnamese": "Làm theo hướng dẫn trên nhãn."
+    },
+    "18": {
+      "english": "The awards ceremony begins after dinner.",
+      "vietnamese": "Lễ trao giải bắt đầu sau bữa tối."
+    },
+    "19": {
+      "english": "Our team retreat includes a hiking trip.",
+      "vietnamese": "Chuyến nghỉ dưỡng của nhóm có hoạt động đi bộ đường dài."
+    },
+    "20": {
+      "english": "Her professional manner impressed the clients.",
+      "vietnamese": "Tác phong chuyên nghiệp của cô ấy gây ấn tượng với khách hàng."
+    },
+    "21": {
+      "english": "The new location is inconvenient for commuters.",
+      "vietnamese": "Địa điểm mới bất tiện cho người đi làm."
+    },
+    "22": {
+      "english": "A missed deadline delayed the shipment.",
+      "vietnamese": "Việc bỏ lỡ hạn chót đã làm chậm lô hàng."
+    },
+    "23": {
+      "english": "Your suggestion improved the design.",
+      "vietnamese": "Đề xuất của bạn đã cải thiện thiết kế."
+    },
+    "24": {
+      "english": "Customers often express surprise at our low prices.",
+      "vietnamese": "Khách thường bày tỏ ngạc nhiên về giá thấp của chúng tôi."
+    },
+    "25": {
+      "english": "The clothing manufacturer uses recycled fabric.",
+      "vietnamese": "Nhà sản xuất hàng may mặc dùng vải tái chế."
+    },
+    "26": {
+      "english": "The hotel offers a laundry service.",
+      "vietnamese": "Khách sạn cung cấp dịch vụ giặt là."
+    },
+    "27": {
+      "english": "The shop went out of business last year.",
+      "vietnamese": "Cửa hàng đã ngừng kinh doanh năm ngoái."
+    },
+    "28": {
+      "english": "Additional chairs are available upon request.",
+      "vietnamese": "Có ghế bổ sung khi được yêu cầu."
+    },
+    "29": {
+      "english": "We are negotiating a new contract.",
+      "vietnamese": "Chúng tôi đang đàm phán hợp đồng mới."
+    },
+    "30": {
+      "english": "He had forgotten his access card.",
+      "vietnamese": "Anh ấy đã quên thẻ ra vào."
+    },
+    "31": {
+      "english": "Show your loyalty card to earn points.",
+      "vietnamese": "Xuất trình thẻ khách hàng thân thiết để tích điểm."
+    },
+    "32": {
+      "english": "Please mention any dietary requirements.",
+      "vietnamese": "Vui lòng đề cập mọi yêu cầu về chế độ ăn."
+    },
+    "33": {
+      "english": "The advertised model is out of stock.",
+      "vietnamese": "Mẫu được quảng cáo đã hết hàng."
+    },
+    "34": {
+      "english": "The advertised price includes installation.",
+      "vietnamese": "Giá được quảng cáo bao gồm lắp đặt."
+    },
+    "35": {
+      "english": "This seating arrangement encourages discussion.",
+      "vietnamese": "Cách sắp xếp chỗ ngồi này khuyến khích thảo luận."
+    },
+    "36": {
+      "english": "Adjust the background lighting before filming.",
+      "vietnamese": "Điều chỉnh ánh sáng nền trước khi quay."
+    },
+    "37": {
+      "english": "The exit sign must remain visible.",
+      "vietnamese": "Biển lối thoát phải luôn nhìn thấy rõ."
+    },
+    "38": {
+      "english": "We will rehearse the presentation tomorrow.",
+      "vietnamese": "Chúng tôi sẽ diễn tập bài thuyết trình ngày mai."
+    },
+    "39": {
+      "english": "The marketing director approved the campaign.",
+      "vietnamese": "Giám đốc tiếp thị đã duyệt chiến dịch."
+    },
+    "40": {
+      "english": "I completely forgot about the appointment.",
+      "vietnamese": "Tôi đã hoàn toàn quên mất cuộc hẹn."
+    },
+    "41": {
+      "english": "Unfortunately, no seats are available.",
+      "vietnamese": "Rất tiếc, không còn chỗ ngồi."
+    },
+    "42": {
+      "english": "Online registrations close at midnight.",
+      "vietnamese": "Việc đăng ký trực tuyến kết thúc lúc nửa đêm."
+    },
+    "43": {
+      "english": "The patient waited at reception.",
+      "vietnamese": "Bệnh nhân đợi ở quầy lễ tân."
+    },
+    "44": {
+      "english": "The handout summarizes the main points.",
+      "vietnamese": "Tài liệu phát tay tóm tắt các ý chính."
+    },
+    "45": {
+      "english": "The industry faces rising energy costs.",
+      "vietnamese": "Ngành công nghiệp đang đối mặt chi phí năng lượng tăng."
+    },
+    "46": {
+      "english": "There is a possibility of further delays.",
+      "vietnamese": "Có khả năng sẽ chậm trễ thêm."
+    },
+    "47": {
+      "english": "Staff uniforms must be clean.",
+      "vietnamese": "Đồng phục nhân viên phải sạch."
+    },
+    "48": {
+      "english": "The tailors adjusted the jacket sleeves.",
+      "vietnamese": "Các thợ may đã chỉnh tay áo khoác."
+    },
+    "49": {
+      "english": "Loyalty cards are free to obtain.",
+      "vietnamese": "Thẻ khách hàng thân thiết được cấp miễn phí."
+    },
+    "50": {
+      "english": "Would you like some soy sauce?",
+      "vietnamese": "Bạn có muốn dùng chút nước tương không?"
+    }
+  },
+  "lesson-23": {
+    "1": {
+      "english": "The medical clinic accepts walk-in patients.",
+      "vietnamese": "Phòng khám y tế nhận bệnh nhân không đặt hẹn."
+    },
+    "2": {
+      "english": "The sporting goods store rents bicycles.",
+      "vietnamese": "Cửa hàng dụng cụ thể thao cho thuê xe đạp."
+    },
+    "3": {
+      "english": "Our company operates in multiple cities.",
+      "vietnamese": "Công ty chúng tôi hoạt động tại nhiều thành phố."
+    },
+    "4": {
+      "english": "A nutritionist helped design the menu.",
+      "vietnamese": "Chuyên gia dinh dưỡng đã giúp xây dựng thực đơn."
+    },
+    "5": {
+      "english": "Our refund policy is clearly stated.",
+      "vietnamese": "Chính sách hoàn tiền của chúng tôi được nêu rõ."
+    },
+    "6": {
+      "english": "Members are earning points on every purchase.",
+      "vietnamese": "Thành viên đang tích điểm với mỗi lần mua hàng."
+    },
+    "7": {
+      "english": "His retirement takes effect in June.",
+      "vietnamese": "Ông ấy chính thức nghỉ hưu vào tháng Sáu."
+    },
+    "8": {
+      "english": "Attendance exceeded last year's total.",
+      "vietnamese": "Lượng người tham dự vượt tổng số năm ngoái."
+    },
+    "9": {
+      "english": "The anticipated demand requires additional staff.",
+      "vietnamese": "Nhu cầu dự kiến đòi hỏi thêm nhân viên."
+    },
+    "10": {
+      "english": "The venue is near public transportation.",
+      "vietnamese": "Địa điểm tổ chức nằm gần các phương tiện công cộng."
+    },
+    "11": {
+      "english": "The interior decorator selected new curtains.",
+      "vietnamese": "Nhà thiết kế nội thất đã chọn rèm mới."
+    },
+    "12": {
+      "english": "The event organizer confirmed the schedule.",
+      "vietnamese": "Người tổ chức sự kiện đã xác nhận lịch trình."
+    },
+    "13": {
+      "english": "She is recommending a different supplier.",
+      "vietnamese": "Cô ấy đang gợi ý một nhà cung cấp khác."
+    },
+    "14": {
+      "english": "The ferry departs every thirty minutes.",
+      "vietnamese": "Phà khởi hành mỗi ba mươi phút."
+    },
+    "15": {
+      "english": "Weather conditions may affect the tour.",
+      "vietnamese": "Điều kiện thời tiết có thể ảnh hưởng chuyến tham quan."
+    },
+    "16": {
+      "english": "Each piece of equipment needs inspection.",
+      "vietnamese": "Mỗi thiết bị cần được kiểm tra."
+    },
+    "17": {
+      "english": "The scientist presented her findings.",
+      "vietnamese": "Nhà khoa học đã trình bày những phát hiện của mình."
+    },
+    "18": {
+      "english": "The clerk processed my refund.",
+      "vietnamese": "Nhân viên bán hàng đã xử lý khoản hoàn tiền của tôi."
+    },
+    "19": {
+      "english": "Household products are on sale.",
+      "vietnamese": "Các sản phẩm gia dụng đang được giảm giá."
+    },
+    "20": {
+      "english": "These appliances use less electricity.",
+      "vietnamese": "Các thiết bị gia dụng này tiêu thụ ít điện hơn."
+    },
+    "21": {
+      "english": "Please follow all parking regulations.",
+      "vietnamese": "Vui lòng tuân thủ mọi quy định đỗ xe."
+    },
+    "22": {
+      "english": "Your loan application is being reviewed.",
+      "vietnamese": "Đơn xin vay vốn của bạn đang được xem xét."
+    },
+    "23": {
+      "english": "The development plan includes new housing.",
+      "vietnamese": "Kế hoạch phát triển bao gồm nhà ở mới."
+    },
+    "24": {
+      "english": "The office security system needs an upgrade.",
+      "vietnamese": "Hệ thống an ninh văn phòng cần nâng cấp."
+    },
+    "25": {
+      "english": "High-speed internet is included.",
+      "vietnamese": "Internet tốc độ cao được bao gồm trong dịch vụ."
+    },
+    "26": {
+      "english": "The restaurant's meals are reasonably priced.",
+      "vietnamese": "Các bữa ăn của nhà hàng có giá hợp lý."
+    },
+    "27": {
+      "english": "The brochure describes the safety features.",
+      "vietnamese": "Tờ quảng cáo mô tả các tính năng an toàn."
+    },
+    "28": {
+      "english": "We offer a thirty-day money-back guarantee.",
+      "vietnamese": "Chúng tôi có chính sách bảo đảm hoàn tiền trong ba mươi ngày."
+    },
+    "29": {
+      "english": "Call the customer-service help line for assistance.",
+      "vietnamese": "Gọi đường dây hỗ trợ khách hàng để được trợ giúp."
+    },
+    "30": {
+      "english": "Our fitness instructors offer personalized advice.",
+      "vietnamese": "Các huấn luyện viên thể hình cung cấp tư vấn riêng cho từng người."
+    },
+    "31": {
+      "english": "Guests have free access to the pool.",
+      "vietnamese": "Khách được sử dụng hồ bơi miễn phí."
+    },
+    "32": {
+      "english": "The trainer adjusted my workout routine.",
+      "vietnamese": "Huấn luyện viên đã điều chỉnh lịch tập của tôi."
+    },
+    "33": {
+      "english": "Camera accessories are sold separately.",
+      "vietnamese": "Phụ kiện máy ảnh được bán riêng."
+    },
+    "34": {
+      "english": "We appreciate your willingness to help.",
+      "vietnamese": "Chúng tôi cảm kích sự sẵn lòng giúp đỡ của bạn."
+    },
+    "35": {
+      "english": "The exhibition hall opens at nine.",
+      "vietnamese": "Sảnh triển lãm mở cửa lúc chín giờ."
+    },
+    "36": {
+      "english": "The owner approved the renovation.",
+      "vietnamese": "Chủ sở hữu đã chấp thuận việc cải tạo."
+    },
+    "37": {
+      "english": "Each entrée comes with a side salad.",
+      "vietnamese": "Mỗi món chính đi kèm một phần salad nhỏ."
+    },
+    "38": {
+      "english": "Today's special is poached salmon.",
+      "vietnamese": "Món đặc biệt hôm nay là cá hồi chần."
+    },
+    "39": {
+      "english": "Choose a beverage from the menu.",
+      "vietnamese": "Chọn đồ uống từ thực đơn."
+    },
+    "40": {
+      "english": "Our paper supplies have run out.",
+      "vietnamese": "Nguồn giấy của chúng tôi đã cạn."
+    },
+    "41": {
+      "english": "Place small bags in the overhead bins.",
+      "vietnamese": "Đặt túi nhỏ vào các ngăn hành lý phía trên đầu."
+    },
+    "42": {
+      "english": "Meet us at baggage claim.",
+      "vietnamese": "Gặp chúng tôi ở khu nhận hành lý ký gửi."
+    },
+    "43": {
+      "english": "The standard selections include chicken and pasta.",
+      "vietnamese": "Các lựa chọn tiêu chuẩn gồm thịt gà và mì Ý."
+    },
+    "44": {
+      "english": "A safety card is in the seat pocket.",
+      "vietnamese": "Thẻ hướng dẫn an toàn nằm trong túi lưng ghế."
+    },
+    "45": {
+      "english": "The flight attendant checked our seat belts.",
+      "vietnamese": "Tiếp viên hàng không đã kiểm tra dây an toàn của chúng tôi."
+    },
+    "46": {
+      "english": "Truck drivers must record their working hours.",
+      "vietnamese": "Tài xế xe tải phải ghi lại giờ làm việc."
+    },
+    "47": {
+      "english": "All kitchen appliances include installation.",
+      "vietnamese": "Tất cả thiết bị nhà bếp đều bao gồm lắp đặt."
+    },
+    "48": {
+      "english": "We are conducting a safety review.",
+      "vietnamese": "Chúng tôi đang tiến hành đánh giá an toàn."
+    },
+    "49": {
+      "english": "Do you need a particular size?",
+      "vietnamese": "Bạn có cần kích cỡ cụ thể nào không?"
+    },
+    "50": {
+      "english": "The meeting spans three time zones.",
+      "vietnamese": "Cuộc họp có người tham gia ở ba múi giờ."
+    }
+  },
+  "lesson-24": {
+    "1": {
+      "english": "Each handmade vase is unique.",
+      "vietnamese": "Mỗi chiếc bình thủ công đều độc đáo."
+    },
+    "2": {
+      "english": "We offer a range of options.",
+      "vietnamese": "Chúng tôi cung cấp nhiều lựa chọn."
+    },
+    "3": {
+      "english": "Visit our sales booth near the entrance.",
+      "vietnamese": "Ghé gian hàng của chúng tôi gần lối vào."
+    },
+    "4": {
+      "english": "The manufacturing process reduces waste.",
+      "vietnamese": "Quy trình sản xuất giúp giảm chất thải."
+    },
+    "5": {
+      "english": "The merger will create new opportunities.",
+      "vietnamese": "Việc sáp nhập sẽ tạo ra cơ hội mới."
+    },
+    "6": {
+      "english": "Residents often express concern about traffic.",
+      "vietnamese": "Cư dân thường bày tỏ lo ngại về giao thông."
+    },
+    "7": {
+      "english": "Customers praise our prompt service.",
+      "vietnamese": "Khách hàng khen ngợi dịch vụ nhanh chóng của chúng tôi."
+    },
+    "8": {
+      "english": "Our business strategy focuses on quality.",
+      "vietnamese": "Chiến lược kinh doanh của chúng tôi tập trung vào chất lượng."
+    },
+    "9": {
+      "english": "Verify the address before shipping.",
+      "vietnamese": "Xác minh địa chỉ trước khi giao hàng."
+    },
+    "10": {
+      "english": "Building Security will issue your access card.",
+      "vietnamese": "Bộ phận bảo vệ tòa nhà sẽ cấp thẻ ra vào cho bạn."
+    },
+    "11": {
+      "english": "Public Relations handles media inquiries.",
+      "vietnamese": "Bộ phận quan hệ công chúng xử lý các yêu cầu từ báo chí."
+    },
+    "12": {
+      "english": "Orientation begins on your first day.",
+      "vietnamese": "Buổi hướng dẫn hội nhập bắt đầu vào ngày đầu của bạn."
+    },
+    "13": {
+      "english": "These instructions explain how to register.",
+      "vietnamese": "Các hướng dẫn này giải thích cách đăng ký."
+    },
+    "14": {
+      "english": "Batteries are included with the remote.",
+      "vietnamese": "Pin được kèm theo điều khiển từ xa."
+    },
+    "15": {
+      "english": "The president announced the expansion plan.",
+      "vietnamese": "Chủ tịch đã công bố kế hoạch mở rộng."
+    },
+    "16": {
+      "english": "A journalist requested an interview.",
+      "vietnamese": "Một nhà báo đã đề nghị phỏng vấn."
+    },
+    "17": {
+      "english": "Registration opens next Monday.",
+      "vietnamese": "Việc đăng ký mở vào thứ Hai tới."
+    },
+    "18": {
+      "english": "The invention introduced a revolutionary approach.",
+      "vietnamese": "Phát minh đã đưa ra một cách tiếp cận mang tính cách mạng."
+    },
+    "19": {
+      "english": "The display has a glare-proof screen.",
+      "vietnamese": "Thiết bị hiển thị có màn hình chống chói."
+    },
+    "20": {
+      "english": "A last-minute change delayed the event.",
+      "vietnamese": "Một thay đổi phút chót đã làm chậm sự kiện."
+    },
+    "21": {
+      "english": "Handle the glassware with care.",
+      "vietnamese": "Cầm đồ thủy tinh cẩn thận."
+    },
+    "22": {
+      "english": "Apparently, the meeting has been postponed.",
+      "vietnamese": "Có vẻ cuộc họp đã bị hoãn."
+    },
+    "23": {
+      "english": "Please report any damage immediately.",
+      "vietnamese": "Vui lòng báo ngay mọi hư hỏng."
+    },
+    "24": {
+      "english": "Payroll will update your bank details.",
+      "vietnamese": "Bộ phận tính lương sẽ cập nhật thông tin ngân hàng của bạn."
+    },
+    "25": {
+      "english": "New-hire orientation covers workplace policies.",
+      "vietnamese": "Buổi định hướng nhân viên mới giới thiệu các chính sách nơi làm việc."
+    },
+    "26": {
+      "english": "Employees get paid every two weeks.",
+      "vietnamese": "Nhân viên nhận lương hai tuần một lần."
+    },
+    "27": {
+      "english": "Please respond as soon as possible.",
+      "vietnamese": "Vui lòng phản hồi càng sớm càng tốt."
+    },
+    "28": {
+      "english": "The manufacturing plant operates three shifts.",
+      "vietnamese": "Nhà máy sản xuất hoạt động ba ca."
+    },
+    "29": {
+      "english": "Scientists tested the new material.",
+      "vietnamese": "Các nhà khoa học đã thử nghiệm vật liệu mới."
+    },
+    "30": {
+      "english": "The energy industry is investing in research.",
+      "vietnamese": "Ngành năng lượng đang đầu tư vào nghiên cứu."
+    },
+    "31": {
+      "english": "We strive to exceed customer expectations.",
+      "vietnamese": "Chúng tôi nỗ lực vượt kỳ vọng của khách hàng."
+    },
+    "32": {
+      "english": "Her innovative design won an award.",
+      "vietnamese": "Thiết kế sáng tạo của cô ấy đã đoạt giải."
+    },
+    "33": {
+      "english": "The laboratory uses cutting-edge equipment.",
+      "vietnamese": "Phòng thí nghiệm sử dụng thiết bị tiên tiến."
+    },
+    "34": {
+      "english": "The construction noise is distracting.",
+      "vietnamese": "Tiếng ồn xây dựng gây mất tập trung."
+    },
+    "35": {
+      "english": "Please do not interrupt the speaker.",
+      "vietnamese": "Vui lòng đừng ngắt lời diễn giả."
+    },
+    "36": {
+      "english": "We encourage employees to share ideas.",
+      "vietnamese": "Chúng tôi khuyến khích nhân viên chia sẻ ý tưởng."
+    },
+    "37": {
+      "english": "The executive board approved the budget.",
+      "vietnamese": "Ban điều hành đã phê duyệt ngân sách."
+    },
+    "38": {
+      "english": "Food scientists evaluated the new packaging.",
+      "vietnamese": "Các nhà khoa học thực phẩm đã đánh giá bao bì mới."
+    },
+    "39": {
+      "english": "Poor weather conditions disrupted ferry services.",
+      "vietnamese": "Thời tiết xấu đã làm gián đoạn dịch vụ phà."
+    },
+    "40": {
+      "english": "Professional actors will perform at the festival.",
+      "vietnamese": "Diễn viên chuyên nghiệp sẽ biểu diễn tại lễ hội."
+    },
+    "41": {
+      "english": "The statistics show an increase in visitors.",
+      "vietnamese": "Số liệu thống kê cho thấy lượng khách tăng."
+    },
+    "42": {
+      "english": "The screening begins at eight.",
+      "vietnamese": "Buổi chiếu phim bắt đầu lúc tám giờ."
+    },
+    "43": {
+      "english": "The film documentary examines urban development.",
+      "vietnamese": "Bộ phim tài liệu tìm hiểu về phát triển đô thị."
+    },
+    "44": {
+      "english": "The festival celebrates diverse cultural cuisines.",
+      "vietnamese": "Lễ hội tôn vinh ẩm thực của nhiều nền văn hóa."
+    },
+    "45": {
+      "english": "Check that the printer works properly.",
+      "vietnamese": "Kiểm tra xem máy in hoạt động đúng cách không."
+    },
+    "46": {
+      "english": "We recorded a dramatic increase in sales.",
+      "vietnamese": "Chúng tôi ghi nhận doanh số tăng đáng kể."
+    },
+    "47": {
+      "english": "Our commercial airs during the evening news.",
+      "vietnamese": "Quảng cáo của chúng tôi phát trong bản tin tối."
+    },
+    "48": {
+      "english": "The company plans to expand abroad.",
+      "vietnamese": "Công ty dự định mở rộng ra nước ngoài."
+    },
+    "49": {
+      "english": "We apologize for the inconvenience.",
+      "vietnamese": "Chúng tôi xin lỗi vì sự bất tiện."
+    },
+    "50": {
+      "english": "The designer explained the new concept.",
+      "vietnamese": "Nhà thiết kế đã giải thích ý tưởng mới."
+    }
+  }
+}

@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-42-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "The director's creativity showed in everything from her ____ to the literary quality of the play to the costumes and sets.",
+        "choiceTexts": {
+          "A": "approaching",
+          "C": "approachable",
+          "B": "approach",
+          "D": "approachability"
+        },
+        "explanation": "“Her approach to” nghĩa là cách tiếp cận của bà đối với chất lượng văn học. “Approachability” là tính dễ gần, không phù hợp ngữ cảnh."
+      },
+      {
+        "id": "11",
+        "prompt": "Edward is a very talented ____ although he can't sing or dance well at all.",
+        "choiceTexts": {
+          "A": "actor",
+          "C": "action",
+          "B": "acts",
+          "D": "acting"
+        },
+        "explanation": "Sau “a very talented” cần danh từ chỉ người: “actor” (diễn viên), phù hợp với Edward."
+      },
+      {
+        "id": "12",
+        "prompt": "As your director, I call upon you to bring your life ____ into your role.",
+        "choiceTexts": {
+          "A": "experienced",
+          "C": "experiential",
+          "B": "experiencing",
+          "D": "experience"
+        },
+        "explanation": "“Life experience” là kinh nghiệm sống mà diễn viên đưa vào vai diễn, nên cần danh từ “experience”."
+      },
+      {
+        "id": "13",
+        "prompt": "I am not ____ enough to work in the theater, but I certainly enjoy attending it.",
+        "choiceTexts": {
+          "A": "create",
+          "C": "creative",
+          "B": "creativeness",
+          "D": "creativity"
+        },
+        "explanation": "Cấu trúc “tính từ + enough + to” cần “creative”: đủ sáng tạo để làm việc trong sân khấu."
+      },
+      {
+        "id": "14",
+        "prompt": "I look forward to the annual ____ of The Nutcracker ballet.",
+        "choiceTexts": {
+          "A": "performance",
+          "B": "performer",
+          "C": "perform",
+          "D": "performable"
+        },
+        "explanation": "“Annual performance” là buổi biểu diễn hằng năm. “Performer” là người biểu diễn, không phải sự kiện được trông đợi."
+      },
+      {
+        "id": "15",
+        "prompt": "There isn't much time left to ____ before the play opens.",
+        "choiceTexts": {
+          "A": "rehearsals",
+          "B": "rehearse",
+          "C": "rehearsing",
+          "D": "rehearsed"
+        },
+        "explanation": "Sau “to” dùng nguyên mẫu “rehearse”, nghĩa là tập dượt trước ngày vở kịch công diễn."
+      }
+    ]
+  },
+  {
+    "id": "essential-42-reading-6",
+    "readingPassage": "To: Jack Sprague\nFrom: Sabrina Clark\nSubject: Play\n\nHi Jack,\n\nI just saw that play that opened recently at the City Theater. You really ought to see it, too. I know you would enjoy the experience. The play combines [16] ____ from both comedy and drama, so it's funny, but it also has an important message. Some people say this play is boring because there isn't a lot of action, but I think the [17] ____ is very creative. The actors say some really funny lines. The whole performance is superb; you can tell that the actors rehearsed a long time before the play opened. You should call the theater today to get a ticket because they will probably sell [18] ____ soon. Let me know how you like the play.\n\nSabrina",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "elements",
+          "B": "elemental",
+          "C": "elementally",
+          "D": "elementary"
+        },
+        "explanation": "“Combines elements from” nghĩa là kết hợp các yếu tố của hài kịch và chính kịch. Cần danh từ số nhiều làm tân ngữ."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "analogue",
+          "B": "prologue",
+          "C": "dialogue",
+          "D": "catalogue"
+        },
+        "explanation": "Câu sau nói diễn viên có những câu thoại buồn cười, nên “dialogue” (lời thoại) là nội dung được khen sáng tạo."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "up",
+          "B": "out",
+          "C": "from",
+          "D": "down"
+        },
+        "explanation": "“Sell out” nghĩa là bán hết vé. Người viết khuyên gọi ngay vì vé sắp hết."
+      }
+    ]
+  },
+  {
+    "id": "essential-42-reading-7",
+    "readingPassage": "Audiences have waited a long time for the opening of the play Dusk to Dawn at the City Theater. Unfortunately, the long wait only adds to the disappointment of seeing a mediocre play. It is an uncomfortable experience from start to finish. The action is slow and the dialogue boring. The performance by most of the cast is awkward and, on the night I attended at least, many of the actors forgot their lines. They obviously did not rehearse enough before opening night. The plot is trite. Theatergoers had been told to expect a fresh approach to the age-old boy-meets-girl romance story. Instead, we get a story that is dull enough to drive one to tears. Although the play is relatively short—under two hours—the performance is so tedious it seems to drag on for three or four hours. The audience made an audible sigh of relief when the final curtain dropped. Rather than the predicted sold out performances, I expect that the play will close very shortly. Unfortunately, the producers invested a lot of money in this play, which they are not likely to get back. My advice to would-be theatergoers: spend the weekend at the movies instead.",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What is the reviewer's opinion of the play?",
+        "choiceTexts": {
+          "A": "It's very sad.",
+          "B": "It's boring.",
+          "C": "It's too short.",
+          "D": "It's romantic."
+        },
+        "explanation": "Bài chê hành động chậm, lời thoại nhàm chán và toàn bộ buổi diễn tẻ nhạt, nên người viết thấy vở kịch buồn chán."
+      },
+      {
+        "id": "20",
+        "prompt": "How long is the play?",
+        "choiceTexts": {
+          "A": "Less than two hours",
+          "B": "Exactly two hours.",
+          "C": "Three hours.",
+          "D": "Four hours."
+        },
+        "explanation": "Tác giả ghi rõ “under two hours”; cảm giác kéo dài ba hay bốn giờ chỉ là nhận xét chủ quan."
+      },
+      {
+        "id": "21",
+        "prompt": "What does the reviewer predict about the play?",
+        "choiceTexts": {
+          "A": "The performances will be sold out.",
+          "B": "The producers will make a lot of money.",
+          "C": "The play will be made into a movie.",
+          "D": "The play will close in a short time."
+        },
+        "explanation": "“I expect that the play will close very shortly” dự đoán vở kịch sẽ sớm ngừng diễn."
+      },
+      {
+        "id": "22",
+        "prompt": "The word experience in line 5 is closest in meaning to",
+        "choiceTexts": {
+          "A": "act",
+          "B": "wait",
+          "C": "event",
+          "D": "seat"
+        },
+        "explanation": "“Experience” ở đây là sự việc người xem trải qua trong buổi diễn, gần nghĩa “event”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word rehearse in line 9 is closest in meaning to",
+        "choiceTexts": {
+          "A": "plan",
+          "B": "sleep",
+          "C": "memorize",
+          "D": "practice"
+        },
+        "explanation": "“Rehearse” nghĩa là tập dượt trước khi biểu diễn, tương đương “practice”, không chỉ học thuộc lời."
+      }
+    ]
+  }
+]

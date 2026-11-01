@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-29-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "The product development team were ____ that the competition would produce a similar product and get it on the market before they did.",
+        "choiceTexts": {
+          "A": "anxious",
+          "B": "anxiously",
+          "C": "anxiousness",
+          "D": "anxiety"
+        },
+        "explanation": "Sau were cần tính từ anxious mô tả trạng thái lo lắng rằng đối thủ sẽ ra sản phẩm trước."
+      },
+      {
+        "id": "11",
+        "prompt": "The designer made the ____ that people are attracted to boxes in primary colors.",
+        "choiceTexts": {
+          "A": "assumption",
+          "B": "assumed",
+          "C": "assuming",
+          "D": "assume"
+        },
+        "explanation": "Made the assumption that... là cụm đưa ra giả định rằng; assumption là danh từ sau the."
+      },
+      {
+        "id": "12",
+        "prompt": "The ____ model of the new car drew attention wherever it was shown.",
+        "choiceTexts": {
+          "A": "experiment",
+          "B": "experimentation",
+          "C": "experimental",
+          "D": "experimenting"
+        },
+        "explanation": "Experimental là tính từ bổ nghĩa model, chỉ mẫu xe thử nghiệm."
+      },
+      {
+        "id": "13",
+        "prompt": "Our team came up with the most ____ solution to the problem.",
+        "choiceTexts": {
+          "A": "logic",
+          "B": "logical",
+          "C": "logically",
+          "D": "logician"
+        },
+        "explanation": "Most logical solution cần tính từ logical: giải pháp hợp lý nhất do nhóm đề xuất."
+      },
+      {
+        "id": "14",
+        "prompt": "The new employee accepted ____ for not discovering a trademarked toy exactly like his own company's.",
+        "choiceTexts": {
+          "A": "responsible",
+          "B": "responsibility",
+          "C": "responsibly",
+          "D": "response"
+        },
+        "explanation": "Accept responsibility for là nhận trách nhiệm về việc gì; sau accepted cần danh từ responsibility."
+      },
+      {
+        "id": "15",
+        "prompt": "Mr. Oh did not give the project adequate ____ and the product never made it to market.",
+        "choiceTexts": {
+          "A": "supervisor",
+          "B": "supervision",
+          "C": "supervised",
+          "D": "supervise"
+        },
+        "explanation": "Adequate supervision là sự giám sát đầy đủ; supervision là danh từ chỉ hoạt động, không phải người supervisor."
+      }
+    ]
+  },
+  {
+    "id": "essential-29-reading-6",
+    "readingPassage": "In order to stay competitive in today's market, companies must continually work to develop new products. Through\n[16] ____ research, a company can ascertain what consumers are interested in buying. Then products that match those\ninterests can be developed. Nothing should [17] ____ about consumer interests. Product developers need [18] ____ all\nthe data carefully before spending money on a new product. This is only logical. Consumers will buy products that\nmeet their needs and desires. The money and effort spent on market research will be repaid many times over by a\nproduct that sells well.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "system",
+          "B": "systemize",
+          "C": "systematic",
+          "D": "systematically"
+        },
+        "explanation": "Systematic là tính từ bổ nghĩa research: nghiên cứu có hệ thống giúp xác định nhu cầu khách hàng."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "assume",
+          "B": "assumes",
+          "C": "assumed",
+          "D": "be assumed"
+        },
+        "explanation": "Nothing should be assumed là cấu trúc bị động với động từ khuyết thiếu: không nên tự giả định về sở thích người tiêu dùng."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "examine",
+          "B": "to examine",
+          "C": "examining",
+          "D": "will examine"
+        },
+        "explanation": "Need to examine là cấu trúc cần làm gì; nhà phát triển phải xem xét dữ liệu trước khi chi tiền."
+      }
+    ]
+  },
+  {
+    "id": "essential-29-reading-7",
+    "readingPassage": "February 12, 20—\nKathleen Hollinger\nProduct Development Department\nNew Age Systems, Inc.\n475 Cutter Avenue\nSellingham, WA 90876\nDear Ms. Hollinger,\nI understand that the company has an opening in the\nProduct Development Department. I am interested\nin applying for this position. I have been working for\nNew Age Systems for close to a decade. Currently I\nam a research assistant in the Marketing Department.\nDuring my time at New Age Systems, I have worked\nin several departments at the company and have had\nthe opportunity to learn a great deal about its work. I\nfeel that I am now ready to assume the responsibilities\nof a higher level position. I am anxious to speak with\nyou about working in the Product Development\nDepartment. Thank you for your attention. I look forward to hearing from you.\nSincerely,\nDean Ayers\nFebruary 16, 20—\nDean Ayers\nMarketing Department\nNew Age Systems, Inc.\n475 Cutter Avenue\nSellingham, WA 90876\nDear Mr. Ayers,\nThank you for your letter expressing interest in applying for the position in the Product Development\nDepartment. Unfortunately, the position you are\ninterested in has already been filled. However, I have\ncommunicated with your supervisor, and he speaks\nvery highly of you. I have also examined your work\nrecord. It is clear that you would be a good asset to\nour department. I expect that we will have another\nopening before the end of this year. As soon as I have\nascertained the availability of that position, I will be in\ncontact with you. I look forward to meeting with you\nin the near future.\nSincerely,\nKathleen Hollinger\nManager, Product Development Department",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "How long has Mr. Ayers worked for New Age Systems, Inc.?",
+        "choiceTexts": {
+          "A": "Almost ten years.",
+          "B": "Exactly ten years.",
+          "C": "Almost twenty years.",
+          "D": "More than twenty years."
+        },
+        "explanation": "Close to a decade nghĩa là gần một thập kỷ, tức gần mười năm chứ chưa đúng mười năm."
+      },
+      {
+        "id": "20",
+        "prompt": "What job does Mr. Ayers have now?",
+        "choiceTexts": {
+          "A": "Product developer.",
+          "B": "Department head.",
+          "C": "Marketing manager.",
+          "D": "Research assistant."
+        },
+        "explanation": "Ông viết Currently I am a research assistant in the Marketing Department, xác định công việc hiện tại."
+      },
+      {
+        "id": "21",
+        "prompt": "What will Ms. Hollinger do?",
+        "choiceTexts": {
+          "A": "Hire Mr. Ayers right away.",
+          "B": "Ask Mr. Ayers to supervise a project.",
+          "C": "Tell Mr. Ayers when a position becomes available.",
+          "D": "Send Mr. Ayers a copy of his work record."
+        },
+        "explanation": "Vị trí đã được tuyển nhưng Hollinger hứa liên hệ ngay khi xác định có vị trí khác còn trống."
+      },
+      {
+        "id": "22",
+        "prompt": "The word assume in the first letter is closest in meaning to",
+        "choiceTexts": {
+          "A": "teach",
+          "B": "study",
+          "C": "decide",
+          "D": "take"
+        },
+        "explanation": "Assume the responsibilities nghĩa là nhận/lãnh trách nhiệm, nên take là từ gần nghĩa trong ngữ cảnh này."
+      },
+      {
+        "id": "23",
+        "prompt": "The word examined is closest in meaning to",
+        "choiceTexts": {
+          "A": "looked at",
+          "B": "brought up",
+          "C": "taken back",
+          "D": "given up"
+        },
+        "explanation": "Examined your work record nghĩa là đã xem xét hồ sơ công việc, tương đương looked at."
+      }
+    ]
+  }
+]

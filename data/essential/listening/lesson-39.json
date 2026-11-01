@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-39.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-39.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 39"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "When must a customer notify the hotel?",
+      "choiceTexts": {
+        "A": "When he wants to leave a deposit.",
+        "B": "When he will check in early.",
+        "C": "When he expects to return to the hotel.",
+        "D": "When he wants to cancel a reservation."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "How much in advance should the customer notify the hotel?",
+      "choiceTexts": {
+        "A": "Two to four hours.",
+        "B": "Four hours.",
+        "C": "Twenty-four hours.",
+        "D": "Forty-four hours."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What does the man tell the woman to do?",
+      "choiceTexts": {
+        "A": "Telephone the customer.",
+        "B": "Send the customer a bill.",
+        "C": "Charge the customer extra.",
+        "D": "Get the customer's credit card number."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who is the speaker addressing?",
+      "choiceTexts": {
+        "A": "New hotel employees.",
+        "B": "Regular hotel customers.",
+        "C": "Experienced hotel managers.",
+        "D": "Hotel chain owners."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What is the goal of the hotel chain?",
+      "choiceTexts": {
+        "A": "To get more customers.",
+        "B": "To provide the best service.",
+        "C": "To charge higher rates.",
+        "D": "To hire more employees."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "Where will the speaker take the listeners?",
+      "choiceTexts": {
+        "A": "To the front door.",
+        "B": "To the service entrance.",
+        "C": "To the tour office.",
+        "D": "To the dining room."
+      }
+    }
+  ]
+}

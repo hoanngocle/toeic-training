@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-44-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "The museum was lucky to be given a collection of works by such an ____ artist.",
+        "choiceTexts": {
+          "A": "admiration",
+          "C": "admired",
+          "B": "admire",
+          "D": "admires"
+        },
+        "explanation": "“An admired artist” là nghệ sĩ được ngưỡng mộ. Phân từ “admired” bổ nghĩa cho người nhận sự ngưỡng mộ."
+      },
+      {
+        "id": "11",
+        "prompt": "Once Mimi began ____ pottery, her husband gave her pieces as gifts.",
+        "choiceTexts": {
+          "A": "collection",
+          "C": "collecting",
+          "B": "collectable",
+          "D": "collector"
+        },
+        "explanation": "“Began” có thể đi với V-ing. “Began collecting pottery” nghĩa là bắt đầu sưu tập đồ gốm."
+      },
+      {
+        "id": "12",
+        "prompt": "The curator's ____ of the museum's fundraising plan seemed shortsighted.",
+        "choiceTexts": {
+          "A": "criticism",
+          "C": "critical",
+          "B": "critic",
+          "D": "criticize"
+        },
+        "explanation": "Sau sở hữu cách và trước “of” cần danh từ “criticism” (sự phê bình). “Critic” là người phê bình."
+      },
+      {
+        "id": "13",
+        "prompt": "We have been asked to ____ to the proposal by the end of the month.",
+        "choiceTexts": {
+          "A": "responsive",
+          "C": "respond",
+          "B": "response",
+          "D": "responding"
+        },
+        "explanation": "“Asked to” cần nguyên mẫu “respond”; “respond to the proposal” nghĩa là phản hồi đề xuất."
+      },
+      {
+        "id": "14",
+        "prompt": "The museum offers a ____ of guided tours.",
+        "choiceTexts": {
+          "A": "schedules",
+          "C": "scheduling",
+          "B": "scheduled",
+          "D": "schedule"
+        },
+        "explanation": "“A schedule of guided tours” là lịch các chuyến tham quan. “A” cần danh từ số ít “schedule”."
+      },
+      {
+        "id": "15",
+        "prompt": "After becoming a ____ in Egyptian tomb painting, the art historian lost her interest in other kinds of art.",
+        "choiceTexts": {
+          "A": "specialize",
+          "C": "specially",
+          "B": "specialist",
+          "D": "special"
+        },
+        "explanation": "“Becoming a specialist in” nghĩa là trở thành chuyên gia trong một lĩnh vực; cần danh từ chỉ người."
+      }
+    ]
+  },
+  {
+    "id": "essential-44-reading-6",
+    "readingPassage": "Thank you for visiting the Museum of History. This brochure has been developed to provide you with information to make your visit more enjoyable.\n\nViewing the Exhibits\nOur main exhibits are located on the first and second floors of the museum. They cover all aspects of local history up to the present and are organized in chronological order. You are invited to join one of our regular guided tours at no extra charge, or you can visit the exhibits on your own and view them at your [16] ____.\n\nGroup Tours\nSchool groups and other groups that wish to visit the museum may [17] ____ special group tours. Please contact the Museum Tour Office for more information.\n\nMuseum Bookstore\nThe Museum Bookstore is located on the first floor next to the cafeteria. This store specializes in books about local history. Gift items are also for sale. In [18] ____ to the requests of many of our visitors, the bookstore hours have been extended. It is now open daily from 10:00 A.M. until 6:00 P.M.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "lesion",
+          "B": "legion",
+          "C": "ledger",
+          "D": "leisure"
+        },
+        "explanation": "“At your leisure” nghĩa là khi thuận tiện, theo nhịp độ của mình, phù hợp với tham quan tự do."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "schedule",
+          "B": "scheduling",
+          "C": "to schedule",
+          "D": "have schedule"
+        },
+        "explanation": "Sau động từ khuyết thiếu “may” dùng nguyên mẫu “schedule”: các đoàn có thể đặt lịch tour riêng."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "responsible",
+          "B": "responsive",
+          "C": "response",
+          "D": "respond"
+        },
+        "explanation": "“In response to” là cụm cố định nghĩa là để đáp lại; hiệu sách kéo dài giờ theo yêu cầu khách."
+      }
+    ]
+  },
+  {
+    "id": "essential-44-reading-7",
+    "readingPassage": "Most visitors to our city spend time visiting some of the many museums that we are famous for. The City Art Museum, Museum of History, National University Museum of Scientific Research, and the Hall of Presidents are among the most popular destinations for museumgoers. The National Transportation Museum, currently undergoing renovations, is scheduled to reopen next year with a larger number of exhibits and extended hours.\n\nVisitors to the City Art Museum can admire the collection of paintings by local artists as well as famous art works from around the world. The museum's collection covers a wide spectrum of artists and styles, and critics have called it one of the most significant in the world. Art classes offered at the museum provide both the serious and the casual student of art with opportunities to explore the world of artistic expression. The Museum of History features rotating exhibits focusing on various aspects of our nation's history, and a permanent collection of portraits of our nation's presidents. This summer's special exhibit focuses on the history of fashion. The National University Museum of Scientific Research specializes in exhibits on research undertaken at the university. It also features a special hands-on exhibit for children.\n\nAll museums have the same entrance price: $10 for adults and $5 for children. A special $35 weekly pass, available at any museum, allows the holder entrance to all city museums for a week. This pass is especially recommended to visitors from out of town as it provides the opportunity to visit all the museums at leisure.",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Who is this brochure for?",
+        "choiceTexts": {
+          "A": "Museum employees.",
+          "B": "Historians.",
+          "C": "Students.",
+          "D": "Tourists."
+        },
+        "explanation": "Tờ giới thiệu cung cấp điểm tham quan và giá vé cho khách đến thành phố, nên dành cho khách du lịch."
+      },
+      {
+        "id": "20",
+        "prompt": "Where can portraits of presidents be seen?",
+        "choiceTexts": {
+          "A": "City Art Museum.",
+          "B": "Museum of History.",
+          "C": "National University Museum.",
+          "D": "Hall of Presidents."
+        },
+        "explanation": "Đoạn hai nói Museum of History có bộ sưu tập thường trực chân dung các tổng thống; tên Hall of Presidents là phương án gây nhiễu."
+      },
+      {
+        "id": "21",
+        "prompt": "What is the price of a one-day museum ticket for an adult?",
+        "choiceTexts": {
+          "A": "$3.50.",
+          "B": "$5.",
+          "C": "$10.",
+          "D": "$35."
+        },
+        "explanation": "Giá vào cửa ghi rõ 10 đô la cho người lớn; 35 đô la là vé tuần và 5 đô la là vé trẻ em."
+      },
+      {
+        "id": "22",
+        "prompt": "The word admire in the second paragraph, line 1 is closest in meaning to",
+        "choiceTexts": {
+          "A": "look at",
+          "B": "look to",
+          "C": "look up",
+          "D": "look for"
+        },
+        "explanation": "“Admire” ở đây là ngắm các bức tranh, gần nghĩa “look at”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word significant in the second paragraph, line 4 is closest in meaning to",
+        "choiceTexts": {
+          "A": "large",
+          "B": "varied",
+          "C": "interesting",
+          "D": "important"
+        },
+        "explanation": "“Significant” mô tả tầm quan trọng của bộ sưu tập, nên tương đương “important”."
+      }
+    ]
+  }
+]

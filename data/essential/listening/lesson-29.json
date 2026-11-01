@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-29.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-29.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 29"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What does the woman want to do with the doll?",
+      "choiceTexts": {
+        "A": "Make it less expensive.",
+        "B": "Examine it.",
+        "C": "Change it's color.",
+        "D": "Add a noisemaker."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "How much does the woman think that sales will increase?",
+      "choiceTexts": {
+        "A": "13 percent.",
+        "B": "15 percent.",
+        "C": "30 percent.",
+        "D": "40 percent."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What does the man suggest that the woman do?",
+      "choiceTexts": {
+        "A": "Search for a bigger doll.",
+        "B": "Research prices and sales.",
+        "C": "Give the doll a new figure.",
+        "D": "Hire more salespeople."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Why is the product popular?",
+      "choiceTexts": {
+        "A": "It has a low price.",
+        "B": "People are familiar with it.",
+        "C": "It is available everywhere.",
+        "D": "Nobody is sure of the reason."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "How long has the product been on the market?",
+      "choiceTexts": {
+        "A": "Exactly two years.",
+        "B": "Exactly twenty years.",
+        "C": "More than twenty years.",
+        "D": "About ten years."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "Who buys the product?",
+      "choiceTexts": {
+        "A": "Children.",
+        "B": "Teenagers.",
+        "C": "Men and women.",
+        "D": "People of all ages."
+      }
+    }
+  ]
+}

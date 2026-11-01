@@ -1,0 +1,179 @@
+[
+  {
+    "id": "essential-19-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "After we have ____ all of the necessary documents, we will begin our analysis of the data.",
+        "choiceTexts": {
+          "A": "compile",
+          "B": "compiled",
+          "C": "compiling",
+          "D": "compilation"
+        },
+        "explanation": "Have compiled là hiện tại hoàn thành; sau have cần quá khứ phân từ để nói việc thu thập tài liệu hoàn tất trước khi phân tích."
+      },
+      {
+        "id": "11",
+        "prompt": "Though he worked very ____ with machines and figures, he was slow and awkward with customers and coworkers.",
+        "choiceTexts": {
+          "A": "efficient",
+          "B": "efficiently",
+          "C": "efficiency",
+          "D": "efficacy"
+        },
+        "explanation": "Efficiently là trạng từ bổ nghĩa cho worked: làm việc hiệu quả với máy móc và số liệu."
+      },
+      {
+        "id": "12",
+        "prompt": "Although ____ expenses works well when applying for a contract, clients appreciate itemization on their invoices.",
+        "choiceTexts": {
+          "A": "estimate",
+          "B": "estimator",
+          "C": "estimated",
+          "D": "estimation"
+        },
+        "explanation": "Estimated là phân từ dùng như tính từ bổ nghĩa cho expenses, chỉ các khoản chi phí ước tính."
+      },
+      {
+        "id": "13",
+        "prompt": "The customers usually pay their invoices promptly in order to avoid the ____ of late charges.",
+        "choiceTexts": {
+          "A": "imposed",
+          "B": "imposingly",
+          "C": "impose",
+          "D": "imposition"
+        },
+        "explanation": "The imposition of late charges cần danh từ imposition sau the và trước of: việc áp dụng phí trả chậm.",
+        "answerOverride": "D",
+        "sourceNote": "Đáp án in ở trang PDF 334 ghi A, nhưng câu ở trang PDF 131 cần danh từ imposition sau the và trước of; đáp án đúng về ngữ pháp là D."
+      },
+      {
+        "id": "14",
+        "prompt": "The customer was angry at the ____ on her invoice.",
+        "choiceTexts": {
+          "A": "mistakes",
+          "B": "mistaken",
+          "C": "mistakable",
+          "D": "mistaking"
+        },
+        "explanation": "Sau the cần danh từ chỉ điều khiến khách hàng tức giận: mistakes là những sai sót trên hóa đơn.",
+        "answerOverride": "A",
+        "sourceNote": "Đáp án in ở trang PDF 334 ghi C, nhưng câu ở trang PDF 131 cần danh từ mistakes để chỉ các lỗi trên hóa đơn; đáp án đúng về ngữ pháp là A."
+      },
+      {
+        "id": "15",
+        "prompt": "The client would appreciate it if the invoice could be sent ____ so he can pay it before the end of the fiscal year.",
+        "choiceTexts": {
+          "A": "promptly",
+          "B": "promptness",
+          "C": "prompted",
+          "D": "prompt"
+        },
+        "explanation": "Promptly là trạng từ bổ nghĩa cho be sent, nghĩa là hóa đơn được gửi nhanh chóng để kịp thanh toán.",
+        "answerOverride": "A",
+        "sourceNote": "Đáp án in ở trang PDF 334 ghi B, nhưng câu ở trang PDF 131 cần trạng từ promptly bổ nghĩa cho be sent; đáp án đúng về ngữ pháp là A."
+      }
+    ]
+  },
+  {
+    "id": "essential-19-reading-6",
+    "readingPassage": "Invoices are an essential part of any business and should be given their due attention. Without invoices, after all, a\nbusiness would not receive payment for services rendered. The [16] ____ of the invoice must be stated clearly, that is,\nthe customer needs to know exactly what he is being charged for and when the payment is due. If a customer\ndiscovers a mistake on the invoice, it should be rectified as soon as possible. If a final charge is much greater than\nthe original estimate, the reason for this should be explained as clearly and simply as possible on the invoice. Some\nbusinesses [17] ____ a late fee on late payments. In such cases, this must also be made clear on the invoice. Finally,\nthe invoice must be sent to the customer [18] ____ in order to encourage timely payment.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "terms",
+          "B": "orders",
+          "C": "discounts",
+          "D": "compilations"
+        },
+        "explanation": "Terms là các điều khoản: phần sau giải thích phải nêu rõ khoản tiền tính cho việc gì và khi nào đến hạn."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "imposition",
+          "B": "imposing",
+          "C": "imposter",
+          "D": "impose"
+        },
+        "explanation": "Chủ ngữ số nhiều businesses cần động từ impose: các doanh nghiệp áp dụng phí trả chậm."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "prompt",
+          "B": "prompter",
+          "C": "promptly",
+          "D": "promptness"
+        },
+        "explanation": "Promptly bổ nghĩa cho must be sent; gửi hóa đơn kịp thời sẽ khuyến khích thanh toán đúng hạn."
+      }
+    ]
+  },
+  {
+    "id": "essential-19-reading-7",
+    "readingPassage": "Clary Closets\n“Making your world more organized.”\nInvoice\nTo: Millicent Pensky\n752 Montrose Avenue\nProctorville, VT\nDate: November 10, 20—\nInitial consultation fee: $75\nOrganizing four closets: $800\nSupplies: $225\nTotal due: $1100\nThank you for doing business with us.\nPlease pay by November 30. A 10 percent late fee will be imposed on late payments.\n\nNovember 15, 20—\nClary Closets\n18 North Main Street\nChester, VT\nDear Ms. Clary,\nI am writing to dispute the charges on the invoice I recently received from your company. The invoice contained several mistakes. First, I was told that I would not be charged an initial consultation fee if I decided to use your services. Since I did go ahead and hire you to organize my closets, I should not have to pay this fee. Second, the final charge for organizing my four closets was $250 higher than the original estimate. I think this is too much and that I should be charged no more than the original estimate. Finally, I was charged for supplies that you ordered without my authorization. I could have obtained these same supplies myself at a lower price. Since I did not authorize this charge, I think I should pay a lower price for the supplies.\nI chose Clary Closets to organize my closets because several of my friends and business associates have been satisfied customers of yours. However, I find it difficult to believe that an organizing business can be so inefficient when it comes to invoices. Please rectify these mistakes and send me a corrected invoice promptly.\nSincerely,\nMillicent Pensky",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What did Ms. Pensky hire Ms. Clary to do?",
+        "choiceTexts": {
+          "A": "Write invoices.",
+          "B": "Collect fees.",
+          "C": "Organize closets.",
+          "D": "Buy supplies."
+        },
+        "explanation": "Thư nói rõ thuê công ty organize my closets, và hóa đơn ghi Organizing four closets."
+      },
+      {
+        "id": "20",
+        "prompt": "According to the terms of the invoice, how much will Ms. Pensky owe if she pays on December 1?",
+        "choiceTexts": {
+          "A": "$110.",
+          "B": "$1100.",
+          "C": "$1110.",
+          "D": "$1210."
+        },
+        "explanation": "Hạn trả là 30/11, trả ngày 1/12 chịu thêm 10% của $1100 = $110, tổng cộng $1210."
+      },
+      {
+        "id": "21",
+        "prompt": "How much was the original estimate?",
+        "choiceTexts": {
+          "A": "$250.",
+          "B": "$550.",
+          "C": "$800.",
+          "D": "$850."
+        },
+        "explanation": "Phí sắp xếp tủ thực tế là $800, cao hơn dự toán $250, nên dự toán ban đầu là $550."
+      },
+      {
+        "id": "22",
+        "prompt": "The word ordered in the letter is closest in meaning to",
+        "choiceTexts": {
+          "A": "bought",
+          "B": "used",
+          "C": "borrowed",
+          "D": "enjoyed"
+        },
+        "explanation": "Ordered supplies trong thư nghĩa là đặt mua vật tư, gần nghĩa nhất với bought."
+      },
+      {
+        "id": "23",
+        "prompt": "The word rectify in the letter is closest in meaning to",
+        "choiceTexts": {
+          "A": "explain",
+          "B": "calculate",
+          "C": "fix",
+          "D": "see"
+        },
+        "explanation": "Rectify these mistakes nghĩa là sửa các sai sót; fix phù hợp với yêu cầu gửi hóa đơn đã chỉnh sửa."
+      }
+    ]
+  }
+]

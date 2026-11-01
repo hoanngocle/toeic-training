@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-15-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "When he thought about his long career, he realized that his biggest ____ was in developing the new leaders of the company.",
+        "choiceTexts": {
+          "A": "achiever",
+          "B": "achieved",
+          "C": "achievement",
+          "D": "achieves"
+        },
+        "explanation": "Sau “his biggest” cần danh từ “achievement”, chỉ thành tựu lớn nhất trong sự nghiệp."
+      },
+      {
+        "id": "11",
+        "prompt": "She has ____ so much time and energy to the project that her name should appear on the award.",
+        "choiceTexts": {
+          "A": "contributes",
+          "B": "contribution",
+          "C": "contributed",
+          "D": "contributor"
+        },
+        "explanation": "“She has contributed” là hiện tại hoàn thành; cần quá khứ phân từ để nói lượng thời gian và công sức đã đóng góp."
+      },
+      {
+        "id": "12",
+        "prompt": "Hard work and ____ will help you move up the corporate ladder.",
+        "choiceTexts": {
+          "A": "dedicated",
+          "B": "dedicates",
+          "C": "dedication",
+          "D": "dedicated"
+        },
+        "explanation": "“Hard work and dedication” ghép hai danh từ, nghĩa là sự chăm chỉ và tận tâm."
+      },
+      {
+        "id": "13",
+        "prompt": "There is no reason to question her ____ to our company.",
+        "choiceTexts": {
+          "A": "loyal",
+          "B": "loyally",
+          "C": "loyalty",
+          "D": "laurels"
+        },
+        "explanation": "Sau “her” cần danh từ “loyalty”, chỉ lòng trung thành đối với công ty."
+      },
+      {
+        "id": "14",
+        "prompt": "These microchips are ____ faster and more cheaply in Asia.",
+        "choiceTexts": {
+          "A": "produce",
+          "B": "produced",
+          "C": "product",
+          "D": "production"
+        },
+        "explanation": "Vi mạch được sản xuất nên dùng bị động “are produced”; trạng từ sau mô tả tốc độ và chi phí sản xuất."
+      },
+      {
+        "id": "15",
+        "prompt": "Because you are a valued and dedicated employee, we are ____ you to director of the department.",
+        "choiceTexts": {
+          "A": "promoting",
+          "B": "promote",
+          "C": "promotion",
+          "D": "promoter"
+        },
+        "explanation": "“We are promoting you” là hiện tại tiếp diễn, thông báo việc thăng chức đang được thực hiện."
+      }
+    ]
+  },
+  {
+    "id": "essential-15-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "contribute",
+          "B": "contributes",
+          "C": "contributors",
+          "D": "contributions"
+        },
+        "explanation": "“Many” yêu cầu danh từ đếm được số nhiều “contributions”: nhiều đóng góp cho bộ phận."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "recognize",
+          "B": "to recognize",
+          "C": "recognizing",
+          "D": "will recognize"
+        },
+        "explanation": "Cấu trúc “be able to + động từ nguyên mẫu” yêu cầu “to recognize”, tức có thể ghi nhận công sức."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "look forward to",
+          "B": "look in on",
+          "C": "look for",
+          "D": "look to"
+        },
+        "explanation": "“Look forward to” đi với V-ing “welcoming”, diễn tả mong đợi đón người vào vị trí mới."
+      }
+    ],
+    "readingPassage": "Dear Harry,\n\nWe are pleased to inform you of your promotion within our company. Starting the first of next month, you will begin in\nyour new position as manager of the Fulfillment Department. During your years as a member of the Fulfillment\nDepartment staff, you have made many [16] ____ to the productivity and smooth operation of the department. We have\nalways valued your dedication to your job, and now we are pleased to be able [17] ____ your hard work and fine skills\nwith this promotion. We know you will do a wonderful job. The Personnel Department will contact you soon regarding\nthe changes in your salary and benefits. We [18] ____ welcoming you to your new position next month.\nSincerely,\nMadeline Kovacs\nPresident"
+  },
+  {
+    "id": "essential-15-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "When will the awards ceremony be held?",
+        "choiceTexts": {
+          "A": "October 15.",
+          "B": "November 5.",
+          "C": "November 10.",
+          "D": "November 15."
+        },
+        "explanation": "Memo ghi lễ trao thưởng ở Merrimack Hotel vào Friday, November 10."
+      },
+      {
+        "id": "20",
+        "prompt": "Who will suggest award recipients?",
+        "choiceTexts": {
+          "A": "The personnel manager.",
+          "B": "The company president.",
+          "C": "The assistant manager.",
+          "D": "The company staff members."
+        },
+        "explanation": "Memo gửi toàn bộ nhân viên và yêu cầu họ đề cử đồng nghiệp xứng đáng."
+      },
+      {
+        "id": "21",
+        "prompt": "Why does Marilyn Freeland think Janet McGhee deserves an award?",
+        "choiceTexts": {
+          "A": "She works on important projects.",
+          "B": "She always works long hours.",
+          "C": "She looks to others as an example.",
+          "D": "She manages the research department."
+        },
+        "explanation": "Marilyn nhấn mạnh Janet luôn làm nhiều giờ và cả cuối tuần để hoàn thành công việc."
+      },
+      {
+        "id": "22",
+        "prompt": "The word Obviously in line 9 of the first e-mail is closest in meaning to",
+        "choiceTexts": {
+          "A": "clearly",
+          "B": "quickly",
+          "C": "usually",
+          "D": "importantly"
+        },
+        "explanation": "“Obviously” biểu thị điều rõ ràng, gần nghĩa “clearly”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word dedication in line 3 of the second e-mail is closest in meaning to",
+        "choiceTexts": {
+          "A": "ability",
+          "B": "commitment",
+          "C": "knowledge",
+          "D": "attendance"
+        },
+        "explanation": "“Dedication” được minh họa bằng sự tận tâm và thời gian làm việc, tương đương “commitment”."
+      }
+    ],
+    "readingPassage": "To: All company staff\nFrom: Claude Dubois, Personnel Manager\nRe: Annual Awards Ceremony\nIt is time to start getting ready for the company’s\nannual awards ceremony. It will take place at the\nMerrimack Hotel on Friday, November 10. Up to 15\nstaff members will receive awards from the company\npresident that evening. We look to you, our company\nstaff, to help us select deserving award recipients.\nPlease send in your nominations for colleagues who\nyou think merit the recognition of an award.\nObviously, we would like to see names of people who\nhave contributed more than average to the company.\nSend me your nominations by e-mail before October\n15 so that we can have the list finalized before\nNovember 5. Thank you.\n\nTo: claude_dubois@starco.com\nFrom: marilyn_freeland@starco.com\nSubject: nomination\nHi Claude,\nI would like to nominate my coworker, Janet McGhee,\nassistant manager of the research department, for an\naward. Her dedication to her job is far above average.\nShe always works long hours to make sure she gets her\njob done. If she is working on an important project,\nshe will come into the office on weekends if she thinks\nit's necessary to completing her job on time. The rest\nof us in the department always look to Janet as an\nexample of how to get a job done right. If anyone\ndeserves the recognition of an award for loyalty and\ndedication, it's Janet. I hope you will consider her as an award recipient.\n\nThank you.\nMarilyn"
+  }
+]

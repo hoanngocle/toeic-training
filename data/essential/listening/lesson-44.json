@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-44.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-44.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 44"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What are the speakers discussing?",
+      "choiceTexts": {
+        "A": "A drawing.",
+        "B": "A sculpture.",
+        "C": "A painting.",
+        "D": "A photograph."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "What does the man like about it?",
+      "choiceTexts": {
+        "A": "The size.",
+        "B": "The color.",
+        "C": "The style.",
+        "D": "The subject."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What does the woman say about the museum?",
+      "choiceTexts": {
+        "A": "The admission fee is too expensive.",
+        "B": "They should acquire more works.",
+        "C": "It's not very interesting.",
+        "D": "The collection is varied."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "When does the lecture series at the museum begin?",
+      "choiceTexts": {
+        "A": "Next month.",
+        "B": "Next week.",
+        "C": "This month.",
+        "D": "This week."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "How can you find out the schedule of guided tours?",
+      "choiceTexts": {
+        "A": "Visit the main gallery.",
+        "B": "Press two.",
+        "C": "Go online.",
+        "D": "Speak with an operator."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What is the topic of the print exhibit?",
+      "choiceTexts": {
+        "A": "Fashion.",
+        "B": "Sculpture.",
+        "C": "African art.",
+        "D": "Nineteenth-century art."
+      }
+    }
+  ]
+}

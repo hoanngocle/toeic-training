@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-07-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "____ is still a major concern for inner-city schools that want to install computers.",
+        "choiceTexts": {
+          "A": "Afford",
+          "B": "Affording",
+          "C": "Affordable",
+          "D": "Affordability"
+        },
+        "explanation": "Chỗ trống là chủ ngữ chỉ khả năng chi trả, nên cần danh từ “Affordability”."
+      },
+      {
+        "id": "11",
+        "prompt": "Hoping to repeat the success of the previous year's sales ____, the vice president held a meeting of all the managers.",
+        "choiceTexts": {
+          "A": "initiated",
+          "B": "initiating",
+          "C": "initiative",
+          "D": "initiation"
+        },
+        "explanation": "Sau “the previous year’s sales” cần danh từ “initiative”, chỉ sáng kiến bán hàng thành công năm trước."
+      },
+      {
+        "id": "12",
+        "prompt": "The athlete's extraordinary ____ distracted customers from the auto itself.",
+        "choiceTexts": {
+          "A": "physique",
+          "B": "physical",
+          "C": "physicality",
+          "D": "physically"
+        },
+        "explanation": "Sau sở hữu cách và “extraordinary” cần danh từ “physique”, chỉ vóc dáng của vận động viên khiến khách phân tâm."
+      },
+      {
+        "id": "13",
+        "prompt": "As promised in our last meeting, this contract ____ you with the best prices.",
+        "choiceTexts": {
+          "A": "provide",
+          "B": "provides",
+          "C": "provision",
+          "D": "provider"
+        },
+        "explanation": "“This contract” là chủ ngữ số ít nên hiện tại đơn dùng “provides”."
+      },
+      {
+        "id": "14",
+        "prompt": "When a problem ____ frequently, it is time to reexamine the process.",
+        "choiceTexts": {
+          "A": "recur",
+          "B": "recurrence",
+          "C": "recurring",
+          "D": "recurs"
+        },
+        "explanation": "“A problem” số ít cần động từ “recurs”, nghĩa là vấn đề lặp lại thường xuyên."
+      },
+      {
+        "id": "15",
+        "prompt": "The employee preferred to have a ____ in salary than to have to continue working with her outdated computer.",
+        "choiceTexts": {
+          "A": "reducing",
+          "B": "reduction",
+          "C": "reduce",
+          "D": "reduces"
+        },
+        "explanation": "Sau “a” và trước “in salary” cần danh từ “reduction”, chỉ việc giảm lương."
+      }
+    ]
+  },
+  {
+    "id": "essential-07-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "reduce",
+          "B": "reducing",
+          "C": "reducible",
+          "D": "reduction"
+        },
+        "explanation": "Sau “can’t” cần nguyên mẫu “reduce”; văn bản nói không thể giảm số lượng bản sao cần dùng."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "durable",
+          "B": "durables",
+          "C": "more durable",
+          "D": "most durable"
+        },
+        "explanation": "Song song với so sánh hơn “larger” phải là “more durable”, tức máy lớn hơn và bền hơn."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "costly",
+          "B": "physical",
+          "C": "attractive",
+          "D": "affordable"
+        },
+        "explanation": "Ngân sách có hạn nên cần máy có giá phải chăng, “affordable”, không phải “costly”."
+      }
+    ],
+    "readingPassage": "Memo\nTo: Miriam Ketonen, Office Manager\nFrom: Jason Roberts, Assistant Office Manager\nRe: Photocopier\nThere have been recurring problems with the office photocopier, particularly with paper jams. I believe the problem is\nwith the type of machine we have. A machine of this size simply does not have the capacity to handle the amount of\ncopying we normally do. Obviously we can't [16] ____ the number of copies we make. I suggest that it's time to order\na larger and [17] ____ machine. I have looked through the catalogs and discovered several that I think would suit our\nneeds. I have selected the most [18] ____ ones, as I know we have a limited amount of money to spend. I have attached\ntheir descriptions. Since you are in charge of making large purchases like this, I will need your approval before I go\nahead and place the order. Let me know which of the machines you think is best, and I will fill out the purchase order.\nThanks."
+  },
+  {
+    "id": "essential-07-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What will Mr. Conner buy now?",
+        "choiceTexts": {
+          "A": "Coffeemakers.",
+          "B": "Ovens.",
+          "C": "Microcomputers.",
+          "D": "Refrigerators."
+        },
+        "explanation": "Thư trả lời nói muốn đặt hai máy pha cà phê tại thời điểm này."
+      },
+      {
+        "id": "20",
+        "prompt": "What does he say that he likes about the product he has selected?",
+        "choiceTexts": {
+          "A": "It reduces mess.",
+          "B": "It is durable.",
+          "C": "It has a good price.",
+          "D": "It will be delivered regularly."
+        },
+        "explanation": "Ông Conner nhắc rõ “at an affordable price”, cho thấy ông thích giá sản phẩm."
+      },
+      {
+        "id": "21",
+        "prompt": "How often will he order refills?",
+        "choiceTexts": {
+          "A": "Once a day.",
+          "B": "Once a week.",
+          "C": "Every month.",
+          "D": "When he needs them."
+        },
+        "explanation": "Nhu cầu thay đổi theo tuần nên ông đặt thêm cà phê và trà “on an as-needed basis”, tức khi cần."
+      },
+      {
+        "id": "22",
+        "prompt": "The word provider in line 2 of the first letter, is closest in meaning to",
+        "choiceTexts": {
+          "A": "consumer",
+          "B": "supplier",
+          "C": "maker",
+          "D": "designer"
+        },
+        "explanation": "“Provider for kitchen supplies” là nhà cung cấp vật dụng, tương đương “supplier”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word stock in line 19 of the first letter, is closest in meaning to",
+        "choiceTexts": {
+          "A": "have",
+          "B": "repair",
+          "C": "buy",
+          "D": "use"
+        },
+        "explanation": "“We stock other kitchen appliances” nghĩa là có sẵn các thiết bị khác để bán; gần nghĩa “have”."
+      }
+    ],
+    "readingPassage": "Business Kitchens, Inc.\nApril 19, 20—\nDear Mr. Conner,\nI am writing to follow up on our conversation of last\nMonday. You said you were looking for a new provider\nfor kitchen supplies for your office, and that your particular need at this time was for a large-capacity coffeemaker. I have looked through the coffeemakers we\nhave available, and believe I have found the best one\nto suit your needs. The primary advantage of the 300X\nOffice Coffeemaker is that it reduces mess. The coffeemaker is filled with water daily. Then, to make a\ncup of coffee, the user simply inserts a premeasured\npackage of coffee into the machine and presses the\n\"on\" button. The coffee is ready in one minute. There\nare no pots to clean or filters to change. The machine\ncan make tea and other hot drinks as well. The 300X\nis also the most durable machine on the market.\nI am enclosing a description of the machine and price\ninformation. We can also deliver refills of coffee and\ntea to you on a weekly or monthly basis. In addition,\nwe stock other kitchen appliances such as microwave\novens and office-sized refrigerators. Please let me\nknow if you are interested in purchasing such items.\nSincerely,\nLaura Baker\nSales Manager\n\nJohnson Research Affiliates\nApril 26, 20—\nDear Ms. Baker,\nThank you for the information on the 300X Office\nCoffeemaker. I think it will meet our needs for large-capacity coffeemakers at an affordable price. Our\noffice is large, so I would like to order two at this time.\nI don't think we will need the regular deliveries of coffee and tea. Our need for these varies so much from week to week that it is better to order them on an as-needed basis. My assistant is good at staying on top of these things, so we don’t have to worry about running out. Currently we don’t have a need for ovens or refrigerators although we may in the near future. I will keep you informed. Meanwhile, we will send you a purchase order for the coffeemakers. Thank you for your help.\n\nSincerely,\nMatthew Conner\nOffice Manager"
+  }
+]

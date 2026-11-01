@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-08-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "Ms. Handa was unable to express her ____ for all that her colleagues had done for her.",
+        "choiceTexts": {
+          "A": "appreciation",
+          "B": "appreciated",
+          "C": "appreciating",
+          "D": "appreciates"
+        },
+        "explanation": "Sau “her” cần danh từ “appreciation”, chỉ sự biết ơn đối với đồng nghiệp."
+      },
+      {
+        "id": "11",
+        "prompt": "The programmer is ____ the message so that it's not accessible to everyone.",
+        "choiceTexts": {
+          "A": "code",
+          "B": "coding",
+          "C": "coded",
+          "D": "coder"
+        },
+        "explanation": "“Is coding” là hiện tại tiếp diễn: lập trình viên đang mã hóa thông điệp để hạn chế truy cập."
+      },
+      {
+        "id": "12",
+        "prompt": "It looks like this disk was ____ to intense heat, because it's warped and pocked.",
+        "choiceTexts": {
+          "A": "expose",
+          "B": "exposed",
+          "C": "exposing",
+          "D": "exposure"
+        },
+        "explanation": "Cụm bị động “was exposed to” nghĩa là đã tiếp xúc/chịu tác động của nhiệt độ cao."
+      },
+      {
+        "id": "13",
+        "prompt": "The ____ of answering each telephone call on the third ring requires a dedicated receptionist.",
+        "choiceTexts": {
+          "A": "practices",
+          "B": "practical",
+          "C": "practiced",
+          "D": "practice"
+        },
+        "explanation": "Động từ “requires” số ít phù hợp chủ ngữ “The practice of ...”, tức thông lệ trả lời điện thoại."
+      },
+      {
+        "id": "14",
+        "prompt": "Human Resources tries to ____ employees' understanding by offering workshops twice a year.",
+        "choiceTexts": {
+          "A": "reinforce",
+          "B": "reinforcing",
+          "C": "reinforced",
+          "D": "reinforcement"
+        },
+        "explanation": "“Tries to” theo sau bởi nguyên mẫu “reinforce”, nghĩa là củng cố sự hiểu biết."
+      },
+      {
+        "id": "15",
+        "prompt": "Senior employees are often asked to ____ office procedures.",
+        "choiceTexts": {
+          "A": "verbally",
+          "B": "verbalize",
+          "C": "verbal",
+          "D": "verbalizing"
+        },
+        "explanation": "“Are asked to” cần nguyên mẫu “verbalize”, tức trình bày quy trình bằng lời."
+      }
+    ]
+  },
+  {
+    "id": "essential-08-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "practices",
+          "B": "practiced",
+          "C": "is practiced",
+          "D": "is practicing"
+        },
+        "explanation": "Tập quán được thực hiện tại nhiều văn phòng, nên dùng bị động hiện tại “is practiced”."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "verb",
+          "B": "verbal",
+          "C": "verbally",
+          "D": "verbalize"
+        },
+        "explanation": "Cần trạng từ bổ nghĩa cho “discussed”; “verbally” nghĩa là thảo luận bằng lời nói."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "expose",
+          "B": "to expose",
+          "C": "exposing",
+          "D": "have exposed"
+        },
+        "explanation": "“Want” đi với “to + nguyên mẫu”; “to expose coworkers to” là để đồng nghiệp phải tiếp xúc với kiểu trang phục."
+      }
+    ],
+    "readingPassage": "Notice—Casual Fridays\n\nA number of staff members have expressed an interest in Casual Friday. I realize that this custom [16] ____ in many\noffices nowadays. I appreciate the fact that many of you have discussed this matter with me [17] ____, and pointed out\nthat our strict dress code is outdated. Because so many people have expressed an interest in dressing casually once\na week, we will have Casual Friday in this office starting next week. While we want to be relaxed, we do not want\n [18] ____ our coworkers to styles of dress that may make them feel uncomfortable. So, while the dress code will be\nrelaxed, it does not mean that you can wear anything you want. Shoes and shirts are required, and beach and gym\nattire are unacceptable.\nAmanda Jones, Director"
+  },
+  {
+    "id": "essential-08-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What should new employees do with the handbook?",
+        "choiceTexts": {
+          "A": "Read it quickly.",
+          "B": "Study it completely.",
+          "C": "Hide it in a drawer.",
+          "D": "Share it with coworkers."
+        },
+        "explanation": "Bài yêu cầu “a thorough reading” của sổ tay, nghĩa là đọc kỹ toàn bộ."
+      },
+      {
+        "id": "20",
+        "prompt": "What should the supervisor do when an employee breaks a rule?",
+        "choiceTexts": {
+          "A": "Punish her.",
+          "B": "Fire her.",
+          "C": "Tell her.",
+          "D": "Retrain her."
+        },
+        "explanation": "Người giám sát cần “let them know” khi nhân viên vi phạm quy định, tức nói cho họ biết."
+      },
+      {
+        "id": "21",
+        "prompt": "How can experienced coworkers help new employees?",
+        "choiceTexts": {
+          "A": "By writing a new handbook.",
+          "B": "By explaining office procedures.",
+          "C": "By inviting them to staff meetings.",
+          "D": "By telling the supervisor when a rule has been broken."
+        },
+        "explanation": "Đồng nghiệp giàu kinh nghiệm được nhờ “explain procedures”, tức giải thích quy trình."
+      },
+      {
+        "id": "22",
+        "prompt": "The words bring in in line 1, are closest in meaning to",
+        "choiceTexts": {
+          "A": "invite",
+          "B": "train",
+          "C": "hire",
+          "D": "meet"
+        },
+        "explanation": "Trong bối cảnh nhân viên mới, “bring in” nghĩa là tuyển dụng, tương đương “hire”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word codes in line 3, is closest in meaning to",
+        "choiceTexts": {
+          "A": "rules",
+          "B": "lessons",
+          "C": "mistakes",
+          "D": "types"
+        },
+        "explanation": "“Codes of behavior” là các quy tắc ứng xử, nên “rules” đúng nghĩa."
+      }
+    ],
+    "readingPassage": "When you bring in a new employee, it is important to make sure that he or she understands the usual office procedures as well as the codes of behavior. These things should be outlined clearly in the employee handbook. New employees should understand that they are expected to do more than just glimpse at the handbook and then hide it in a drawer. A thorough reading of it will help them understand many things they need to know about the workplace culture. Employees also appreciate verbal reinforcement. Supervisors should let them know when they have completed a job well, or if they are bending the rules too far. More experienced coworkers can be asked to support new employees while they are getting used to their new positions and explain procedures to them, but ultimately it is the supervisor's responsibility to make sure that the normal office practices are carried out. When everyone understands what is expected, then the office procedures run more smoothly. In fact, it is not a bad idea to review the codes and procedures with the entire staff from time to time. This can be done on a regular basis at staff meetings, or it can be part of a training session."
+  }
+]

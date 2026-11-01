@@ -1,0 +1,2212 @@
+[
+  {
+    "id": "essential-review-01",
+    "questions": [
+      {
+        "id": "1",
+        "prompt": "Although negotiating a new contract was complicated, both parties came to an ____ that satisfied them.",
+        "choiceTexts": {
+          "A": "agree",
+          "B": "agreeable",
+          "C": "agreement",
+          "D": "agreeably"
+        }
+      },
+      {
+        "id": "2",
+        "prompt": "____ conferences are a good way for employees to get in touch with people in similar organizations.",
+        "choiceTexts": {
+          "A": "Associating",
+          "B": "Associated",
+          "C": "Associations",
+          "D": "Association"
+        }
+      },
+      {
+        "id": "3",
+        "prompt": "When the family decided to open a restaurant, they had to find a ____ that would attract business.",
+        "choiceTexts": {
+          "A": "locate",
+          "B": "locator",
+          "C": "locating",
+          "D": "location"
+        }
+      },
+      {
+        "id": "4",
+        "prompt": "A ____ company will honor the terms set forth in its warranty.",
+        "choiceTexts": {
+          "A": "repute",
+          "B": "reputedly",
+          "C": "reputation",
+          "D": "reputable"
+        }
+      },
+      {
+        "id": "5",
+        "prompt": "The goal of marketing is to ____ customers, to persuade them to buy a product or service.",
+        "choiceTexts": {
+          "A": "attract",
+          "B": "attractive",
+          "C": "attraction",
+          "D": "attractiveness"
+        }
+      },
+      {
+        "id": "6",
+        "prompt": "Once both parties have agreed to a contract, they have also agreed to abide by every ____ provision.",
+        "choiceTexts": {
+          "A": "specify",
+          "B": "specific",
+          "C": "specification",
+          "D": "specificity"
+        }
+      },
+      {
+        "id": "7",
+        "prompt": "Good business planning includes developing an overall ____, addressing likely objections, and demonstrating why potential buyers need the product or service.",
+        "choiceTexts": {
+          "A": "strategy",
+          "B": "strategic",
+          "C": "strategically",
+          "D": "strategize"
+        }
+      },
+      {
+        "id": "8",
+        "prompt": "When you register for out-of-town conferences, make room ____ as soon as you decide to attend.",
+        "choiceTexts": {
+          "A": "accommodate",
+          "B": "accommodations",
+          "C": "accommodating",
+          "D": "accommodated"
+        }
+      },
+      {
+        "id": "9",
+        "prompt": "Marketers must avoid making promises they can't keep while they ____ the quality of their product or service.",
+        "choiceTexts": {
+          "A": "demonstrate",
+          "B": "demonstration",
+          "C": "demonstrative",
+          "D": "demonstrable"
+        }
+      },
+      {
+        "id": "10",
+        "prompt": "A consultant must adhere carefully to his contract if he wants to ____ a good business reputation.",
+        "choiceTexts": {
+          "A": "establish",
+          "B": "establishment",
+          "C": "established",
+          "D": "establishing"
+        }
+      },
+      {
+        "id": "11",
+        "prompt": "Complete blank [11]: ____.",
+        "choiceTexts": {
+          "A": "hold",
+          "B": "holding",
+          "C": "will hold",
+          "D": "to hold"
+        }
+      },
+      {
+        "id": "12",
+        "prompt": "Complete blank [12]: ____.",
+        "choiceTexts": {
+          "A": "on",
+          "B": "in",
+          "C": "at",
+          "D": "to"
+        }
+      },
+      {
+        "id": "13",
+        "prompt": "Complete blank [13]: ____.",
+        "choiceTexts": {
+          "A": "satisfy",
+          "B": "satisfied",
+          "C": "be satisfied",
+          "D": "be satisfying"
+        }
+      },
+      {
+        "id": "14",
+        "prompt": "Complete blank [14]: ____.",
+        "choiceTexts": {
+          "A": "presumers",
+          "B": "consumers",
+          "C": "assumers",
+          "D": "resumers"
+        }
+      },
+      {
+        "id": "15",
+        "prompt": "Complete blank [15]: ____.",
+        "choiceTexts": {
+          "A": "strong",
+          "B": "stronger",
+          "C": "strongly",
+          "D": "strongest"
+        }
+      },
+      {
+        "id": "16",
+        "prompt": "Complete blank [16]: ____.",
+        "choiceTexts": {
+          "A": "consideration",
+          "B": "considering",
+          "C": "consider",
+          "D": "considers"
+        }
+      },
+      {
+        "id": "17",
+        "prompt": "Complete blank [17]: ____.",
+        "choiceTexts": {
+          "A": "offer",
+          "B": "offers",
+          "C": "are offering",
+          "D": "have offered"
+        }
+      },
+      {
+        "id": "18",
+        "prompt": "Complete blank [18]: ____.",
+        "choiceTexts": {
+          "A": "demonstration",
+          "B": "demonstrative",
+          "C": "demonstrator",
+          "D": "to demonstrate"
+        }
+      },
+      {
+        "id": "19",
+        "prompt": "Complete blank [19]: ____.",
+        "choiceTexts": {
+          "A": "respires",
+          "B": "inspires",
+          "C": "expires",
+          "D": "perspires"
+        }
+      }
+    ],
+    "questionPassages": [
+      {
+        "questionIds": [
+          "11",
+          "12",
+          "13"
+        ],
+        "text": "Are you looking for a place [11] your next conference? The Littleton Convention Center offers a convenient location at an affordable price. Whether your event is big or small, our site can accommodate your needs. We offer meeting rooms, several auditoriums, and a large exhibition hall. Catering services are also available. Get [12] touch with us at 555-0964 to make arrangements for your event. We know you'll [13] with our services."
+      },
+      {
+        "questionIds": [
+          "14",
+          "15",
+          "16"
+        ],
+        "text": "Smart [14] compare prices before they buy. That's why nine out of ten shoppers choose Star Brand household cleaning products. Star Brand products are the most efficient cleaning products around. They are [15] enough to clean up even the toughest stains and dirt. Every Star Brand product comes with the company promise: If you are not 100% satisfied, your money will be returned with no questions asked. Next time you are shopping for cleaning products, [16] Star Brand. We know you'll be happy you did."
+      },
+      {
+        "questionIds": [
+          "17",
+          "18",
+          "19"
+        ],
+        "text": "When purchasing a new appliance, check to make sure that a warranty is included. This [17] important protection to you, the consumer. If you decide to return a product that is under warranty, you will have [18] that any damage was not caused by misuse or mishandling. Also, make certain that you return a damaged product before the warranty [19]. Companies do not have to accept products that are returned after the date stated in the warranty."
+      }
+    ]
+  },
+  {
+    "id": "essential-review-02",
+    "questions": [
+      {
+        "id": "1",
+        "prompt": "Who is ____ hiring?",
+        "choiceTexts": {
+          "A": "in charge by",
+          "B": "in charge on",
+          "C": "in charge of",
+          "D": "in charge for"
+        }
+      },
+      {
+        "id": "2",
+        "prompt": "Most office furniture is bought more on the basis of ____ than comfort.",
+        "choiceTexts": {
+          "A": "afford",
+          "B": "affording",
+          "C": "afforded",
+          "D": "affordability"
+        }
+      },
+      {
+        "id": "3",
+        "prompt": "The office ____ samples of its products.",
+        "choiceTexts": {
+          "A": "display",
+          "B": "displayed",
+          "C": "displaying",
+          "D": "displayable"
+        }
+      },
+      {
+        "id": "4",
+        "prompt": "The staff expressed their ____ for the leadership of their boss.",
+        "choiceTexts": {
+          "A": "appreciate",
+          "B": "appreciated",
+          "C": "appreciating",
+          "D": "appreciation"
+        }
+      },
+      {
+        "id": "5",
+        "prompt": "Ms. Ming was pleased that the new employee showed such ____.",
+        "choiceTexts": {
+          "A": "initiate",
+          "B": "initiative",
+          "C": "initiated",
+          "D": "initiating"
+        }
+      },
+      {
+        "id": "6",
+        "prompt": "Before you send the letter, you should ____ it to make sure there are no errors.",
+        "choiceTexts": {
+          "A": "proof",
+          "B": "fold",
+          "C": "petition",
+          "D": "assemble"
+        }
+      },
+      {
+        "id": "7",
+        "prompt": "The secretary sent a copy of the revised contract by ____ mail.",
+        "choiceTexts": {
+          "A": "register",
+          "B": "registered",
+          "C": "registering",
+          "D": "registration"
+        }
+      },
+      {
+        "id": "8",
+        "prompt": "Many office supply businesses specialize in furniture that is as ____ as it is affordable.",
+        "choiceTexts": {
+          "A": "duration",
+          "B": "durable",
+          "C": "durability",
+          "D": "durableness"
+        }
+      },
+      {
+        "id": "9",
+        "prompt": "The office manager finally ____ why the new software wasn't working properly.",
+        "choiceTexts": {
+          "A": "figured in",
+          "B": "figured for",
+          "C": "figured out",
+          "D": "figured about"
+        }
+      },
+      {
+        "id": "10",
+        "prompt": "The letter from our accountant ____ that our petty cash spending was almost equal to budgeted items.",
+        "choiceTexts": {
+          "A": "mention",
+          "B": "mentioned",
+          "C": "mentioning",
+          "D": "mentionable"
+        }
+      },
+      {
+        "id": "11",
+        "prompt": "Complete blank [11]: ____.",
+        "choiceTexts": {
+          "A": "revolutionize",
+          "B": "will revolutionize",
+          "C": "had revolutionized",
+          "D": "has revolutionized"
+        }
+      },
+      {
+        "id": "12",
+        "prompt": "Complete blank [12]: ____.",
+        "choiceTexts": {
+          "A": "search",
+          "B": "to search",
+          "C": "searching",
+          "D": "can search"
+        }
+      },
+      {
+        "id": "13",
+        "prompt": "Complete blank [13]: ____.",
+        "choiceTexts": {
+          "A": "afford",
+          "B": "affording",
+          "C": "affordably",
+          "D": "affordable"
+        }
+      },
+      {
+        "id": "14",
+        "prompt": "Complete blank [14]: ____.",
+        "choiceTexts": {
+          "A": "of",
+          "B": "on",
+          "C": "at",
+          "D": "to"
+        }
+      },
+      {
+        "id": "15",
+        "prompt": "Complete blank [15]: ____.",
+        "choiceTexts": {
+          "A": "report",
+          "B": "repeal",
+          "C": "replace",
+          "D": "repeat"
+        }
+      },
+      {
+        "id": "16",
+        "prompt": "Complete blank [16]: ____.",
+        "choiceTexts": {
+          "A": "complicate",
+          "B": "complicated",
+          "C": "complicating",
+          "D": "complication"
+        }
+      },
+      {
+        "id": "17",
+        "prompt": "Complete blank [17]: ____.",
+        "choiceTexts": {
+          "A": "Technical",
+          "B": "Technician",
+          "C": "Technicality",
+          "D": "Technically"
+        }
+      },
+      {
+        "id": "18",
+        "prompt": "Complete blank [18]: ____.",
+        "choiceTexts": {
+          "A": "assemble",
+          "B": "assume",
+          "C": "assuage",
+          "D": "assert"
+        }
+      },
+      {
+        "id": "19",
+        "prompt": "Complete blank [19]: ____.",
+        "choiceTexts": {
+          "A": "probe",
+          "B": "proof",
+          "C": "prove",
+          "D": "prompt"
+        }
+      }
+    ],
+    "questionPassages": [
+      {
+        "questionIds": [
+          "11",
+          "12",
+          "13"
+        ],
+        "text": "The use of computers [11] the workplace. Thirty years ago, many people had never touched a computer. Now almost everyone uses a computer for work. Computers facilitate work so that jobs can be completed more efficiently. Documents are easily duplicated and distributed with computers. The Internet has made it easy [12] for information. Computers have become very [13]. Even the smallest businesses are able to buy them."
+      },
+      {
+        "questionIds": [
+          "14",
+          "15",
+          "16"
+        ],
+        "text": "To: George Stanley\nFrom: Marya Obermeyer\nSubject: Photocopier issues\n\nGeorge, We are almost out [14] paper for the photocopier. There is just one package left in the supply closet. I would appreciate your ordering a new box today. In the future, please stay on top of things like this. The order should have been made much sooner. Also, we will have to [15] the photocopy machine sometime in the near future. We need a new one that doesn't break down so often. Please start researching this and see if you can find one that is affordable. I would also like one that is not [16] to use. Marya"
+      },
+      {
+        "questionIds": [
+          "17",
+          "18",
+          "19"
+        ],
+        "text": "Memo To: All office staff\nFrom: Office Manager\nRe: New photocopier\n\nWe have finally purchased a new photocopier. [17], it is a great improvement over our old one. It can [18] documents so you don't have to put them together yourself. It also folds documents for mailing. However, it does not correct mistakes in your writing. When making multiple copies of a document, please [19] it beforehand and correct any errors. This will save us a great deal in both paper and time. Please let me know if you have any questions about using the new machine."
+      }
+    ]
+  },
+  {
+    "id": "essential-review-03",
+    "questions": [
+      {
+        "id": "1",
+        "prompt": "____ with a good ad is time-consuming.",
+        "choiceTexts": {
+          "A": "Coming up",
+          "B": "Coming to",
+          "C": "Coming by",
+          "D": "Coming on"
+        }
+      },
+      {
+        "id": "2",
+        "prompt": "To ____ the best and the brightest, companies have to be willing to pay well.",
+        "choiceTexts": {
+          "A": "recruit",
+          "B": "recruits",
+          "C": "recruiting",
+          "D": "recruitment"
+        }
+      },
+      {
+        "id": "3",
+        "prompt": "A qualified candidate usually exudes ____.",
+        "choiceTexts": {
+          "A": "confident",
+          "B": "confidence",
+          "C": "confidential",
+          "D": "confidentially"
+        }
+      },
+      {
+        "id": "4",
+        "prompt": "Any applicant is wise to ____ an interview with a note or a phone call.",
+        "choiceTexts": {
+          "A": "follow after",
+          "B": "follow behind",
+          "C": "follow up",
+          "D": "follow with"
+        }
+      },
+      {
+        "id": "5",
+        "prompt": "Workers are promoted on their ____ and merits.",
+        "choiceTexts": {
+          "A": "achieve",
+          "B": "achieved",
+          "C": "achiever",
+          "D": "achievements"
+        }
+      },
+      {
+        "id": "6",
+        "prompt": "The benefits package is an important aspect of contract ____.",
+        "choiceTexts": {
+          "A": "negotiate",
+          "B": "negotiable",
+          "C": "negotiations",
+          "D": "negotiated"
+        }
+      },
+      {
+        "id": "7",
+        "prompt": "Some employees have to wait years before they are fully ____ in the company pension plan.",
+        "choiceTexts": {
+          "A": "vest",
+          "B": "vested",
+          "C": "vesting",
+          "D": "vests"
+        }
+      },
+      {
+        "id": "8",
+        "prompt": "Health ____ are very important for an employee who develops a serious medical problem.",
+        "choiceTexts": {
+          "A": "benefit",
+          "B": "benefits",
+          "C": "beneficial",
+          "D": "beneficiary"
+        }
+      },
+      {
+        "id": "9",
+        "prompt": "A ____ and hard-working employee can look forward to rapid promotions.",
+        "choiceTexts": {
+          "A": "dedicate",
+          "B": "dedication",
+          "C": "dedicating",
+          "D": "dedicated"
+        }
+      },
+      {
+        "id": "10",
+        "prompt": "A company that recognizes ____ merit will receive employee loyalty in return.",
+        "choiceTexts": {
+          "A": "obvious",
+          "B": "obviously",
+          "C": "oblivious",
+          "D": "obliviously"
+        }
+      },
+      {
+        "id": "11",
+        "prompt": "Complete blank [11]: ____.",
+        "choiceTexts": {
+          "A": "submit",
+          "B": "will submit",
+          "C": "to submit",
+          "D": "submitting"
+        }
+      },
+      {
+        "id": "12",
+        "prompt": "Complete blank [12]: ____.",
+        "choiceTexts": {
+          "A": "on",
+          "B": "in",
+          "C": "to",
+          "D": "at"
+        }
+      },
+      {
+        "id": "13",
+        "prompt": "Complete blank [13]: ____.",
+        "choiceTexts": {
+          "A": "able",
+          "B": "ably",
+          "C": "enable",
+          "D": "abilities"
+        }
+      },
+      {
+        "id": "14",
+        "prompt": "Complete blank [14]: ____.",
+        "choiceTexts": {
+          "A": "expert",
+          "B": "mentor",
+          "C": "supervisor",
+          "D": "candidate"
+        }
+      },
+      {
+        "id": "15",
+        "prompt": "Complete blank [15]: ____.",
+        "choiceTexts": {
+          "A": "be",
+          "B": "do",
+          "C": "have",
+          "D": "will be"
+        }
+      },
+      {
+        "id": "16",
+        "prompt": "Complete blank [16]: ____.",
+        "choiceTexts": {
+          "A": "beneficiaries",
+          "B": "beneficial",
+          "C": "beneficent",
+          "D": "benefits"
+        }
+      },
+      {
+        "id": "17",
+        "prompt": "Complete blank [17]: ____.",
+        "choiceTexts": {
+          "A": "recruits",
+          "B": "contributes",
+          "C": "recognizes",
+          "D": "dedicates"
+        }
+      },
+      {
+        "id": "18",
+        "prompt": "Complete blank [18]: ____.",
+        "choiceTexts": {
+          "A": "looks for",
+          "B": "looks up to",
+          "C": "looks down on",
+          "D": "looks forward to"
+        }
+      },
+      {
+        "id": "19",
+        "prompt": "Complete blank [19]: ____.",
+        "choiceTexts": {
+          "A": "confident",
+          "B": "confidence",
+          "C": "confidently",
+          "D": "confidential"
+        }
+      }
+    ],
+    "questionPassages": [
+      {
+        "questionIds": [
+          "11",
+          "12",
+          "13"
+        ],
+        "text": "Thank you for your interest in working at Plytel Corporation. To apply for a position, please [11] a résumé and a letter explaining your background and interest. We will keep your information on file for a year. If your qualifications match available openings, we will call you [12] for an interview. Please do not call us; we will contact you if we have a position suited to your [13]."
+      },
+      {
+        "questionIds": [
+          "14",
+          "15",
+          "16"
+        ],
+        "text": "When your company has a job opening, it is important to hire the right person for the job. The job interview offers you, the employer, an opportunity to get to know each [14] and assess his or her ability to do the job. You will have many questions for the applicants, but you should also [15] ready for questions from them. In addition to understanding the job duties, they may want to know about [16] offered by your company such as vacations and health care."
+      },
+      {
+        "questionIds": [
+          "17",
+          "18",
+          "19"
+        ],
+        "text": "Getting a promotion is a great honor. It means your company [17] your merits. When you are promoted to the position of supervisor, your work life changes. You are now in a position of responsibility. It is important to set a good example because your staff [18] you. If you carry out your job responsibilities [19], you will gain their respect. This is the key to success in your new position."
+      }
+    ]
+  },
+  {
+    "id": "essential-review-04",
+    "questions": [
+      {
+        "id": "1",
+        "prompt": "Most merchants are happy to find any way to ____ their customer base.",
+        "choiceTexts": {
+          "A": "expand",
+          "B": "expanding",
+          "C": "expansion",
+          "D": "expanded"
+        }
+      },
+      {
+        "id": "2",
+        "prompt": "All fashion ____ have a limited life span.",
+        "choiceTexts": {
+          "A": "trend",
+          "B": "trends",
+          "C": "trendy",
+          "D": "trending"
+        }
+      },
+      {
+        "id": "3",
+        "prompt": "It is a poorly run office that does not ____ adequate office supplies.",
+        "choiceTexts": {
+          "A": "maintain",
+          "B": "maintained",
+          "C": "maintaining",
+          "D": "maintenance"
+        }
+      },
+      {
+        "id": "4",
+        "prompt": "Sometimes office policy doesn't allow the company to ____ less expensive supplies when they are available from someone other than a preferred provider.",
+        "choiceTexts": {
+          "A": "obtain",
+          "B": "obtained",
+          "C": "obtaining",
+          "D": "obtainable"
+        }
+      },
+      {
+        "id": "5",
+        "prompt": "A supplier who has chronic trouble ____ his obligations to a customer will quickly lose customers.",
+        "choiceTexts": {
+          "A": "fulfill",
+          "B": "fulfills",
+          "C": "fulfilling",
+          "D": "fulfillment"
+        }
+      },
+      {
+        "id": "6",
+        "prompt": "To ____ disruption, buyers should order well ahead of need.",
+        "choiceTexts": {
+          "A": "minimum",
+          "B": "minimal",
+          "C": "minimize",
+          "D": "minimally"
+        }
+      },
+      {
+        "id": "7",
+        "prompt": "It is wise to begin by ____ an inventory of equipment on hand.",
+        "choiceTexts": {
+          "A": "compile",
+          "B": "compiling",
+          "C": "compiler",
+          "D": "compilation"
+        }
+      },
+      {
+        "id": "8",
+        "prompt": "If the provider does not meet his client's demand, he should ____ the problem as soon as possible.",
+        "choiceTexts": {
+          "A": "rectify",
+          "B": "rectifier",
+          "C": "rectifiable",
+          "D": "rectification"
+        }
+      },
+      {
+        "id": "9",
+        "prompt": "If some supplies show a steady rise in consumption, the office manager should make an appropriate ____ in his standard order.",
+        "choiceTexts": {
+          "A": "adjust",
+          "B": "adjuster",
+          "C": "adjusting",
+          "D": "adjustment"
+        }
+      },
+      {
+        "id": "10",
+        "prompt": "The office manager should also ascertain whether the inventory of supplies properly ____ the volume of use in the office.",
+        "choiceTexts": {
+          "A": "reflect",
+          "B": "reflects",
+          "C": "reflecting",
+          "D": "reflection"
+        }
+      },
+      {
+        "id": "11",
+        "prompt": "Complete blank [11]: ____.",
+        "choiceTexts": {
+          "A": "catalog",
+          "B": "merchandise",
+          "C": "carrier",
+          "D": "checkout"
+        }
+      },
+      {
+        "id": "12",
+        "prompt": "Complete blank [12]: ____.",
+        "choiceTexts": {
+          "A": "pertain",
+          "B": "maintain",
+          "C": "remain",
+          "D": "plantain"
+        }
+      },
+      {
+        "id": "13",
+        "prompt": "Complete blank [13]: ____.",
+        "choiceTexts": {
+          "A": "Remember",
+          "B": "Remembering",
+          "C": "To remember",
+          "D": "Must remember"
+        }
+      },
+      {
+        "id": "14",
+        "prompt": "Complete blank [14]: ____.",
+        "choiceTexts": {
+          "A": "ship",
+          "B": "shipping",
+          "C": "shipment",
+          "D": "shippable"
+        }
+      },
+      {
+        "id": "15",
+        "prompt": "Complete blank [15]: ____.",
+        "choiceTexts": {
+          "A": "chase",
+          "B": "chance",
+          "C": "change",
+          "D": "charge"
+        }
+      },
+      {
+        "id": "16",
+        "prompt": "Complete blank [16]: ____.",
+        "choiceTexts": {
+          "A": "prompt",
+          "B": "promptly",
+          "C": "prompter",
+          "D": "promptness"
+        }
+      },
+      {
+        "id": "17",
+        "prompt": "Complete blank [17]: ____.",
+        "choiceTexts": {
+          "A": "stationery",
+          "B": "invoice",
+          "C": "bargain",
+          "D": "inventory"
+        }
+      },
+      {
+        "id": "18",
+        "prompt": "Complete blank [18]: ____.",
+        "choiceTexts": {
+          "A": "quantity",
+          "B": "quarry",
+          "C": "quality",
+          "D": "quandary"
+        }
+      },
+      {
+        "id": "19",
+        "prompt": "Complete blank [19]: ____.",
+        "choiceTexts": {
+          "A": "by",
+          "B": "to",
+          "C": "up",
+          "D": "on"
+        }
+      }
+    ],
+    "questionPassages": [
+      {
+        "questionIds": [
+          "11",
+          "12",
+          "13"
+        ],
+        "text": "Memo To: Floor Managers\nFrom: Head Manager\nRe: Spring Sale\n\nOur large Spring Sale begins next week. Before the store opens on Monday, all sale items should be placed on racks near the [11] area. This ensures that customers will see them right before they pay for their purchases. We expect large crowds in the store during the sale, so it will be important to [12] order. This means picking up any items that fall on the floor or end up on the wrong shelf, and making sure that all items are clearly marked with the correct price. [13], an attractive store attracts more customers."
+      },
+      {
+        "questionIds": [
+          "14",
+          "15",
+          "16"
+        ],
+        "text": "To: Betsy Barnes\nFrom: Lighting Limited Customer Service\nSubject: Your order\n\nDear Betsy Barnes, We have received your message about your recent order of a desk lamp with a glass shade. You state that the [14] arrived in damaged condition. We will be happy to replace the damaged merchandise at no extra [15] to you. You will not have to pay anything. Simply place the damaged item back in the box and affix the \"postage paid\" sticker to the outside. As soon as we receive it, a replacement lamp will be [16] sent to you. We are sorry for any inconvenience this may have caused. Manuel Gozanlez Lighting Limited Customer Service Associate"
+      },
+      {
+        "questionIds": [
+          "17",
+          "18",
+          "19"
+        ],
+        "text": "To: Joanne Simmons\nFrom: Bill Smithers\nSubject: Supplies\n\nJoanne, It's time to order some supplies. We need several boxes of [17], including large and small envelopes as well as letter paper. Don't order this from XYZ Printers. I was not satisfied with the [18] of the paper in our last order. It tore very easily. Zippo Printers on Elm Street might be a better source. Let's try them this time. It might be a good idea to get some ink cartridges, too. Why don't you check to see how many we have [19] hand? If we have just one or two boxes left, you should order more. Thanks. Bill"
+      }
+    ]
+  },
+  {
+    "id": "essential-review-05",
+    "questions": [
+      {
+        "id": "1",
+        "prompt": "The Small Business Administration will help you to arrange to ____ money to start a business.",
+        "choiceTexts": {
+          "A": "borrow",
+          "B": "borrowed",
+          "C": "borrowing",
+          "D": "borrower"
+        }
+      },
+      {
+        "id": "2",
+        "prompt": "When we ____ a loan, we found very good terms.",
+        "choiceTexts": {
+          "A": "take out",
+          "B": "took out",
+          "C": "taken out",
+          "D": "taking out"
+        }
+      },
+      {
+        "id": "3",
+        "prompt": "Most people get nervous when someone is ____ their books.",
+        "choiceTexts": {
+          "A": "audit",
+          "B": "audits",
+          "C": "audited",
+          "D": "auditing"
+        }
+      },
+      {
+        "id": "4",
+        "prompt": "Sometimes it is difficult to ____ of bad investments.",
+        "choiceTexts": {
+          "A": "pull up",
+          "B": "pull out",
+          "C": "pull at",
+          "D": "pull to"
+        }
+      },
+      {
+        "id": "5",
+        "prompt": "I prefer ____ in social-conscience funds.",
+        "choiceTexts": {
+          "A": "invest",
+          "B": "investment",
+          "C": "investing",
+          "D": "investor"
+        }
+      },
+      {
+        "id": "6",
+        "prompt": "When the Dow is dropping, investors need to be ____.",
+        "choiceTexts": {
+          "A": "resource",
+          "B": "resources",
+          "C": "resourceful",
+          "D": "resourcefulness"
+        }
+      },
+      {
+        "id": "7",
+        "prompt": "Sometimes it is difficult to understand how the government ____ tax liability.",
+        "choiceTexts": {
+          "A": "calculating",
+          "B": "calculations",
+          "C": "calculators",
+          "D": "calculates"
+        }
+      },
+      {
+        "id": "8",
+        "prompt": "One decision with tax returns is whether to ____ itemizing in favor of the standard deduction.",
+        "choiceTexts": {
+          "A": "give up",
+          "B": "giving up",
+          "C": "gave up",
+          "D": "given up"
+        }
+      },
+      {
+        "id": "9",
+        "prompt": "The company's ____ earnings over the next six months were exciting.",
+        "choiceTexts": {
+          "A": "project",
+          "B": "projects",
+          "C": "projection",
+          "D": "projected"
+        }
+      },
+      {
+        "id": "10",
+        "prompt": "Some parts of the tax code are so confusing that they need ____.",
+        "choiceTexts": {
+          "A": "translate",
+          "B": "translates",
+          "C": "translated",
+          "D": "translation"
+        }
+      },
+      {
+        "id": "11",
+        "prompt": "Complete blank [11]: ____.",
+        "choiceTexts": {
+          "A": "wise",
+          "B": "wisely",
+          "C": "wizened",
+          "D": "wisdom"
+        }
+      },
+      {
+        "id": "12",
+        "prompt": "Complete blank [12]: ____.",
+        "choiceTexts": {
+          "A": "accountants",
+          "B": "officers",
+          "C": "spouses",
+          "D": "clients"
+        }
+      },
+      {
+        "id": "13",
+        "prompt": "Complete blank [13]: ____.",
+        "choiceTexts": {
+          "A": "commit",
+          "B": "committee",
+          "C": "committed",
+          "D": "commitment"
+        }
+      },
+      {
+        "id": "14",
+        "prompt": "Complete blank [14]: ____.",
+        "choiceTexts": {
+          "A": "borrow",
+          "B": "borrows",
+          "C": "borrowed",
+          "D": "borrowing"
+        }
+      },
+      {
+        "id": "15",
+        "prompt": "Complete blank [15]: ____.",
+        "choiceTexts": {
+          "A": "debut",
+          "B": "debt",
+          "C": "doubt",
+          "D": "dubbed"
+        }
+      },
+      {
+        "id": "16",
+        "prompt": "Complete blank [16]: ____.",
+        "choiceTexts": {
+          "A": "refund",
+          "B": "target",
+          "C": "down payment",
+          "D": "forecast"
+        }
+      },
+      {
+        "id": "17",
+        "prompt": "Complete blank [17]: ____.",
+        "choiceTexts": {
+          "A": "prepare",
+          "B": "preparer",
+          "C": "preparation",
+          "D": "preparatory"
+        }
+      },
+      {
+        "id": "18",
+        "prompt": "Complete blank [18]: ____.",
+        "choiceTexts": {
+          "A": "pennants",
+          "B": "penalties",
+          "C": "penitents",
+          "D": "pendants"
+        }
+      },
+      {
+        "id": "19",
+        "prompt": "Complete blank [19]: ____.",
+        "choiceTexts": {
+          "A": "file",
+          "B": "fund",
+          "C": "budget",
+          "D": "invest"
+        }
+      }
+    ],
+    "questionPassages": [
+      {
+        "questionIds": [
+          "11",
+          "12",
+          "13"
+        ],
+        "text": "At Grover Investment Services, we understand that you work hard to earn your money, and it is important to invest it [11]. This is where we come in. We offer our [12] a full range of investment services. Whether you are a conservative or aggressive investor, we can help you develop an investment plan that suits your needs. At Grover, we are [13] to helping you get the best possible return for your money. Call us today."
+      },
+      {
+        "questionIds": [
+          "14",
+          "15",
+          "16"
+        ],
+        "text": "First-time home buyers may feel overwhelmed by the process of applying for a mortgage. However, the process of [14] money to buy a house is not very complicated. First, you will have to fill out a form giving information about your financial situation. You need to show that you have a good income. It is also important not to have a lot of [15]. If you already owe a lot of money, the bank may hesitate to lend you more. Then, you will have to make a [16], usually about 10 percent of the total price of the house. The bank lends you the rest of the money for the purchase."
+      },
+      {
+        "questionIds": [
+          "17",
+          "18",
+          "19"
+        ],
+        "text": "Many people use the services of an accountant to help [17] their tax forms. They consider it well worth the money. An accountant can help you avoid [18] for underpayment of taxes and, in general, ensure that your tax form has been filled out correctly. But remember, accountants have deadlines too. Be sure to give all your tax information to your accountant early, then you can be sure that your taxes will be ready to [19] on time. No one wants to pay a fine for sending in their tax form too late."
+      }
+    ]
+  },
+  {
+    "id": "essential-review-06",
+    "questions": [
+      {
+        "id": "1",
+        "prompt": "The owner of the new company personally ____ every expense.",
+        "choiceTexts": {
+          "A": "scrutiny",
+          "B": "scrutinize",
+          "C": "scrutinized",
+          "D": "scrutinizing"
+        }
+      },
+      {
+        "id": "2",
+        "prompt": "Several employees will ____ on designing the office for efficiency.",
+        "choiceTexts": {
+          "A": "collaborate",
+          "B": "collaborated",
+          "C": "collaborating",
+          "D": "collaboration"
+        }
+      },
+      {
+        "id": "3",
+        "prompt": "When there is a problem with company policy, it should be ____ before the board of directors.",
+        "choiceTexts": {
+          "A": "bring up",
+          "B": "bring in",
+          "C": "brought up",
+          "D": "brought in"
+        }
+      },
+      {
+        "id": "4",
+        "prompt": "The quality control department felt it was making good ____ when the number of defects declined.",
+        "choiceTexts": {
+          "A": "progress",
+          "B": "progressed",
+          "C": "progressing",
+          "D": "progressive"
+        }
+      },
+      {
+        "id": "5",
+        "prompt": "____ goods can ruin the future of a new company.",
+        "choiceTexts": {
+          "A": "Defect",
+          "B": "Defects",
+          "C": "Defective",
+          "D": "Defection"
+        }
+      },
+      {
+        "id": "6",
+        "prompt": "The public's ____ of a company depends on how solidly the company stands behind its products.",
+        "choiceTexts": {
+          "A": "perceive",
+          "B": "perceptive",
+          "C": "perceived",
+          "D": "perception"
+        }
+      },
+      {
+        "id": "7",
+        "prompt": "The market research matched our ____.",
+        "choiceTexts": {
+          "A": "assumes",
+          "B": "assuming",
+          "C": "assumed",
+          "D": "assumptions"
+        }
+      },
+      {
+        "id": "8",
+        "prompt": "Determining the safeness of a particular appliance requires a ____ investigation of the electrical components.",
+        "choiceTexts": {
+          "A": "system",
+          "B": "systems",
+          "C": "systematic",
+          "D": "systematize"
+        }
+      },
+      {
+        "id": "9",
+        "prompt": "When ____ office space, it is wise to insist upon an option to renew.",
+        "choiceTexts": {
+          "A": "lease",
+          "B": "leasing",
+          "C": "leased",
+          "D": "lessor"
+        }
+      },
+      {
+        "id": "10",
+        "prompt": "____ a lease might be expensive.",
+        "choiceTexts": {
+          "A": "Getting in",
+          "B": "Getting on",
+          "C": "Getting off of",
+          "D": "Getting out of"
+        }
+      },
+      {
+        "id": "11",
+        "prompt": "Complete blank [11]: ____.",
+        "choiceTexts": {
+          "A": "to",
+          "B": "at",
+          "C": "of",
+          "D": "in"
+        }
+      },
+      {
+        "id": "12",
+        "prompt": "Complete blank [12]: ____.",
+        "choiceTexts": {
+          "A": "length",
+          "B": "lengthy",
+          "C": "lengthen",
+          "D": "lengthily"
+        }
+      },
+      {
+        "id": "13",
+        "prompt": "Complete blank [13]: ____.",
+        "choiceTexts": {
+          "A": "had concluded",
+          "B": "has concluded",
+          "C": "concluded",
+          "D": "concludes"
+        }
+      },
+      {
+        "id": "14",
+        "prompt": "Complete blank [14]: ____.",
+        "choiceTexts": {
+          "A": "inspects",
+          "B": "is inspected",
+          "C": "is inspecting",
+          "D": "has inspected"
+        }
+      },
+      {
+        "id": "15",
+        "prompt": "Complete blank [15]: ____.",
+        "choiceTexts": {
+          "A": "defect",
+          "B": "defects",
+          "C": "detective",
+          "D": "defective"
+        }
+      },
+      {
+        "id": "16",
+        "prompt": "Complete blank [16]: ____.",
+        "choiceTexts": {
+          "A": "lobby",
+          "B": "research",
+          "C": "brand",
+          "D": "wrinkle"
+        }
+      },
+      {
+        "id": "17",
+        "prompt": "Complete blank [17]: ____.",
+        "choiceTexts": {
+          "A": "occupy",
+          "B": "occupied",
+          "C": "occupant",
+          "D": "occupancy"
+        }
+      },
+      {
+        "id": "18",
+        "prompt": "Complete blank [18]: ____.",
+        "choiceTexts": {
+          "A": "month",
+          "B": "semester",
+          "C": "decade",
+          "D": "century"
+        }
+      },
+      {
+        "id": "19",
+        "prompt": "Complete blank [19]: ____.",
+        "choiceTexts": {
+          "A": "because",
+          "B": "up",
+          "C": "ought",
+          "D": "due"
+        }
+      }
+    ],
+    "questionPassages": [
+      {
+        "questionIds": [
+          "11",
+          "12",
+          "13"
+        ],
+        "text": "To: m_schwartz@donner.com\nFrom: i_holmes@blitzen.com\nSubject: board meeting\n\nMary, We all missed you at yesterday's meeting, but you will be happy to know it went well. We were able to adhere [11] the agenda and cover all topics in the allotted time. Wilbur gave a [12] explanation of the budget, and now I feel we all understand it quite thoroughly. He plans to e-mail you a copy of his notes. The meeting [13] on time, at 5:00. The next meeting is scheduled for June 16. John"
+      },
+      {
+        "questionIds": [
+          "14",
+          "15",
+          "16"
+        ],
+        "text": "Our job here in the Quality Control Department is to make sure that no garment leaves the factory in less than perfect condition. This means that each garment [14] carefully by a trained garment inspector. We throw out all [15] garments. It is important to protect our [16] and make sure that the name of our company is always associated with top-quality products."
+      },
+      {
+        "questionIds": [
+          "17",
+          "18",
+          "19"
+        ],
+        "text": "Dear Mr. Wilcox, Your lease for the office you [17] at 121 North Main Street will expire next month. I will be very happy to have you renew the lease if you desire. You have occupied that space for a [18], and during those ten years you have always been a reliable tenant. Unfortunately, [19] to rising costs everywhere, I will have to raise the rent on that space by 20 percent. I hope this won't cause you any hardship. Please let me know if you are still interested in renewing the lease, and I will have my assistant send one over to you. Sincerely, Amanda Brightwood"
+      }
+    ]
+  },
+  {
+    "id": "essential-review-07",
+    "questions": [
+      {
+        "id": "1",
+        "prompt": "The aroma coming from the restaurant was so ____ that the tourists did not hesitate before entering.",
+        "choiceTexts": {
+          "A": "appeal",
+          "B": "appealed",
+          "C": "appealing",
+          "D": "appeals"
+        }
+      },
+      {
+        "id": "2",
+        "prompt": "Because the menu was not in his native language, the visitor asked the waiter for ____.",
+        "choiceTexts": {
+          "A": "guide",
+          "B": "guided",
+          "C": "guiding",
+          "D": "guidance"
+        }
+      },
+      {
+        "id": "3",
+        "prompt": "The waiter ____ that the customer would enjoy the duck.",
+        "choiceTexts": {
+          "A": "predict",
+          "B": "predicted",
+          "C": "predicting",
+          "D": "prediction"
+        }
+      },
+      {
+        "id": "4",
+        "prompt": "Food critics are also expected to ____ a restaurant's service and atmosphere.",
+        "choiceTexts": {
+          "A": "judge",
+          "B": "judges",
+          "C": "judging",
+          "D": "judgment"
+        }
+      },
+      {
+        "id": "5",
+        "prompt": "The host usually ____ the check for his guest.",
+        "choiceTexts": {
+          "A": "picks over",
+          "B": "picks on",
+          "C": "picks off",
+          "D": "picks up"
+        }
+      },
+      {
+        "id": "6",
+        "prompt": "Sometimes diners request ____, or “separate,” checks.",
+        "choiceTexts": {
+          "A": "individuality",
+          "B": "Individually",
+          "C": "individual",
+          "D": "individualize"
+        }
+      },
+      {
+        "id": "7",
+        "prompt": "The most ____ customers seem to be the worst tippers.",
+        "choiceTexts": {
+          "A": "demand",
+          "B": "demanded",
+          "C": "demanding",
+          "D": "demandingly"
+        }
+      },
+      {
+        "id": "8",
+        "prompt": "Food preparation is not just frying hamburgers; it is a respected ____.",
+        "choiceTexts": {
+          "A": "profess",
+          "B": "professing",
+          "C": "profession",
+          "D": "professional"
+        }
+      },
+      {
+        "id": "9",
+        "prompt": "An event planner must ____ the entire affair, not just choose the menu.",
+        "choiceTexts": {
+          "A": "coordinated",
+          "B": "coordinating",
+          "C": "coordinator",
+          "D": "coordinate"
+        }
+      },
+      {
+        "id": "10",
+        "prompt": "The planner must also ensure that participants observe all local ____.",
+        "choiceTexts": {
+          "A": "regulated",
+          "B": "regulations",
+          "C": "regulating",
+          "D": "regulate"
+        }
+      },
+      {
+        "id": "11",
+        "prompt": "Complete blank [11]: ____.",
+        "choiceTexts": {
+          "A": "suggest",
+          "B": "suggesting",
+          "C": "suggestion",
+          "D": "suggestible"
+        }
+      },
+      {
+        "id": "12",
+        "prompt": "Complete blank [12]: ____.",
+        "choiceTexts": {
+          "A": "arrive",
+          "B": "demand",
+          "C": "appeal",
+          "D": "predict"
+        }
+      },
+      {
+        "id": "13",
+        "prompt": "Complete blank [13]: ____.",
+        "choiceTexts": {
+          "A": "elegantly",
+          "B": "elegance",
+          "C": "elegies",
+          "D": "elegant"
+        }
+      },
+      {
+        "id": "14",
+        "prompt": "Complete blank [14]: ____.",
+        "choiceTexts": {
+          "A": "pick up",
+          "B": "fall to",
+          "C": "rely on",
+          "D": "mix up"
+        }
+      },
+      {
+        "id": "15",
+        "prompt": "Complete blank [15]: ____.",
+        "choiceTexts": {
+          "A": "No forget",
+          "B": "Not forget",
+          "C": "No forgetting",
+          "D": "Don't forget"
+        }
+      },
+      {
+        "id": "16",
+        "prompt": "Complete blank [16]: ____.",
+        "choiceTexts": {
+          "A": "delivers",
+          "B": "is delivered",
+          "C": "is delivering",
+          "D": "will deliver"
+        }
+      },
+      {
+        "id": "17",
+        "prompt": "Complete blank [17]: ____.",
+        "choiceTexts": {
+          "A": "fine",
+          "B": "visual",
+          "C": "culinary",
+          "D": "performing"
+        }
+      },
+      {
+        "id": "18",
+        "prompt": "Complete blank [18]: ____.",
+        "choiceTexts": {
+          "A": "demand",
+          "B": "demander",
+          "C": "demanded",
+          "D": "demanding"
+        }
+      },
+      {
+        "id": "19",
+        "prompt": "Complete blank [19]: ____.",
+        "choiceTexts": {
+          "A": "to coordinate",
+          "B": "coordinating",
+          "C": "coordinates",
+          "D": "coordinate"
+        }
+      }
+    ],
+    "questionPassages": [
+      {
+        "questionIds": [
+          "11",
+          "12",
+          "13"
+        ],
+        "text": "To: Robert Hughes\nFrom: Betsy Wyman\nSubject: re: places to eat\n\nHi Rob, I got your message asking for ideas about places to take your clients to dinner. I have a great [11] for you. The Waterfall Room is a fantastic restaurant that just opened on Maple Avenue. The atmosphere is pleasant and the food is very good. If you [12] before 6:30, you can get the dinner special—a complete three-course meal including a glass of wine—for only $30. It's a great deal. I really think this is the best place in town to enjoy an [13] meal at a reasonable price. Let me know how you like it. Betsy"
+      },
+      {
+        "questionIds": [
+          "14",
+          "15",
+          "16"
+        ],
+        "text": "To: Sue Evans\nFrom: Ron Smith\nSubject: lunch tomorrow\n\nSue, George will be out of the office all week, so it will [14] you to order the lunch for tomorrow's staff meeting. We always order from Sam's Deli. We'll need enough for 15 people. Look at their list of sandwiches and order three or four different kinds. [15] to order a variety of desserts, too. People always like a sweet treat with their meal. Please make sure that the food [16] by noon tomorrow. Thanks. Ron"
+      },
+      {
+        "questionIds": [
+          "17",
+          "18",
+          "19"
+        ],
+        "text": "Do you have what it takes to become a professional chef? The first requirement, of course, is an interest in the [17] arts. There is no point in becoming a chef if you don't love fine food. You will also need to be willing to work long hours because this is a very [18] profession. In addition, you will need leadership qualities. A working chef has [19] the work of everyone in the kitchen."
+      }
+    ]
+  },
+  {
+    "id": "essential-review-08",
+    "questions": [
+      {
+        "id": "1",
+        "prompt": "When ____ your luggage, be sure to check the name on the tag.",
+        "choiceTexts": {
+          "A": "claim",
+          "B": "claimed",
+          "C": "claimant",
+          "D": "claiming"
+        }
+      },
+      {
+        "id": "2",
+        "prompt": "The plane's ____ was delayed until the wings were defrosted.",
+        "choiceTexts": {
+          "A": "depart",
+          "B": "departed",
+          "C": "departure",
+          "D": "departing"
+        }
+      },
+      {
+        "id": "3",
+        "prompt": "Many airlines ____ courtesy discounts to senior citizens.",
+        "choiceTexts": {
+          "A": "extend",
+          "B": "extending",
+          "C": "extension",
+          "D": "extensive"
+        }
+      },
+      {
+        "id": "4",
+        "prompt": "It is easier to ____ making reservations if you are specific about your requirements.",
+        "choiceTexts": {
+          "A": "deal in",
+          "B": "deal from",
+          "C": "deal out",
+          "D": "deal with"
+        }
+      },
+      {
+        "id": "5",
+        "prompt": "Trains are generally more ____ than airlines.",
+        "choiceTexts": {
+          "A": "punctuality",
+          "B": "punctually",
+          "C": "punctual",
+          "D": "punctuate"
+        }
+      },
+      {
+        "id": "6",
+        "prompt": "Some travel agencies ____ on a very tight budget.",
+        "choiceTexts": {
+          "A": "operating",
+          "B": "operation",
+          "C": "operates",
+          "D": "operate"
+        }
+      },
+      {
+        "id": "7",
+        "prompt": "Even if you pay cash, you need a credit card just to ____ to a hotel.",
+        "choiceTexts": {
+          "A": "check in",
+          "B": "checks in",
+          "C": "checking in",
+          "D": "checked in"
+        }
+      },
+      {
+        "id": "8",
+        "prompt": "Sometimes when you arrive, there is no room for you, even with a ____ reservation.",
+        "choiceTexts": {
+          "A": "confirm",
+          "B": "confirms",
+          "C": "confirmed",
+          "D": "confirmation"
+        }
+      },
+      {
+        "id": "9",
+        "prompt": "Without a reservation, renting a car could be a big ____.",
+        "choiceTexts": {
+          "A": "disappoint",
+          "B": "disappointed",
+          "C": "disappointing",
+          "D": "disappointment"
+        }
+      },
+      {
+        "id": "10",
+        "prompt": "No one will allow someone who doesn't have a ____ to rent a car.",
+        "choiceTexts": {
+          "A": "licensed",
+          "B": "license",
+          "C": "licensing",
+          "D": "licensee"
+        }
+      },
+      {
+        "id": "11",
+        "prompt": "Complete blank [11]: ____.",
+        "choiceTexts": {
+          "A": "economy",
+          "B": "economize",
+          "C": "economist",
+          "D": "economical"
+        }
+      },
+      {
+        "id": "12",
+        "prompt": "Complete blank [12]: ____.",
+        "choiceTexts": {
+          "A": "deluxe",
+          "B": "valid",
+          "C": "remote",
+          "D": "punctual"
+        }
+      },
+      {
+        "id": "13",
+        "prompt": "Complete blank [13]: ____.",
+        "choiceTexts": {
+          "A": "will reserve",
+          "B": "reserving",
+          "C": "reserved",
+          "D": "reserve"
+        }
+      },
+      {
+        "id": "14",
+        "prompt": "Complete blank [14]: ____.",
+        "choiceTexts": {
+          "A": "confirm",
+          "B": "confirming",
+          "C": "to confirm",
+          "D": "did confirm"
+        }
+      },
+      {
+        "id": "15",
+        "prompt": "Complete blank [15]: ____.",
+        "choiceTexts": {
+          "A": "in",
+          "B": "up",
+          "C": "out",
+          "D": "through"
+        }
+      },
+      {
+        "id": "16",
+        "prompt": "Complete blank [16]: ____.",
+        "choiceTexts": {
+          "A": "entitle",
+          "B": "entitles",
+          "C": "entitled",
+          "D": "is entitled"
+        }
+      },
+      {
+        "id": "17",
+        "prompt": "Complete blank [17]: ____.",
+        "choiceTexts": {
+          "A": "passport",
+          "B": "ticket",
+          "C": "itinerary",
+          "D": "license"
+        }
+      },
+      {
+        "id": "18",
+        "prompt": "Complete blank [18]: ____.",
+        "choiceTexts": {
+          "A": "rate",
+          "B": "route",
+          "C": "riot",
+          "D": "runt"
+        }
+      },
+      {
+        "id": "19",
+        "prompt": "Complete blank [19]: ____.",
+        "choiceTexts": {
+          "A": "opt",
+          "B": "option",
+          "C": "optional",
+          "D": "optionally"
+        }
+      }
+    ],
+    "questionPassages": [
+      {
+        "questionIds": [
+          "11",
+          "12",
+          "13"
+        ],
+        "text": "Do you need to [11]? Trains are a great way to save money when it comes to travel. Train fare costs considerably less than plane fare in most cases. On the other hand, if comfort is more important to you than saving money, you will be happy to know that most trains offer [12] accommodations. When you [13] your ticket, simply notify the agent that you want a first-class seat."
+      },
+      {
+        "questionIds": [
+          "14",
+          "15",
+          "16"
+        ],
+        "text": "To: Margaret Berdan\nFrom: Spring Flower Hotel Management\nSubject: Your reservation\n\nDear Ms. Berdan, Thank you for making a reservation at the Spring Flower Hotel for the nights of May 11-14. We suggest that you call the hotel [14] your reservation 24 hours in advance. Payment in full is required at the time you check [15], before we can give you your room key. Remember, your status as a guest at the Spring Flower Hotel [16] you to unlimited use of the hotel fitness room and swimming pool. We look forward to seeing you. Sincerely, The Spring Flower Hotel Management Office"
+      },
+      {
+        "questionIds": [
+          "17",
+          "18",
+          "19"
+        ],
+        "text": "If you plan to pick up a rental car at the airport, it's best to reserve a car ahead of time. This is easy to do on the Internet or by phone. When you pick up your car, you will have to show a valid [17] that proves you have legal permission to drive. Read the contract carefully and make sure that the [18] it states is the same one you were originally quoted. You don't want to have to pay more than you expected. Also remember that certain features, such as stereo systems, are [19]. You don't have to accept and pay for them if you don't want to."
+      }
+    ]
+  },
+  {
+    "id": "essential-review-09",
+    "questions": [
+      {
+        "id": "1",
+        "prompt": "Movies are probably the most popular form of ____ in the United States.",
+        "choiceTexts": {
+          "A": "entertain",
+          "B": "entertained",
+          "C": "entertaining",
+          "D": "entertainment"
+        }
+      },
+      {
+        "id": "2",
+        "prompt": "Television has seriously ____ society.",
+        "choiceTexts": {
+          "A": "influence",
+          "B": "influenced",
+          "C": "influencing",
+          "D": "influential"
+        }
+      },
+      {
+        "id": "3",
+        "prompt": "Actors can spend too much time ____ as well as too little.",
+        "choiceTexts": {
+          "A": "rehearse",
+          "B": "rehearsed",
+          "C": "rehearsing",
+          "D": "rehearsal"
+        }
+      },
+      {
+        "id": "4",
+        "prompt": "Even when a show is ____, it is sometimes possible to get in.",
+        "choiceTexts": {
+          "A": "sell out",
+          "B": "sell on",
+          "C": "sold off",
+          "D": "sold out"
+        }
+      },
+      {
+        "id": "5",
+        "prompt": "Orchestra music is wonderfully conducive to ____.",
+        "choiceTexts": {
+          "A": "relaxation",
+          "B": "relaxed",
+          "C": "relaxes",
+          "D": "relax"
+        }
+      },
+      {
+        "id": "6",
+        "prompt": "There is no good or bad music, only that which does or does not appeal to your ____.",
+        "choiceTexts": {
+          "A": "taste",
+          "B": "tastes",
+          "C": "tasted",
+          "D": "tasting"
+        }
+      },
+      {
+        "id": "7",
+        "prompt": "New ____ are one of the most exciting aspects of museum work.",
+        "choiceTexts": {
+          "A": "acquire",
+          "B": "acquisitions",
+          "C": "acquires",
+          "D": "acquisitive"
+        }
+      },
+      {
+        "id": "8",
+        "prompt": "Sometimes I look at a famous painting and wonder why it is considered more ____ than the ones on either side of it.",
+        "choiceTexts": {
+          "A": "signify",
+          "B": "signified",
+          "C": "significant",
+          "D": "significantly"
+        }
+      },
+      {
+        "id": "9",
+        "prompt": "The Internet ____ information faster than any other medium.",
+        "choiceTexts": {
+          "A": "disseminate",
+          "B": "disseminates",
+          "C": "dissemination",
+          "D": "disseminating"
+        }
+      },
+      {
+        "id": "10",
+        "prompt": "In any news medium, the only news is what the editor ____ is news.",
+        "choiceTexts": {
+          "A": "decide",
+          "B": "decides",
+          "C": "decision",
+          "D": "decisions"
+        }
+      },
+      {
+        "id": "11",
+        "prompt": "Complete blank [11]: ____.",
+        "choiceTexts": {
+          "A": "entertain",
+          "B": "entertained",
+          "C": "entertaining",
+          "D": "entertainment"
+        }
+      },
+      {
+        "id": "12",
+        "prompt": "Complete blank [12]: ____.",
+        "choiceTexts": {
+          "A": "release",
+          "B": "released",
+          "C": "are released",
+          "D": "will be released"
+        }
+      },
+      {
+        "id": "13",
+        "prompt": "Complete blank [13]: ____.",
+        "choiceTexts": {
+          "A": "prefer",
+          "B": "defer",
+          "C": "refer",
+          "D": "infer"
+        }
+      },
+      {
+        "id": "14",
+        "prompt": "Complete blank [14]: ____.",
+        "choiceTexts": {
+          "A": "separate",
+          "B": "combine",
+          "C": "rehearse",
+          "D": "subscribe"
+        }
+      },
+      {
+        "id": "15",
+        "prompt": "Complete blank [15]: ____.",
+        "choiceTexts": {
+          "A": "chose",
+          "B": "choice",
+          "C": "choose",
+          "D": "choosy"
+        }
+      },
+      {
+        "id": "16",
+        "prompt": "Complete blank [16]: ____.",
+        "choiceTexts": {
+          "A": "thorough",
+          "B": "through",
+          "C": "thought",
+          "D": "though"
+        }
+      },
+      {
+        "id": "17",
+        "prompt": "Complete blank [17]: ____.",
+        "choiceTexts": {
+          "A": "rehearse",
+          "B": "rehearsed",
+          "C": "will rehearse",
+          "D": "are rehearsing"
+        }
+      },
+      {
+        "id": "18",
+        "prompt": "Complete blank [18]: ____.",
+        "choiceTexts": {
+          "A": "audio",
+          "B": "audition",
+          "C": "audience",
+          "D": "audacity"
+        }
+      },
+      {
+        "id": "19",
+        "prompt": "Complete blank [19]: ____.",
+        "choiceTexts": {
+          "A": "perform",
+          "B": "performer",
+          "C": "performable",
+          "D": "performance"
+        }
+      }
+    ],
+    "questionPassages": [
+      {
+        "questionIds": [
+          "11",
+          "12",
+          "13"
+        ],
+        "text": "Because of DVD players and cable TV, it is no longer necessary to leave home in search of [11]. Families can watch movies in the comfort of their own living rooms. Nevertheless, going out to the movies is still a popular way to spend a weekend evening. Many people enjoy going to movie theaters because they like to see new movies as soon as they [12]. They may also [13] to spend an evening out in public rather than quietly at home."
+      },
+      {
+        "questionIds": [
+          "14",
+          "15",
+          "16"
+        ],
+        "text": "If you are looking for an activity that the whole family can enjoy, consider visiting one of our city's fine museums. It is the perfect way to [14] fun with education. Depending on your family's interests, you might [15] to visit a science, history, or art museum. If your children are older, they will want to visit exhibits that particularly interest them and take the time to give each one a [16] look. Younger children have a shorter attention span. Museums with interactive exhibits are best for them."
+      },
+      {
+        "questionIds": [
+          "17",
+          "18",
+          "19"
+        ],
+        "text": "The new play, Sunflower Sunset, opened at the Westwood Playhouse last night. A lot of effort went into this production. The actors [17] for months, and an elaborate set was constructed. Unfortunately, this effort could not save the dull dialogue. It was easy to see that the [18] was bored-snoring was heard throughout the theater, and many people left before the end of the play. The actors made a fine effort with their [19], but the best acting in the world cannot save a poorly written play."
+      }
+    ]
+  },
+  {
+    "id": "essential-review-10",
+    "questions": [
+      {
+        "id": "1",
+        "prompt": "Your doctor's ____ are as important as his prescriptions.",
+        "choiceTexts": {
+          "A": "recommend",
+          "B": "recommended",
+          "C": "recommending",
+          "D": "recommendations"
+        }
+      },
+      {
+        "id": "2",
+        "prompt": "Dentists are as concerned with your dental ____ as with the condition of your teeth.",
+        "choiceTexts": {
+          "A": "habits",
+          "B": "habitual",
+          "C": "habitually",
+          "D": "habituated"
+        }
+      },
+      {
+        "id": "3",
+        "prompt": "To avoid ____ any additional charges, you should ask to be discharged from the hospital.",
+        "choiceTexts": {
+          "A": "incur",
+          "B": "incurs",
+          "C": "incurred",
+          "D": "incurring"
+        }
+      },
+      {
+        "id": "4",
+        "prompt": "It is as fast and efficient to ____ with your pharmacist as with your physician.",
+        "choiceTexts": {
+          "A": "consult",
+          "B": "consulting",
+          "C": "consulted",
+          "D": "consultation"
+        }
+      },
+      {
+        "id": "5",
+        "prompt": "Although an annual checkup is important, you should also make an ____ whenever you have a health concern.",
+        "choiceTexts": {
+          "A": "appoint",
+          "B": "appointed",
+          "C": "appointment",
+          "D": "appointments"
+        }
+      },
+      {
+        "id": "6",
+        "prompt": "A dentist can perform dental ____ as well as routine maintenance.",
+        "choiceTexts": {
+          "A": "restore",
+          "B": "restored",
+          "C": "restoring",
+          "D": "restoration"
+        }
+      },
+      {
+        "id": "7",
+        "prompt": "A good medical insurance will ____ preventive health programs as well as treatment.",
+        "choiceTexts": {
+          "A": "emphasize",
+          "B": "emphasis",
+          "C": "emphasizing",
+          "D": "emphasized"
+        }
+      },
+      {
+        "id": "8",
+        "prompt": "The most difficult part of hospitalization is being ____.",
+        "choiceTexts": {
+          "A": "admit",
+          "B": "admitted",
+          "C": "admissions",
+          "D": "admitting"
+        }
+      },
+      {
+        "id": "9",
+        "prompt": "A pharmacist will ____ the customer's medications.",
+        "choiceTexts": {
+          "A": "monitor",
+          "B": "monitors",
+          "C": "monitoring",
+          "D": "monitored"
+        }
+      },
+      {
+        "id": "10",
+        "prompt": "I don't understand most of what I read in a hospital's billing ____.",
+        "choiceTexts": {
+          "A": "state",
+          "B": "stated",
+          "C": "stating",
+          "D": "statement"
+        }
+      },
+      {
+        "id": "11",
+        "prompt": "Complete blank [11]: ____.",
+        "choiceTexts": {
+          "A": "daily",
+          "B": "monthly",
+          "C": "annual",
+          "D": "perennial"
+        }
+      },
+      {
+        "id": "12",
+        "prompt": "Complete blank [12]: ____.",
+        "choiceTexts": {
+          "A": "recommend",
+          "B": "recommends",
+          "C": "to recommend",
+          "D": "recommending"
+        }
+      },
+      {
+        "id": "13",
+        "prompt": "Complete blank [13]: ____.",
+        "choiceTexts": {
+          "A": "prevent",
+          "B": "prevention",
+          "C": "preventive",
+          "D": "preventively"
+        }
+      },
+      {
+        "id": "14",
+        "prompt": "Complete blank [14]: ____.",
+        "choiceTexts": {
+          "A": "person",
+          "B": "personal",
+          "C": "personify",
+          "D": "personnel"
+        }
+      },
+      {
+        "id": "15",
+        "prompt": "Complete blank [15]: ____.",
+        "choiceTexts": {
+          "A": "usually",
+          "B": "usual",
+          "C": "unusual",
+          "D": "unusually"
+        }
+      },
+      {
+        "id": "16",
+        "prompt": "Complete blank [16]: ____.",
+        "choiceTexts": {
+          "A": "are encouraged",
+          "B": "encouraging",
+          "C": "encouraged",
+          "D": "encourage"
+        }
+      },
+      {
+        "id": "17",
+        "prompt": "Complete blank [17]: ____.",
+        "choiceTexts": {
+          "A": "effect",
+          "B": "effective",
+          "C": "effectively",
+          "D": "effectiveness"
+        }
+      },
+      {
+        "id": "18",
+        "prompt": "Complete blank [18]: ____.",
+        "choiceTexts": {
+          "A": "potent",
+          "B": "potion",
+          "C": "potential",
+          "D": "potentially"
+        }
+      },
+      {
+        "id": "19",
+        "prompt": "Complete blank [19]: ____.",
+        "choiceTexts": {
+          "A": "irritate",
+          "B": "irritant",
+          "C": "irritation",
+          "D": "irritating"
+        }
+      }
+    ],
+    "questionPassages": [
+      {
+        "questionIds": [
+          "11",
+          "12",
+          "13"
+        ],
+        "text": "The most important part of your health care is the [11] visit to your doctor. By visiting your doctor once a year, you can feel sure that any changes in your health will be detected. Your doctor might [12] lifestyle changes, such as diet and exercise, that you will need to make in order to maintain your health. The best way to [13] serious disease, after all, is to maintain a healthy lifestyle."
+      },
+      {
+        "questionIds": [
+          "14",
+          "15",
+          "16"
+        ],
+        "text": "Memo To: All company staff\nFrom: Human Resources Office\nRe: Dental insurance\n\nDental insurance is now available to all company [14]. We can offer you a policy that covers all the [15] dental procedures, such as cleanings and fillings. Unfortunately, surgery and other complicated procedures will not be covered. If you are interested in applying for this insurance, please notify our office before the end of this month. We [16] you to take advantage of this opportunity to obtain affordable dental care for yourself and your family."
+      },
+      {
+        "questionIds": [
+          "17",
+          "18",
+          "19"
+        ],
+        "text": "Your doctor has prescribed this medication to treat your symptoms. Take it as instructed by your doctor. It is most [17] when taken with meals. Consult with your doctor before taking any additional medications to avoid [18] harmful interactions. Possible side effects of this medication include sleepiness and [19] of the stomach."
+      }
+    ]
+  }
+]

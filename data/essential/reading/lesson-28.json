@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-28-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "____ equipment on a new car is not only costly, but also dangerous.",
+        "choiceTexts": {
+          "A": "Defect",
+          "B": "Defector",
+          "C": "Defective",
+          "D": "Defection"
+        },
+        "explanation": "Defective là tính từ bổ nghĩa cho equipment, chỉ thiết bị có lỗi vừa tốn kém vừa nguy hiểm."
+      },
+      {
+        "id": "11",
+        "prompt": "Rebecca is known as ____ #321 among her quality control coworkers.",
+        "choiceTexts": {
+          "A": "inspect",
+          "B": "inspection",
+          "C": "inspector",
+          "D": "inspecting"
+        },
+        "explanation": "Inspector là danh từ chỉ người kiểm định; Rebecca được gọi bằng mã kiểm định viên #321."
+      },
+      {
+        "id": "12",
+        "prompt": "An employee who ____ his job as important performs better than one who wants only a paycheck.",
+        "choiceTexts": {
+          "A": "perceives",
+          "B": "perceived",
+          "C": "perceptive",
+          "D": "perception"
+        },
+        "explanation": "Who thay cho an employee số ít nên động từ hiện tại là perceives; perceive ... as nghĩa là xem điều gì là."
+      },
+      {
+        "id": "13",
+        "prompt": "Agnes was ____ by the odor of the waterproofing.",
+        "choiceTexts": {
+          "A": "repel",
+          "B": "repellent",
+          "C": "repelled",
+          "D": "repelling"
+        },
+        "explanation": "Was repelled by là bị động: Agnes bị mùi chất chống thấm làm khó chịu."
+      },
+      {
+        "id": "14",
+        "prompt": "Standardized products are ____ in appearance.",
+        "choiceTexts": {
+          "A": "uniforms",
+          "B": "uniformly",
+          "C": "uniform",
+          "D": "unformed"
+        },
+        "explanation": "Sau are cần tính từ uniform, nghĩa là đồng nhất về hình thức; uniformly là trạng từ nên không phù hợp."
+      },
+      {
+        "id": "15",
+        "prompt": "Sarah wants to return her dress to the store because it ____ too easily.",
+        "choiceTexts": {
+          "A": "wrinkles",
+          "B": "wrinkly",
+          "C": "wrinkle",
+          "D": "wrinkling"
+        },
+        "explanation": "It là chủ ngữ số ít, cần động từ wrinkles: chiếc váy rất dễ bị nhăn."
+      }
+    ]
+  },
+  {
+    "id": "essential-28-reading-6",
+    "readingPassage": "Thank you for buying a Flexco product. Flexco is a top name in women's clothing, and the Flexco brand carries a\nreputation for excellence. Customer satisfaction is our top priority, and all Flexco garments carry the Flexco guarantee.\nAll our products must [16] ____ to high standards. They [17] ____ by trained professionals before they leave the factory.\nIf your purchase is defective in any way, you may take it [18] ____ to the store for a complete refund.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "conform",
+          "B": "conforms",
+          "C": "conforming",
+          "D": "to conform"
+        },
+        "explanation": "Sau must cần động từ nguyên mẫu conform; conform to high standards là đáp ứng tiêu chuẩn cao."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "inspect",
+          "B": "inspected",
+          "C": "are inspected",
+          "D": "have inspected"
+        },
+        "explanation": "Sản phẩm được chuyên gia kiểm tra nên dùng bị động are inspected, với by chỉ tác nhân."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "up",
+          "B": "out",
+          "C": "off",
+          "D": "back"
+        },
+        "explanation": "Take it back to the store nghĩa là mang trả lại cửa hàng để được hoàn tiền."
+      }
+    ]
+  },
+  {
+    "id": "essential-28-reading-7",
+    "readingPassage": "October 10, 20Customer Service Department\nFlexco Women's Clothing\n234502 Anthony Place\nWoodston, NY 12229\nDear Customer Service,\nI am writing to express my extreme dissatisfaction with a recent purchase of a Flexco garment. Last week I went to our\nlocal department store to buy a gift for my wife. I chose a very handsome Flexco raincoat and gave it to my wife on her\nbirthday last Saturday. She was pleased with the gift and wore it yesterday because we had a big rainstorm. We were both\nsurprised to find out that the raincoat is not water repellant at all. My wife returned from her walk very, very wet. In addition, the fabric of the coat became wrinkled in the rain. I bought the Flexco raincoat for my wife because Flexco is one of\nher favorite brands. She already owns several Flexco dresses, skirts, and blouses. We never expected to be disappointed by\na Flexco product.\nI took the raincoat back to the store this morning. The manager there said that he did not see any defects in the coat, but\nhe offered me a different coat in exchange. Since I understand that Flexco guarantees a complete refund on all its products, I did not accept the manager's offer. I hope that Flexco will stand by its guarantee. I am returning the raincoat with\nthis letter, together with the receipt from the department store, and hope to receive a complete refund before the end of\nthe month. Thank you for your attention to this matter.\nSincerely,\nThomas Jamison",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Why did Mr. Jamison write this letter?",
+        "choiceTexts": {
+          "A": "He wants to order more garments from Flexco.",
+          "B": "He is unhappy with his purchase.",
+          "C": "He is looking for a present for his wife.",
+          "D": "He wants to express his appreciation of Flexco products."
+        },
+        "explanation": "Jamison mở thư bằng extreme dissatisfaction và yêu cầu hoàn tiền vì sản phẩm không đạt chất lượng."
+      },
+      {
+        "id": "20",
+        "prompt": "What Flexco product did Mr. Jamison buy?",
+        "choiceTexts": {
+          "A": "A dress.",
+          "B": "A skirt.",
+          "C": "A blouse.",
+          "D": "A raincoat."
+        },
+        "explanation": "Ông nói đã chọn a very handsome Flexco raincoat làm quà sinh nhật cho vợ."
+      },
+      {
+        "id": "21",
+        "prompt": "What happened when Mr. Jamison returned to the store?",
+        "choiceTexts": {
+          "A": "He bought more garments.",
+          "B": "He was offered a refund.",
+          "C": "He was offered a new coat.",
+          "D": "He noticed some defective clothes."
+        },
+        "explanation": "Quản lý đề nghị a different coat in exchange, tức đổi một áo khác, không đề nghị hoàn tiền."
+      },
+      {
+        "id": "22",
+        "prompt": "The word wrinkled in the first paragraph is closest in meaning to",
+        "choiceTexts": {
+          "A": "creased",
+          "B": "wet",
+          "C": "destroyed",
+          "D": "dirty"
+        },
+        "explanation": "Wrinkled chỉ vải bị nhăn, gần nghĩa creased; wet chỉ ướt và là vấn đề khác trong thư."
+      },
+      {
+        "id": "23",
+        "prompt": "The word brands in the first paragraph is closest in meaning to",
+        "choiceTexts": {
+          "A": "gifts",
+          "B": "names",
+          "C": "stores",
+          "D": "styles"
+        },
+        "explanation": "Brands là tên thương hiệu sản phẩm, nên names gần nghĩa nhất trong các lựa chọn."
+      }
+    ]
+  }
+]

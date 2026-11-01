@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-26-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "The data entry clerk is so accustomed to working by herself that I really doubt if she is capable of ____ on this project.",
+        "choiceTexts": {
+          "A": "collaborated",
+          "B": "collaborating",
+          "C": "collaborator",
+          "D": "collaborates"
+        },
+        "explanation": "Capable of đi với danh động từ collaborating, nghĩa là có khả năng cộng tác trong dự án."
+      },
+      {
+        "id": "11",
+        "prompt": "Sue always ____ so hard on her work that she forgets where she is.",
+        "choiceTexts": {
+          "A": "concentrated",
+          "B": "concentrates",
+          "C": "concentration",
+          "D": "concentrating"
+        },
+        "explanation": "Sue là chủ ngữ số ít; always chỉ thói quen nên dùng hiện tại đơn concentrates."
+      },
+      {
+        "id": "12",
+        "prompt": "The constant flow of traffic by the researcher's desk proved to be very ____.",
+        "choiceTexts": {
+          "A": "disruptive",
+          "B": "disrupts",
+          "C": "disruption",
+          "D": "disrupted"
+        },
+        "explanation": "Be very cần tính từ disruptive: người qua lại liên tục gây gián đoạn công việc nghiên cứu."
+      },
+      {
+        "id": "13",
+        "prompt": "The employee lounge is for everyone's enjoyment so please don't use it ____.",
+        "choiceTexts": {
+          "A": "inconsiderate",
+          "B": "inconsiderateness",
+          "C": "inconsiderately",
+          "D": "inconsideration"
+        },
+        "explanation": "Inconsiderately là trạng từ bổ nghĩa cho use; yêu cầu không dùng phòng chung một cách thiếu ý thức với người khác."
+      },
+      {
+        "id": "14",
+        "prompt": "Some people always ____ for the easy way out.",
+        "choiceTexts": {
+          "A": "opt",
+          "B": "option",
+          "C": "optional",
+          "D": "options"
+        },
+        "explanation": "Opt for là cụm động từ lựa chọn; chủ ngữ people dùng động từ nguyên mẫu opt ở hiện tại đơn."
+      },
+      {
+        "id": "15",
+        "prompt": "After close ____ of the options, the managers chose an advertising company to do all the publicity for the new campaign.",
+        "choiceTexts": {
+          "A": "scrutinize",
+          "B": "scrutinizing",
+          "C": "scrutiny",
+          "D": "scrutable"
+        },
+        "explanation": "Close scrutiny of là sự xem xét kỹ lưỡng; sau tính từ close và trước of cần danh từ scrutiny."
+      }
+    ]
+  },
+  {
+    "id": "essential-26-reading-6",
+    "readingPassage": "Notice\nIn order to maintain a professional office environment that is [16] ____ to work, all staff members are asked to observe\nthe following guidelines.\n• Be [17] ____ of your coworkers. When using an open work area, do not speak in loud voices or turn on radios.\n• Our clients are important. Do not disrupt your coworkers when they are meeting with clients.\n• Remember that the lobby is the first place our clients see when they enter the office. Please [18] ____ by doing your\nbest to keep this area clean and neat.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "optional",
+          "B": "conducive",
+          "C": "inscrutable",
+          "D": "collaborative"
+        },
+        "explanation": "Conducive to work nghĩa là thuận lợi cho công việc; các hướng dẫn giúp duy trì môi trường như vậy."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "consideration",
+          "B": "considerately",
+          "C": "considerate",
+          "D": "consider"
+        },
+        "explanation": "Be considerate of someone nghĩa là quan tâm đến người khác; không nói to hoặc bật radio là các ví dụ cụ thể."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "can cooperate",
+          "B": "to cooperate",
+          "C": "cooperating",
+          "D": "cooperate"
+        },
+        "explanation": "Please + động từ nguyên mẫu tạo lời yêu cầu: please cooperate, hãy hợp tác giữ sảnh sạch sẽ."
+      }
+    ]
+  },
+  {
+    "id": "essential-26-reading-7",
+    "readingPassage": "Memo\nTo: All office staff\nFrom: P. Windermere, Office Manager\nRe: Parking situation\nAs you may be aware, starting next week, the parking\ngarage will be closed for repairs to the upper level due\nto damage caused by the heavy rains last month.\nThere will be no parking allowed on any level of the\ngarage while the repairs are taking place, as parked\ncars may hamper the work. Cars parked in the garage\nwill be towed at the owner's expense. While the\ngarage is closed, you may opt to park on the street or\nin the lot adjacent to the building. Remember that it\nis a private lot and a fee will be charged. I realize that\nthe parking options will be limited, and I am open to\nany suggestions for solutions to this parking situation\nthat any of you may have. Unfortunately, the repair\nwork will take more than a few weeks. We cannot\nexpect the garage to open again until two months\nfrom now. In the meantime, I thank you for your\ncooperation.",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Why will the garage be closed?",
+        "choiceTexts": {
+          "A": "It needs repairs.",
+          "B": "The fees are too high.",
+          "C": "Its parking options are limited.",
+          "D": "Street parking is better."
+        },
+        "explanation": "Đoạn đầu nói nhà xe phải đóng để sửa tầng trên bị hư hại do mưa lớn."
+      },
+      {
+        "id": "20",
+        "prompt": "What will happen to cars that are parked in the garage?",
+        "choiceTexts": {
+          "A": "They will be charged a fee.",
+          "B": "They will be repaired.",
+          "C": "They will be towed.",
+          "D": "They will be used for work."
+        },
+        "explanation": "Thông báo nêu cars parked in the garage will be towed at the owner's expense, tức xe sẽ bị kéo đi."
+      },
+      {
+        "id": "21",
+        "prompt": "When will the garage reopen?",
+        "choiceTexts": {
+          "A": "In a week.",
+          "B": "In just a few weeks.",
+          "C": "In a month.",
+          "D": "In two months."
+        },
+        "explanation": "Đoạn cuối khẳng định không thể mở lại until two months from now, tức sau hai tháng."
+      },
+      {
+        "id": "22",
+        "prompt": "The word hamper is closest in meaning to",
+        "choiceTexts": {
+          "A": "allow",
+          "B": "interfere",
+          "C": "encourage",
+          "D": "contribute"
+        },
+        "explanation": "Hamper the work nghĩa là gây cản trở công việc sửa chữa; interfere gần nghĩa nhất."
+      },
+      {
+        "id": "23",
+        "prompt": "The word adjacent is closest in meaning to",
+        "choiceTexts": {
+          "A": "distant",
+          "B": "underneath",
+          "C": "next to",
+          "D": "across from"
+        },
+        "explanation": "Adjacent to the building là nằm ngay cạnh tòa nhà, tương đương next to."
+      }
+    ]
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-48-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "Office policy does not ____ employees to leave the office for medical appointments.",
+        "choiceTexts": {
+          "A": "allow",
+          "C": "allowable",
+          "B": "allowing",
+          "D": "allowance"
+        },
+        "explanation": "Sau “does not” dùng nguyên mẫu “allow”. “Allow employees to leave” nghĩa là cho phép nhân viên rời văn phòng."
+      },
+      {
+        "id": "11",
+        "prompt": "You should investigate to see if there are any ____ to costly hospital stays.",
+        "choiceTexts": {
+          "A": "alternate",
+          "C": "alternatives",
+          "B": "alternatively",
+          "D": "alternating"
+        },
+        "explanation": "“There are any alternatives to” cần danh từ số nhiều: các phương án thay thế việc nằm viện tốn kém."
+      },
+      {
+        "id": "12",
+        "prompt": "It ____ me that our company is not willing to look for an alternative to our current health insurance plan.",
+        "choiceTexts": {
+          "A": "concern",
+          "B": "concerned",
+          "C": "concerns",
+          "D": "concerning"
+        },
+        "explanation": "Chủ ngữ “It” số ít cần “concerns”. “It concerns me that...” nghĩa là điều đó làm tôi lo ngại."
+      },
+      {
+        "id": "13",
+        "prompt": "I'm really pleased that my health plan provider is paying for my gym membership as a way to ____ its concern for my health.",
+        "choiceTexts": {
+          "A": "emphasis",
+          "B": "emphasize",
+          "C": "emphatic",
+          "D": "emphasizing"
+        },
+        "explanation": "Sau “a way to” cần nguyên mẫu “emphasize”, nghĩa là nhấn mạnh sự quan tâm đến sức khỏe."
+      },
+      {
+        "id": "14",
+        "prompt": "I ____ health insurance as an indispensable job benefit.",
+        "choiceTexts": {
+          "A": "regardless",
+          "B": "regardful",
+          "C": "regarding",
+          "D": "regard"
+        },
+        "explanation": "“Regard something as” nghĩa là xem điều gì là. Câu cần động từ chính “regard” theo chủ ngữ “I”."
+      },
+      {
+        "id": "15",
+        "prompt": "The employee's goal is to find her family ____ health coverage.",
+        "choiceTexts": {
+          "A": "suit",
+          "B": "suitable",
+          "C": "suitably",
+          "D": "suitability"
+        },
+        "explanation": "Trước “health coverage” cần tính từ “suitable” (phù hợp) để mô tả bảo hiểm gia đình."
+      }
+    ]
+  },
+  {
+    "id": "essential-48-reading-6",
+    "readingPassage": "Memo\nTo: All personnel\nFrom: Human Resources Office\nRe: Health Insurance\n\nMany of you have expressed an interest in certain [16] ____ health care treatments such as acupuncture and massage. In response to this, we have negotiated a new health insurance [17] ____ with our provider, and benefits now include a discount on visits to acupuncturists, massage therapists, and naturopaths. In order to take advantage of this discount, you need only to present your insurance card on your first visit to an approved provider. Please be advised that this discount [18] ____ only on visits to providers from the approved list. Please notify this office if you would like a copy of the list of approved alternative health care providers.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "alter",
+          "B": "alternate",
+          "C": "alternative",
+          "D": "alternatively"
+        },
+        "explanation": "“Alternative health care treatments” là các phương pháp điều trị thay thế, như châm cứu và mát xa."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "policy",
+          "B": "police",
+          "C": "politic",
+          "D": "polite"
+        },
+        "explanation": "“Health insurance policy” là hợp đồng/gói bảo hiểm y tế. “Police” là cảnh sát và các từ còn lại không đúng nghĩa."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "allow",
+          "B": "allows",
+          "C": "is allowed",
+          "D": "are allowed"
+        },
+        "explanation": "Khoản giảm giá là thứ được cho phép, nên cần bị động. “This discount” số ít đi với “is allowed”."
+      }
+    ]
+  },
+  {
+    "id": "essential-48-reading-7",
+    "readingPassage": "Workshop\n\nDid you know that full medical coverage is available to all company employees and their families, regardless of position or salary? If you need to know more, attend the workshop that will be held in Conference Room 3 next Friday at 11:00. All aspects of our health care policy will be explained. This workshop will be particularly useful to new personnel, although all are welcome. However, you must register to attend. Please contact the Human Resources Office before 5:00 Thursday.\n\nWe will go over the various alternative plans available to company employees and discuss what criteria you need to consider in selecting the plan that best suits your needs. We will explain exactly what is covered and what is not under each alternative, and what portion of each doctor's visit or treatment that you must pay out of pocket. We will leave time at the end for a question-and-answer session to make sure that all your concerns are addressed. This workshop will last two hours.",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What is the workshop about?",
+        "choiceTexts": {
+          "A": "Choosing a doctor.",
+          "B": "Health insurance.",
+          "C": "Alternative medicine.",
+          "D": "Planning a medical treatment."
+        },
+        "explanation": "Buổi hướng dẫn giải thích chính sách chăm sóc sức khỏe và các gói bảo hiểm, nên chủ đề là bảo hiểm y tế."
+      },
+      {
+        "id": "20",
+        "prompt": "Who can attend the workshop?",
+        "choiceTexts": {
+          "A": "Anyone.",
+          "B": "New personnel only.",
+          "C": "The Human Resources staff",
+          "D": "Only employees with families"
+        },
+        "explanation": "Thông báo ghi “although all are welcome”; nhân viên mới được lợi nhiều nhưng mọi người đều có thể đăng ký tham dự."
+      },
+      {
+        "id": "21",
+        "prompt": "What time will the workshop end?",
+        "choiceTexts": {
+          "A": "11:00.",
+          "B": "1:00.",
+          "C": "2:00.",
+          "D": "5:00."
+        },
+        "explanation": "Buổi hướng dẫn bắt đầu 11:00 và kéo dài hai giờ, nên kết thúc lúc 1:00."
+      },
+      {
+        "id": "22",
+        "prompt": "The word suits in the second paragraph, line 4 is closest in meaning to",
+        "choiceTexts": {
+          "A": "depends",
+          "B": "satisfies",
+          "C": "expresses",
+          "D": "emphasizes"
+        },
+        "explanation": "“Best suits your needs” nghĩa là đáp ứng tốt nhất nhu cầu, gần nghĩa “satisfies”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word concerns in the second paragraph, line 9 is closest in meaning to",
+        "choiceTexts": {
+          "A": "assignments",
+          "B": "answers",
+          "C": "benefits",
+          "D": "worries"
+        },
+        "explanation": "Phần hỏi đáp giải quyết các điều người tham dự còn lo ngại; “concerns” gần nghĩa “worries”."
+      }
+    ]
+  }
+]

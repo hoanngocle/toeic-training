@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-50.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-50.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 50"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "Who is the man talking to?",
+      "choiceTexts": {
+        "A": "A doctor.",
+        "B": "A pharmacist.",
+        "C": "His wife.",
+        "D": "His friend."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "What is the man's problem?",
+      "choiceTexts": {
+        "A": "Headache.",
+        "B": "Backache.",
+        "C": "Broken hand.",
+        "D": "Broken nose."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "When will the man fill the prescription?",
+      "choiceTexts": {
+        "A": "Today.",
+        "B": "Within two days.",
+        "C": "On the way to work.",
+        "D": "After trying the samples."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What is a possible side effect of the medication?",
+      "choiceTexts": {
+        "A": "Sleepiness.",
+        "B": "Stomachaches.",
+        "C": "Fatigue.",
+        "D": "Headaches."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "How often should the patient take the medication?",
+      "choiceTexts": {
+        "A": "Once a day.",
+        "B": "Two times a day.",
+        "C": "Three times a day.",
+        "D": "Four times a day."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "Why should the patient call the doctor in a few days?",
+      "choiceTexts": {
+        "A": "To request more days off work.",
+        "B": "To report how the medication is working.",
+        "C": "To get pills for his headaches.",
+        "D": "To ask for more samples."
+      }
+    }
+  ]
+}

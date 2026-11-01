@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-38.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-38.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 38"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What are the speakers discussing?",
+      "choiceTexts": {
+        "A": "The operator of the train.",
+        "B": "The comfort of the train ride.",
+        "C": "The directions to the train station.",
+        "D": "The time the train leaves."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "How long will their train ride be?",
+      "choiceTexts": {
+        "A": "Three and a half hours.",
+        "B": "Five hours.",
+        "C": "Ten hours.",
+        "D": "Thirty hours."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What will they do now?",
+      "choiceTexts": {
+        "A": "Eat some snacks.",
+        "B": "Buy their train tickets.",
+        "C": "Get on the train.",
+        "D": "Buy something to read."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What is an advantage of riding a high-speed train?",
+      "choiceTexts": {
+        "A": "It is always on time.",
+        "B": "It goes to many cities.",
+        "C": "You can get off anytime you want.",
+        "D": "It is cheaper than a plane."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What is true about a high-speed train?",
+      "choiceTexts": {
+        "A": "It operates in most cities.",
+        "B": "It is almost as slow as a traditional train.",
+        "C": "It is almost as fast as a plane in some cases.",
+        "D": "It is just as fast as a traditional train."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What is included in the cost of a high-speed train ticket?",
+      "choiceTexts": {
+        "A": "A comfortable seat.",
+        "B": "A movie.",
+        "C": "A class.",
+        "D": "A free meal."
+      }
+    }
+  ]
+}

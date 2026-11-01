@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-30-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "The president was ____ about adding more space to the factory.",
+        "choiceTexts": {
+          "A": "apprehend",
+          "B": "apprehensive",
+          "C": "apprehension",
+          "D": "apprehended"
+        },
+        "explanation": "Was apprehensive about cần tính từ apprehensive, diễn tả lo ngại về việc mở rộng nhà máy."
+      },
+      {
+        "id": "11",
+        "prompt": "The financial ____ of our business don't allow us to lease an office with such a high monthly rent.",
+        "choiceTexts": {
+          "A": "circumstances",
+          "B": "circumstantial",
+          "C": "circumstantially",
+          "D": "circumstanced"
+        },
+        "explanation": "Financial bổ nghĩa cho danh từ số nhiều circumstances, phù hợp với don't allow: điều kiện tài chính không cho phép thuê đắt."
+      },
+      {
+        "id": "12",
+        "prompt": "The real estate agent couldn't determine how to best work with a company that placed so many ____ on everything that they did.",
+        "choiceTexts": {
+          "A": "conditional",
+          "B": "condition",
+          "C": "conditioned",
+          "D": "conditions"
+        },
+        "explanation": "So many đi với danh từ đếm được số nhiều conditions, tức quá nhiều điều kiện đặt ra."
+      },
+      {
+        "id": "13",
+        "prompt": "The buyer ____ with a nod of his head that he was placing a bid on the property.",
+        "choiceTexts": {
+          "A": "indicates",
+          "B": "indication",
+          "C": "indicated",
+          "D": "indicator"
+        },
+        "explanation": "Indicated là quá khứ đơn phù hợp với was placing; người mua ra hiệu bằng một cái gật đầu."
+      },
+      {
+        "id": "14",
+        "prompt": "____ as it does, I don't understand how anyone can depend on that country's market to provide a safe investment.",
+        "choiceTexts": {
+          "A": "Fluctuated",
+          "B": "Fluctuating",
+          "C": "Fluctuation",
+          "D": "Fluctuate"
+        },
+        "explanation": "Fluctuating là phân từ hiện tại diễn tả thị trường biến động; Fluctuating as it does nhấn mạnh mức độ biến động đó."
+      },
+      {
+        "id": "15",
+        "prompt": "The lawyers signed the papers and the company took ____ of the new building.",
+        "choiceTexts": {
+          "A": "occupied",
+          "B": "occupants",
+          "C": "occupancy",
+          "D": "occupying"
+        },
+        "explanation": "Took occupancy of là bắt đầu sử dụng/chiếm hữu tòa nhà; sau took cần danh từ occupancy."
+      }
+    ]
+  },
+  {
+    "id": "essential-30-reading-6",
+    "readingPassage": "For Rent\nLarge, sunny office in prime downtown location. We are seeking a tenant to take over the lease from the current occupant, who must leave due [16] ____ unforeseen circumstances. The new tenant will take over the six months remaining on the lease and will have the [17] ____ to renew for an additional year. The office has been recently repainted and is in excellent [18] ____. Call 567-0943 between 10:00 and 4:00 Monday through Friday to make an appointment to see the space.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "to",
+          "B": "of",
+          "C": "by",
+          "D": "on"
+        },
+        "explanation": "Due to là cụm giới từ chỉ nguyên nhân: người thuê hiện tại phải rời đi vì hoàn cảnh không lường trước."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "optionally",
+          "B": "optional",
+          "C": "option",
+          "D": "opt"
+        },
+        "explanation": "Have the option to renew cần danh từ option, nghĩa là có quyền lựa chọn gia hạn hợp đồng."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "fluctuation",
+          "B": "indication",
+          "C": "apprehension",
+          "D": "condition"
+        },
+        "explanation": "In excellent condition nghĩa là trong tình trạng rất tốt; vừa sơn lại là chi tiết hỗ trợ."
+      }
+    ]
+  },
+  {
+    "id": "essential-30-reading-7",
+    "readingPassage": "To: Ted Van Dorn\nFrom: Bernadette Riley\nSubject: Office space\nDate: April 10\nTed,\nI have found the solution to our office problems. I know that you have been wanting to get out of the neighborhood where our office is currently located, but that you have been apprehensive about the cost of renting in a better neighborhood. I have found an office downtown that I am sure we can afford. It is a bit smaller than our current space, but I think it will be big enough. The best part is, the rent is the same as we are paying now. This is due to the fact that the office is not in excellent condition. However, I think it will be easy for us to paint it and make a few small repairs. The space will be available for occupancy on the fifteenth of next month. We have the option of signing a one- or two-year lease, so we won't have to lock ourselves into a long-term contract. However, in order to get the low rent, we have to sign by the thirtieth of this month. If you are interested in this, I can arrange for you to see the space this weekend. Let me know as soon as possible.\nBern",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Why doesn't Ted like his current office?",
+        "choiceTexts": {
+          "A": "It is in a bad location.",
+          "B": "It is too expensive.",
+          "C": "It isn't big enough.",
+          "D": "It isn't in good condition."
+        },
+        "explanation": "Bernadette nói Ted muốn rời khu phố hiện tại và chuyển đến a better neighborhood, nên vấn đề là vị trí."
+      },
+      {
+        "id": "20",
+        "prompt": "When can Ted and Bernadette move into the new office?",
+        "choiceTexts": {
+          "A": "April 10.",
+          "B": "April 15.",
+          "C": "May 10.",
+          "D": "May 15."
+        },
+        "explanation": "E-mail đề ngày 10/4; văn phòng sẵn sàng vào the fifteenth of next month, tức 15/5."
+      },
+      {
+        "id": "21",
+        "prompt": "What do they have to do before the end of this month?",
+        "choiceTexts": {
+          "A": "Paint the office.",
+          "B": "Sign the lease.",
+          "C": "Change the locks.",
+          "D": "Leave their old office."
+        },
+        "explanation": "Muốn hưởng giá thuê thấp, họ phải ký trước ngày ba mươi của tháng này, nên cần sign the lease."
+      },
+      {
+        "id": "22",
+        "prompt": "The word apprehensive is closest in meaning to",
+        "choiceTexts": {
+          "A": "certain",
+          "B": "relaxed",
+          "C": "anxious",
+          "D": "delighted"
+        },
+        "explanation": "Apprehensive about the cost nghĩa là lo lắng về chi phí, tương đương anxious."
+      },
+      {
+        "id": "23",
+        "prompt": "The word option is closest in meaning to",
+        "choiceTexts": {
+          "A": "choice",
+          "B": "desire",
+          "C": "necessity",
+          "D": "requirement"
+        },
+        "explanation": "Option of signing a one- or two-year lease là sự lựa chọn thời hạn thuê, tương đương choice."
+      }
+    ]
+  }
+]

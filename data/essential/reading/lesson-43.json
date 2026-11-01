@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-43-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "My friends have urged me to ____ my tastes to include more classical music.",
+        "choiceTexts": {
+          "A": "broad",
+          "B": "broadly",
+          "C": "broaden",
+          "D": "broadened"
+        },
+        "explanation": "“Urge someone to” đi với nguyên mẫu “broaden”, nghĩa là mở rộng thị hiếu âm nhạc. “Broad” là tính từ."
+      },
+      {
+        "id": "11",
+        "prompt": "I don't know how to ____ my taste in music.",
+        "choiceTexts": {
+          "A": "categorize",
+          "C": "categorical",
+          "B": "categories",
+          "D": "categorically"
+        },
+        "explanation": "“How to” cần động từ nguyên mẫu “categorize”, nghĩa là phân loại sở thích âm nhạc."
+      },
+      {
+        "id": "12",
+        "prompt": "The string quartet received a ____ comparison to the best of the genre.",
+        "choiceTexts": {
+          "A": "favor",
+          "B": "favoritism",
+          "C": "favorably",
+          "D": "favorable"
+        },
+        "explanation": "Trước “comparison” cần tính từ “favorable”: sự so sánh theo hướng có lợi, tích cực cho nhóm tứ tấu."
+      },
+      {
+        "id": "13",
+        "prompt": "The symphony members ____ to travel abroad only once a year.",
+        "choiceTexts": {
+          "A": "prefer",
+          "B": "preferable",
+          "C": "preference",
+          "D": "preferential"
+        },
+        "explanation": "Chủ ngữ “members” số nhiều cần động từ “prefer”, theo sau bởi “to travel”. Các dạng khác không tạo vị ngữ."
+      },
+      {
+        "id": "14",
+        "prompt": "After a hard day at work, we like to ____ to soothing music.",
+        "choiceTexts": {
+          "A": "relaxation",
+          "C": "relaxing",
+          "B": "relaxes",
+          "D": "relax"
+        },
+        "explanation": "“Like to” theo sau bởi nguyên mẫu “relax”, nghĩa là thư giãn với nhạc dịu nhẹ."
+      },
+      {
+        "id": "15",
+        "prompt": "Sometimes I get an ____ to learn how to play a musical instrument.",
+        "choiceTexts": {
+          "A": "urgent",
+          "C": "urges",
+          "B": "urge",
+          "D": "urgently"
+        },
+        "explanation": "Sau “an” cần danh từ số ít “urge”: sự thôi thúc muốn học nhạc cụ. “Urgent” là tính từ."
+      }
+    ]
+  },
+  {
+    "id": "essential-43-reading-6",
+    "readingPassage": "Music Library\nUser's Guide\n\nThe library's music collection is [16] ____ into the following categories: classical, jazz, musicals, rock, folk, and international. The map below shows where each category is located. To find out if a particular CD is currently [17] ____, please use the computers up front to check the catalog. If you remove a CD from the shelf, we [18] ____ you not to attempt to replace it yourself. Please give it to a librarian who will reshelf it properly. CDs can be enjoyed in the adjacent listening room. Patrons who prefer to enjoy the CDs at home may use their library card to check out up to five CDs at a time for a period of two weeks. If you need help for any reason, please ask the librarian on duty.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "divide",
+          "B": "divides",
+          "C": "divided",
+          "D": "dividing"
+        },
+        "explanation": "Bộ sưu tập được chia thành các thể loại nên dùng bị động “is divided into”."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "avowal",
+          "B": "avuncular",
+          "C": "avoidable",
+          "D": "available"
+        },
+        "explanation": "“Available” nghĩa là có sẵn để sử dụng; người dùng tra danh mục để biết CD có sẵn hay không."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "urge",
+          "B": "urgent",
+          "C": "unguent",
+          "D": "urgently"
+        },
+        "explanation": "“We urge you not to” là chúng tôi đề nghị bạn không làm gì. Cần động từ “urge”, không phải tính từ hay trạng từ."
+      }
+    ]
+  },
+  {
+    "id": "essential-43-reading-7",
+    "readingPassage": "We were fortunate to have internationally acclaimed violinist Maria Rogoff play at Symphony Hall last Saturday night. Ms. Rogoff appears to have been born with a musical instinct. She played her violin quite naturally, as if it were an old friend. The selection of pieces she played was superb. She favored lively, interesting pieces that kept the audience enthralled during the entire performance. All in all, it was a thoroughly enjoyable and relaxing evening. Music lovers everywhere are urged to hear Ms. Rogoff play anytime there is an opportunity. \n\nTo: Polly Andrews\nFrom: Gus Hall\nSubject: Concert\n\nHi Polly,\n\nDid you see the review of Maria Rogoff's concert in the Sunday paper? Can you believe they gave her such a good review? I didn't agree at all with what the reviewer said about her selection of pieces. In fact, I thought quite the opposite. And she made several mistakes in her playing. Did you notice? Oh, well. I prefer cello music anyhow. It is much more to my taste. Maybe that's the real reason I didn't enjoy the concert. By the way, there is another concert this Friday. A pianist will be playing at Symphony Hall. Do you want to go? I am pretty sure there are still tickets available. I think there is a performance on Thursday, too, but I have a meeting that night. Let me know if you can make it, and I'll order the tickets.\n\nGus",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "When was Maria Rogoff's concert?",
+        "choiceTexts": {
+          "A": "Thursday.",
+          "B": "Friday.",
+          "C": "Saturday.",
+          "D": "Sunday."
+        },
+        "explanation": "Bài đánh giá ghi rõ buổi biểu diễn diễn ra “last Saturday night”, tức tối thứ Bảy."
+      },
+      {
+        "id": "20",
+        "prompt": "What is Gus's opinion of the music at the concert?",
+        "choiceTexts": {
+          "A": "It was lively.",
+          "B": "It was boring.",
+          "C": "It was relaxing.",
+          "D": "It was enthralling."
+        },
+        "explanation": "Nhà phê bình cho rằng các bản nhạc sôi nổi, thú vị; Gus nói mình nghĩ ngược lại, nên anh thấy chúng buồn chán."
+      },
+      {
+        "id": "21",
+        "prompt": "What instrument does Gus prefer?",
+        "choiceTexts": {
+          "A": "Viola.",
+          "B": "Cello.",
+          "C": "Violin.",
+          "D": "Piano."
+        },
+        "explanation": "Gus viết “I prefer cello music anyhow”, trực tiếp nói anh thích đàn cello hơn."
+      },
+      {
+        "id": "22",
+        "prompt": "The word instinct in line 4 of the review is closest in meaning to",
+        "choiceTexts": {
+          "A": "preference",
+          "B": "knowledge",
+          "C": "parentage",
+          "D": "nature"
+        },
+        "explanation": "“Born with a musical instinct” nói về bản năng âm nhạc bẩm sinh; “nature” gần nghĩa nhất."
+      },
+      {
+        "id": "23",
+        "prompt": "The word relaxing in line 10 of the review is closest in meaning to",
+        "choiceTexts": {
+          "A": "fun",
+          "B": "exciting",
+          "C": "peaceful",
+          "D": "educational"
+        },
+        "explanation": "“Relaxing” mô tả cảm giác thư thái, yên bình nên gần nghĩa “peaceful”, không phải hào hứng hay mang tính giáo dục."
+      }
+    ]
+  }
+]

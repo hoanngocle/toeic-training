@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-40.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-40.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 40"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "Who is the man speaking with?",
+      "choiceTexts": {
+        "A": "An insurance agent.",
+        "B": "A police officer.",
+        "C": "Another customer.",
+        "D": "A car rental agent."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "How much does insurance cost?",
+      "choiceTexts": {
+        "A": "$4.",
+        "B": "$9.",
+        "C": "$13.",
+        "D": "$30."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "How will the man pay?",
+      "choiceTexts": {
+        "A": "Cash.",
+        "B": "Check.",
+        "C": "Credit card.",
+        "D": "Money order."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who is the audience for this talk?",
+      "choiceTexts": {
+        "A": "People who work in travel agencies.",
+        "B": "People who rent cars locally.",
+        "C": "People who work in car rental agencies.",
+        "D": "People who travel to other countries."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "When should a traveler get an international driver's license?",
+      "choiceTexts": {
+        "A": "After arriving in another country.",
+        "B": "After contacting a local rental agency.",
+        "C": "Before leaving on a trip.",
+        "D": "When signing a car rental contract."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What should a traveler do when picking up a rental car?",
+      "choiceTexts": {
+        "A": "Look for damage.",
+        "B": "Sign a check.",
+        "C": "Drive it right away.",
+        "D": "Make an appointment."
+      }
+    }
+  ]
+}

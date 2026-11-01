@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-35-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "Do you need our ____ with any of the evening's details?",
+        "choiceTexts": {
+          "A": "assist",
+          "B": "assisting",
+          "C": "assistance",
+          "D": "assistant"
+        },
+        "explanation": "Sau tính từ sở hữu “our” cần danh từ. “Assistance” nghĩa là sự hỗ trợ, phù hợp với việc giúp xử lý chi tiết buổi tối; “assistant” là người trợ lý."
+      },
+      {
+        "id": "11",
+        "prompt": "The event did not go off well because the ____ did a poor job of organizing it.",
+        "choiceTexts": {
+          "A": "coordinator",
+          "C": "coordinated",
+          "B": "coordination",
+          "D": "coordinates"
+        },
+        "explanation": "Chủ ngữ thực hiện việc tổ chức là một người nên cần “coordinator” (người điều phối), không phải danh từ chỉ hoạt động “coordination”."
+      },
+      {
+        "id": "12",
+        "prompt": "____ speaking, the event was poorly organized.",
+        "choiceTexts": {
+          "A": "General",
+          "B": "Generally",
+          "C": "Generality",
+          "D": "Generalizations"
+        },
+        "explanation": "“Generally speaking” là cụm cố định nghĩa là nói chung. Trạng từ “generally” bổ nghĩa cho “speaking”."
+      },
+      {
+        "id": "13",
+        "prompt": "When the event planner saw the hotel ballroom, she knew that the size wasn't ____, but the price was right.",
+        "choiceTexts": {
+          "A": "ideal",
+          "C": "idealize",
+          "B": "ideally",
+          "D": "idealist"
+        },
+        "explanation": "Sau “wasn't” cần tính từ mô tả kích thước. “Ideal” nghĩa là lý tưởng; “ideally” là trạng từ và “idealist” là người theo chủ nghĩa lý tưởng."
+      },
+      {
+        "id": "14",
+        "prompt": "Joshua quit his job and started his own business as an events ____.",
+        "choiceTexts": {
+          "A": "planned",
+          "B": "plans",
+          "C": "planner",
+          "D": "planning"
+        },
+        "explanation": "“An events planner” là người tổ chức sự kiện. Sau “an” cần danh từ chỉ nghề nghiệp, phù hợp với việc Joshua tự kinh doanh."
+      },
+      {
+        "id": "15",
+        "prompt": "Like restaurants, caterers are subject to ____ concerning safe food handling.",
+        "choiceTexts": {
+          "A": "regulate",
+          "C": "regulatory",
+          "B": "regulations",
+          "D": "regulating"
+        },
+        "explanation": "“Be subject to regulations” nghĩa là phải tuân theo các quy định. Chỗ trống cần danh từ chỉ quy tắc về xử lý thực phẩm an toàn."
+      }
+    ]
+  },
+  {
+    "id": "essential-35-reading-6",
+    "readingPassage": "The most important part of [16] ____ a successful event is to give yourself plenty of lead time. You don't want to leave important details until the last minute. Ideally, you should give yourself several weeks to plan your event, or several months if it will be a large affair. The first step is to find a suitable [17] ____ for your event. You want a place that is pleasant and convenient. You also need a place that is the right size. If you have even a general idea of the number of guests you can expect to attend, it will be easy to calculate the [18] ____ of the room that you will need. Many places that rent rooms for events can also provide food and entertainment, and may also assist you with your plans.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "plan",
+          "B": "plans",
+          "C": "to plan",
+          "D": "planning"
+        },
+        "explanation": "Sau giới từ “of” dùng danh động từ “planning”. Cụm này nói về việc lập kế hoạch một sự kiện thành công."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "site",
+          "B": "stage",
+          "C": "assistant",
+          "D": "regulation"
+        },
+        "explanation": "“Site” là địa điểm. Câu tiếp theo mô tả nơi dễ chịu, thuận tiện và có kích thước phù hợp, xác nhận nghĩa này."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "dimities",
+          "B": "dimmers",
+          "C": "dimensions",
+          "D": "diminishments"
+        },
+        "explanation": "“Dimensions” nghĩa là kích thước. Số khách giúp tính kích thước căn phòng cần thuê, không liên quan các từ còn lại."
+      }
+    ]
+  },
+  {
+    "id": "essential-35-reading-7",
+    "readingPassage": "Hold your next event at the Starlight Hotel\nThe grandest hotel in Weston\n\nAre you planning a party, banquet, reception, or conference? We have the ideal location for you. We can accommodate groups of all sizes. Choose from any of our elegant event rooms:\nThe Garden View Room—holds up to 100 people\nThe Starlight Room—holds up to 200 people\nThe Banquet Hall—holds up to 250 people\nThe Stardust Ballroom—holds up to 350 people\n\nWe are ready to assist you with planning food, entertainment, invitations, and decorations. We are conveniently located in the heart of the downtown entertainment district, in proximity to major bus and subway lines.\nContact Prisca Haines, Site Coordinator\nphone: 953-9172\ne-mail: p_haines@starlight.com\n\nTo: Prisca Haines\nFrom: Peter Richards\nSubject: Event room\nDate: September 22\n\nDear Ms. Haines,\nI saw the ad for event rooms at the Starlight Hotel in the Weston Daily News of September 20th. I am coordinating our company's annual awards banquet, which will be held on the 18th of next month. We would like to stage a simple but elegant affair. We don't expect more than about 75–85 guests. We would like to have a dinner followed by speeches and presentations of awards. Other than that, we don't plan to have any special entertainment. I would like to discuss the menu with you. Ideally, we would like to provide our guests with a choice of a meat entrée and a vegetarian entrée. I would like to know if your hotel kitchen can provide that, and which dishes you would specifically recommend.\nPlease call me before the weekend to discuss planning this event. I can be reached at 953-0955. Thank you.\nPeter Richards",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "When will the company banquet take place?",
+        "choiceTexts": {
+          "A": "This weekend.",
+          "B": "September 20.",
+          "C": "September 22.",
+          "D": "October 18."
+        },
+        "explanation": "Thư đề ngày 22 tháng 9 và nói sự kiện vào ngày 18 tháng sau, nên là ngày 18 tháng 10."
+      },
+      {
+        "id": "20",
+        "prompt": "Which room will Ms. Haines probably recommend for the banquet?",
+        "choiceTexts": {
+          "A": "The Garden View Room.",
+          "B": "The Starlight Room.",
+          "C": "The Banquet Hall.",
+          "D": "The Stardust Ballroom."
+        },
+        "explanation": "Có 75–85 khách; Garden View Room chứa tối đa 100 người nên là phòng phù hợp nhất trong quảng cáo."
+      },
+      {
+        "id": "21",
+        "prompt": "What will Mr. Richards need assistance with?",
+        "choiceTexts": {
+          "A": "The entertainment.",
+          "B": "The decorations.",
+          "C": "The invitations.",
+          "D": "The food."
+        },
+        "explanation": "Richards muốn trao đổi thực đơn gồm món thịt và món chay, đồng thời hỏi nhà bếp có thể cung cấp món gì; ông cần hỗ trợ về thức ăn."
+      },
+      {
+        "id": "22",
+        "prompt": "The word ideal in line 5 of the advertisement is closest in meaning to",
+        "choiceTexts": {
+          "A": "large",
+          "B": "perfect",
+          "C": "beautiful",
+          "D": "convenient"
+        },
+        "explanation": "“Ideal” mô tả địa điểm rất phù hợp với nhu cầu nên gần nghĩa “perfect” (hoàn hảo), không chỉ rộng hay đẹp."
+      },
+      {
+        "id": "23",
+        "prompt": "The word coordinating in line 3 of the e-mail is closest in meaning to",
+        "choiceTexts": {
+          "A": "hosting",
+          "B": "presenting",
+          "C": "arranging",
+          "D": "discussing"
+        },
+        "explanation": "“Coordinating” buổi tiệc nghĩa là sắp xếp và tổ chức các công việc cho sự kiện, tương đương “arranging”."
+      }
+    ]
+  }
+]

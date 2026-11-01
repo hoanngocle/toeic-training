@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-31-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "The colorful vegetables made the dish look ____.",
+        "choiceTexts": {
+          "A": "appealed",
+          "B": "appealing",
+          "C": "appeals",
+          "D": "appealingly"
+        },
+        "explanation": "Look là động từ liên kết đi với tính từ appealing: rau nhiều màu làm món ăn trông hấp dẫn."
+      },
+      {
+        "id": "11",
+        "prompt": "Even though the restaurant looked expensive, Pat ____ to order her meal without asking about the prices.",
+        "choiceTexts": {
+          "A": "daring",
+          "B": "daringly",
+          "C": "dared",
+          "D": "dares"
+        },
+        "explanation": "Dared là quá khứ đơn tương ứng với looked; dare to order nghĩa là dám gọi món mà không hỏi giá."
+      },
+      {
+        "id": "12",
+        "prompt": "If you need some ____ on what to order, be sure to consult your server.",
+        "choiceTexts": {
+          "A": "guide",
+          "B": "guides",
+          "C": "guided",
+          "D": "guidance"
+        },
+        "explanation": "Guidance là danh từ không đếm được, chỉ lời hướng dẫn về việc chọn món từ nhân viên phục vụ."
+      },
+      {
+        "id": "13",
+        "prompt": "Your father is in the kitchen ____ a batch of his famous chocolate chip cookies.",
+        "choiceTexts": {
+          "A": "mixture",
+          "B": "mixed",
+          "C": "mix",
+          "D": "mixing"
+        },
+        "explanation": "Mixing là phân từ hiện tại diễn tả việc người bố đang làm trong bếp: trộn một mẻ bánh quy."
+      },
+      {
+        "id": "14",
+        "prompt": "This guidebook is several years old, so I would question its ____.",
+        "choiceTexts": {
+          "A": "rely",
+          "B": "reliance",
+          "C": "reliability",
+          "D": "relying"
+        },
+        "explanation": "Its cần danh từ reliability: độ tin cậy của sách hướng dẫn có thể giảm vì sách đã cũ."
+      },
+      {
+        "id": "15",
+        "prompt": "I have always found Lola's restaurant ____ to be very good, so I continue to seek her guidance.",
+        "choiceTexts": {
+          "A": "suggestions",
+          "B": "suggest",
+          "C": "suggestive",
+          "D": "suggestible"
+        },
+        "explanation": "Restaurant suggestions là các gợi ý nhà hàng của Lola; danh từ suggestions phù hợp với việc tiếp tục xin lời khuyên."
+      }
+    ]
+  },
+  {
+    "id": "essential-31-reading-6",
+    "readingPassage": "Are you looking for a delicious lunch experience that won't empty your wallet?\nTry the Blue Shutters Café.\nOur varied menu [16] ____ to all tastes.\nWe're famous for our homemade soups, garden-fresh salads,\nand freshly baked breads and pastries.\nTry our homemade pies in all flavors from [17] ____ favorites like apple\npie to exotic choices such as loganberry and chestnut meringue.\nBut [18] ____ on our word alone. Come on down and try for yourself.\nWe're open Monday through Saturday from 11:00 A.M. until 2:30 P.M.\nRead about the Blue Shutters Café in the recent edition of\nthe local restaurant guide \"Restaurants of Riverdale.\"",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "appeal",
+          "B": "appeals",
+          "C": "appealed",
+          "D": "are appealing"
+        },
+        "explanation": "Menu là chủ ngữ số ít nên dùng appeals; appeal to all tastes nghĩa là phù hợp mọi khẩu vị."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "famously",
+          "B": "famished",
+          "C": "familiar",
+          "D": "family"
+        },
+        "explanation": "Familiar favorites như bánh táo đối lập với exotic choices, nên cần tính từ familiar: quen thuộc."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "no rely",
+          "B": "not rely",
+          "C": "not to rely",
+          "D": "don't rely"
+        },
+        "explanation": "Don't rely là mệnh lệnh phủ định: đừng chỉ tin lời quảng cáo, hãy đến tự thử."
+      }
+    ]
+  },
+  {
+    "id": "essential-31-reading-7",
+    "readingPassage": "The Mountain View Restaurant is a charming dinner location that just opened up in Falls Village. The menu provides an interesting mix of both meat and vegetarian entrées. The chef, who trained in Paris, has introduced some exotic dishes such as Octopus Soufflé and Three Tuber Salad. For the less daring diner, the menu also abounds in such familiar choices as Baked Chicken and Pepper Crusted Steak. Whether you choose to rely on a familiar dish or decide to experiment with something exotic, you are sure to be delighted with your meal. All the selections I tasted were delicious, and the prices are quite reasonable. Don't forget to leave room for dessert. I especially suggest the chocolate cake. It's the best in town. Unfortunately, the charm of the menu selections is not matched by the charm of the décor. It is rather drab and uninspiring. If you visit the inn on a weekend evening, arrive by 6:00 since the restaurant does not take reservations, and it is difficult to get a table after 7:00 unless you are willing to wait half an hour or more.\n\nTo: Margaret Smithers\nFrom: Anna Simpson\nSubject: Dinner out\nHi Margaret,\nDid you read the review of the Mountain View Inn in this Sunday's Falls Village Times? It sounds great. I usually read the restaurant reviews in that paper, and the majority of them are quite accurate. I rely on those reviews a great deal more than the ones in our local restaurant guide. I think we should try the inn. Are you free Saturday night? I think we should arrive at the time suggested in the paper. Then we can have a relaxed meal and still have time to go to an 8:30 movie afterwards. Can you do it? Let me know before you leave work today.\nAnna",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What is the reviewer's opinion of the restaurant?",
+        "choiceTexts": {
+          "A": "The prices are too high.",
+          "B": "The food is very good.",
+          "C": "The décor is exotic.",
+          "D": "The menu is boring."
+        },
+        "explanation": "Người viết nói tất cả các món đã thử đều delicious và giá reasonable; điểm chê là trang trí chứ không phải thức ăn."
+      },
+      {
+        "id": "20",
+        "prompt": "What does the reviewer recommend ordering?",
+        "choiceTexts": {
+          "A": "Octopus soufflé.",
+          "B": "Tuber salad.",
+          "C": "Baked chicken.",
+          "D": "Chocolate cake."
+        },
+        "explanation": "Câu I especially suggest the chocolate cake trực tiếp khuyên gọi bánh sô cô la."
+      },
+      {
+        "id": "21",
+        "prompt": "When does Anna want to arrive at the restaurant?",
+        "choiceTexts": {
+          "A": "Before 6:00.",
+          "B": "After 7:00.",
+          "C": "At 8:00.",
+          "D": "By 8:30."
+        },
+        "explanation": "Anna muốn đến giờ bài báo đề nghị, và bài báo khuyên arrive by 6:00 vào tối cuối tuần."
+      },
+      {
+        "id": "22",
+        "prompt": "The word mix in the restaurant review is closest in meaning to",
+        "choiceTexts": {
+          "A": "style",
+          "B": "combination",
+          "C": "number",
+          "D": "course"
+        },
+        "explanation": "Mix of meat and vegetarian entrées là sự kết hợp các món thịt và món chay, tương đương combination."
+      },
+      {
+        "id": "23",
+        "prompt": "The word majority in the e-mail is closest in meaning to",
+        "choiceTexts": {
+          "A": "few",
+          "B": "some",
+          "C": "most",
+          "D": "several"
+        },
+        "explanation": "Majority nghĩa là phần lớn, tương đương most trong nhận xét đa số bài đánh giá khá chính xác."
+      }
+    ]
+  }
+]

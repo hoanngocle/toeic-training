@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-38-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "Do you have a ____ map that shows all the station stops west of the Mississippi?",
+        "choiceTexts": {
+          "A": "comprehension",
+          "C": "comprehensive",
+          "B": "comprehensively",
+          "D": "comprehensiveness"
+        },
+        "explanation": "Trước “map” cần tính từ. “Comprehensive” mô tả bản đồ đầy đủ, bao gồm tất cả các ga."
+      },
+      {
+        "id": "11",
+        "prompt": "We got lost in the train station and had to ask for ____ to the gate that our train was leaving from.",
+        "choiceTexts": {
+          "A": "directions",
+          "C": "directory",
+          "B": "directed",
+          "D": "directs"
+        },
+        "explanation": "“Ask for directions” nghĩa là hỏi đường. “Directory” là danh bạ, không phải chỉ dẫn đến cổng tàu."
+      },
+      {
+        "id": "12",
+        "prompt": "The train has stopped because of a malfunction, but we expect it to be ____ again within minutes.",
+        "choiceTexts": {
+          "A": "operational",
+          "C": "operation",
+          "B": "operate",
+          "D": "operationally"
+        },
+        "explanation": "Sau “be” cần tính từ “operational”, nghĩa là hoạt động được trở lại sau sự cố."
+      },
+      {
+        "id": "13",
+        "prompt": "John never arrives ____, so I am always anxious when we travel together for fear of missing a train.",
+        "choiceTexts": {
+          "A": "punctualness",
+          "B": "punctually",
+          "C": "punctual",
+          "D": "punctuality"
+        },
+        "explanation": "“Arrives” cần trạng từ “punctually” để diễn tả đến đúng giờ; “punctual” là tính từ."
+      },
+      {
+        "id": "14",
+        "prompt": "Sylvia's family ____ with her in the station until she was ready to board the train.",
+        "choiceTexts": {
+          "A": "remains",
+          "C": "remained",
+          "B": "remainder",
+          "D": "remaining"
+        },
+        "explanation": "Mốc “was ready” cho thấy chuyện xảy ra trong quá khứ, nên dùng “remained” (ở lại)."
+      },
+      {
+        "id": "15",
+        "prompt": "With this traffic, there isn't even a ____ chance that we will get to the train station on time.",
+        "choiceTexts": {
+          "A": "remotely",
+          "C": "remoteness",
+          "B": "remote",
+          "D": "remotest"
+        },
+        "explanation": "“Remote chance” nghĩa là khả năng rất nhỏ. Trước “chance” cần tính từ, không phải trạng từ “remotely”."
+      }
+    ]
+  },
+  {
+    "id": "essential-38-reading-6",
+    "readingPassage": "Dear Henry,\n\nI have made your train reservations for you. The tickets are enclosed. Your train leaves Sunday morning at 11:15. You should arrive at the train station on time since the trains all leave punctually. All the first-class tickets were sold out, so I wasn't able to get you deluxe accommodations. The tourist-class ticket I got you is considerably cheaper than a first-class ticket, so I hope the lower [16] ____ offsets your disappointment in not getting to ride first-class. I think you won't notice the difference since the trip is [17] ____ short. I am sure you will be quite comfortable for the [18] ____ of the ride. I will be waiting at the station for you when you arrive. I look forward to seeing you.\n\nEliza",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "far",
+          "B": "fair",
+          "C": "fore",
+          "D": "fare"
+        },
+        "explanation": "“Fare” là tiền vé. Vé hạng phổ thông rẻ hơn nên giá thấp có thể bù lại sự thất vọng vì không đi hạng nhất."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "relatively",
+          "B": "relation",
+          "C": "relative",
+          "D": "related"
+        },
+        "explanation": "Chỗ trống bổ nghĩa cho tính từ “short”, nên cần trạng từ “relatively”: tương đối ngắn."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "duration",
+          "B": "during",
+          "C": "endure",
+          "D": "endurance"
+        },
+        "explanation": "“For the duration of the ride” nghĩa là trong suốt chuyến đi. Sau “the” cần danh từ “duration”."
+      }
+    ]
+  },
+  {
+    "id": "essential-38-reading-7",
+    "readingPassage": "Western Train Adventure\n\nThis comprehensive travel package includes round-trip train fare with sleeping car accommodations, deluxe hotel accommodations and meals at all overnight stops, and guided tours of selected cities along the way. In addition, your train ticket entitles you to three meals a day in the dining car or snack car while on board the train. We will travel through some remote areas with spectacular scenery. Every morning, a professional guide will provide information about the geology, natural history, and flora and fauna native to the areas we will travel through. You can spend the remainder of the day relaxing in your seat, chatting with your fellow passengers, or viewing movies. They will be shown twice a day in the lounge car, following lunch and dinner. An optional boat excursion to Victoria Island will be available at the western end of the trip for an extra fee. This special excursion is two days in duration and must be reserved and paid for two weeks prior to the trip departure date. The following trip departure dates are available: \nJune 7\nJune 28\nJuly 21\nAugust 8\n\nSee your travel agent for reservations, or visit our web site at www.trainadventures.com.",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Who is this information for?",
+        "choiceTexts": {
+          "A": "Travel agents.",
+          "B": "Tour guides.",
+          "C": "Vacationers.",
+          "D": "Business travelers."
+        },
+        "explanation": "Gói dịch vụ gồm tham quan, phong cảnh, khách sạn và giải trí, nên hướng đến người đi nghỉ (“vacationers”)."
+      },
+      {
+        "id": "20",
+        "prompt": "Where can passengers watch movies?",
+        "choiceTexts": {
+          "A": "In the dining car.",
+          "B": "In the lounge car.",
+          "C": "In the sleeping car.",
+          "D": "In the snack car."
+        },
+        "explanation": "Đoạn văn nói phim được chiếu hai lần mỗi ngày trong “lounge car”, sau bữa trưa và tối."
+      },
+      {
+        "id": "21",
+        "prompt": "What is not included in the price of the travel package?",
+        "choiceTexts": {
+          "A": "Hotel accommodations.",
+          "B": "Meals.",
+          "C": "Guided tours.",
+          "D": "A trip to an island."
+        },
+        "explanation": "Chuyến thuyền đến Victoria Island là tùy chọn và có phụ phí (“for an extra fee”), nên không nằm trong giá gói."
+      },
+      {
+        "id": "22",
+        "prompt": "The word comprehensive in line 2 is closest in meaning to",
+        "choiceTexts": {
+          "A": "inclusive",
+          "B": "selected",
+          "C": "reserved",
+          "D": "popular"
+        },
+        "explanation": "“Comprehensive” mô tả gói bao gồm nhiều dịch vụ, gần nghĩa “inclusive”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word entitles in line 4 is closest in meaning to",
+        "choiceTexts": {
+          "A": "suggest",
+          "B": "reminds",
+          "C": "expects",
+          "D": "qualifies"
+        },
+        "explanation": "“Entitles you to” nghĩa là cho bạn quyền hưởng dịch vụ; “qualifies” gần nghĩa nhất trong các lựa chọn."
+      }
+    ]
+  }
+]

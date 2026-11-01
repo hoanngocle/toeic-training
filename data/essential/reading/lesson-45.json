@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-45-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "I don't want to pressure you, but you need to ____ the reporter who will cover the mayor's race this year.",
+        "choiceTexts": {
+          "A": "chosen",
+          "C": "choose",
+          "B": "choosy",
+          "D": "choice"
+        },
+        "explanation": "“Need to” cần động từ nguyên mẫu “choose”, nghĩa là chọn phóng viên phụ trách cuộc đua thị trưởng."
+      },
+      {
+        "id": "11",
+        "prompt": "By ____ asking questions, Harry was able to get the information he wanted for his report.",
+        "choiceTexts": {
+          "A": "constant",
+          "C": "consistence",
+          "B": "constancy",
+          "D": "constantly"
+        },
+        "explanation": "Chỗ trống bổ nghĩa cho hành động “asking”, nên dùng trạng từ “constantly”: liên tục đặt câu hỏi."
+      },
+      {
+        "id": "12",
+        "prompt": "Georgette ____ to stop subscribing to the newspaper because she felt the quality of the reporting had deteriorated.",
+        "choiceTexts": {
+          "A": "decision",
+          "B": "decided",
+          "C": "decides",
+          "D": "decisive"
+        },
+        "explanation": "Mệnh đề sau có “felt” và “had deteriorated”; quyết định đã xảy ra trong quá khứ nên dùng “decided”."
+      },
+      {
+        "id": "13",
+        "prompt": "The reporters followed the official ____ by interviewing all the witnesses to the crime.",
+        "choiceTexts": {
+          "A": "investigate",
+          "C": "investigative",
+          "B": "investigation",
+          "D": "investigational"
+        },
+        "explanation": "Sau “the official” cần danh từ “investigation”, chỉ cuộc điều tra chính thức mà phóng viên theo dõi."
+      },
+      {
+        "id": "14",
+        "prompt": "I need to renew my ____ for cable television, but I can't find the form.",
+        "choiceTexts": {
+          "A": "subscribing",
+          "C": "subscriber",
+          "B": "subscription",
+          "D": "subscribe"
+        },
+        "explanation": "“Renew my subscription” nghĩa là gia hạn đăng ký dịch vụ truyền hình. “Subscriber” là người đăng ký."
+      },
+      {
+        "id": "15",
+        "prompt": "The editor was impressed with how ____ the reporter was in getting the details from his sources.",
+        "choiceTexts": {
+          "A": "thorough",
+          "C": "thoroughly",
+          "B": "thoroughness",
+          "D": "thoroughbred"
+        },
+        "explanation": "“How thorough the reporter was” cần tính từ mô tả phóng viên làm việc kỹ lưỡng. “Thoroughly” không làm bổ ngữ cho “was” ở đây."
+      }
+    ]
+  },
+  {
+    "id": "essential-45-reading-6",
+    "readingPassage": "Stay on top of what's happening in today's world by [16] ____ to News Story Weekly, the weekly news magazine that is read by politicians, corporate executives, and ordinary citizens like you.\n\nNews Story Weekly provides you with [17] ____ coverage of the week's most important news, both national and international. News Story Weekly thoroughly investigates worldwide events that have an impact on your life and delivers this news to your mailbox every week.\n\nNews Story Weekly is disseminated throughout the country and is read by citizens from all walks of life. People who care about what's happening in the world [18] ____ News Story Weekly. Shouldn't you be one of them?\n\nTo subscribe to News Story Weekly, call our offices at 888-685-9321, or visit us online at www.nsw.com.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "subscribe",
+          "B": "to subscribe",
+          "C": "subscribing",
+          "D": "should subscribe"
+        },
+        "explanation": "Sau giới từ “by” dùng V-ing: “by subscribing” nghĩa là bằng cách đăng ký tạp chí."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "depth",
+          "B": "in-depth",
+          "C": "deepen",
+          "D": "deepened"
+        },
+        "explanation": "“In-depth coverage” là sự đưa tin chuyên sâu. Cần tính từ bổ nghĩa cho “coverage”, không phải danh từ “depth”."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "is choosing",
+          "B": "has chosen",
+          "C": "chooses",
+          "D": "choose"
+        },
+        "explanation": "Chủ ngữ chính là “People” số nhiều; mệnh đề “who care...” chỉ bổ nghĩa nên động từ chính là “choose”."
+      }
+    ]
+  },
+  {
+    "id": "essential-45-reading-7",
+    "readingPassage": "April 12, 20—\nMichelle Richards\nNews Story Weekly\n346 Howard Avenue\nWhite River, NH\n\nDear Ms. Richards,\n\nI am a journalist and an avid reader of News Story Weekly. It has long been my dream to write for your magazine. I graduated from National University a year ago with a degree in journalism. For the past six months I have been working as an investigative reporter for the Bluefield Daily, my hometown newspaper. This newspaper is disseminated throughout the state. I work on assignments involving local politics.\n\nIn my opinion, News Story Weekly is the top news magazine in the country. It has had a great impact on my life. I started reading it at an early age, and it inspired me to pursue a career as a reporter. If there is a position available for a reporter at News Story Weekly, I would be interested in applying for it. I believe that my educational background and work experience qualify me for such a position. I am enclosing several of my articles that appeared in the Bluefield Daily as writing samples. I have letters of reference available if you need them. I look forward to hearing from you.\n\nSincerely,\nMark Conway \n\nApril 19, 20—\nMark Conway\n1255 Park Place, Apt. 10\nBluefield, MA\n\nDear Mr. Conway,\nThank you for your letter of April 12 inquiring about a position as a reporter. We are constantly looking for reporters to work for our magazine, and we currently have an opening for a reporter to cover regional news. You seem to be well-qualified, and we would welcome your application. I would need to see your reference letters as well as a resume. The closing date for this position is May 15. We will make our choice after that date and let you know what we decide by the first of June. Thank you for your interest in News Story Weekly.\nSincerely,\nMichelle Richards",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Why did Mark Conway write the letter?",
+        "choiceTexts": {
+          "A": "To express an opinion about the news.",
+          "B": "To get a subscription to News Story Weekly.",
+          "C": "To offer Ms. Richards an assignment.",
+          "D": "To apply for a job as a reporter."
+        },
+        "explanation": "Conway nêu bằng cấp, kinh nghiệm và bày tỏ muốn ứng tuyển vị trí phóng viên, nên mục đích là xin việc."
+      },
+      {
+        "id": "20",
+        "prompt": "What did Mark Conway enclose with his letter?",
+        "choiceTexts": {
+          "A": "Newspaper articles.",
+          "B": "A resume.",
+          "C": "Letters of reference.",
+          "D": "His university diploma."
+        },
+        "explanation": "Ông ghi rõ gửi kèm các bài báo từng đăng trên Bluefield Daily làm mẫu viết; thư giới thiệu chỉ có sẵn nếu cần."
+      },
+      {
+        "id": "21",
+        "prompt": "When will Mark Conway know Michelle Richards's decision?",
+        "choiceTexts": {
+          "A": "April 12.",
+          "B": "April 15.",
+          "C": "May 15.",
+          "D": "June 1."
+        },
+        "explanation": "Thư trả lời hứa báo quyết định “by the first of June”, tức ngày 1 tháng 6, sau hạn nhận hồ sơ 15 tháng 5."
+      },
+      {
+        "id": "22",
+        "prompt": "The word impact in the first letter, second paragraph, line 2 is closest in meaning to",
+        "choiceTexts": {
+          "A": "interest",
+          "B": "influence",
+          "C": "difference",
+          "D": "education"
+        },
+        "explanation": "“Had a great impact on my life” nghĩa là ảnh hưởng lớn đến cuộc đời, nên “influence” phù hợp."
+      },
+      {
+        "id": "23",
+        "prompt": "The word constantly in the second letter, line 2 is closest in meaning to",
+        "choiceTexts": {
+          "A": "always",
+          "B": "sometimes",
+          "C": "rarely",
+          "D": "infrequently"
+        },
+        "explanation": "“Constantly looking” nghĩa là luôn tìm kiếm phóng viên, tương đương “always”."
+      }
+    ]
+  }
+]

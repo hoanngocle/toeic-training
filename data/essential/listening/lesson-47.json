@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-47.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-47.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 47"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What does the dentist recommend that the patient do?",
+      "choiceTexts": {
+        "A": "Visit her office more regularly.",
+        "B": "Shop at a certain store.",
+        "C": "Review his records.",
+        "D": "Talk about his concerns."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "What does the patient want?",
+      "choiceTexts": {
+        "A": "Shinier teeth.",
+        "B": "A cup of coffee.",
+        "C": "A copy of his records.",
+        "D": "Fillings in his cavities."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "When does the patient want an appointment?",
+      "choiceTexts": {
+        "A": "This afternoon.",
+        "B": "Tonight.",
+        "C": "Next week.",
+        "D": "Next month."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What product is advertised?",
+      "choiceTexts": {
+        "A": "False teeth.",
+        "B": "A tooth whitener.",
+        "C": "Chewing gum.",
+        "D": "A toothbrush."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What are the customers asked to do?",
+      "choiceTexts": {
+        "A": "Use the product for just two days.",
+        "B": "Change their cleaning habits.",
+        "C": "Use the product every night.",
+        "D": "Visit the dentist."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "Where can the product be bought?",
+      "choiceTexts": {
+        "A": "At a store.",
+        "B": "At the dentist's office.",
+        "C": "From a sales representative.",
+        "D": "Online."
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-37-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "Let me point out the features of our service that ____ our airline from our competitors.",
+        "choiceTexts": {
+          "A": "distinguishably",
+          "C": "distinguishing",
+          "B": "distinguishable",
+          "D": "distinguish"
+        },
+        "explanation": "Mệnh đề quan hệ cần động từ chia theo “features” số nhiều: “distinguish ... from” nghĩa là phân biệt với đối thủ."
+      },
+      {
+        "id": "11",
+        "prompt": "Let's shop around until we find a more ____ airfare.",
+        "choiceTexts": {
+          "A": "economical",
+          "C": "economy",
+          "B": "economize",
+          "D": "economically"
+        },
+        "explanation": "“Airfare” cần tính từ bổ nghĩa. “Economical” nghĩa là tiết kiệm, phù hợp với việc so sánh để tìm giá vé tốt hơn."
+      },
+      {
+        "id": "12",
+        "prompt": "We need to keep our ____ down so you'll have to find us better prices on airline tickets.",
+        "choiceTexts": {
+          "A": "expensiveness",
+          "C": "expenses",
+          "B": "expensively",
+          "D": "expensive"
+        },
+        "explanation": "“Keep our expenses down” nghĩa là giảm chi phí. “Expenses” là các khoản chi, còn “expensiveness” là tính đắt đỏ."
+      },
+      {
+        "id": "13",
+        "prompt": "I decided not to ____ my trip since I felt so tired by the time I finished my business meetings.",
+        "choiceTexts": {
+          "A": "extended",
+          "C": "extensive",
+          "B": "extent",
+          "D": "extend"
+        },
+        "explanation": "“Decided not to” theo sau bởi động từ nguyên mẫu “extend”, nghĩa là kéo dài chuyến đi."
+      },
+      {
+        "id": "14",
+        "prompt": "My travel agent said there were good ____ of finding a reasonably priced airfare.",
+        "choiceTexts": {
+          "A": "prospective",
+          "C": "prospectors",
+          "B": "prospectively",
+          "D": "prospects"
+        },
+        "explanation": "“Good prospects of” là triển vọng tốt về việc gì. Cần danh từ số nhiều, không phải “prospectors” chỉ người thăm dò."
+      },
+      {
+        "id": "15",
+        "prompt": "Unless the airfares differ ____, you should book seats on the airline with which you have frequent flyer miles.",
+        "choiceTexts": {
+          "A": "substance",
+          "C": "substantial",
+          "B": "substantially",
+          "D": "substantiality"
+        },
+        "explanation": "Động từ “differ” cần trạng từ “substantially”: khác nhau đáng kể về giá vé."
+      }
+    ]
+  },
+  {
+    "id": "essential-37-reading-6",
+    "readingPassage": "Renovated City Airport Now Open\n\nFrequent flyers will be happy to know that the renovations at City Airport are finally finished. The airport renovations were scheduled for completion at the end of last year, but the construction team fell behind schedule and [16] ____ the deadlines twice. Now the work is completed, and travelers no longer have to deal [17] ____ the noise, dust, and inconvenience of construction work. Passengers can move more easily and comfortably through the airport, and everything is easier to find. One of the biggest improvements in the renovated airport is the signs indicating the location of the various airlines' check-in counters. The new signs are much [18] ____ than the old ones, and it is easier for passengers to find the airlines they are looking for. In general, now that the work at the airport is finally over, the situation there has substantially improved.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "extend",
+          "B": "extended",
+          "C": "have extended",
+          "D": "had extended"
+        },
+        "explanation": "Các sự việc “fell behind” và gia hạn thời hạn cùng nằm trong quá khứ, nên dùng “extended”."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "to",
+          "B": "for",
+          "C": "with",
+          "D": "from"
+        },
+        "explanation": "Cụm cố định “deal with” nghĩa là đối phó với tiếng ồn, bụi và sự bất tiện."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "distinguishable",
+          "B": "more distinguishable",
+          "C": "most distinguishable",
+          "D": "the most distinguishable"
+        },
+        "explanation": "Có “than the old ones”, nên cần so sánh hơn “more distinguishable”; “much” nhấn mạnh mức độ hơn."
+      }
+    ]
+  },
+  {
+    "id": "essential-37-reading-7",
+    "readingPassage": "To: Belinda Tuttle\nFrom: Mark Wallaby\nSubject: Re: Amazon Tours\n\nDear Ms. Tuttle,\n\nIn response to your request for information on guided tours in the Amazon region, I have found two excursions that may interest you. Both are led by reputable companies that are known for organizing interesting and educational trips at reasonable expense. One led by Jungle Tours, Inc., goes to all the destinations you are interested in visiting and lasts two weeks, the length of time you requested. However, it leaves on November 10th, a week earlier than the date you mentioned. I don't know whether or not you would be able to leave this early. There is a tour leaving on your designated date, run by Paradise Adventures. It doesn't, however, go to all the destinations you are interested in, and it lasts three weeks, not two, so you wouldn't return until December 8th. I don't know whether or not you would be able to extend the length of your vacation. If either of these two prospects interests you, let me know. Otherwise I will keep looking for a tour that will suit you.\n\nMark Wallaby\nSouthern Travel\n\nTo: Mark Wallaby\nFrom: Belinda Tuttle\nSubject: Re: Amazon Tours\n\nDear Mr. Wallaby,\nThank you for the information on trips to the Amazon. Unfortunately, I cannot change the dates of my vacation because of my work situation. The end of the year is a very busy time for accountants, and I will have a lot of work to deal with as soon as I return from my trip. On the other hand, I don't really need to economize, so I am flexible about the expense. The exact destinations don't really matter either. I will be happy just to visit that part of the world. So please keep looking and let me know what you find. Thank you for your efforts.\nBelinda Tuttle",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What is Mark Wallaby's job?",
+        "choiceTexts": {
+          "A": "Tour guide.",
+          "B": "Educator.",
+          "C": "Accountant.",
+          "D": "Travel agent."
+        },
+        "explanation": "Wallaby tìm và đề xuất các tour theo yêu cầu khách hàng, ký tên Southern Travel; đây là công việc của đại lý du lịch."
+      },
+      {
+        "id": "20",
+        "prompt": "When does Ms. Tuttle want to begin her vacation?",
+        "choiceTexts": {
+          "A": "November 10.",
+          "B": "November 17.",
+          "C": "December 1.",
+          "D": "December 8."
+        },
+        "explanation": "Tour ngày 10 tháng 11 sớm hơn ngày bà yêu cầu một tuần, nên bà muốn đi ngày 17 tháng 11."
+      },
+      {
+        "id": "21",
+        "prompt": "Why doesn't Ms. Tuttle like the tours suggested by Mr. Wallaby?",
+        "choiceTexts": {
+          "A": "They are too expensive.",
+          "B": "The companies have a bad reputation.",
+          "C": "They go to the wrong destinations.",
+          "D": "The dates don't fit her vacation time."
+        },
+        "explanation": "Bà nói không thể thay đổi ngày nghỉ do công việc; lịch của cả hai tour đều không khớp thời gian nghỉ của bà."
+      },
+      {
+        "id": "22",
+        "prompt": "The word prospects in line 18 of the first e-mail is closest in meaning to",
+        "choiceTexts": {
+          "A": "possibilities",
+          "B": "businesses",
+          "C": "ideas",
+          "D": "plans"
+        },
+        "explanation": "“Two prospects” chỉ hai lựa chọn có thể thực hiện, gần nghĩa “possibilities”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word situation in line 3 of the second e-mail is closest in meaning to",
+        "choiceTexts": {
+          "A": "location",
+          "B": "requirements",
+          "C": "circumstances",
+          "D": "responsibilities"
+        },
+        "explanation": "“Work situation” là hoàn cảnh công việc khiến bà không đổi được lịch, nên “circumstances” phù hợp."
+      }
+    ]
+  }
+]

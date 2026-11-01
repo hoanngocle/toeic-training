@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-17-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "Many customers find that product ____ is confusing and deceptive.",
+        "choiceTexts": {
+          "A": "diversify",
+          "B": "diverse",
+          "C": "diversity",
+          "D": "diversified"
+        },
+        "explanation": "“Product diversity” là sự đa dạng sản phẩm; cần danh từ làm chủ ngữ của “is”."
+      },
+      {
+        "id": "11",
+        "prompt": "For the ____ designer, this job is full of rewards and opportunities.",
+        "choiceTexts": {
+          "A": "enterprise",
+          "B": "enterpriser",
+          "C": "enterprising",
+          "D": "enterpriseless"
+        },
+        "explanation": "Trước “designer” cần tính từ “enterprising”, chỉ nhà thiết kế có tinh thần chủ động, sáng tạo."
+      },
+      {
+        "id": "12",
+        "prompt": "Your full participation is ____ to our timely completion of this project.",
+        "choiceTexts": {
+          "A": "essence",
+          "B": "essences",
+          "C": "essential",
+          "D": "essentially"
+        },
+        "explanation": "Sau “is” dùng tính từ “essential”; “essential to” nghĩa là thiết yếu đối với việc hoàn thành đúng hạn."
+      },
+      {
+        "id": "13",
+        "prompt": "We need to have a spare copier since the only one that is ____ is on its last leg.",
+        "choiceTexts": {
+          "A": "functioned",
+          "B": "functions",
+          "C": "functional",
+          "D": "function"
+        },
+        "explanation": "Sau “is” cần tính từ “functional”, mô tả chiếc máy còn hoạt động được."
+      },
+      {
+        "id": "14",
+        "prompt": "In order to ____ our lead in the market, we'll have to find a cheaper source of industrial supplies.",
+        "choiceTexts": {
+          "A": "maintainable",
+          "B": "maintain",
+          "C": "maintaining",
+          "D": "maintainability"
+        },
+        "explanation": "Sau “in order to” dùng nguyên mẫu “maintain”, nghĩa là giữ vị trí dẫn đầu thị trường."
+      },
+      {
+        "id": "15",
+        "prompt": "She ____ changed the topic of conversation, thus preventing a disagreement between her colleagues from turning into an argument.",
+        "choiceTexts": {
+          "A": "smoothly",
+          "B": "smooth out",
+          "C": "smooth",
+          "D": "smoothed"
+        },
+        "explanation": "Cần trạng từ bổ nghĩa “changed”; “smoothly” mô tả việc đổi chủ đề khéo léo để tránh cãi vã."
+      }
+    ]
+  },
+  {
+    "id": "essential-17-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "essence",
+          "B": "essential",
+          "C": "essentials",
+          "D": "essentially"
+        },
+        "explanation": "Trước “supplies” cần tính từ “essential”, chỉ vật dụng thiết yếu."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "obtaining",
+          "B": "to obtain",
+          "C": "obtains",
+          "D": "obtain"
+        },
+        "explanation": "Sau “can” dùng nguyên mẫu “obtain”, nghĩa là có thể lấy/đặt được vật dụng trong ba ngày."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "smooth",
+          "B": "smoothly",
+          "C": "smoother",
+          "D": "smoothness"
+        },
+        "explanation": "“Function more smoothly” cần trạng từ mô tả cách văn phòng hoạt động suôn sẻ hơn."
+      }
+    ],
+    "readingPassage": "Memo\nTo: All office staff\nFrom: Luis Mendez, Office Manager\nRe: Ordering office supplies\nThere has been a lot of confusion recently regarding the ordering of office supplies. In order to maintain a consistent\nstock of [16] ____ supplies, from now on all supply orders must go through me. There are forms in my office that you\nmay use to order the supplies that you need. I can [17] ____ supplies for you within three days of receiving your order\nform if it is filled out properly. By following this procedure, the office will function more [18] ____, and we can be sure\nthat we will always have quality supplies on hand when we need them. We will also avoid the problem of ordering\nsupplies that we already have. Thank you for your cooperation."
+  },
+  {
+    "id": "essential-17-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "When did the Supply Closet open?",
+        "choiceTexts": {
+          "A": "March.",
+          "B": "April.",
+          "C": "May.",
+          "D": "June."
+        },
+        "explanation": "Thư đề ngày April 12 và nói mở cửa “last month”, nên cửa hàng mở tháng Ba."
+      },
+      {
+        "id": "20",
+        "prompt": "What can a customer get during his first visit to the store?",
+        "choiceTexts": {
+          "A": "A free pen.",
+          "B": "An introduction.",
+          "C": "A discount.",
+          "D": "A stamp."
+        },
+        "explanation": "Phiếu trong thư giảm 20% toàn bộ đơn hàng trong lần ghé đầu, tức khách được giảm giá."
+      },
+      {
+        "id": "21",
+        "prompt": "Why doesn't James Riley like the Riverdale Supply Company?",
+        "choiceTexts": {
+          "A": "It's too near the post office.",
+          "B": "It doesn't function smoothly.",
+          "C": "It's far from the neighborhood.",
+          "D": "It doesn't have a variety of merchandise."
+        },
+        "explanation": "James muốn nhà cung cấp có “more diverse merchandise”, cho thấy nhà cung cấp cũ thiếu đa dạng."
+      },
+      {
+        "id": "22",
+        "prompt": "The word smoothly in line 8 of the letter is closest in meaning to",
+        "choiceTexts": {
+          "A": "easily",
+          "B": "quickly",
+          "C": "profitably",
+          "D": "carefully"
+        },
+        "explanation": "“Functioning smoothly” là hoạt động trôi chảy, không vướng trở ngại; gần nghĩa “easily”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word maintain in line 3 of the memo is closest in meaning to",
+        "choiceTexts": {
+          "A": "open",
+          "B": "pay",
+          "C": "apply",
+          "D": "keep"
+        },
+        "explanation": "“Maintain an account” nghĩa là duy trì/giữ tài khoản đang có, gần nghĩa “keep”."
+      }
+    ],
+    "readingPassage": "April 12\nDear Business Owner,\nThe Supply Closet, Inc., is a new office supply\nstore in your neighborhood. We opened last month\nright across the street from the post office. We are\nyour local source for quality office supplies, including all office stationery, packing materials, folders,\npens, note pads, and more. We provide you with\nthe everyday items you need to keep your business\nfunctioning smoothly. In order to introduce ourselves to you, we are enclosing a coupon for 20 percent off your entire purchase during your first visit\nto the Supply Closet. Please visit us soon.\nSincerely yours,\nMartha and Bill Heywood\nOwners\nCoupon expires June 30.\n\nMemo\nTo: Gisela Freeman\nFrom: James Riley\nRe: New supply store\nPlease see the attached letter from the Supply Closet,\nInc. I think we should try them out. I know we\nmaintain an account with the Riverdale Supply\nCompany, but I am not completely satisfied with them\nas a source for supplies. I would like to find a supplier\nwith more diverse merchandise. I'd like you to visit the\nSupply Closet sometime this week and purchase some\nstationery. We need to do a big mailing at the beginning of May, so we'll need some manila envelopes and\nletter paper. You can use the coupon that came with\nthe letter. Look at the items they have for sale and see\nhow it compares with the Riverdale Supply Company.\nIf it looks like they're a better source for supplies, we\ncan start ordering from them regularly. Thank you."
+  }
+]

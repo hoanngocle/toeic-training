@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-41.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-41.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 41"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What are the speakers discussing?",
+      "choiceTexts": {
+        "A": "The lighting in the theater.",
+        "B": "The price of entertainment.",
+        "C": "Shows on television.",
+        "D": "An actor's acting style."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "What type of movie does the woman prefer?",
+      "choiceTexts": {
+        "A": "Comedy.",
+        "B": "Drama.",
+        "C": "Mystery.",
+        "D": "Documentary."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "How many movies has the actor made this year?",
+      "choiceTexts": {
+        "A": "One.",
+        "B": "Two.",
+        "C": "Three.",
+        "D": "Ten."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who is Ms. Moreno?",
+      "choiceTexts": {
+        "A": "A director.",
+        "B": "An actress.",
+        "C": "A movie producer.",
+        "D": "A movie reviewer."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What will Ms. Moreno do next week?",
+      "choiceTexts": {
+        "A": "She will attend a performance.",
+        "B": "She will start a trip around the world.",
+        "C": "She will be interviewed.",
+        "D": "She will start a new career."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "When will the movie be released?",
+      "choiceTexts": {
+        "A": "Next month.",
+        "B": "In several weeks.",
+        "C": "Next year.",
+        "D": "In several years."
+      }
+    }
+  ]
+}

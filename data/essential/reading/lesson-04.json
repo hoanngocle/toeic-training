@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-04-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "You cannot ____ learning how to use the new software as it will be needed in daily operations from now on.",
+        "choiceTexts": {
+          "A": "avoid",
+          "B": "avoided",
+          "C": "avoiding",
+          "D": "avoidance"
+        },
+        "explanation": "Sau “cannot” dùng nguyên mẫu “avoid”; “avoid” theo sau bởi V-ing như “learning”."
+      },
+      {
+        "id": "11",
+        "prompt": "I don't want to intrude, but would you like me to ____ how to use that machine?",
+        "choiceTexts": {
+          "A": "demonstrate",
+          "B": "demonstration",
+          "C": "demonstrative",
+          "D": "demonstrator"
+        },
+        "explanation": "Cấu trúc “would like me to + động từ nguyên mẫu” yêu cầu “demonstrate”: chỉ cách dùng máy."
+      },
+      {
+        "id": "12",
+        "prompt": "While you are ____ your business plan, it is a good idea to keep a resource library of valuable materials.",
+        "choiceTexts": {
+          "A": "develop",
+          "B": "development",
+          "C": "developing",
+          "D": "developer"
+        },
+        "explanation": "“Are” kết hợp V-ing thành hiện tại tiếp diễn “are developing”, diễn tả quá trình lập kế hoạch."
+      },
+      {
+        "id": "13",
+        "prompt": "After you turn in your business plan, you will receive a written ____ of your work within two weeks.",
+        "choiceTexts": {
+          "A": "evaluator",
+          "B": "evaluative",
+          "C": "evaluate",
+          "D": "evaluation"
+        },
+        "explanation": "Sau “a written” cần danh từ; “evaluation” là bản đánh giá công việc, còn “evaluator” là người đánh giá."
+      },
+      {
+        "id": "14",
+        "prompt": "If we think ____, we can come up with a plan that promises success.",
+        "choiceTexts": {
+          "A": "strategize",
+          "B": "strategic",
+          "C": "strategically",
+          "D": "strategist"
+        },
+        "explanation": "Cần trạng từ bổ nghĩa cho “think”; “strategically” nghĩa là suy nghĩ có chiến lược."
+      },
+      {
+        "id": "15",
+        "prompt": "It is now legal to ____ a generic brand drug for a prescription medicine if you have the patient's consent.",
+        "choiceTexts": {
+          "A": "substitute",
+          "B": "substituted",
+          "C": "substituting",
+          "D": "substitution"
+        },
+        "explanation": "Sau “legal to” cần nguyên mẫu “substitute”; cấu trúc “substitute X for Y” nghĩa là dùng X thay Y."
+      }
+    ]
+  },
+  {
+    "id": "essential-04-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "gather",
+          "B": "am gathering",
+          "C": "had gathered",
+          "D": "have been gathering"
+        },
+        "explanation": "“For the past several months” mô tả hoạt động thu thập dữ liệu kéo dài đến hiện tại; dùng hiện tại hoàn thành tiếp diễn “have been gathering”."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "strategy",
+          "B": "strategize",
+          "C": "strategic",
+          "D": "strategically"
+        },
+        "explanation": "Sau “a” cần danh từ số ít “strategy”, tức một chiến lược tiếp cận nhóm khách trẻ."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "strong",
+          "B": "more strong",
+          "C": "stronger",
+          "D": "strongest"
+        },
+        "explanation": "“Much” nhấn mạnh so sánh hơn; “stronger” là dạng so sánh đúng của “strong”."
+      }
+    ],
+    "readingPassage": "Memo\nTo: Stephen Saunders, President\nFrom: Willa Richardson, Marketing Department\nRe: Changes in market\nIn order to address the changes that are currently taking place in the market, I believe we need to modify our business plan. I [16] ____ data for the past several months. The information clearly shows that younger and younger people are becoming interested in purchasing products such as ours. We need to develop a [17] ____ to reach this younger\nage group. We need to redirect some of our resources toward this goal. I think that if we make this a priority over the\nnext year, we will have a much [18] ____ position against our competitors. If we don't, we risk losing the market share\nthat we already have. I would like to share the results of my research with you. It demonstrates the need to focus our\nenergy toward this younger age group. Please let me know if we can meet this week to discuss it."
+  },
+  {
+    "id": "essential-04-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What is this article mostly about?",
+        "choiceTexts": {
+          "A": "Financing new businesses.",
+          "B": "How to price products.",
+          "C": "The need for research.",
+          "D": "The best marketing strategies."
+        },
+        "explanation": "Bài tập trung vào nghiên cứu nhu cầu thị trường và đối thủ trước khi lập kế hoạch kinh doanh."
+      },
+      {
+        "id": "20",
+        "prompt": "What does the author say about risk?",
+        "choiceTexts": {
+          "A": "We should try to reduce it.",
+          "B": "We must avoid it.",
+          "C": "We can eliminate it with careful planning.",
+          "D": "It is the key to success."
+        },
+        "explanation": "Bài nói không thể tránh hoàn toàn rủi ro nhưng mục tiêu là “minimize it”, tức giảm rủi ro."
+      },
+      {
+        "id": "21",
+        "prompt": "According to the article, what can lead to the failure of a new business?",
+        "choiceTexts": {
+          "A": "Offering a cheaper product.",
+          "B": "Selling the exact same product as the competitors sell.",
+          "C": "Selling only to a niche in the market.",
+          "D": "Offering only services and not products."
+        },
+        "explanation": "Bài cảnh báo nếu sản phẩm giống hệt đối thủ thì doanh nghiệp khó thành công."
+      },
+      {
+        "id": "22",
+        "prompt": "The word addressing in line 15 is closest in meaning to",
+        "choiceTexts": {
+          "A": "focusing on",
+          "B": "calling on",
+          "C": "giving up",
+          "D": "staying away from"
+        },
+        "explanation": "“Addressing” một thị trường ngách là tập trung giải quyết/phục vụ thị trường đó; gần nghĩa “focusing on”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word demonstrate in line 7 is closest in meaning to",
+        "choiceTexts": {
+          "A": "felt",
+          "B": "created",
+          "C": "removed",
+          "D": "shown"
+        },
+        "explanation": "“Demonstrate that there is a need” nghĩa là chứng minh/cho thấy có nhu cầu; “shown” gần nghĩa nhất."
+      }
+    ],
+    "readingPassage": "When developing a plan for a new business, the entrepreneur quite naturally wants to eliminate all risk. While it is impossible to avoid some risk, the goal is to minimize it as much as possible. How can we do this? Thorough research and careful planning are the keys. There are two parts to good research. First, you must demonstrate that there is a need for the product or service you plan to offer. Are there enough people out there who would be willing to pay for it? Second, you must look at your competition. What do you have to offer that your competitors do not? Is your product or service of better quality in some way? Is it cheaper or more easily available? Is there a niche in the market that your competitors are not addressing? If what you have to offer is identical to what your competitors are offering, your business is not likely to be successful. These are some things to consider when evaluating how well you can measure up against the competition. Once you have evaluated a need for your product or service and determined how yours will be different from your competitors', you are ready to begin the next part of your plan—financing."
+  }
+]

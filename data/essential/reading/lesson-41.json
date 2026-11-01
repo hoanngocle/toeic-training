@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-41-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "Do you think this actor will ____ the heights of his famous father?",
+        "choiceTexts": {
+          "A": "attain",
+          "C": "attainable",
+          "B": "attaining",
+          "D": "attainment"
+        },
+        "explanation": "Sau “will” dùng động từ nguyên mẫu “attain”: đạt được tầm cao thành công của cha."
+      },
+      {
+        "id": "11",
+        "prompt": "A sequel is a ____ of a story set in motion by a previous film.",
+        "choiceTexts": {
+          "A": "continuity",
+          "C": "continuation",
+          "B": "continuing",
+          "D": "continues"
+        },
+        "explanation": "Phần tiếp theo là sự tiếp nối câu chuyện, nên dùng danh từ “continuation”; “continuity” chỉ tính liên tục."
+      },
+      {
+        "id": "12",
+        "prompt": "Each director has a uniquely ____ style of storytelling.",
+        "choiceTexts": {
+          "A": "descriptive",
+          "C": "description",
+          "B": "describe",
+          "D": "descriptively"
+        },
+        "explanation": "“Style” cần tính từ “descriptive” bổ nghĩa; “uniquely” là trạng từ nhấn mạnh tính riêng biệt của phong cách."
+      },
+      {
+        "id": "13",
+        "prompt": "____ is one of the fastest growing sectors of the economy.",
+        "choiceTexts": {
+          "A": "Entertained",
+          "C": "Entertain",
+          "B": "Entertainment",
+          "D": "Entertainingly"
+        },
+        "explanation": "Chủ ngữ chỉ một ngành kinh tế nên dùng danh từ “Entertainment” (giải trí)."
+      },
+      {
+        "id": "14",
+        "prompt": "We were impressed by the director's ____ of the conflict between good and evil.",
+        "choiceTexts": {
+          "A": "representative",
+          "C": "represents",
+          "B": "represented",
+          "D": "representation"
+        },
+        "explanation": "Sau “director's” cần danh từ chỉ sự thể hiện. “Representation of the conflict” là cách đạo diễn khắc họa xung đột."
+      },
+      {
+        "id": "15",
+        "prompt": "The actors left the hotel ____ in order to avoid attracting a lot of attention.",
+        "choiceTexts": {
+          "A": "separate",
+          "C": "separation",
+          "B": "separately",
+          "D": "separating"
+        },
+        "explanation": "“Left” cần trạng từ chỉ cách thức: “separately” nghĩa là rời đi từng người để tránh chú ý."
+      }
+    ]
+  },
+  {
+    "id": "essential-41-reading-6",
+    "readingPassage": "The Silver Screen Movie House is a new entertainment option in the downtown area. The Silver Screen is not your typical movie house. It combines a movie theater with a coffeehouse, so that patrons can relax with coffee and snacks while they enjoy the show. In addition to a menu of delicious homemade sandwiches and tempting pastries, the Silver Screen offers a [16] ____ of movies to suit all tastes. Everything from comedy to drama to action is on their schedule. Prices are reasonable, and frequent customers can take advantage of the ticket special. A booklet of five tickets for the price of four is available, or individual tickets can be bought [17] ____ for each show. The place tends to fill up for the evening show, but if you like quiet, you can stay later. The crowds [18] ____ when the last movie is over, but the café stays open until 1:00 A.M., so night owls can enjoy a quiet cup of coffee into the wee hours. We predict that the Silver Screen will soon attain the status of one of the most popular entertainment venues in the city.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "ridge",
+          "B": "rage",
+          "C": "rouge",
+          "D": "range"
+        },
+        "explanation": "“A range of movies” nghĩa là nhiều loại phim, phù hợp với danh sách hài, chính kịch và hành động."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "separate",
+          "B": "separator",
+          "C": "separately",
+          "D": "separation"
+        },
+        "explanation": "Cần trạng từ bổ nghĩa cho “be bought”: vé có thể được mua riêng lẻ (“separately”) cho từng suất."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "remain",
+          "B": "settle",
+          "C": "converge",
+          "D": "disperse"
+        },
+        "explanation": "Khi phim cuối kết thúc, đám đông giải tán (“disperse”), khiến quán cà phê yên tĩnh hơn."
+      }
+    ]
+  },
+  {
+    "id": "essential-41-reading-7",
+    "readingPassage": "The newly released romantic comedy, West Wind, opens this week at the State Street Cinema. The combination of a great script with superb acting talent results in a movie that you won't soon forget. The show is entertaining from start to finish, and you'll still be laughing when you leave the theater. If you've been bored to tears by movies recently, don't give up on the cinema yet. Give West Wind a try. You're sure to love it.\n\nWest Wind continues at the State Street Cinema through next week with shows at 5:15, 7:00, and 9:15 nightly.\n\nTo: Madeline Wrightwood\nFrom: Dan Green\nSubject: Let's go to the movies\n\nHi Maddy,\n\nDid you see the review in today's paper of West Wind? I think it's worth seeing. I don't usually go for romances, but you know how I love comedies, and the description of this one sounds really good. There's also an action movie playing next door, but I know you don't like that kind of movie, and I don't really, either.\n\nI can't leave work before 5:15, so we should go to the second show. I'd like to invite you to have dinner afterwards. I can make reservations at that restaurant you like for 9:00. We should make it there by then easily. Since we'll each be coming from work, we'll have to arrive at the theater separately. If you get there first, would you mind getting the tickets? Thanks. See you tonight.\n\nDan",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What is the reviewer's opinion of the movie?",
+        "choiceTexts": {
+          "A": "It's sad.",
+          "B": "It's boring.",
+          "C": "It's funny.",
+          "D": "It's forgettable."
+        },
+        "explanation": "Người viết nói khán giả vẫn sẽ cười khi rời rạp, cho thấy bộ phim hài hước."
+      },
+      {
+        "id": "20",
+        "prompt": "What kind of movie does Dan like?",
+        "choiceTexts": {
+          "A": "Action.",
+          "B": "Comedy.",
+          "C": "Romance.",
+          "D": "Drama."
+        },
+        "explanation": "Dan viết “you know how I love comedies”, trực tiếp xác nhận anh thích phim hài."
+      },
+      {
+        "id": "21",
+        "prompt": "What time does Dan want to go to the movies?",
+        "choiceTexts": {
+          "A": "5:15.",
+          "B": "7:00.",
+          "C": "9:00.",
+          "D": "9:15."
+        },
+        "explanation": "Dan muốn suất thứ hai vì chưa thể rời chỗ làm trước 5:15. Ba suất là 5:15, 7:00 và 9:15, nên chọn 7:00."
+      },
+      {
+        "id": "22",
+        "prompt": "The word entertaining in line 5 of the movie review is closest in meaning to",
+        "choiceTexts": {
+          "A": "enjoyable",
+          "B": "educational",
+          "C": "lengthy",
+          "D": "describing"
+        },
+        "explanation": "“Entertaining” mô tả bộ phim thú vị và đem lại niềm vui, gần nghĩa “enjoyable”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word separately in the e-mail, second paragraph, line 6, is closest in meaning to",
+        "choiceTexts": {
+          "A": "connected",
+          "B": "jointly",
+          "C": "slowly",
+          "D": "alone"
+        },
+        "explanation": "Mỗi người đến rạp từ nơi làm việc của mình, nên “separately” ở đây nghĩa là đi một mình (“alone”)."
+      }
+    ]
+  }
+]

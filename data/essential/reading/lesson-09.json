@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-09-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "The ____ of the new computer network was apparent among the employees after only a few months.",
+        "choiceTexts": {
+          "A": "popular",
+          "B": "popularize",
+          "C": "popularity",
+          "D": "population"
+        },
+        "explanation": "Sau “The” và trước “of” cần danh từ “popularity”, chỉ mức độ được ưa chuộng của hệ thống."
+      },
+      {
+        "id": "11",
+        "prompt": "We will ____ all of our outdated software with the newest versions.",
+        "choiceTexts": {
+          "A": "replacement",
+          "B": "replaced",
+          "C": "replaceable",
+          "D": "replace"
+        },
+        "explanation": "Sau “will” dùng nguyên mẫu “replace”; cấu trúc “replace X with Y” là thay phần mềm cũ bằng bản mới."
+      },
+      {
+        "id": "12",
+        "prompt": "There is a ____ approach to software design integration that all the big software developers are currently learning.",
+        "choiceTexts": {
+          "A": "revolutionized",
+          "B": "revolutionary",
+          "C": "revolution",
+          "D": "revolt"
+        },
+        "explanation": "Cần tính từ trước “approach”; “revolutionary” nghĩa là mang tính cách mạng/đột phá."
+      },
+      {
+        "id": "13",
+        "prompt": "While Fabio's ____ with computers surpasses the technicians, he is unable to communicate his personal needs to the office manager.",
+        "choiceTexts": {
+          "A": "skill",
+          "B": "skilled",
+          "C": "skillful",
+          "D": "skillfully"
+        },
+        "explanation": "Sau sở hữu cách “Fabio’s” cần danh từ “skill”, làm chủ ngữ của “surpasses”."
+      },
+      {
+        "id": "14",
+        "prompt": "The hard disk can ____ up to 25 gigabytes of data.",
+        "choiceTexts": {
+          "A": "stores",
+          "B": "storage",
+          "C": "store",
+          "D": "storing"
+        },
+        "explanation": "Sau “can” dùng nguyên mẫu “store”, nghĩa là lưu trữ dữ liệu."
+      },
+      {
+        "id": "15",
+        "prompt": "The newspaper article on the development of new fiber-optic cables was so full of ____ language that nobody could understand it.",
+        "choiceTexts": {
+          "A": "technical",
+          "B": "technically",
+          "C": "technicality",
+          "D": "technique"
+        },
+        "explanation": "Cần tính từ bổ nghĩa “language”; “technical language” là ngôn ngữ chuyên môn khó hiểu."
+      }
+    ]
+  },
+  {
+    "id": "essential-09-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "revolted",
+          "B": "revolution",
+          "C": "revolutionary",
+          "D": "revolutionize"
+        },
+        "explanation": "Sau mạo từ “a” cần danh từ “revolution”, tức một cuộc cách mạng tại nơi làm việc."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "sharp",
+          "B": "technical",
+          "C": "popular",
+          "D": "replaceable"
+        },
+        "explanation": "Làm việc từ xa trở nên phổ biến với nhân viên; “popular” phù hợp, các từ khác không diễn đạt mức độ được ưa chuộng."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "It replaces",
+          "B": "It will replace",
+          "C": "Will it replace",
+          "D": "Will it be replaced by"
+        },
+        "explanation": "Đây là câu hỏi tương lai nên đảo “Will” lên trước chủ ngữ: “Will it replace ...?”."
+      }
+    ],
+    "readingPassage": "Computer technology has brought about a [16] ____ in the workplace. Now employees all around the country do all or part of their jobs from home. This phenomenon is called telecommuting and has been made possible by the\nwidespread use of the internet. Telecommuting has become [17] ____ among employees, although the reactions of\nemployers are mixed. Some like telecommuting and some don't. But most agree that it facilitates work for employees\nwho live at a distance from the worksite. Telecommuting enables companies to keep skilled employees who move out\nof the area or who have family obligations that require them to stay close to home. [18] ____ the regular nine-to-five\noffice job? Probably not entirely, but we are sure to see more and more of it in the future."
+  },
+  {
+    "id": "essential-09-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What is true about the new software?",
+        "choiceTexts": {
+          "A": "It's difficult to use.",
+          "B": "It's very different from the old software.",
+          "C": "It requires many months of training.",
+          "D": "It's very expensive."
+        },
+        "explanation": "Email nói phần mềm mới “significantly different from our old software”, tức rất khác bản cũ."
+      },
+      {
+        "id": "20",
+        "prompt": "Which staff members will be trained to use the new software?",
+        "choiceTexts": {
+          "A": "Just one from each department.",
+          "B": "Fred and Mary only.",
+          "C": "Only four of them.",
+          "D": "All of them."
+        },
+        "explanation": "Fred nói “The entire staff will need to be trained”, nên tất cả nhân viên phải học."
+      },
+      {
+        "id": "21",
+        "prompt": "How many training sessions will each person attend?",
+        "choiceTexts": {
+          "A": "One.",
+          "B": "Two.",
+          "C": "Four.",
+          "D": "Eight."
+        },
+        "explanation": "Mỗi người tham gia một buổi huấn luyện và một buổi theo dõi, tổng cộng hai buổi."
+      },
+      {
+        "id": "22",
+        "prompt": "The word skills in line 9 of the second e-mail is closest in meaning to",
+        "choiceTexts": {
+          "A": "abilities",
+          "B": "opportunities",
+          "C": "tasks",
+          "D": "ideas"
+        },
+        "explanation": "“Develop their skills” nghĩa là phát triển năng lực, nên “abilities” gần nghĩa nhất."
+      },
+      {
+        "id": "23",
+        "prompt": "The word replace in line 1 of the first e-mail is closest in meaning to",
+        "choiceTexts": {
+          "A": "sell",
+          "B": "change",
+          "C": "keep",
+          "D": "locate"
+        },
+        "explanation": "“Replace our old software with a new program” nghĩa là đổi phần mềm cũ sang mới; “change” phù hợp."
+      }
+    ],
+    "readingPassage": "To: mary@acme.com\nFrom:fred@acme.com\nSubject: software training\nMary,\nAs you know, we have decided to replace our old software with a new program that will facilitate our work\nbetter. Although the new software is not technically\ndifficult to use, it is significantly different from our old\nsoftware. The entire staff will need to be trained to\nuse it. Of course, not everyone can attend a training\nsession together, because we need some staff members to be in the office at all times. The trainer suggests that each person attend one training session and\none follow-up session. The sessions will last three to\nfour hours each. The trainer can be here once a week.\nPlease develop a training schedule so that everyone\ncan be trained over the next two months. Thank you.\nFred\n\nTo: fred@acme.com\nFrom: mary@acme.com\nSubject: re: software training\nFred,\nI have written up a schedule that will facilitate the\ntraining process. There will be eight weekly training\nsessions all together. Since we have four departments,\nthe easiest way is to send one person from each\ndepartment to each training session during the first\nmonth. Of course it will be a different person each\nweek. We can repeat the process during the second\nmonth for the follow up sessions. This way everyone\nwill have a chance to develop their skills on the new\nsoftware. I am attaching a copy of the schedule.\nMary"
+  }
+]

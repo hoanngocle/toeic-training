@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-12-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "So many well-qualified people ____ for the position that we won't be able to make a decision for several weeks.",
+        "choiceTexts": {
+          "A": "apply",
+          "B": "application",
+          "C": "applicant",
+          "D": "applied"
+        },
+        "explanation": "Việc nhiều người nộp đơn đã xảy ra và gây chậm quyết định; “applied” là động từ quá khứ phù hợp."
+      },
+      {
+        "id": "11",
+        "prompt": "As the interview continued, the applicant's ____ began to decline.",
+        "choiceTexts": {
+          "A": "confidently",
+          "B": "confident",
+          "C": "confidence",
+          "D": "confidential"
+        },
+        "explanation": "Sau sở hữu cách “applicant’s” cần danh từ “confidence”, chỉ sự tự tin giảm dần."
+      },
+      {
+        "id": "12",
+        "prompt": "The applicant's unique ____ enabled her to have almost any job that she wanted.",
+        "choiceTexts": {
+          "A": "expertise",
+          "B": "experts",
+          "C": "expertly",
+          "D": "expert"
+        },
+        "explanation": "“Unique expertise” là chuyên môn đặc biệt; danh từ này làm chủ ngữ của “enabled”."
+      },
+      {
+        "id": "13",
+        "prompt": "She spoke without ____, expressing self-confidence and projecting that she had a firm handle on the information.",
+        "choiceTexts": {
+          "A": "hesitant",
+          "B": "hesitate",
+          "C": "hesitatingly",
+          "D": "hesitation"
+        },
+        "explanation": "Sau “without” cần danh từ “hesitation”, nghĩa là không do dự; các phương án còn lại không phải danh từ."
+      },
+      {
+        "id": "14",
+        "prompt": "During an interview, it is important to ____ your weaknesses in a way that shows you are working to improve them.",
+        "choiceTexts": {
+          "A": "presentation",
+          "B": "present",
+          "C": "presentable",
+          "D": "presenting"
+        },
+        "explanation": "Sau “important to” dùng nguyên mẫu “present”, tức trình bày điểm yếu theo hướng tích cực."
+      },
+      {
+        "id": "15",
+        "prompt": "Her handshake had always felt like a dead fish and it was taken as a sign of a ____ character.",
+        "choiceTexts": {
+          "A": "weak",
+          "B": "weakly",
+          "C": "weakness",
+          "D": "weakening"
+        },
+        "explanation": "Trước danh từ “character” cần tính từ “weak”, diễn tả tính cách yếu đuối."
+      }
+    ]
+  },
+  {
+    "id": "essential-12-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "confident",
+          "B": "confidently",
+          "C": "confide",
+          "D": "confidence"
+        },
+        "explanation": "Cần trạng từ mô tả cách bước vào phòng, nên “confidently” là một cách tự tin."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "No hesitation",
+          "B": "Not hesitating",
+          "C": "Don't hesitate",
+          "D": "Doesn't hesitate"
+        },
+        "explanation": "Lời khuyên phủ định dùng mệnh lệnh “Don’t hesitate to”, nghĩa là đừng ngần ngại nêu chuyên môn."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "call in",
+          "B": "apply to",
+          "C": "be ready for",
+          "D": "follow up"
+        },
+        "explanation": "“Follow up ... with a thank-you note” là gửi thư cảm ơn tiếp nối buổi phỏng vấn."
+      }
+    ],
+    "readingPassage": "When you go on a job interview, the most important thing to remember is to present yourself well. Before you go, prepare yourself by dressing neatly and professionally. When you arrive, enter the interview room [16] ____. Look the\ninterviewer in the eye when you shake hands. When you talk about yourself, do not be shy about your abilities. You\nare there to prove that you can do the job. Explain your work and educational background briefly and discuss the skills\nyou have developed through experience. [17] ____ to point out areas in which you have expertise. The worst thing you\ncan do is discuss your experience weakly. Remember, if you believe in yourself, other people will, too. Don't forget to [18] ____ the interview with a thank-you note before a week has passed."
+  },
+  {
+    "id": "essential-12-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What kind of job is Mr. Rutherford looking for?",
+        "choiceTexts": {
+          "A": "Office manager.",
+          "B": "Human resources director.",
+          "C": "Marketing research assistant.",
+          "D": "Newspaper reporter."
+        },
+        "explanation": "Ngay đoạn đầu, người viết nói ứng tuyển “marketing research assistant position”."
+      },
+      {
+        "id": "20",
+        "prompt": "When does he want to have an interview?",
+        "choiceTexts": {
+          "A": "Sunday.",
+          "B": "Next week.",
+          "C": "Next month.",
+          "D": "In three months."
+        },
+        "explanation": "Ông sẽ ở Riverdale vào tuần đầu tháng tới và sẵn sàng phỏng vấn trong tuần đó."
+      },
+      {
+        "id": "21",
+        "prompt": "What does he include with this letter?",
+        "choiceTexts": {
+          "A": "A copy of his university degree.",
+          "B": "Three reference books.",
+          "C": "A job description.",
+          "D": "His résumé."
+        },
+        "explanation": "Đoạn cuối ghi “enclosing my résumé and three letters of reference”, nên có sơ yếu lý lịch."
+      },
+      {
+        "id": "22",
+        "prompt": "The word background in line 2 is closest in meaning to",
+        "choiceTexts": {
+          "A": "experience",
+          "B": "location",
+          "C": "position",
+          "D": "age"
+        },
+        "explanation": "“Background” trong thư xin việc là kinh nghiệm và quá trình đào tạo, gần nghĩa “experience”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word confident in line 13 is closest in meaning to",
+        "choiceTexts": {
+          "A": "afraid",
+          "B": "lucky",
+          "C": "glad",
+          "D": "sure"
+        },
+        "explanation": "“I am confident that I can do the job” là tin chắc có thể làm việc; “sure” đúng nghĩa."
+      }
+    ],
+    "readingPassage": "Matilda Moreno,\nHuman Resources Director\nMilestone Marketing, Inc.\n1476 Honeycutt Avenue\nRiverdale\nDear Ms. Moreno,\n\nI am writing in response to your ad in last Sunday’s newspaper. I am interested in applying for the marketing research assistant position. I have the background and abilities you are looking for. I have recently graduated from a four-year university program with a degree in Marketing. My work experience includes three months working as an intern for a local marketing firm, so I have on-the-job marketing experience in addition to my university training. I have also worked for the past two years as a part-time office manager while going to school. My experience at this job allowed me to develop important managerial and organizational skills.\n\nI currently live in Deerfield but am interested in relocating to Riverdale. I will be visiting\nRiverdale during the first week of next month and am ready to come in for an interview any\ntime during that week.\nI am enclosing my résumé and three letters of reference. Please don't hesitate to contact me\nif you have any questions or need further information. I believe I am a good match for your\ncompany, and I am confident that I can do the job. I look forward to hearing from you.\nSincerely,\nSamuel Rutherford"
+  }
+]

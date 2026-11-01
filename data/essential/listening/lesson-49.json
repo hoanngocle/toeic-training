@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-49.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-49.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 49"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What is the woman's complaint?",
+      "choiceTexts": {
+        "A": "The records weren't delivered on time.",
+        "B": "Her husband didn't get an identification card.",
+        "C": "The computer system broke down.",
+        "D": "Her husband's records got mixed up."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "Who is the man?",
+      "choiceTexts": {
+        "A": "A hospital administrator.",
+        "B": "A hospital patient.",
+        "C": "A doctor.",
+        "D": "A nurse."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "Why was the woman's husband in the hospital?",
+      "choiceTexts": {
+        "A": "For a surgical procedure.",
+        "B": "To change his medications.",
+        "C": "For tests.",
+        "D": "To visit a friend."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who is the speaker?",
+      "choiceTexts": {
+        "A": "A doctor.",
+        "B": "A lab technician.",
+        "C": "A nurse.",
+        "D": "An insurance agent."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "When will the surgery take place?",
+      "choiceTexts": {
+        "A": "In eight days.",
+        "B": "In a week.",
+        "C": "In ten days.",
+        "D": "In 23 days."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What will the listener do with the paperwork?",
+      "choiceTexts": {
+        "A": "Prepare it.",
+        "B": "Give it to the nurse.",
+        "C": "Take it to the lab.",
+        "D": "Submit it to the insurance company."
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-01-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "The two sides were no closer to a final ____ at midnight than they were at noon.",
+        "choiceTexts": {
+          "A": "agreement",
+          "B": "agreeable",
+          "C": "agree",
+          "D": "agreed"
+        },
+        "explanation": "Sau mạo từ “a” và tính từ “final” cần danh từ: “agreement” là thỏa thuận cuối cùng mà hai bên chưa đạt được."
+      },
+      {
+        "id": "11",
+        "prompt": "Our union representative ____ members that our rights would be defended.",
+        "choiceTexts": {
+          "A": "assured",
+          "B": "assurance",
+          "C": "assuredly",
+          "D": "assure"
+        },
+        "explanation": "“Representative” là chủ ngữ số ít; “assured ... that” diễn tả việc đại diện đã bảo đảm với các thành viên. Mệnh đề sau dùng “would”, phù hợp lời bảo đảm trong quá khứ."
+      },
+      {
+        "id": "12",
+        "prompt": "If you ____ your reservation 48 hours in advance, you will not be billed.",
+        "choiceTexts": {
+          "A": "will cancel",
+          "B": "cancel",
+          "C": "cancellation",
+          "D": "canceled"
+        },
+        "explanation": "Mệnh đề điều kiện với “if” dùng hiện tại đơn “cancel”; mệnh đề chính dùng “will not be billed”."
+      },
+      {
+        "id": "13",
+        "prompt": "I don't feel any ____ to give my boss more than two weeks notice when I leave.",
+        "choiceTexts": {
+          "A": "oblige",
+          "B": "obligatory",
+          "C": "obliged",
+          "D": "obligation"
+        },
+        "explanation": "Sau “feel any” cần danh từ “obligation” (nghĩa vụ), không dùng động từ hay tính từ."
+      },
+      {
+        "id": "14",
+        "prompt": "The ____ for terminating the contract were not discussed.",
+        "choiceTexts": {
+          "A": "provide",
+          "B": "provisions",
+          "C": "provider",
+          "D": "provisioning"
+        },
+        "explanation": "“Provisions” là các điều khoản chấm dứt hợp đồng; danh từ số nhiều phù hợp với “were”."
+      },
+      {
+        "id": "15",
+        "prompt": "The contract calls for the union to ____ who their bargaining representative will be.",
+        "choiceTexts": {
+          "A": "specific",
+          "B": "specification",
+          "C": "specifying",
+          "D": "specify"
+        },
+        "explanation": "Cấu trúc “call for ... to + động từ nguyên mẫu” yêu cầu “specify”, tức xác định rõ người đại diện."
+      }
+    ]
+  },
+  {
+    "id": "essential-01-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "agree",
+          "B": "agreed",
+          "C": "agreeable",
+          "D": "agreement"
+        },
+        "explanation": "Sau “an” cần danh từ số ít: “agreement” chỉ thỏa thuận giữa chủ nhà và người thuê."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "provision",
+          "B": "provisions",
+          "C": "provider",
+          "D": "providers"
+        },
+        "explanation": "“Some additional” đi với danh từ đếm được số nhiều “provisions”: các điều khoản bổ sung như điều khoản về thú nuôi."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "assure",
+          "B": "will assure",
+          "C": "are assuring",
+          "D": "are assured"
+        },
+        "explanation": "Người thuê luật sư được bảo đảm về sự bảo vệ pháp lý, nên dùng bị động “are assured”, không phải tự bảo đảm cho người khác."
+      }
+    ],
+    "readingPassage": "Rental Property for Everyone\nMore and more people are investing in rental property these days. Whether you have a small apartment in your house\nto rent, or decide to invest in an apartment or office building, rental property can provide extra income for you and\nyour family. What does every landlord need to know?\nLeases\nA lease is an [16] ____ between a landlord and a tenant. Standard leases are available at most office supply stores,\nand many property owners find them quite satisfactory. Read the standard lease carefully to determine if it meets the\nneeds of your situation. You may want to make some additional [17] ____. You may want to add a pet clause, for example, or make different specifications pertaining to the security deposit. If you decide to make changes to the standard\nlease, you should meet with a lawyer. The lease is the most important tool you have if you need to resolve a dispute\nwith your tenant. When you have a lease written by a lawyer, you [18] ____ that you have the protection you need."
+  },
+  {
+    "id": "essential-01-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What is the purpose of the letter?",
+        "choiceTexts": {
+          "A": "To find out why Mr. Harrison no longer wants this service.",
+          "B": "To ask Mr. Harrison to renew his contract.",
+          "C": "To advertise new services provided by the company.",
+          "D": "To offer the customer a better contract."
+        },
+        "explanation": "Thư nói công ty muốn “determine the reasons for contract cancellations” và yêu cầu điền phiếu để biết lý do hủy dịch vụ."
+      },
+      {
+        "id": "20",
+        "prompt": "What is Ms. Santos's business?",
+        "choiceTexts": {
+          "A": "Customer relations.",
+          "B": "Cleaning service.",
+          "C": "Contract review.",
+          "D": "Conflict resolution."
+        },
+        "explanation": "Tên công ty là Santos Office Cleaners và thư nhắc “cleaning service contract”, xác định đây là dịch vụ vệ sinh."
+      },
+      {
+        "id": "21",
+        "prompt": "Why did this customer cancel the contract?",
+        "choiceTexts": {
+          "A": "The company damaged something in his office.",
+          "B": "The employees provided unsatisfactory service.",
+          "C": "He had a disagreement about his bill.",
+          "D": "He doesn't want this type of service anymore."
+        },
+        "explanation": "Phiếu đánh dấu tranh chấp thanh toán chưa được giải quyết; lời nhận xét nói vẫn hài lòng với nhân viên nhưng bực vì vấn đề hóa đơn."
+      },
+      {
+        "id": "22",
+        "prompt": "The word assure in letter one, line 2, is closest in meaning to",
+        "choiceTexts": {
+          "A": "guarantee.",
+          "B": "discover.",
+          "C": "prove.",
+          "D": "advertise."
+        },
+        "explanation": "Trong “assure that we provide ... the best possible service”, “assure” là bảo đảm, tương đương “guarantee”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word specific in form two, line 15, is closest in meaning to",
+        "choiceTexts": {
+          "A": "personal.",
+          "B": "important.",
+          "C": "repeated.",
+          "D": "particular."
+        },
+        "explanation": "“Specific complaint” là một khiếu nại cụ thể, nên “specific” gần nghĩa “particular”, không phải quan trọng hay lặp lại."
+      }
+    ],
+    "readingPassage": "Santos Office Cleaners\n112 Main St.\nWindsor, Ontario\nDecember 15, 20—\nMr. James Harrison\n17 Hartland Road\nWindsor, Ontario\nDear Mr. Harrison,\nWe are very sorry that you have decided to cancel your\ncleaning service contract with us. In order to assure\nthat we provide our customers with the best possible\nservice, we always try to determine the reasons for\ncontract cancellations. Please take a few minutes to fill\nout the enclosed form. This is for our information only;\ncompleting the form does not obligate you to buy any\nproduct or enter into any new agreement with our\ncompany. We appreciate your cooperation. If at any\ntime in the future you decide to renew your contract\nwith us, please don't hesitate to contact me.\nSincerely,\nRosa Santos\nOwner\n\nSantos Office Cleaners\nCustomer Questionnaire\nDate contract signed: March 23, 20—\nType of facility:\n☒ single office\n☐ office building\n☐ private home\n☐ other\n\nFrequency of service:\n☐ daily\n☒ weekly\n☐ monthly\n☐ other\n\nReason for contract cancellation (choose one):\n☐ no longer need service\n☐ signed contract with a different company\n☒ payment dispute not satisfactorily resolved\n☐ specific complaint not resolved\n☐ other\n\nComments: I was always satisfied with the service provided by your employees. However, I am frustrated by your inability to resolve the payment issues."
+  }
+]

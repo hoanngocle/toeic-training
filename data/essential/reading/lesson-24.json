@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-24-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "According to my ____, we owe a lot of money in taxes this year.",
+        "choiceTexts": {
+          "A": "calculations",
+          "B": "calculated",
+          "C": "calculators",
+          "D": "calculate"
+        },
+        "explanation": "My cần danh từ calculations: theo các phép tính của tôi, chúng ta phải nộp nhiều thuế."
+      },
+      {
+        "id": "11",
+        "prompt": "Those ____ on my desk contain all the information we'll need for preparing our taxes.",
+        "choiceTexts": {
+          "A": "filed",
+          "B": "files",
+          "C": "file",
+          "D": "filing"
+        },
+        "explanation": "Those cần danh từ số nhiều files, phù hợp với động từ contain và ý hồ sơ nằm trên bàn."
+      },
+      {
+        "id": "12",
+        "prompt": "It is usually advantageous for spouses to file their income taxes ____.",
+        "choiceTexts": {
+          "A": "joints",
+          "B": "jointly",
+          "C": "joint",
+          "D": "jointed"
+        },
+        "explanation": "Jointly là trạng từ bổ nghĩa cho file: vợ chồng khai thuế chung."
+      },
+      {
+        "id": "13",
+        "prompt": "We didn't know we had to claim the interest from our savings account and were ____ for the error.",
+        "choiceTexts": {
+          "A": "penalize",
+          "B": "penalizing",
+          "C": "penalty",
+          "D": "penalized"
+        },
+        "explanation": "Were penalized là bị động quá khứ: chúng tôi bị phạt vì sai sót khai lãi tiết kiệm."
+      },
+      {
+        "id": "14",
+        "prompt": "The ____ of the forms took much less time than we expected.",
+        "choiceTexts": {
+          "A": "preparatory",
+          "B": "preparation",
+          "C": "prepared",
+          "D": "prepares"
+        },
+        "explanation": "The preparation of the forms cần danh từ preparation làm chủ ngữ, chỉ việc chuẩn bị biểu mẫu."
+      },
+      {
+        "id": "15",
+        "prompt": "I didn't overpay my taxes this year so I didn't get a ____.",
+        "choiceTexts": {
+          "A": "refunded",
+          "B": "refundable",
+          "C": "refund",
+          "D": "refunds"
+        },
+        "explanation": "Sau a cần danh từ số ít refund: không nộp thừa thuế nên không được hoàn thuế."
+      }
+    ]
+  },
+  {
+    "id": "essential-24-reading-6",
+    "readingPassage": "Smith & Johnson\nTax Preparation\nWe take away the headaches of tax time.\n[16] ____ your own taxes can be frustrating and often leads to costly errors in calculations. Are you ready to give up\ntrying to fill [17] ____ your tax forms on your own? Smith & Johnson Tax Preparation can help you!\nPeople who use professional tax preparers get larger refunds and avoid [18] ____ for underpayment and missed\ndeadlines.\nMake tax time easier. Call us today. You owe it to yourself.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "Prepare",
+          "B": "To prepare",
+          "C": "Preparing",
+          "D": "Preparation"
+        },
+        "explanation": "Preparing your own taxes là cụm danh động từ làm chủ ngữ, nói chung về việc tự chuẩn bị hồ sơ thuế."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "in",
+          "B": "up",
+          "C": "out",
+          "D": "through"
+        },
+        "explanation": "Fill out a form là cụm từ dùng trong bài, nghĩa là điền đầy đủ thông tin vào biểu mẫu."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "pennants",
+          "B": "penalties",
+          "C": "penumbras",
+          "D": "peninsulas"
+        },
+        "explanation": "Penalties là các khoản phạt vì nộp thiếu thuế và trễ hạn; các từ còn lại không phù hợp ngữ cảnh thuế."
+      }
+    ]
+  },
+  {
+    "id": "essential-24-reading-7",
+    "readingPassage": "April 1, 20—\nMr. Roger Earnshaw\n2943 Northern Boulevard\nNew Orange, NH\nDear Mr. Earnshaw,\nEnclosed are your completed tax forms, which I have prepared for you at your request. I am sorry to report that you will\nnot receive the $500 refund that you expected. Instead, my calculations show that you owe $450 in taxes, as well as an\nadditional penalty of $45 for underpayment of taxes. The reason for this is that you and your spouse have chosen not to\nfile your taxes jointly this year. You may want to reconsider this for the future since, as you can see, it is more costly for\nmarried couples to file separately. If you and your spouse wish to continue to file separately, you may want to ask your\nemployer to withhold a greater amount from your paychecks so that you don't end up owing money again next year. This\nwill be even more important if you get the salary increase that you have been hoping for.\nWrite out a check for the taxes that you still owe and the penalty and mail it together with your tax forms before the\nApril 15 deadline. Please let me know if I can be of any further assistance.\nSincerely,\nKathleen O'Hara\nCPA",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Who wrote the letter?",
+        "choiceTexts": {
+          "A": "A tax agent.",
+          "B": "A tax preparer.",
+          "C": "Mr. Earnshaw's spouse.",
+          "D": "Mr. Earnshaw's employer."
+        },
+        "explanation": "Người viết nói đã chuẩn bị biểu mẫu theo yêu cầu và ký CPA, nên là người làm dịch vụ khai thuế."
+      },
+      {
+        "id": "20",
+        "prompt": "What is the total amount that Mr. Earnshaw owes?",
+        "choiceTexts": {
+          "A": "$45.",
+          "B": "$450.",
+          "C": "$495.",
+          "D": "$500."
+        },
+        "explanation": "Khoản phải trả gồm $450 tiền thuế và $45 tiền phạt, tổng cộng $495."
+      },
+      {
+        "id": "21",
+        "prompt": "What does Ms. O'Hara recommend to Mr. Earnshaw to improve his tax situation?",
+        "choiceTexts": {
+          "A": "Get married.",
+          "B": "File separately.",
+          "C": "Ask for a salary increase.",
+          "D": "Withhold more from his checks."
+        },
+        "explanation": "Thư đề nghị yêu cầu chủ lao động withhold a greater amount from your paychecks để tránh thiếu tiền thuế năm sau."
+      },
+      {
+        "id": "22",
+        "prompt": "The word jointly is closest in meaning to",
+        "choiceTexts": {
+          "A": "together",
+          "B": "apart",
+          "C": "on time",
+          "D": "finally"
+        },
+        "explanation": "Jointly nghĩa là cùng nhau, đối lập với separately được nhắc ngay sau đó, nên chọn together."
+      },
+      {
+        "id": "23",
+        "prompt": "The word deadline is closest in meaning to",
+        "choiceTexts": {
+          "A": "holiday",
+          "B": "schedule",
+          "C": "anniversary",
+          "D": "due date"
+        },
+        "explanation": "Deadline là ngày cuối phải nộp hồ sơ và tiền thuế, tương đương due date."
+      }
+    ]
+  }
+]

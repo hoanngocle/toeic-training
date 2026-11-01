@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-10-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "I don't want to ____ matters, but have you considered using color to make your brochure stand out?",
+        "choiceTexts": {
+          "A": "complicate",
+          "B": "complication",
+          "C": "complicated",
+          "D": "complicating"
+        },
+        "explanation": "Sau “want to” cần nguyên mẫu “complicate”, nghĩa là làm vấn đề phức tạp hơn."
+      },
+      {
+        "id": "11",
+        "prompt": "It's worth ____ in the memo that we've finished the draft of the proposal.",
+        "choiceTexts": {
+          "A": "mentionable",
+          "B": "mentioning",
+          "C": "mentions",
+          "D": "mentioned"
+        },
+        "explanation": "Cấu trúc “be worth + V-ing” yêu cầu “mentioning”, tức đáng đề cập trong bản ghi nhớ."
+      },
+      {
+        "id": "12",
+        "prompt": "The signatures on the ____ weren't all legible because rain had caused the ink to run.",
+        "choiceTexts": {
+          "A": "petition",
+          "B": "petitioning",
+          "C": "petitioners",
+          "D": "petitioned"
+        },
+        "explanation": "Chữ ký nằm trên “petition” (đơn kiến nghị), nên cần danh từ chỉ văn bản."
+      },
+      {
+        "id": "13",
+        "prompt": "To send out business letters without ____ them is unprofessional.",
+        "choiceTexts": {
+          "A": "proofing",
+          "B": "proof",
+          "C": "proofreader",
+          "D": "proofread"
+        },
+        "explanation": "Sau giới từ “without” dùng V-ing “proofing”, nghĩa là kiểm tra lỗi thư trước khi gửi."
+      },
+      {
+        "id": "14",
+        "prompt": "The mail room is rarely asked to send letters by ____ mail.",
+        "choiceTexts": {
+          "A": "registers",
+          "B": "registered",
+          "C": "register",
+          "D": "registration"
+        },
+        "explanation": "“Registered mail” là cụm cố định chỉ thư bảo đảm; “registered” bổ nghĩa cho “mail”."
+      },
+      {
+        "id": "15",
+        "prompt": "After each ____, you need to reread what you've written and note your suggestions for changes.",
+        "choiceTexts": {
+          "A": "revise",
+          "B": "revised",
+          "C": "revision",
+          "D": "will revise"
+        },
+        "explanation": "Sau “each” cần danh từ đếm được số ít “revision”, tức mỗi lần chỉnh sửa."
+      }
+    ]
+  },
+  {
+    "id": "essential-10-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "complicate",
+          "B": "complicates",
+          "C": "complicated",
+          "D": "complications"
+        },
+        "explanation": "“Avoid complications” là tránh các rắc rối; cần danh từ làm tân ngữ, không phải tính từ hay động từ chia."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "Proof",
+          "B": "Proofs",
+          "C": "To proof",
+          "D": "Proofing"
+        },
+        "explanation": "Đây là lời hướng dẫn nên dùng mệnh lệnh “Proof each document”, tức kiểm tra kỹ từng tài liệu."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "folder",
+          "B": "folded",
+          "C": "folds",
+          "D": "fold"
+        },
+        "explanation": "Sau “can” cần nguyên mẫu “fold”; máy có thể gấp giấy và bấm ghim."
+      }
+    ],
+    "readingPassage": "Memo\nTo: Production Staff\nFrom: George Jones\nRe: Document Preparation\nIn order to avoid extra work and waste of supplies, please observe the following guidelines when preparing documents\nfor reproduction and distribution. The goal is to keep things simple and avoid [16] ____.\n\n• When you work on the final revision of a document, pay special attention to the layout. The presentation of material\nis as important as the content itself.\n• Don't rush to the copier as soon as the final revision is complete. [17] ____ each document carefully beforehand.\n• We have technology to help with the assembly of documents. The large copier on the second floor can [18] ____ paper in addition to stapling. This will help you complete tasks efficiently.\n• If a document needs to be delivered the same day it is finished, please use a courier service."
+  },
+  {
+    "id": "essential-10-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Who is the audience for this advertisement?",
+        "choiceTexts": {
+          "A": "Editors.",
+          "B": "Couriers.",
+          "C": "Corporate directors.",
+          "D": "Small business owners."
+        },
+        "explanation": "Câu mở đầu hỏi “Do you run a small business?”, xác định đối tượng là chủ doanh nghiệp nhỏ."
+      },
+      {
+        "id": "20",
+        "prompt": "Which of the following is a service offered by Office Systems, Inc.?",
+        "choiceTexts": {
+          "A": "Accounting.",
+          "B": "Web site development.",
+          "C": "Assembling documents.",
+          "D": "Reading letters."
+        },
+        "explanation": "Mục Design and Production liệt kê “assembling services”, tức dịch vụ hoàn thiện/lắp ráp tài liệu."
+      },
+      {
+        "id": "21",
+        "prompt": "How can a customer open an account with Office Systems, Inc.?",
+        "choiceTexts": {
+          "A": "By visiting a company branch.",
+          "B": "By sending an e-mail.",
+          "C": "By completing an online questionnaire.",
+          "D": "By writing a letter."
+        },
+        "explanation": "Quảng cáo nói đến một chi nhánh để mở tài khoản; tải mẫu trên mạng chỉ là bước chuẩn bị."
+      },
+      {
+        "id": "22",
+        "prompt": "The word revision in line 5 is closest in meaning to",
+        "choiceTexts": {
+          "A": "copying",
+          "B": "rewriting",
+          "C": "delivery",
+          "D": "development"
+        },
+        "explanation": "Trong dịch vụ biên tập, “revision” là sửa/viết lại văn bản, gần nghĩa “rewriting”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word beforehand in line 14 is closest in meaning to",
+        "choiceTexts": {
+          "A": "by hand",
+          "B": "thoroughly",
+          "C": "in advance",
+          "D": "in person"
+        },
+        "explanation": "Điền mẫu “beforehand” là điền trước khi đến chi nhánh; tương đương “in advance”."
+      }
+    ],
+    "readingPassage": "Do you run a small business? If so, you likely don't have a large enough staff to deal with developing, reproducing, and\nmailing all your documents and correspondence. Why not let Office Systems, Inc., take care of this work for you? We\nprovide the following services:\nEditing\nDon't send out your documents until you are sure they are absolutely perfect. We provide revision and proofreading\nservices on all documents, large or small.\nDesign and Production\nOur professional graphic designers work with you to develop the best format and layout for your documents. We also\nprovide copying and assembling services, including folding, stapling, and packaging.\nDelivery\nWe can connect you with several different delivery services, including the postal system and private courier companies. Is your correspondence urgent? Our express delivery service gets it to the recipient within 24 hours, or less, guaranteed.\n\nVisit any one of our branches to open up an account with us today. You can download an application from our web site and fill it out beforehand to make the process go more smoothly. Don't let the details of correspondence and document development complicate your life. Let Office Systems, Inc., handle it all for you.\n\nVisit www.officesys.com to find the branch nearest you."
+  }
+]

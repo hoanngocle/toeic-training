@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-22-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "The firm's ____ studied finance and business administration.",
+        "choiceTexts": {
+          "A": "account",
+          "B": "accounting",
+          "C": "accounted",
+          "D": "accountant"
+        },
+        "explanation": "Accountant là danh từ chỉ người kế toán, phù hợp với việc đã học tài chính và quản trị kinh doanh."
+      },
+      {
+        "id": "11",
+        "prompt": "The account manager has ____ a tremendous amount of wealth in a very short time.",
+        "choiceTexts": {
+          "A": "accumulated",
+          "B": "accumulation",
+          "C": "accumulating",
+          "D": "accumulates"
+        },
+        "explanation": "Has accumulated cần quá khứ phân từ accumulated: người quản lý đã tích lũy tài sản trong thời gian ngắn."
+      },
+      {
+        "id": "12",
+        "prompt": "We went over our records carefully in order to prepare for the meeting with the ____.",
+        "choiceTexts": {
+          "A": "audit",
+          "B": "auditor",
+          "C": "auditing",
+          "D": "audited"
+        },
+        "explanation": "Meeting with the auditor là cuộc gặp với kiểm toán viên; auditor chỉ người, còn audit là cuộc kiểm toán."
+      },
+      {
+        "id": "13",
+        "prompt": "At the end of next week, all the division heads will meet to present one consolidated ____.",
+        "choiceTexts": {
+          "A": "budgeting",
+          "B": "budget",
+          "C": "budgeted",
+          "D": "budgets"
+        },
+        "explanation": "One consolidated budget cần danh từ số ít budget: một ngân sách tổng hợp duy nhất."
+      },
+      {
+        "id": "14",
+        "prompt": "I ____ some savings in my bank account before I made any investments in business.",
+        "choiceTexts": {
+          "A": "building up",
+          "B": "buildup",
+          "C": "built up",
+          "D": "build"
+        },
+        "explanation": "Mốc before I made... kể chuyện quá khứ, nên dùng built up: đã tích lũy tiền trước khi đầu tư."
+      },
+      {
+        "id": "15",
+        "prompt": "All the employees will benefit if the company's ____ continue to increase.",
+        "choiceTexts": {
+          "A": "profited",
+          "B": "profitable",
+          "C": "profits",
+          "D": "profitably"
+        },
+        "explanation": "Company's cần danh từ profits làm chủ ngữ số nhiều của continue, nghĩa là lợi nhuận tiếp tục tăng."
+      }
+    ]
+  },
+  {
+    "id": "essential-22-reading-6",
+    "readingPassage": "Wilson and Jones, Ltd.\nAccountants\nWe specialize in small businesses.\nAre you having trouble reconciling your accounts?\nDo you need to improve your tax situation?\nDo you want to get out of debt and make your business [16] ____?\nWilson & Jones, Ltd., is a full-service accounting firm that can help small business owners like you with all aspects of\nyour accounts. Our budget planning service will help you pay off [17] ____ debts so that you can start accumulating\nsavings. Our tax service provides tax planning assistance, tax return preparation, and preparation for audits. Our\nbookkeeping service guarantees that your accounts are always up to date. Call us today for an appointment. You'll\nbe out of the red and free of [18] ____ tomorrow.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "profiting",
+          "B": "profitable",
+          "C": "profitably",
+          "D": "profiteer"
+        },
+        "explanation": "Make + tân ngữ + tính từ: make your business profitable nghĩa là giúp doanh nghiệp sinh lời."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "client",
+          "B": "budget",
+          "C": "turnover",
+          "D": "outstanding"
+        },
+        "explanation": "Outstanding debts là các khoản nợ còn chưa trả, phù hợp với pay off và mục tiêu bắt đầu tiết kiệm."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "debate",
+          "B": "doubt",
+          "C": "debit",
+          "D": "debt"
+        },
+        "explanation": "Free of debt nghĩa là hết nợ; dịch vụ kế toán hứa giúp khách hàng thoát tình trạng thua lỗ và nợ nần."
+      }
+    ]
+  },
+  {
+    "id": "essential-22-reading-7",
+    "readingPassage": "January 17, 20Buzzi Accountants\n128 Waterford Drive\nNew Hanover, VA\nDear Ms. Buzzi,\nI have just found out that my tax records will be audited by the government. I would like to hire someone from your\nfirm to help me prepare for this. I run a small editing business which I started five years ago. I initially took out a loan\nfrom the bank to get my business started. My business has always been profitable, and I was able to repay the loan quickly. As of now, my business has no outstanding debts. My staff is quite small. I started out with one assistant, who is still\nwith me. As I built up my client list, I hired a second assistant, who is also still working for me. Thus, I have not had a\nproblem with staff turnover. In short, you can see that my business and financial situation are quite stable.\nI have always prepared my taxes carefully, and I keep thorough records. I imagine that this audit will be fairly routine.\nHowever, I want to be sure that I am correctly prepared for it, and I feel that hiring an accountant is the best route to\ntake. Please call me so that we can discuss the matter. I can be reached at my office Mondays, Wednesdays, and Fridays.\nOne of my assistants is also usually in the office on Tuesdays and Thursdays and the occasional Saturday and will take\nmessages for me.\nI look forward to speaking with you.\nSincerely,\nJonathan Stein",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Why does Mr. Stein want to hire an accountant?",
+        "choiceTexts": {
+          "A": "To prepare his taxes.",
+          "B": "To help with an audit.",
+          "C": "To get him out of debt.",
+          "D": "To help him stabilize his finances."
+        },
+        "explanation": "Câu đầu cho biết hồ sơ thuế sẽ bị kiểm toán; ông muốn thuê kế toán giúp chuẩn bị cho đợt kiểm toán đó."
+      },
+      {
+        "id": "20",
+        "prompt": "How many people work for Mr. Stein?",
+        "choiceTexts": {
+          "A": "One.",
+          "B": "Two.",
+          "C": "Three.",
+          "D": "Four."
+        },
+        "explanation": "Ông ban đầu có một trợ lý, sau đó thuê trợ lý thứ hai và cả hai vẫn đang làm việc."
+      },
+      {
+        "id": "21",
+        "prompt": "When is Mr. Stein in his office?",
+        "choiceTexts": {
+          "A": "Monday through Friday.",
+          "B": "Tuesday and Thursday.",
+          "C": "Monday, Wednesday, and Friday.",
+          "D": "On occasional Saturdays."
+        },
+        "explanation": "Ông nói có thể liên hệ tại văn phòng vào Mondays, Wednesdays, and Fridays; các ngày khác là trợ lý trực."
+      },
+      {
+        "id": "22",
+        "prompt": "The word profitable in the first paragraph is closest in meaning to",
+        "choiceTexts": {
+          "A": "large",
+          "B": "in debt",
+          "C": "interesting",
+          "D": "earning money"
+        },
+        "explanation": "Profitable nghĩa là sinh lợi, tương ứng earning money; việc trả hết khoản vay là bằng chứng hỗ trợ."
+      },
+      {
+        "id": "23",
+        "prompt": "The words built up in the first paragraph are closest in meaning to",
+        "choiceTexts": {
+          "A": "constructed",
+          "B": "increased",
+          "C": "employed",
+          "D": "served"
+        },
+        "explanation": "Built up my client list nghĩa là tăng số lượng khách hàng, nên increased phù hợp hơn constructed."
+      }
+    ]
+  }
+]

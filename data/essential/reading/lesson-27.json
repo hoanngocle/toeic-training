@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-27-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "When using these facilities, please ____ to the rules posted by the door.",
+        "choiceTexts": {
+          "A": "adhere",
+          "B": "adhering",
+          "C": "adherence",
+          "D": "adhered"
+        },
+        "explanation": "Please + động từ nguyên mẫu; adhere to the rules nghĩa là tuân thủ các quy định."
+      },
+      {
+        "id": "11",
+        "prompt": "As the chairman stood to give his ____, everyone in the room was listening.",
+        "choiceTexts": {
+          "A": "conclusion",
+          "B": "conclude",
+          "C": "conclusive",
+          "D": "concluding"
+        },
+        "explanation": "His cần danh từ conclusion làm tân ngữ của give, chỉ phần kết luận của chủ tịch."
+      },
+      {
+        "id": "12",
+        "prompt": "George decided to ____ his business trip by a few days so he could do some sightseeing.",
+        "choiceTexts": {
+          "A": "length",
+          "B": "lengthen",
+          "C": "lengthy",
+          "D": "lengthened"
+        },
+        "explanation": "Decided to + động từ nguyên mẫu lengthen, nghĩa là kéo dài chuyến công tác thêm vài ngày."
+      },
+      {
+        "id": "13",
+        "prompt": "The original members of the committee met ____ for lunch or dinner.",
+        "choiceTexts": {
+          "A": "period",
+          "B": "periods",
+          "C": "periodically",
+          "D": "periodic"
+        },
+        "explanation": "Periodically là trạng từ bổ nghĩa cho met, diễn tả các thành viên gặp nhau định kỳ."
+      },
+      {
+        "id": "14",
+        "prompt": "As her first ____, the committee chairwoman wanted to attract new, energetic members to the group.",
+        "choiceTexts": {
+          "A": "prior",
+          "B": "priority",
+          "C": "prioritize",
+          "D": "prioritized"
+        },
+        "explanation": "Her first priority cần danh từ priority: ưu tiên hàng đầu của chủ tịch là thu hút thành viên mới."
+      },
+      {
+        "id": "15",
+        "prompt": "Even as they ____ through the hundreds of pages of supporting material, the committee was still not convinced that the project was justified.",
+        "choiceTexts": {
+          "A": "progression",
+          "B": "progressed",
+          "C": "progresses",
+          "D": "progressive"
+        },
+        "explanation": "Progressed là quá khứ đơn, phù hợp với was và chủ ngữ they: họ đọc dần qua hàng trăm trang tài liệu."
+      }
+    ]
+  },
+  {
+    "id": "essential-27-reading-6",
+    "readingPassage": "Memo\nTo: Department Staff\nFrom: Alison Roth, Department Manager\nRe: Meeting\nAll members of the department staff are requested to attend a department meeting next Friday morning. As you know,\nwe meet [16] ____ to review our work of the past months and finalize plans for the coming months. The goal of this\nFriday's meeting is to set our priorities for the next six months. The meeting agenda is attached for your review. Let's\nagree to follow the agenda and not [17] ____ other matters at this time so that we can finish the meeting in a timely\nmanner. The most important item on the agenda is the budget. We need to take a careful look at our spending\npractices. We [18] ____ too much money over the past six months. Please come with ideas about how we can use our\nfunds more efficiently in the future. Please arrive at the meeting on time so that we can conclude before 12:00.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "period",
+          "B": "periodic",
+          "C": "periodical",
+          "D": "periodically"
+        },
+        "explanation": "Periodically là trạng từ chỉ tần suất của meet, phù hợp việc định kỳ đánh giá công việc và lập kế hoạch."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "set back",
+          "B": "go ahead",
+          "C": "bring up",
+          "D": "adhere to"
+        },
+        "explanation": "Bring up other matters nghĩa là đưa ra vấn đề khác; thông báo yêu cầu tránh việc đó để kết thúc đúng giờ."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "waste",
+          "B": "have wasted",
+          "C": "will waste",
+          "D": "are wasting"
+        },
+        "explanation": "Over the past six months chỉ khoảng thời gian kéo dài tới hiện tại nên dùng have wasted."
+      }
+    ]
+  },
+  {
+    "id": "essential-27-reading-7",
+    "readingPassage": "Perruche, Inc.\nAnnual Meeting\nMay 17, 20—\n1:00 P.M.\nAgenda\n1. Progress report on overseas expansion — Robert Fleurat\n2. Reducing waste in our plants — Madeline Costello\n3. Reassessing our financial goals — Jean Duprey\n4. Hiring and firing policies — Cynthia Weinstein\n5. Looking ahead: priorities for the next decade — Samuel Lyon\n\nTo: Cynthia Weinstein\nFrom: Samuel Lyon\nSubject: Yesterday's meeting\nHello Cynthia,\nWe all missed you at yesterday's meeting. We were concerned that a medical emergency prevented your attendance but are glad to know that you are all right now. The meeting went well, and we were able to adhere to the agenda for the most part. There was only one small change. Jean gave his presentation on finance right after Robert since he had to leave early. Your secretary faxed a copy of your report to me, and I read it in your place. There were a few questions which will be submitted to you by e-mail. The meeting was not lengthy at all. In fact, even though we had scheduled three hours for the entire meeting, we actually concluded half an hour earlier than that. You see how efficient we have become. A copy of the meeting minutes will be faxed to you before 5:00 today. I hope to speak with you soon.\nSamuel",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What was the second item presented at the meeting?",
+        "choiceTexts": {
+          "A": "Progress report on overseas expansion.",
+          "B": "Reducing waste in our plants.",
+          "C": "Reassessing our financial goals.",
+          "D": "Hiring and firing policies."
+        },
+        "explanation": "E-mail cho biết Jean trình bày tài chính ngay sau Robert, nên mục thực tế thứ hai là Reassessing our financial goals."
+      },
+      {
+        "id": "20",
+        "prompt": "Who read the report on hiring and firing policies?",
+        "choiceTexts": {
+          "A": "Madeline Costello.",
+          "B": "Jean Duprey.",
+          "C": "Cynthia Weinstein.",
+          "D": "Samuel Lyon."
+        },
+        "explanation": "Samuel viết I read it in your place sau khi thư ký Cynthia fax báo cáo, nên Samuel là người đọc thay."
+      },
+      {
+        "id": "21",
+        "prompt": "What time did the meeting end?",
+        "choiceTexts": {
+          "A": "1:00.",
+          "B": "3:30.",
+          "C": "4:00.",
+          "D": "4:30."
+        },
+        "explanation": "Họp bắt đầu 1:00, dự kiến ba giờ nhưng kết thúc sớm nửa giờ: 1:00 + 2,5 giờ = 3:30."
+      },
+      {
+        "id": "22",
+        "prompt": "The word goals in the agenda is closest in meaning to",
+        "choiceTexts": {
+          "A": "objectives",
+          "B": "problems",
+          "C": "needs",
+          "D": "decisions"
+        },
+        "explanation": "Financial goals là các mục tiêu tài chính, tương đương objectives."
+      },
+      {
+        "id": "23",
+        "prompt": "The words adhere to in the e-mail are closest in meaning to",
+        "choiceTexts": {
+          "A": "study",
+          "B": "design",
+          "C": "follow",
+          "D": "understand"
+        },
+        "explanation": "Adhere to the agenda nghĩa là tuân theo chương trình họp, nên follow là từ gần nghĩa."
+      }
+    ]
+  }
+]

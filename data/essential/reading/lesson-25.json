@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-25-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "Before we begin, I think we should all focus on the ____ outcome of this effort.",
+        "choiceTexts": {
+          "A": "desirableness",
+          "B": "desire",
+          "C": "desired",
+          "D": "desirability"
+        },
+        "explanation": "Desired là phân từ dùng như tính từ bổ nghĩa outcome, nghĩa là kết quả mong muốn của nỗ lực này."
+      },
+      {
+        "id": "11",
+        "prompt": "The accountant can review all the ____ of the financial statement with you.",
+        "choiceTexts": {
+          "A": "detailed",
+          "B": "detailing",
+          "C": "details",
+          "D": "detail"
+        },
+        "explanation": "All the details cần danh từ số nhiều: kế toán có thể xem lại tất cả các chi tiết báo cáo tài chính."
+      },
+      {
+        "id": "12",
+        "prompt": "The ____ figures for the next quarter will not be available until a week from tomorrow.",
+        "choiceTexts": {
+          "A": "project",
+          "B": "projected",
+          "C": "projection",
+          "D": "projects"
+        },
+        "explanation": "Projected figures là các con số dự kiến; projected bổ nghĩa cho figures về quý tiếp theo."
+      },
+      {
+        "id": "13",
+        "prompt": "The projected financial statement demonstrated to Susan that her business had a ____ chance of increasing its profit over the next two quarters.",
+        "choiceTexts": {
+          "A": "realistic",
+          "B": "realist",
+          "C": "realistically",
+          "D": "reality"
+        },
+        "explanation": "Realistic là tính từ bổ nghĩa cho chance, chỉ cơ hội thực tế tăng lợi nhuận."
+      },
+      {
+        "id": "14",
+        "prompt": "To create our financial strategy, our consultant took the experiences of similar businesses and ____ relevant outcomes to our situation.",
+        "choiceTexts": {
+          "A": "translatable",
+          "B": "translation",
+          "C": "translator",
+          "D": "translated"
+        },
+        "explanation": "Translated là động từ quá khứ song song với took: chuyên gia áp dụng/chuyển kết quả liên quan vào hoàn cảnh doanh nghiệp."
+      },
+      {
+        "id": "15",
+        "prompt": "Our business experienced a ____ fall in profits during the third quarter of the year.",
+        "choiceTexts": {
+          "A": "typical",
+          "B": "typically",
+          "C": "type",
+          "D": "typed"
+        },
+        "explanation": "Typical là tính từ trước fall, chỉ sự sụt giảm thường gặp trong quý ba."
+      }
+    ]
+  },
+  {
+    "id": "essential-25-reading-6",
+    "readingPassage": "Memo\nTo: Department Heads\nFrom: Roy Jones, Manager\nRe: Planning Meeting\nAs you know, our quarterly planning meeting will take place in two weeks. I want to let you know some of the topics\nthat will be discussed, to give you a chance to prepare.\nFirst, the overall economic situation in the country looks very good for the coming year. Economists [16] ____ an\nincrease in consumer spending, especially in our sector. Therefore, we should look into increasing production. I\nbelieve that a 15 percent increase by the end of the year is a realistic target.\nSecond, since the company plans to increase sales overseas, we will need to hire several [17] ____. We will need to\ndiscuss how many we need and which languages should have priority.\nThese are the most important topics for the meeting. If anyone [18] ____ to put a special item on the meeting\nagenda, please let me know by the beginning of next week.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "foreclose",
+          "B": "forebode",
+          "C": "forego",
+          "D": "forecast"
+        },
+        "explanation": "Economists forecast an increase nghĩa là các nhà kinh tế dự báo chi tiêu tăng; các động từ khác không diễn đạt dự báo này."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "translators",
+          "B": "translates",
+          "C": "translations",
+          "D": "transports"
+        },
+        "explanation": "Hire several translators là thuê vài biên dịch viên; câu sau nói cần cân nhắc các ngôn ngữ ưu tiên."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "desire",
+          "B": "desires",
+          "C": "will desire",
+          "D": "have desired"
+        },
+        "explanation": "Anyone là chủ ngữ số ít nên dùng desires; mệnh đề if nói điều kiện hiện tại, không dùng will desire."
+      }
+    ]
+  },
+  {
+    "id": "essential-25-reading-7",
+    "readingPassage": "Do you have a sound financial plan for your small\nbusiness? You should. The majority of small businesses fail during the first five years, typically\nbecause they have not made realistic financial\nplans. A new business owner may start out with the\nnecessary funds, a qualified staff, and office space\nand equipment. These things may not save the\nbusiness from disaster, however, if the business\nowner hasn't set realistic targets and made plans to\nreach them. Everyone who contemplates starting a\nnew business should sit down and write out all the\ndetails of a financial plan before doing anything\nelse.\nTo:\nShirley Haines\nFrom:\nMatthew Rockwell\nSubject:\nFinancial planning\nAttach:\nFinancial Plans for Small Businesses\nShirley,\nHave you seen the attached article on financial planning? It appeared in this week's issue of Small\nBusiness Owner magazine. It has given me a new\nperspective on things. I can't believe we have already\nbeen running our business for six months, but we still\nhaven't sat down together to write out a financial plan.\nOverall, I believe our business is doing well, and we\ncertainly have enough clients. But, I now understand\nthat our future success depends on having a good\nfinancial plan. We need to project our earnings for the\nnext year and set financial targets. We should get to\nwork on this right away. Can we meet tomorrow afternoon? Three o'clock is a good time for me. Let me\nknow soon.\nMatthew",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "According to the article, why do most small businesses fail?",
+        "choiceTexts": {
+          "A": "Lack of financial planning.",
+          "B": "Lack of adequate office space.",
+          "C": "Lack of qualified staff.",
+          "D": "Lack of adequate funds."
+        },
+        "explanation": "Bài viết nêu nguyên nhân thường gặp là không lập kế hoạch tài chính thực tế, dù có vốn, nhân viên và văn phòng."
+      },
+      {
+        "id": "20",
+        "prompt": "Why did Matthew write the e-mail message?",
+        "choiceTexts": {
+          "A": "He wants to start a small business with Shirley.",
+          "B": "He is writing an article for a magazine.",
+          "C": "He wants to make a financial plan.",
+          "D": "He is looking for new clients."
+        },
+        "explanation": "Matthew muốn hai người ngồi lại lập kế hoạch, dự báo thu nhập và đặt mục tiêu tài chính cho doanh nghiệp hiện tại."
+      },
+      {
+        "id": "21",
+        "prompt": "When does Matthew want to meet with Shirley?",
+        "choiceTexts": {
+          "A": "Tomorrow.",
+          "B": "Next week.",
+          "C": "In six months.",
+          "D": "Next year."
+        },
+        "explanation": "E-mail hỏi Can we meet tomorrow afternoon? nên thời gian mong muốn là ngày mai."
+      },
+      {
+        "id": "22",
+        "prompt": "The word typically in the article is closest in meaning to",
+        "choiceTexts": {
+          "A": "unfortunately",
+          "B": "usually",
+          "C": "really",
+          "D": "sadly"
+        },
+        "explanation": "Typically chỉ điều thường xảy ra, gần nghĩa usually; không mang nghĩa buồn bã hay không may."
+      },
+      {
+        "id": "23",
+        "prompt": "The word perspective in the e-mail is closest in meaning to",
+        "choiceTexts": {
+          "A": "information",
+          "B": "advice",
+          "C": "goal",
+          "D": "view"
+        },
+        "explanation": "Perspective on things nghĩa là cách nhìn nhận vấn đề, tương đương view."
+      }
+    ]
+  }
+]

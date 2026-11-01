@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-13-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "The presentation was ____ seamlessly, giving an impressive image of the team.",
+        "choiceTexts": {
+          "A": "conduct",
+          "B": "conducted",
+          "C": "conducting",
+          "D": "conductor"
+        },
+        "explanation": "“Was conducted” là bị động quá khứ: buổi thuyết trình đã được tiến hành suôn sẻ."
+      },
+      {
+        "id": "11",
+        "prompt": "You need to consider how many new sales you ____ in comparison to how many standing clients put in orders.",
+        "choiceTexts": {
+          "A": "generator",
+          "B": "generated",
+          "C": "generating",
+          "D": "generation"
+        },
+        "explanation": "Mệnh đề sau chủ ngữ “you” cần động từ “generated”, chỉ doanh số đã tạo ra."
+      },
+      {
+        "id": "12",
+        "prompt": "After he was ____, he continued to take classes to upgrade his skills.",
+        "choiceTexts": {
+          "A": "hiring",
+          "B": "hires",
+          "C": "hired",
+          "D": "hire"
+        },
+        "explanation": "“He was hired” là bị động: anh ấy được tuyển; sau đó tiếp tục học nâng cao kỹ năng."
+      },
+      {
+        "id": "13",
+        "prompt": "Unfortunately, not all candidates can be offered a job; some have to be ____.",
+        "choiceTexts": {
+          "A": "rejected",
+          "B": "rejecting",
+          "C": "rejection",
+          "D": "reject"
+        },
+        "explanation": "“Have to be rejected” là bị động, chỉ một số ứng viên phải bị từ chối."
+      },
+      {
+        "id": "14",
+        "prompt": "The ____ of the program depends on the active participation of everyone.",
+        "choiceTexts": {
+          "A": "successfully",
+          "B": "succeed",
+          "C": "successful",
+          "D": "success"
+        },
+        "explanation": "“The success of the program” là sự thành công của chương trình; cần danh từ làm chủ ngữ."
+      },
+      {
+        "id": "15",
+        "prompt": "In all my years of ____, I have never seen such a motivated group of new hires.",
+        "choiceTexts": {
+          "A": "trainee",
+          "B": "training",
+          "C": "trains",
+          "D": "trainer"
+        },
+        "explanation": "“Years of training” là nhiều năm đào tạo; cần danh từ hoạt động sau giới từ “of”."
+      }
+    ]
+  },
+  {
+    "id": "essential-13-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "success",
+          "B": "succeed",
+          "C": "successful",
+          "D": "successfully"
+        },
+        "explanation": "Sau “the” và trước “of new hires” cần danh từ “success”, chỉ sự thành công của nhân viên mới."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "set up",
+          "B": "look up to",
+          "C": "keep up with",
+          "D": "stay on track with"
+        },
+        "explanation": "Người hướng dẫn giúp nhân viên đi đúng hướng với trách nhiệm mới; “stay on track with” diễn đạt ý này."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "train",
+          "B": "trainer",
+          "C": "trained",
+          "D": "training"
+        },
+        "explanation": "“Training programs” là các chương trình đào tạo; “training” bổ nghĩa cho loại chương trình."
+      }
+    ],
+    "readingPassage": "Mentoring\n\nIn order to ensure the [16] ____ of new hires, many companies have implemented a mentor program. This is a formal\nway to provide new hires with the guidance they need to [17] ____ the responsibilities of their new position. With a\nmentor in place, the new hire knows exactly who to go to when confused about policies and procedures. In addition,\nmany mentors conduct regular meetings with the people they are responsible for. This way they can make sure that\nno serious problems arise. A mentor does not necessarily replace formal [18] ____ programs. In fact, they often go hand\nin hand. New hires may need a lot of support initially. Mentors are a good way to provide this."
+  },
+  {
+    "id": "essential-13-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "How long will the training session last?",
+        "choiceTexts": {
+          "A": "Three hours.",
+          "B": "Six hours.",
+          "C": "Nine hours.",
+          "D": "Twelve hours."
+        },
+        "explanation": "Buổi học từ 9:30 sáng đến 3:30 chiều, tổng cộng sáu giờ."
+      },
+      {
+        "id": "20",
+        "prompt": "Who must attend the training session?",
+        "choiceTexts": {
+          "A": "All company employees.",
+          "B": "Only members of the Human Resources Department.",
+          "C": "Mentors and supervisors.",
+          "D": "All new hires."
+        },
+        "explanation": "Memo yêu cầu tất cả nhân viên mới tuyển từ tháng Sáu phải tham dự."
+      },
+      {
+        "id": "21",
+        "prompt": "Why doesn't Amelia Foote want to attend the training session?",
+        "choiceTexts": {
+          "A": "She has an important family event.",
+          "B": "She thinks it won't be useful.",
+          "C": "She believes the next session will be better.",
+          "D": "She doesn't have permission from her supervisor."
+        },
+        "explanation": "Amelia đã lên kế hoạch dự đám cưới cháu gái và mua vé máy bay, nên có sự kiện gia đình quan trọng."
+      },
+      {
+        "id": "22",
+        "prompt": "The word conducted in line 3 of the memo is closest in meaning to",
+        "choiceTexts": {
+          "A": "announced",
+          "B": "informed",
+          "C": "learned",
+          "D": "held"
+        },
+        "explanation": "“Session will be conducted” nghĩa là buổi học sẽ được tổ chức; tương đương “held”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word reject in line 12 of the e-mail is closest in meaning to",
+        "choiceTexts": {
+          "A": "consider",
+          "B": "accept",
+          "C": "say no",
+          "D": "agree to"
+        },
+        "explanation": "“Reject this offer” nghĩa là từ chối đề nghị, gần nghĩa “say no”."
+      }
+    ],
+    "readingPassage": "Memo\nTo: All new hires\nFrom: Edwin Mallory, Human Resources Director\nRe: Training session\nAll new hires are required to attend a training session\nwhich will take place on Friday, October 12 from 9:30\nA.M. until 3:30 P.M. The session will be conducted in\nMeeting Room 3, and lunch will be provided. During\nthe session you will get an overview of company policies and procedures. You will also be updated on\nchanges in the benefits package and learn about professional development opportunities you will be\nrequired to participate in so that you can keep up with\nchanges in your field. Attendance at this training is\nmandatory for everyone hired since June of this year.\nThere will be no excuses.\n\nTo: Edwin Mallory\nFrom: Amelia Foote\nSubject: Training session\nDear Mr. Mallory,\nI just learned from your memo that I will be required\nto attend the training session on October 12. Unfortunately, I had already planned to be out of the office that week attending my niece's wedding. My supervisor has given me permission to take that time off, and I have already purchased my plane tickets. I didn't know about the date of the training session\nwhen I set up these plans, and it will be very difficult\nto change them now. My mentor suggested that I ask\nyou for permission to miss this training session. I am\nwilling to attend the next session instead. I hope you\ndon't reject this offer. It is very important to me to be\nable to attend this family event. Thank you.\nAmelia Foote"
+  }
+]

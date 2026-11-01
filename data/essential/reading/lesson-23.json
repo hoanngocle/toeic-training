@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-23-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "The stockbroker recommended investing some money more ____.",
+        "choiceTexts": {
+          "A": "aggressive",
+          "B": "aggression",
+          "C": "aggressively",
+          "D": "aggressor"
+        },
+        "explanation": "Aggressively là trạng từ bổ nghĩa cho investing, diễn tả cách đầu tư mạnh dạn hơn."
+      },
+      {
+        "id": "11",
+        "prompt": "All employees are encouraged to ____ a percentage of their earnings to the retirement fund.",
+        "choiceTexts": {
+          "A": "committed",
+          "B": "commit",
+          "C": "commitment",
+          "D": "committing"
+        },
+        "explanation": "Be encouraged to + động từ nguyên mẫu: commit a percentage nghĩa là dành một tỷ lệ thu nhập vào quỹ hưu trí."
+      },
+      {
+        "id": "12",
+        "prompt": "Because he had made such ____ investments, he lost very little money when the stock market went down.",
+        "choiceTexts": {
+          "A": "conservative",
+          "B": "conserved",
+          "C": "conservatively",
+          "D": "conserve"
+        },
+        "explanation": "Conservative là tính từ bổ nghĩa investments: các khoản đầu tư thận trọng giúp giảm thiệt hại khi thị trường đi xuống."
+      },
+      {
+        "id": "13",
+        "prompt": "After months of study and research, the ____ decided to put his money into new facilities and materials.",
+        "choiceTexts": {
+          "A": "investor",
+          "B": "investment",
+          "C": "investing",
+          "D": "invested"
+        },
+        "explanation": "Investor là người thực hiện hành động quyết định đầu tư tiền; các lựa chọn còn lại không chỉ người."
+      },
+      {
+        "id": "14",
+        "prompt": "A good financial analyst will advise investors on strategies that will generate higher ____.",
+        "choiceTexts": {
+          "A": "returned",
+          "B": "returning",
+          "C": "returns",
+          "D": "returnable"
+        },
+        "explanation": "Higher returns cần danh từ returns, nghĩa là lợi nhuận cao hơn do chiến lược đầu tư tạo ra."
+      },
+      {
+        "id": "15",
+        "prompt": "Is it ____ to consider funding a new project when we haven't even seen the returns from the last one?",
+        "choiceTexts": {
+          "A": "wisdom",
+          "B": "wisest",
+          "C": "wisely",
+          "D": "wise"
+        },
+        "explanation": "Is it wise to... cần tính từ wise sau be: liệu tài trợ dự án mới đã là quyết định sáng suốt chưa."
+      }
+    ]
+  },
+  {
+    "id": "essential-23-reading-6",
+    "readingPassage": "Many people try to save money by acting as their own investment advisors. This is not usually considered to be a\nwise choice. In the long term, it can actually end up costing the investor more money because of poor investment\ndecisions. A professional investment advisor understands investment options more thoroughly than the layperson\never could. A good investment advisor becomes familiar with her clients' [16] ____ toward investing and gives advice\naccordingly. The advisor makes certain recommendations to clients who are conservative investors and makes\ndifferent recommendations to clients who prefer to invest more [17] ____. The best way to create a strong investment\n[18] ____ that matches your needs and preferred investing strategy is to work with a professional investment advisor.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "funds",
+          "B": "returns",
+          "C": "attitudes",
+          "D": "resources"
+        },
+        "explanation": "Attitudes toward investing là thái độ đối với đầu tư; phần sau phân biệt khách thận trọng và khách mạnh dạn."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "aggressor",
+          "B": "aggression",
+          "C": "aggressive",
+          "D": "aggressively"
+        },
+        "explanation": "Aggressively là trạng từ chỉ cách invest, đối lập với nhóm conservative investors trong câu trước."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "portage",
+          "B": "portrait",
+          "C": "portfolio",
+          "D": "portmanteau"
+        },
+        "explanation": "Investment portfolio là danh mục đầu tư, gồm các khoản đầu tư phù hợp nhu cầu và chiến lược của khách hàng."
+      }
+    ]
+  },
+  {
+    "id": "essential-23-reading-7",
+    "readingPassage": "To:\nAmelia Waddell\nFrom:\nPeter Simpkins\nSubject: Investment\nHi Amelia,\nI wondered if you would give me the name of your\ninvestment advisor. My business is doing very well this\nyear. In fact, I am now making a lot more money than\nI did when I had a job with a salary. I would prefer to\ninvest my profits in the stock market as I'm sure I\nwould earn more money that way than just letting it\nearn interest in a bank account. Of course, I want to\ninvest wisely, so I am looking for professional advice.\nYou know I tend to have a conservative attitude\ntoward money, and I hope your advisor can help me\nmake some safe investments. Please get back to me\nsoon as I'd like to get started on this before the end of\nthe month. Thanks.\nPeter\nTo:\nPeter Simpkins\nFrom:\nAmelia Waddell\nSubject: Re: Investment\nHi Peter,\nI would be happy to help you out. As a matter of fact,\nI just talked with my investment advisor this morning,\nand she mentioned that she is looking for more\nclients. Her name is Susannah Oliveros. I have been\nworking with her for several years and have always\nbeen satisfied. I have gotten good returns on the\ninvestments I have made with her. I will call you this\nafternoon, and we can discuss all the details then. I\nwill also give you her phone number so you can call\nher tomorrow. I know you will like her.\nAmelia",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Why did Peter write the e-mail message?",
+        "choiceTexts": {
+          "A": "He is looking for a job.",
+          "B": "He needs some investment advice.",
+          "C": "He lent some money to Amelia.",
+          "D": "He is looking for new clients."
+        },
+        "explanation": "Peter xin tên cố vấn vì muốn được hướng dẫn đầu tư một cách sáng suốt, nên mục đích là cần lời khuyên đầu tư."
+      },
+      {
+        "id": "20",
+        "prompt": "Why does Peter have extra money to invest?",
+        "choiceTexts": {
+          "A": "He earned a lot of interest in his bank account.",
+          "B": "He has a high salary.",
+          "C": "His business is very profitable.",
+          "D": "He made money in the stock market last year."
+        },
+        "explanation": "Peter nói doanh nghiệp đang hoạt động rất tốt và kiếm nhiều hơn công việc hưởng lương trước đây; tiền đầu tư đến từ lợi nhuận kinh doanh."
+      },
+      {
+        "id": "21",
+        "prompt": "When will Amelia call Peter?",
+        "choiceTexts": {
+          "A": "This morning.",
+          "B": "This afternoon.",
+          "C": "Tomorrow.",
+          "D": "Before the end of the month."
+        },
+        "explanation": "Amelia viết I will call you this afternoon; tomorrow là thời điểm Peter có thể gọi cố vấn."
+      },
+      {
+        "id": "22",
+        "prompt": "The word wisely is closest in meaning to",
+        "choiceTexts": {
+          "A": "smartly",
+          "B": "carefully",
+          "C": "quickly",
+          "D": "easily"
+        },
+        "explanation": "Wisely nghĩa là một cách sáng suốt, gần nghĩa smartly; carefully chỉ nhấn mạnh sự cẩn thận."
+      },
+      {
+        "id": "23",
+        "prompt": "The word returns is closest in meaning to",
+        "choiceTexts": {
+          "A": "goes back",
+          "B": "gives back",
+          "C": "suggestions",
+          "D": "profits"
+        },
+        "explanation": "Good returns on investments là lợi nhuận tốt từ đầu tư, tương ứng profits chứ không phải hành động quay lại."
+      }
+    ]
+  }
+]

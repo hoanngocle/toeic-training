@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-11-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "Your résumé shows you have ____ a great deal in your last position.",
+        "choiceTexts": {
+          "A": "accomplish",
+          "B": "accomplishment",
+          "C": "accomplished",
+          "D": "accomplishing"
+        },
+        "explanation": "“Have” cần quá khứ phân từ “accomplished” để tạo hiện tại hoàn thành, chỉ những thành tựu đã đạt."
+      },
+      {
+        "id": "11",
+        "prompt": "This program is used to scan résumés and search for key words that ____.",
+        "choiceTexts": {
+          "A": "match",
+          "B": "matched",
+          "C": "matching",
+          "D": "will match"
+        },
+        "explanation": "Chủ ngữ “key words” số nhiều dùng hiện tại đơn “match”; câu mô tả chức năng chung của chương trình."
+      },
+      {
+        "id": "12",
+        "prompt": "It is illegal to ____ candidates based on gender or ethnicity.",
+        "choiceTexts": {
+          "A": "profile",
+          "B": "profiling",
+          "C": "profiled",
+          "D": "will profile"
+        },
+        "explanation": "Sau “illegal to” cần nguyên mẫu “profile”, nghĩa là phân loại/đánh giá ứng viên theo đặc điểm."
+      },
+      {
+        "id": "13",
+        "prompt": "The applicants who ____ will be flown to the corporate office and interviewed there.",
+        "choiceTexts": {
+          "A": "qualification",
+          "B": "qualify",
+          "C": "qualifying",
+          "D": "qualifies"
+        },
+        "explanation": "“The applicants who qualify” là những ứng viên đạt yêu cầu; chủ ngữ số nhiều dùng “qualify”."
+      },
+      {
+        "id": "14",
+        "prompt": "The company hired a professional ____ to fill the vacant positions.",
+        "choiceTexts": {
+          "A": "recruited",
+          "B": "recruiting",
+          "C": "recruitment",
+          "D": "recruiter"
+        },
+        "explanation": "Công ty thuê một người chuyên tuyển dụng nên cần danh từ chỉ người “recruiter”."
+      },
+      {
+        "id": "15",
+        "prompt": "After ____ all his materials, he had no option but to sit back and wait for some response.",
+        "choiceTexts": {
+          "A": "submitting",
+          "B": "submitted",
+          "C": "submission",
+          "D": "submit"
+        },
+        "explanation": "Sau “After” không có chủ ngữ riêng dùng V-ing “submitting”, tức sau khi nộp hồ sơ."
+      }
+    ]
+  },
+  {
+    "id": "essential-11-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "bring together",
+          "B": "brings together",
+          "C": "brought together",
+          "D": "to bring together"
+        },
+        "explanation": "“This fair” số ít cần “brings together”; hội chợ tập hợp đại diện các công ty."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "accomplishes",
+          "B": "accomplished",
+          "C": "accomplishing",
+          "D": "accomplishments"
+        },
+        "explanation": "Cần danh từ song song với “education” và “job experience”; “accomplishments” là thành tích nghề nghiệp."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "time-consuming",
+          "B": "submitting",
+          "C": "recruiting",
+          "D": "profiling"
+        },
+        "explanation": "Gọi liên tục và gửi nhiều hồ sơ mất nhiều thời gian, nên “time-consuming” bổ nghĩa đúng cho việc tìm việc."
+      }
+    ],
+    "readingPassage": "Attention Job Seekers!\n\nAttend the National Recruiting Fair to be held next Saturday, May 11, at the Hinton Hotel. This fair [16] ____ representatives of over 150 major national corporations. They are all looking for qualified candidates to apply\nfor thousands of currently available job openings. Attendees are advised to bring 15 copies of a current résumé that\nlists education, job experience, and professional [17] ____. Many interviews will be conducted on site. Now you can\nstop that [18] ____ job search, making call after call and sending out résumé after résumé. All the companies you want\nto work for will be together under one roof. You are sure to find the company that is the best match for you. Admission\nis free."
+  },
+  {
+    "id": "essential-11-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Why does Mr. Smithers need to hire new staff members?",
+        "choiceTexts": {
+          "A": "He has recently fired several employees.",
+          "B": "His company has a lot of work.",
+          "C": "Marjorie Morgan is leaving her job.",
+          "D": "Several employees have been promoted."
+        },
+        "explanation": "Bill nói có nhiều hợp đồng mới và “abundant work”, nên cần thêm người xử lý công việc."
+      },
+      {
+        "id": "20",
+        "prompt": "What does Mr. Smithers ask Ms. Morgan to do?",
+        "choiceTexts": {
+          "A": "Interview job candidates.",
+          "B": "Send him comments.",
+          "C": "Make a plan to recruit new employees.",
+          "D": "Read the major national newspapers."
+        },
+        "explanation": "Bill yêu cầu “come up with a recruiting plan”, tức lập kế hoạch tuyển nhân viên mới."
+      },
+      {
+        "id": "21",
+        "prompt": "What will happen by April 30?",
+        "choiceTexts": {
+          "A": "Job candidates will submit their applications.",
+          "B": "Interviews will begin.",
+          "C": "Two or three new staff members will be hired.",
+          "D": "The new staff members will begin working."
+        },
+        "explanation": "Thời hạn nộp đơn là April 30; phỏng vấn chỉ bắt đầu ngày May 8."
+      },
+      {
+        "id": "22",
+        "prompt": "The word candidates in line 7 of the first e-mail is closest in meaning to",
+        "choiceTexts": {
+          "A": "advertisements",
+          "B": "descriptions",
+          "C": "recommendations",
+          "D": "applicants"
+        },
+        "explanation": "“Job candidates” là những người ứng tuyển công việc, tương đương “applicants”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word qualifications in lines 6-7 of the second e-mail is closest in meaning to",
+        "choiceTexts": {
+          "A": "quantities",
+          "B": "positions",
+          "C": "abilities",
+          "D": "salaries"
+        },
+        "explanation": "“Qualifications” trong quảng cáo là năng lực/trình độ cần có; “abilities” gần nghĩa nhất."
+      }
+    ],
+    "readingPassage": "To: Marjorie Morgan\nFrom: Bill Smithers\nSubject: Recruiting\nMarjorie,\nWe need to start looking at recruiting some new staff\nmembers over the summer. Our company has gotten\nlots of new contracts recently. We have abundant\nwork and need to take on two or three new employees\nto help with it. We should advertise the positions as\nentry-level with room for promotion. We should\nchoose the job candidates carefully as I don't want to\nhave to end up firing anyone who turns out to be a bad\nmatch. I would like the new staff members to start\nwork by June 10. Therefore, we should ask interested\ncandidates to submit their applications before the end\nof April so that we can start interviewing in early May.\nPlease come up with a recruiting plan and let me\nknow. Thanks.\nBill.\n\nTo: Bill Smithers\nFrom: Marjorie Morgan\nSubject: re: Recruiting\nAttachment: ad draft\nBill,\nHere is my plan for recruiting new staff members for this summer. I will place ads in our local newspapers, in two major national papers, and on the major web sites by April 1. The deadline for submission of applications will be April 30. We will start interviews on May 8. In the ads I will carefully outline the qualifications we are looking for. I am attaching a draft of the ad. Please look it over and send me your comments. I want to make sure it contains all the details you want.\n\nMarjorie"
+  }
+]

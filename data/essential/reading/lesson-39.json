@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-39-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "We paid a lot of money for this room and we expect an ____ level of service.",
+        "choiceTexts": {
+          "A": "advance",
+          "C": "advanced",
+          "B": "advances",
+          "D": "advancing"
+        },
+        "explanation": "Trước “level” cần tính từ “advanced” để mô tả mức dịch vụ cao; các dạng động từ còn lại không bổ nghĩa phù hợp cho danh từ này."
+      },
+      {
+        "id": "11",
+        "prompt": "Gladys ____ her reservation by calling in advance.",
+        "choiceTexts": {
+          "A": "confirmation",
+          "C": "confirming",
+          "B": "confirmed",
+          "D": "confirmative"
+        },
+        "explanation": "Câu cần động từ chính “confirmed” (đã xác nhận). Các phương án danh từ, tính từ và V-ing không tạo vị ngữ hoàn chỉnh."
+      },
+      {
+        "id": "12",
+        "prompt": "The Chamber of Commerce had high ____ for the amount of business the new hotel would bring to the town.",
+        "choiceTexts": {
+          "A": "expectancy",
+          "B": "expected",
+          "C": "expect",
+          "D": "expectations"
+        },
+        "explanation": "“Have high expectations” là có kỳ vọng cao. Câu nói về kỳ vọng đối với lượng khách kinh doanh khách sạn mang lại."
+      },
+      {
+        "id": "13",
+        "prompt": "The hotel received the ____ of our early arrival and had everything ready for us.",
+        "choiceTexts": {
+          "A": "notified",
+          "C": "notification",
+          "B": "notifies",
+          "D": "notify"
+        },
+        "explanation": "“The notification of” là thông báo về việc đến sớm. Sau “the” và trước “of” cần danh từ."
+      },
+      {
+        "id": "14",
+        "prompt": "I expect the rate that I was ____ over the phone and I will not accept any changes.",
+        "choiceTexts": {
+          "A": "quoted",
+          "C": "quotable",
+          "B": "quotation",
+          "D": "quotes"
+        },
+        "explanation": "“I was quoted” là cấu trúc bị động: tôi được báo giá qua điện thoại, nên dùng quá khứ phân từ “quoted”."
+      },
+      {
+        "id": "15",
+        "prompt": "Since we had made our ____ so far in advance, we saved considerably on the room rate.",
+        "choiceTexts": {
+          "A": "reserve",
+          "C": "reserved",
+          "B": "reservation",
+          "D": "reservable"
+        },
+        "explanation": "“Make a reservation” nghĩa là đặt chỗ. Sau “our” cần danh từ “reservation”."
+      }
+    ]
+  },
+  {
+    "id": "essential-39-reading-6",
+    "readingPassage": "Welcome to the Springflower Radford Hotel. We are part of the Radford Hotel Group, one of the top hotel chains in the world.\n\nYour comfort is important to us. When you check [16] ____, please let us know if you will need any special services during your stay.\n\nA [17] ____ will clean your room daily and supply you with fresh linens. Please notify her if you need any extra supplies for your room.\n\nThe exercise room and pool are available for the use of all guests. Exercise classes are offered daily. Registration is required in [18] ____. Please see the front desk clerk for more information.\n\nYou can book city tours through us. See the front desk clerk for a price quote. If you have already made a reservation for a city tour, we can confirm it for you.\n\nThank you for choosing a Radford Hotel. Have a pleasant stay.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "in",
+          "B": "out",
+          "C": "up",
+          "D": "for"
+        },
+        "explanation": "“Check in” là làm thủ tục nhận phòng; khách được yêu cầu nói nhu cầu đặc biệt ngay lúc đến."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "manager",
+          "B": "server",
+          "C": "housekeeper",
+          "D": "janitor"
+        },
+        "explanation": "Người dọn phòng và thay khăn, ga giường là “housekeeper”, đúng với mô tả công việc trong câu."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "advancement",
+          "B": "advanced",
+          "C": "advancer",
+          "D": "advance"
+        },
+        "explanation": "“In advance” là cụm cố định nghĩa là trước; khách phải đăng ký lớp tập trước."
+      }
+    ]
+  },
+  {
+    "id": "essential-39-reading-7",
+    "readingPassage": "June 10, 20—\nGisela Fried\nSpringflower Radford Hotel\n2857 King Street\nHartsdale, WI\n\nDear Ms. Fried,\n\nI am writing to let you know of the excellent service I received from your staff during my recent stay at the Springflower Radford Hotel. Although I had made an advance reservation for my stay, I had forgotten to confirm it. Thus, when I checked in at the hotel, there were no rooms available of the type I had wanted. Your kind and professional staff immediately found another, more luxurious, room for me. Although it was more expensive than the room I had reserved, they charged me the rate I had originally been quoted.\n\nThe excellent service continued throughout my stay and, indeed, exceeded my expectations. For example, the housekeeper cheerfully arrived to clean my room at 10:00 one evening after I had had problems with the bathtub overflowing. The staff at the front desk were always ready to answer my questions and were very helpful in assisting me to find my way around the city. All in all, my stay at the hotel was a very pleasant experience. I will certainly recommend this hotel to any of my friends who plan a visit to Hartsdale in the future.\n\nSincerely,\nAndrew Wyatt\n\nJune 17, 20—\nAndrew Wyatt\n23 North Cuttersville Road\nCreek Lake, MI\n\nDear Mr. Wyatt,\nThank you very much for your letter of June 10 notifying me of the fine service you received during your stay at the Springflower Radford Hotel. I am pleased to know that you had such a good experience as our guest. We at the Radford Hotel chain pride ourselves on the high quality of our service. As the hotel manager, I sometimes hear complaints about my staff, but it is just as important for me to hear about the fine work that they do.\nI am enclosing a coupon for the hotel restaurant so that the next time you stay with us, you can enjoy a meal free of charge at the Springflower Restaurant.\nSincerely,\nGisela Fried",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Why did Mr. Wyatt write the letter?",
+        "choiceTexts": {
+          "A": "To complain about the hotel.",
+          "B": "To ask for a rate quote.",
+          "C": "To reserve a room.",
+          "D": "To praise the hotel staff."
+        },
+        "explanation": "Wyatt kể nhiều ví dụ phục vụ xuất sắc và nói sẽ giới thiệu khách sạn cho bạn bè, nhằm khen nhân viên."
+      },
+      {
+        "id": "20",
+        "prompt": "Who is Ms. Fried?",
+        "choiceTexts": {
+          "A": "A hotel guest.",
+          "B": "The hotel manager.",
+          "C": "A housekeeper.",
+          "D": "The front desk clerk."
+        },
+        "explanation": "Fried tự giới thiệu “As the hotel manager”, nên bà là quản lý khách sạn."
+      },
+      {
+        "id": "21",
+        "prompt": "What does Ms. Fried offer Mr. Wyatt?",
+        "choiceTexts": {
+          "A": "A free meal.",
+          "B": "A less expensive room.",
+          "C": "A recommendation.",
+          "D": "A job."
+        },
+        "explanation": "Bà gửi phiếu để khách được ăn miễn phí tại nhà hàng trong lần lưu trú sau."
+      },
+      {
+        "id": "22",
+        "prompt": "The word rate in the first letter, first paragraph, line 9 is closest in meaning to",
+        "choiceTexts": {
+          "A": "time",
+          "B": "place",
+          "C": "price",
+          "D": "speed"
+        },
+        "explanation": "“Rate” ở đây là mức tiền khách sạn tính cho phòng, tương đương “price”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word notifying in the second letter, first paragraph, line 2 is closest in meaning to",
+        "choiceTexts": {
+          "A": "advertising",
+          "B": "complaining",
+          "C": "informing",
+          "D": "scolding"
+        },
+        "explanation": "“Notifying me” nghĩa là thông báo cho tôi về dịch vụ đã nhận, gần nghĩa “informing”."
+      }
+    ]
+  }
+]

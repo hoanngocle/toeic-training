@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-47-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "I don't want to ____ you, but there is a phone call waiting for you at the front desk.",
+        "choiceTexts": {
+          "A": "distractedly",
+          "C": "distraction",
+          "B": "distractible",
+          "D": "distract"
+        },
+        "explanation": "Sau “want to” cần nguyên mẫu “distract”: làm ai mất tập trung. Danh từ và tính từ không thể đứng ở vị trí này."
+      },
+      {
+        "id": "11",
+        "prompt": "My dentist always ____ me to floss more regularly.",
+        "choiceTexts": {
+          "A": "encouraging",
+          "C": "encourages",
+          "B": "encouragement",
+          "D": "encourage"
+        },
+        "explanation": "Chủ ngữ “My dentist” số ít và “always” diễn tả thói quen nên dùng hiện tại đơn “encourages”."
+      },
+      {
+        "id": "12",
+        "prompt": "It was ____ from the X-rays that I needed dental work.",
+        "choiceTexts": {
+          "A": "evident",
+          "C": "evidence",
+          "B": "evidently",
+          "D": "evidential"
+        },
+        "explanation": "“It was evident ... that” nghĩa là rõ ràng rằng. “Evident” là tính từ làm bổ ngữ cho “was”."
+      },
+      {
+        "id": "13",
+        "prompt": "Knowing his ____ tidiness, I'm not surprised to learn that David flosses three times a day.",
+        "choiceTexts": {
+          "A": "habit",
+          "C": "habitually",
+          "B": "habitual",
+          "D": "habitualness"
+        },
+        "explanation": "Trước danh từ “tidiness” cần tính từ “habitual”, nghĩa là tính ngăn nắp thường lệ của David."
+      },
+      {
+        "id": "14",
+        "prompt": "An ____ at the gum line can be nothing serious or the symptom of a larger problem.",
+        "choiceTexts": {
+          "A": "irritate",
+          "C": "irritation",
+          "B": "irritable",
+          "D": "irritability"
+        },
+        "explanation": "“An irritation” là một chỗ kích ứng ở đường viền nướu. “Irritability” thường chỉ tính dễ cáu hoặc dễ bị kích thích."
+      },
+      {
+        "id": "15",
+        "prompt": "____ visits to the dentist are necessary for maintaining good dental health.",
+        "choiceTexts": {
+          "A": "Regularly",
+          "C": "Regulate",
+          "B": "Regular",
+          "D": "Regulates"
+        },
+        "explanation": "“Visits” cần tính từ “Regular”: các lần khám định kỳ. “Regularly” là trạng từ, không bổ nghĩa trực tiếp cho danh từ."
+      }
+    ]
+  },
+  {
+    "id": "essential-47-reading-6",
+    "readingPassage": "The state of dental health in our nation is a cause for concern according to Dr. James Hibbard, president of the National Society of Dentists. Dr. Hibbard expressed his concerns in an article appearing this week in Our Dental Health magazine, which is distributed among dentists and other health care workers throughout the country. \"Most people don't have good dental [16] ____,\" he says. When people aren't careful about keeping their teeth clean, Dr. Hibbard warns, the result is [17] ____ gums, cavities, and even tooth loss. \"Dentists should be firmer about [18] ____ their patients to maintain their dental health. Dentists need to do more education with their patients, and patients need to follow their dentists' advice,\" recommends Dr. Hibbard.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "habit",
+          "B": "habits",
+          "C": "habitual",
+          "D": "habitually"
+        },
+        "explanation": "“Have good dental habits” nghĩa là có thói quen chăm sóc răng tốt. Danh từ đếm được không có mạo từ nên dùng số nhiều “habits”."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "irritate",
+          "B": "irritant",
+          "C": "irritated",
+          "D": "irritation"
+        },
+        "explanation": "“Irritated gums” là nướu bị kích ứng; phân từ “irritated” mô tả tình trạng nướu."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "encourage",
+          "B": "encourages",
+          "C": "encouraging",
+          "D": "to encourage"
+        },
+        "explanation": "Sau giới từ “about” dùng danh động từ “encouraging”: khuyến khích bệnh nhân duy trì sức khỏe răng miệng."
+      }
+    ]
+  },
+  {
+    "id": "essential-47-reading-7",
+    "readingPassage": "Attention dentists!\n\nYou know how important it is to have the best equipment for your office. So why settle for less? Evidence shows that outdated, under-functioning equipment can reduce a dentist's efficiency by 50 percent or more. The Acme Dental Supply Company offers state-of-the-art dental equipment at affordable rates.\n\n• Our special lighted dental mirrors illuminate all tooth surfaces better than any other light on the market. These mirrors are on sale this week at just $150 per set of three. That's 25 percent off the usual price.\n\n• Our automated patient chairs automatically adjust their positions so that you can always work comfortably, without back or shoulder strain. Available in several models and colors.\n\n• Our Dental Office Systems computer software streamlines record keeping so that you will never fall behind with your paperwork. Full version available at $500. Upgrade is $175.\n\n• Our special edition Dental Office CD set provides hours of soothing music that will keep your patients relaxed. You can focus on your work without being distracted by patient anxiety. Choose from String Quartet, Contemporary Jazz, or Sounds of Nature. $35 per boxed set. \n\nTo: pdaly@dentaloffice.com\nFrom: drbarb@dentaloffice.com\nSubject: office equipment\nattach: Acme Dental Supply\n\nPeter,\nTake a look at the attached ad. I think we should order a few things. I like the lighted mirrors and probably could use five or six sets, but maybe it's better to spend no more than $300 on them for now, so I can see how well they work first. We probably need the upgrade for the record keeping software, too. It will help you stay caught up with the patient records. I think we could do without those CDs, though, don't you? We do better with the radio. You might as well go ahead and order paper, envelopes, and anything else you need for the front office at the same time.\nThanks,\nBarbara\nBarbara Hendricks, DDS",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Who is Peter Daly?",
+        "choiceTexts": {
+          "A": "A dentist.",
+          "B": "A dental equipment salesman.",
+          "C": "A dental patient.",
+          "D": "A dentist's office manager."
+        },
+        "explanation": "Peter phụ trách hồ sơ bệnh nhân và mua giấy, phong bì cho khu lễ tân, nên là quản lý văn phòng nha sĩ."
+      },
+      {
+        "id": "20",
+        "prompt": "How many sets of mirrors does Dr. Hendricks want to order?",
+        "choiceTexts": {
+          "A": "Two.",
+          "B": "Three.",
+          "C": "Five.",
+          "D": "Six."
+        },
+        "explanation": "Bà muốn chi tối đa 300 đô la; mỗi bộ gương giá 150 đô la, nên mua hai bộ trước để thử."
+      },
+      {
+        "id": "21",
+        "prompt": "Which Acme product is sold to relax patients?",
+        "choiceTexts": {
+          "A": "Computer games.",
+          "B": "Automated chairs.",
+          "C": "Special lights.",
+          "D": "CD sets."
+        },
+        "explanation": "Quảng cáo nói bộ CD có nhạc dịu nhẹ giúp bệnh nhân thư giãn; đây là sản phẩm nhằm mục đích đó."
+      },
+      {
+        "id": "22",
+        "prompt": "The word illuminate in the first letter, second paragraph, line 1 is closest in meaning to",
+        "choiceTexts": {
+          "A": "smooth",
+          "B": "light",
+          "C": "clean",
+          "D": "repair"
+        },
+        "explanation": "“Illuminate” nghĩa là chiếu sáng bề mặt răng, tương đương “light”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word distracted in the first letter, fifth paragraph, line 3 is closest in meaning to",
+        "choiceTexts": {
+          "A": "interested",
+          "B": "entertained",
+          "C": "bothered",
+          "D": "introduced"
+        },
+        "explanation": "“Distracted by patient anxiety” nghĩa là bị sự lo lắng của bệnh nhân làm phiền, mất tập trung, gần nghĩa “bothered”."
+      }
+    ]
+  }
+]

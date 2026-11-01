@@ -1,0 +1,183 @@
+[
+  {
+    "id": "essential-14-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "All temporary workers are paid on an hourly ____ and receive no benefits.",
+        "choiceTexts": {
+          "A": "base",
+          "B": "based",
+          "C": "basis",
+          "D": "basic"
+        },
+        "explanation": "Cụm chuẩn là “on an hourly basis”, nghĩa là tính theo giờ; cần danh từ “basis”.",
+        "answerOverride": "C",
+        "sourceNote": "Đã đối chiếu đề ở trang PDF 99 và bảng đáp án ở trang PDF 334: bảng đáp án in A, nhưng phương án C (basis) mới phù hợp ngữ pháp của câu. Giữ nguyên nội dung lựa chọn và sửa đáp án chấm bài."
+      },
+      {
+        "id": "11",
+        "prompt": "What is the company's policy on ____ for part-time workers?",
+        "choiceTexts": {
+          "A": "benefited",
+          "B": "beneficial",
+          "C": "benefits",
+          "D": "benefit"
+        },
+        "explanation": "“Benefits” chỉ các chế độ phúc lợi cho nhân viên bán thời gian và là danh từ số nhiều phù hợp ngữ cảnh.",
+        "answerOverride": "C",
+        "sourceNote": "Đã đối chiếu đề ở trang PDF 99 và bảng đáp án ở trang PDF 334: bảng đáp án in D, nhưng phương án C (benefits) mới phù hợp ngữ pháp của câu. Giữ nguyên nội dung lựa chọn và sửa đáp án chấm bài."
+      },
+      {
+        "id": "12",
+        "prompt": "The tired employee hoped that she would be ____ for all the long hours she kept and weekends she worked.",
+        "choiceTexts": {
+          "A": "compensation",
+          "B": "compensates",
+          "C": "compensated",
+          "D": "compensate"
+        },
+        "explanation": "“She would be compensated” là bị động, nghĩa là cô ấy được trả công/bù đắp cho giờ làm thêm.",
+        "answerOverride": "C",
+        "sourceNote": "Đã đối chiếu đề ở trang PDF 99 và bảng đáp án ở trang PDF 334: bảng đáp án in B, nhưng phương án C (compensated) mới phù hợp ngữ pháp của câu. Giữ nguyên nội dung lựa chọn và sửa đáp án chấm bài."
+      },
+      {
+        "id": "13",
+        "prompt": "Sometimes the manager is too ____ and his workers take advantage of him.",
+        "choiceTexts": {
+          "A": "flex",
+          "B": "flexible",
+          "C": "flexibly",
+          "D": "flexibility"
+        },
+        "explanation": "Sau “is too” cần tính từ “flexible”, chỉ người quản lý quá dễ dãi nên bị lợi dụng."
+      },
+      {
+        "id": "14",
+        "prompt": "If the ____ continue into the evening, we will break for dinner at six.",
+        "choiceTexts": {
+          "A": "negotiator",
+          "B": "negotiations",
+          "C": "negotiate",
+          "D": "negotiated"
+        },
+        "explanation": "Chủ ngữ đi với “continue” phải là danh từ số nhiều “negotiations”, tức các cuộc đàm phán.",
+        "answerOverride": "B",
+        "sourceNote": "Đã đối chiếu đề ở trang PDF 99 và bảng đáp án ở trang PDF 334: bảng đáp án in C, nhưng phương án B (negotiations) mới phù hợp ngữ pháp của câu. Giữ nguyên nội dung lựa chọn và sửa đáp án chấm bài."
+      },
+      {
+        "id": "15",
+        "prompt": "No one is sure what will happen to the company when the president finally ____.",
+        "choiceTexts": {
+          "A": "retires",
+          "B": "retirement",
+          "C": "retired",
+          "D": "retiree"
+        },
+        "explanation": "Mệnh đề thời gian với “when” nói tương lai dùng hiện tại đơn; chủ ngữ số ít “president” đi với “retires”.",
+        "answerOverride": "A",
+        "sourceNote": "Đã đối chiếu đề ở trang PDF 99 và bảng đáp án ở trang PDF 334: bảng đáp án in D, nhưng phương án A (retires) mới phù hợp ngữ pháp của câu. Giữ nguyên nội dung lựa chọn và sửa đáp án chấm bài."
+      }
+    ]
+  },
+  {
+    "id": "essential-14-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "be",
+          "B": "is",
+          "C": "are",
+          "D": "were"
+        },
+        "explanation": "Sau động từ khuyết thiếu “may” dùng nguyên mẫu “be”; “be aware” là biết/nhận thức."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "flexible",
+          "B": "beneficial",
+          "C": "eligible",
+          "D": "negotiable"
+        },
+        "explanation": "“Eligible for” nghĩa là đủ điều kiện được xét tăng lương; các tính từ khác không diễn đạt điều kiện hưởng quyền lợi."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "will compensate",
+          "B": "are going to compensate",
+          "C": "will be compensated",
+          "D": "have to compensate"
+        },
+        "explanation": "Nhân viên sẽ được trả công nên cần bị động tương lai “will be compensated”."
+      }
+    ],
+    "readingPassage": "To all union members:\n\nYour union has been working for you. You may [16] ____ aware that we have been negotiating with management for\nimprovements in the benefits package. Yesterday an agreement was reached on the following points:\n1) All employees of the company will be [17] ____ for an increase in wages every six months, following a\nperformance review. Reasons for refusal to give a raise must be carefully documented according to union\nguidelines.\n2) Employees [18] ____ at one and a half times their usual hourly wages for overtime hours. Any time worked\nbeyond 40 hours a week counts as overtime.\n3) Part-time employees can now receive full health benefits. It is each employee's responsibility to complete and\nsubmit the application forms. Part-time employees are also guaranteed five days of paid vacation per year.\nThese two benefits apply to employees who work a minimum of 20 hours per week on a permanent basis."
+  },
+  {
+    "id": "essential-14-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "How old is James Porter?",
+        "choiceTexts": {
+          "A": "Between 22 and 25.",
+          "B": "25.",
+          "C": "Younger than 60.",
+          "D": "Exactly 60."
+        },
+        "explanation": "Email nói trực tiếp “you are younger than 60 years old”, không cho tuổi chính xác."
+      },
+      {
+        "id": "20",
+        "prompt": "Who can receive retirement benefits after James dies?",
+        "choiceTexts": {
+          "A": "His children.",
+          "B": "His wife.",
+          "C": "All of his dependents.",
+          "D": "Nobody."
+        },
+        "explanation": "Nếu ông qua đời trước vợ, vợ tiếp tục nhận toàn bộ quyền lợi hưu trí suốt đời."
+      },
+      {
+        "id": "21",
+        "prompt": "Who can get health coverage when James retires?",
+        "choiceTexts": {
+          "A": "His 19-year-old son who lives at home.",
+          "B": "His 20-year-old daughter who lives with her spouse.",
+          "C": "Any of his children who want it.",
+          "D": "Only his wife."
+        },
+        "explanation": "Con phụ thuộc dưới 21 tuổi và sống tại nhà được bảo hiểm; con trai 19 tuổi đáp ứng hai điều kiện này."
+      },
+      {
+        "id": "22",
+        "prompt": "The word basis in line 2 is closest in meaning to",
+        "choiceTexts": {
+          "A": "solution",
+          "B": "formula",
+          "C": "amount",
+          "D": "foundation"
+        },
+        "explanation": "“On the basis of age and ... years of service” là dựa trên nền tảng tuổi và thâm niên; gần nghĩa “foundation”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word delicate in line 7 is closest in meaning to",
+        "choiceTexts": {
+          "A": "sensitive",
+          "B": "complicated",
+          "C": "necessary",
+          "D": "interesting"
+        },
+        "explanation": "Nói về việc qua đời là vấn đề nhạy cảm, nên “delicate” ở đây là “sensitive”."
+      }
+    ],
+    "readingPassage": "To: James Porter\nFrom: Helene Bourassa\nSubject: Re: Benefits questions\nDear James,\nI will try to clarify for you your questions about retirement benefits.\nTime of retirement: The time at which an employee can retire is calculated on the basis of age and number of years of service to the company. An employee of the company can retire with full benefits at age 55 if he or she has worked a minimum of 30 years for the company. Employees can retire at age 60 or above with 25 years of service to the company. Since\nyou are younger than 60 years old and have worked for the company for 22 years, you won't be eligible to retire for another few years.\nBenefits for your spouse: I know this is a delicate matter, but it is important to know about. If you die before your spouse,\nshe will continue to receive full retirement benefits for the rest of her life.\nHealth insurance: Retirees are eligible to receive health insurance. There are several packages to choose from, and I will\nsend you brochures about them. Your spouse will also be eligible for health coverage when you retire. If you happen to\nhave any dependent children under the age of 21 and living at home, they, too, will be eligible for health coverage.\nI hope this answers your questions. Please don't hesitate to contact me if you need any further information.\nHelene"
+  }
+]

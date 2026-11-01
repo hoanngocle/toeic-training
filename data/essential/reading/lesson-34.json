@@ -1,0 +1,174 @@
+[
+  {
+    "id": "essential-34-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "Susannah is having a hard time becoming ____ the long hours of her job at the restaurant.",
+        "choiceTexts": {
+          "A": "custom",
+          "B": "customs",
+          "C": "accustoms to",
+          "D": "accustomed to"
+        },
+        "explanation": "Become accustomed to nghĩa là dần quen với điều gì; Susannah đang khó thích nghi với giờ làm dài. Phương án đã chứa giới từ to.",
+        "sourceNote": "Bản in lặp giới từ “to”: câu có “____ to” nhưng phương án D đã là “accustomed to”. Đã bỏ “to” sau chỗ trống để tránh lặp, giữ nguyên các lựa chọn."
+      },
+      {
+        "id": "11",
+        "prompt": "The student accepted a six-month ____ with a famous chef.",
+        "choiceTexts": {
+          "A": "apprentice",
+          "B": "apprenticed",
+          "C": "apprenticing",
+          "D": "apprenticeship"
+        },
+        "explanation": "A six-month apprenticeship là kỳ học nghề sáu tháng; apprenticeship chỉ chương trình, còn apprentice chỉ người học."
+      },
+      {
+        "id": "12",
+        "prompt": "The patrons at this restaurant are often ____, but they usually tip well.",
+        "choiceTexts": {
+          "A": "demands",
+          "B": "demanded",
+          "C": "demanding",
+          "D": "demand"
+        },
+        "explanation": "Sau are cần tính từ demanding: khách hàng hay đòi hỏi nhưng thường cho tiền boa tốt."
+      },
+      {
+        "id": "13",
+        "prompt": "I love this chef's cooking style, which ____ so many different tastes.",
+        "choiceTexts": {
+          "A": "incorporation",
+          "B": "incorporates",
+          "C": "incorporating",
+          "D": "incorporator"
+        },
+        "explanation": "Which thay cho cooking style số ít, nên dùng incorporates: phong cách nấu ăn kết hợp nhiều hương vị."
+      },
+      {
+        "id": "14",
+        "prompt": "The experienced chef was ____ about the way he prepared his award-winning dish.",
+        "choiceTexts": {
+          "A": "method",
+          "B": "methodical",
+          "C": "methodically",
+          "D": "methodology"
+        },
+        "explanation": "Was methodical cần tính từ diễn tả đầu bếp làm việc có phương pháp, có hệ thống."
+      },
+      {
+        "id": "15",
+        "prompt": "The ____ attitude of the staff is one of the keys to a restaurant's success.",
+        "choiceTexts": {
+          "A": "professional",
+          "B": "professionalism",
+          "C": "profession",
+          "D": "professionally"
+        },
+        "explanation": "Professional là tính từ bổ nghĩa attitude, nghĩa là thái độ chuyên nghiệp của nhân viên."
+      }
+    ]
+  },
+  {
+    "id": "essential-34-reading-6",
+    "readingPassage": "More and more people are choosing to become professional chefs. The number of students enrolled in culinary\nschools is growing every year. People choose this career for different reasons. Some [16] ____ to a cooking career\nbecause of a love of food. Others find that cooking is the perfect [17] ____ for their creativity. People traditionally think\nof Paris as the city where professional chefs are trained. However, fine culinary schools can be found all over the\nworld. The [18] ____ of a cooking career are great, but there are also many rewards.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "draw",
+          "B": "are drawn",
+          "C": "have drawn",
+          "D": "are drawing"
+        },
+        "explanation": "People are drawn to a career là bị thu hút đến nghề đó; tình yêu ẩm thực là lý do của sự thu hút."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "outlay",
+          "B": "output",
+          "C": "outage",
+          "D": "outlet"
+        },
+        "explanation": "Outlet for creativity là phương tiện/cách thể hiện sự sáng tạo, phù hợp với nghề nấu ăn."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "demand",
+          "B": "demands",
+          "C": "demanders",
+          "D": "demanding"
+        },
+        "explanation": "The demands ... are great cần danh từ số nhiều demands, tức yêu cầu công việc cao nhưng cũng có nhiều phần thưởng."
+      }
+    ]
+  },
+  {
+    "id": "essential-34-reading-7",
+    "readingPassage": "Welcome to the National Institute of the Culinary\nArts. You have chosen to enter a highly rewarding\nprofession. People are drawn to this career for\nmany different reasons, but you all have something\nin common--an appreciation of fine food. At the\ninstitute you will have the opportunity to study\nwith some of the most highly skilled chefs in the\nworld. In order to take the best advantage of this\nopportunity, you need to approach it with an open\nmind. Be ready to relinquish your old ideas about\ncooking and take in new ideas about the most artistic methods of preparing food. While at the institute, you will become accustomed to long hours,\nhard work, and also wonderful results. By the time\nyou have finished with your coursework and are\nready to start your apprenticeship, you will feel that\nyou have accomplished much more than you ever\nexpected to here at the institute. Please take the\ntime to look over the following pages carefully as\nthey contain all the information you need about\ncourse requirements, textbooks, apprenticeship\nopportunities, and the instructors at the institute.",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Who is the audience for this article?",
+        "choiceTexts": {
+          "A": "Students.",
+          "B": "Instructors.",
+          "C": "Working chefs.",
+          "D": "Restaurant patrons."
+        },
+        "explanation": "Bài chào mừng những người sẽ học với đầu bếp và hoàn thành coursework, nên đối tượng là học viên."
+      },
+      {
+        "id": "20",
+        "prompt": "What kind of place is the institute?",
+        "choiceTexts": {
+          "A": "A restaurant.",
+          "B": "A bookstore.",
+          "C": "An art school.",
+          "D": "A cooking school."
+        },
+        "explanation": "Viện đào tạo đầu bếp, có môn học và chương trình học nghề, nên đây là trường dạy nấu ăn."
+      },
+      {
+        "id": "21",
+        "prompt": "What does the writer ask the readers to do?",
+        "choiceTexts": {
+          "A": "Start cooking.",
+          "B": "Order more courses.",
+          "C": "Keep reading.",
+          "D": "Enjoy fine food."
+        },
+        "explanation": "Cuối bài yêu cầu look over the following pages carefully, tức tiếp tục đọc các trang sau để biết thông tin."
+      },
+      {
+        "id": "22",
+        "prompt": "The word relinquish is closest in meaning to",
+        "choiceTexts": {
+          "A": "let go",
+          "B": "add to",
+          "C": "share",
+          "D": "discuss"
+        },
+        "explanation": "Relinquish your old ideas nghĩa là từ bỏ các ý tưởng cũ để tiếp thu ý tưởng mới; let go gần nghĩa nhất."
+      },
+      {
+        "id": "23",
+        "prompt": "The words accustomed to are closest in meaning to",
+        "choiceTexts": {
+          "A": "interested in",
+          "B": "tired from",
+          "C": "bored by",
+          "D": "used to"
+        },
+        "explanation": "Become accustomed to long hours nghĩa là quen với giờ làm dài, tương đương used to."
+      }
+    ]
+  }
+]

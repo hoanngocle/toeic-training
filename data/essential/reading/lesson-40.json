@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-40-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "The constant road repair work made driving through the city ____.",
+        "choiceTexts": {
+          "A": "confuse",
+          "C": "confusion",
+          "B": "confuses",
+          "D": "confusing"
+        },
+        "explanation": "“Make + tân ngữ + tính từ”: việc sửa đường làm việc lái xe trở nên khó hiểu, nên dùng “confusing”."
+      },
+      {
+        "id": "11",
+        "prompt": "I don't think it is a ____ that the special discount rate for renting a car expires right before the holiday weekend.",
+        "choiceTexts": {
+          "A": "coincidental",
+          "C": "coincidence",
+          "B": "coincidentally",
+          "D": "coincide"
+        },
+        "explanation": "Sau “a” cần danh từ đếm được “coincidence”, nghĩa là sự trùng hợp về thời điểm hết ưu đãi."
+      },
+      {
+        "id": "12",
+        "prompt": "It was ____ to discover that the car rental company had only compact cars available.",
+        "choiceTexts": {
+          "A": "disappointing",
+          "B": "disappointed",
+          "C": "disappointment",
+          "D": "disappoints"
+        },
+        "explanation": "“It” chỉ sự việc gây thất vọng, nên dùng “disappointing”. “Disappointed” mô tả cảm xúc của người."
+      },
+      {
+        "id": "13",
+        "prompt": "Our ____ is to rent a comfortable car and spend several weeks driving through the mountains.",
+        "choiceTexts": {
+          "A": "intent",
+          "B": "intently",
+          "C": "intention",
+          "D": "intend"
+        },
+        "explanation": "“Our intention is to” nghĩa là ý định của chúng tôi là làm gì; “intention” là danh từ phù hợp sau sở hữu từ."
+      },
+      {
+        "id": "14",
+        "prompt": "Tito ____ drove the rental car through the crowded garage following the signs to the car rental return location.",
+        "choiceTexts": {
+          "A": "nerve",
+          "C": "nervous",
+          "B": "nervousness",
+          "D": "nervously"
+        },
+        "explanation": "Cần trạng từ bổ nghĩa cho “drove”: “nervously” diễn tả cách Tito lái xe trong lo lắng."
+      },
+      {
+        "id": "15",
+        "prompt": "The new car rental company ____ me to try them by offering a discount coupon toward my next rental.",
+        "choiceTexts": {
+          "A": "tempted",
+          "C": "temptation",
+          "B": "tempting",
+          "D": "temptress"
+        },
+        "explanation": "Câu cần động từ chính “tempted”: công ty đã thu hút người nói dùng thử bằng phiếu giảm giá."
+      }
+    ]
+  },
+  {
+    "id": "essential-40-reading-6",
+    "readingPassage": "Are you looking for a reliable rental car? Look no more.\n\nRiverton Rent-a-Car offers the most reliable and economical rental cars in town.\n\nYou are sure to find the car you want at Riverton Rent-a-Car. We have several tiers of cars, from budget to luxury.\n\nOur rates start at $19.99 daily for a compact car, with several [16] ____ available including two-door and four-door sedans and hatchbacks.\n\nHave you always wanted to experience the [17] ____ of driving a luxury sports car? Live your dream by renting a sports car from Riverton Rent-a-Car. Daily and weekly rates are available. Contact us to find out more.\n\nRent a car from Riverton Rent-a-Car. You won't [18] ____.",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "optics",
+          "B": "options",
+          "C": "optimists",
+          "D": "opticians"
+        },
+        "explanation": "Các kiểu xe hai cửa, bốn cửa và hatchback là những lựa chọn (“options”), không phải người hay thiết bị quang học."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "thrill",
+          "B": "thriller",
+          "C": "thrilled",
+          "D": "thrilling"
+        },
+        "explanation": "“The thrill of” là sự phấn khích khi làm việc gì. Sau “the” cần danh từ chỉ cảm giác, không phải “thriller” (truyện/phim giật gân)."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "disappoint",
+          "B": "disappointed",
+          "C": "be disappointed",
+          "D": "are disappointed"
+        },
+        "explanation": "Sau “won't” dùng nguyên mẫu; “be disappointed” diễn tả trạng thái không bị thất vọng của khách hàng."
+      }
+    ]
+  },
+  {
+    "id": "essential-40-reading-7",
+    "readingPassage": "Will your next trip involve a rental car? With a little careful planning, you can prevent some common headaches. If your travel plans coincide with a holiday, you need to plan well ahead of time. Car rental agencies are very busy at such times, and you won't be guaranteed a car unless you make your reservation well in advance. Contact the car rental agency and specify the kind of car you want and the dates you will need it. It's a good idea to call the agency again shortly before you begin your trip to confirm your reservation. This is the best way to avoid disappointment.\n\nAnother common problem that car renters face is extra charges. Some agencies add charges for options without letting the renter know about them. Sometimes renters aren't aware of this until they receive their credit card bill. Read the contract carefully before you sign it to make sure that you are paying only for what you requested. And don't be tempted to pay for things you don't need. It might be fun to drive a large, luxury car, but if you are traveling alone and are on a budget, it probably isn't worth paying for such a car.",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Who is the audience for this article?",
+        "choiceTexts": {
+          "A": "Car rental agents.",
+          "B": "Travel agents.",
+          "C": "Car renters.",
+          "D": "Car owners."
+        },
+        "explanation": "Bài hướng dẫn đặt xe và tránh phí phát sinh, dành cho người thuê xe (“car renters”)."
+      },
+      {
+        "id": "20",
+        "prompt": "What is a problem for holiday travelers?",
+        "choiceTexts": {
+          "A": "Businesses are closed.",
+          "B": "Rental agencies are very busy.",
+          "C": "Rental rates go up.",
+          "D": "People get headaches."
+        },
+        "explanation": "Bài nói các hãng cho thuê rất bận vào dịp lễ, vì vậy cần đặt sớm để chắc chắn có xe."
+      },
+      {
+        "id": "21",
+        "prompt": "How can a car renter avoid paying extra charges?",
+        "choiceTexts": {
+          "A": "Read the contract.",
+          "B": "Confirm reservations.",
+          "C": "Pay with a credit card.",
+          "D": "Make a budget."
+        },
+        "explanation": "Đoạn hai khuyên đọc kỹ hợp đồng trước khi ký để chỉ trả tiền cho dịch vụ mình yêu cầu."
+      },
+      {
+        "id": "22",
+        "prompt": "The word disappointment in the first paragraph, line 12 is closest in meaning to",
+        "choiceTexts": {
+          "A": "expense",
+          "B": "disagreement",
+          "C": "cancellation",
+          "D": "unhappiness"
+        },
+        "explanation": "“Disappointment” là cảm giác không vui khi mong đợi không thành hiện thực, gần nghĩa “unhappiness”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word options in the second paragraph, line 3 is closest in meaning to",
+        "choiceTexts": {
+          "A": "features",
+          "B": "choices",
+          "C": "purchases",
+          "D": "customers"
+        },
+        "explanation": "“Options” là những lựa chọn dịch vụ bổ sung mà hãng có thể tính thêm tiền, nên chọn “choices”."
+      }
+    ]
+  }
+]

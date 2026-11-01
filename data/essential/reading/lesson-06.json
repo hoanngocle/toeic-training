@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-06-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "In order to ____ your e-mail messages, you must type in your password.",
+        "choiceTexts": {
+          "A": "access",
+          "B": "accessible",
+          "C": "accessed",
+          "D": "accessibility"
+        },
+        "explanation": "Sau “in order to” cần động từ nguyên mẫu “access”, nghĩa là truy cập thư điện tử."
+      },
+      {
+        "id": "11",
+        "prompt": "After reviewing the schedule, I realized we had not ____ enough time for the software training.",
+        "choiceTexts": {
+          "A": "allocate",
+          "B": "allocated",
+          "C": "allocating",
+          "D": "allocation"
+        },
+        "explanation": "“Had not” cần quá khứ phân từ “allocated” tạo quá khứ hoàn thành: chưa dành đủ thời gian trước khi xem lịch."
+      },
+      {
+        "id": "12",
+        "prompt": "The computer staff is responsible for making sure all system files are ____.",
+        "choiceTexts": {
+          "A": "duplication",
+          "B": "duplicated",
+          "C": "duplicator",
+          "D": "duplicate"
+        },
+        "explanation": "Các tệp được sao chép nên dùng bị động “are duplicated”; “duplication” là danh từ."
+      },
+      {
+        "id": "13",
+        "prompt": "____ to examine the capabilities of the computer carefully has cost us a lot of time and money.",
+        "choiceTexts": {
+          "A": "Fail",
+          "B": "Failure",
+          "C": "Failed",
+          "D": "Fallible"
+        },
+        "explanation": "Cụm làm chủ ngữ là “Failure to examine ...”, nghĩa là việc không kiểm tra đã gây tốn kém."
+      },
+      {
+        "id": "14",
+        "prompt": "She ____ the warning that the hard drive was full, and consequently they were unable to save the test data.",
+        "choiceTexts": {
+          "A": "ignore",
+          "B": "ignored",
+          "C": "ignoring",
+          "D": "ignorant"
+        },
+        "explanation": "Hành động bỏ qua cảnh báo xảy ra trong quá khứ, phù hợp “were unable”; chọn “ignored”."
+      },
+      {
+        "id": "15",
+        "prompt": "The computer will ____ you to save your work before quitting.",
+        "choiceTexts": {
+          "A": "warning",
+          "B": "warned",
+          "C": "warn",
+          "D": "warns"
+        },
+        "explanation": "Sau “will” cần động từ nguyên mẫu “warn”; cấu trúc “warn you to save” là nhắc/cảnh báo lưu công việc."
+      }
+    ]
+  },
+  {
+    "id": "essential-06-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "keyboard",
+          "B": "display",
+          "C": "printer",
+          "D": "controls"
+        },
+        "explanation": "Nếu không nhìn thấy nội dung hiển thị thì phải kiểm tra màn hình đã bật; “display” phù hợp với “monitor”."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "figure out",
+          "B": "to figure out",
+          "C": "will figure out",
+          "D": "figures out"
+        },
+        "explanation": "Sau “can” dùng nguyên mẫu “figure out”, nghĩa là tìm hiểu/xác định vấn đề."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "accesses",
+          "B": "accessing",
+          "C": "accessible",
+          "D": "inaccessible"
+        },
+        "explanation": "Văn bản nói cần mật khẩu; khi không có mật khẩu, các phần của website không truy cập được: “inaccessible”."
+      }
+    ],
+    "readingPassage": "Memo\nTo: All Office Staff\nFrom: IT Department\nRe: Avoiding Computer Problems\nWe are here to help you with any problems you may have with your computer. Please make our job easier by\nobserving the following guidelines.\n• If you have problems seeing the [16] ____, check to make sure that your monitor is turned on.\n• If your computer crashes, write down any warning message that appears. We can [17] ____ a problem more easily if\nwe have this information.\n• Please do not install any new software without our approval. Some software is not compatible with what is already\non the computer and can cause problems.\n• Some parts of the company web site are [18] ____ without a password. If you need a password, please let us know\nand we will assign you one."
+  },
+  {
+    "id": "essential-06-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What does Janet want Jim to help her with?",
+        "choiceTexts": {
+          "A": "Finding money to buy a computer.",
+          "B": "Accessing her files.",
+          "C": "Choosing a new computer.",
+          "D": "Repairing her computer."
+        },
+        "explanation": "Janet nói cần lời khuyên “to help me select the right one”, tức giúp chọn máy mới."
+      },
+      {
+        "id": "20",
+        "prompt": "What does Janet plan to do this weekend?",
+        "choiceTexts": {
+          "A": "Call Jim.",
+          "B": "Go on a date with Jim.",
+          "C": "Look for a new computer.",
+          "D": "Figure out the reason for her problems."
+        },
+        "explanation": "Janet dự định đến các cửa hàng vào thứ Bảy và Chủ nhật để tìm máy tính mới."
+      },
+      {
+        "id": "21",
+        "prompt": "When will Janet's big project begin?",
+        "choiceTexts": {
+          "A": "Saturday.",
+          "B": "Sunday.",
+          "C": "Before the weekend.",
+          "D": "Next month."
+        },
+        "explanation": "Thư nói “a big project coming up next month”, tức dự án bắt đầu vào tháng tới."
+      },
+      {
+        "id": "22",
+        "prompt": "The word allocated in line 3 is closest in meaning to",
+        "choiceTexts": {
+          "A": "earned",
+          "B": "designated",
+          "C": "borrowed",
+          "D": "removed"
+        },
+        "explanation": "“Allocated ... money from my budget” là dành một khoản tiền cho mục đích cụ thể, gần nghĩa “designated”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word access in line 11 is closest in meaning to",
+        "choiceTexts": {
+          "A": "save",
+          "B": "write",
+          "C": "close",
+          "D": "open"
+        },
+        "explanation": "“Access my files” là mở/truy cập tệp, nên “open” phù hợp nhất."
+      }
+    ],
+    "readingPassage": "Jim,\n\nI have decided to get a new computer for my home office, and I need your advice to help me select the right one. I have allocated a certain amount of money from my budget for this. I think it is enough for a completely new system including computer, monitor, printer, and scanner. I would like to continue using the software I already use, so I need a system that is compatible with my current system and software. However, I think I should get a different brand. I have had nothing but trouble with the computer I have now. It often shuts down without warning, and sometimes I can't access my files. I haven't been able to figure the reason for these problems, and no one has been able to fix it for me.\n\nI plan to go to some stores this Saturday and Sunday to search for my new computer. Would you be able to go with me? If not, I'll call you before the weekend to get your advice. I have a big project coming up next month, so I would like to get my new computer up and running soon. Let me know if you can help me this weekend.\n\nJanet"
+  }
+]

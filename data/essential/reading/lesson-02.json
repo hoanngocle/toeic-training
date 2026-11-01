@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-02-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "Marketing specialists have conducted extensive studies of what ____ customers to a particular product.",
+        "choiceTexts": {
+          "A": "attractive",
+          "B": "attraction",
+          "C": "attracts",
+          "D": "attracting"
+        },
+        "explanation": "Mệnh đề “what ... customers” cần động từ; “what” chỉ điều thu hút nên dùng hiện tại đơn số ít “attracts”."
+      },
+      {
+        "id": "11",
+        "prompt": "Smart shoppers will ____ similar brands of an item before making a decision.",
+        "choiceTexts": {
+          "A": "compare",
+          "B": "comparison",
+          "C": "comparative",
+          "D": "comparable"
+        },
+        "explanation": "Sau trợ động từ “will” dùng nguyên mẫu “compare”: người mua so sánh các nhãn hàng trước khi quyết định."
+      },
+      {
+        "id": "12",
+        "prompt": "If our work isn't to your ____, please notify us within 60 days.",
+        "choiceTexts": {
+          "A": "satisfy",
+          "B": "satisfactory",
+          "C": "satisfaction",
+          "D": "satisfied"
+        },
+        "explanation": "Cụm cố định “to your satisfaction” nghĩa là đáp ứng sự hài lòng; sau “your” cần danh từ."
+      },
+      {
+        "id": "13",
+        "prompt": "Manufacturers like to know what features ____ find useful.",
+        "choiceTexts": {
+          "A": "consumers",
+          "B": "consume",
+          "C": "consumption",
+          "D": "consumable"
+        },
+        "explanation": "Chỗ trống là chủ ngữ của “find useful”; “consumers” chỉ những người tiêu dùng thấy tính năng hữu ích."
+      },
+      {
+        "id": "14",
+        "prompt": "Without good ____, good products can go unsold.",
+        "choiceTexts": {
+          "A": "market",
+          "B": "marketable",
+          "C": "marketed",
+          "D": "marketing"
+        },
+        "explanation": "Sau “without good” cần danh từ hoạt động “marketing”; ý câu là sản phẩm tốt vẫn không bán được nếu tiếp thị kém."
+      },
+      {
+        "id": "15",
+        "prompt": "A careful analysis of the ____ products on the market indicated that our product lacked innovation and optional features.",
+        "choiceTexts": {
+          "A": "compete",
+          "B": "competing",
+          "C": "competed",
+          "D": "competition"
+        },
+        "explanation": "“Competing” bổ nghĩa cho “products”: những sản phẩm đang cạnh tranh trên thị trường."
+      }
+    ]
+  },
+  {
+    "id": "essential-02-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "attract",
+          "B": "attractive",
+          "C": "attractively",
+          "D": "attraction"
+        },
+        "explanation": "Cần trạng từ bổ nghĩa cho “packaged”, vì vậy “attractively” mô tả cách đóng gói hấp dẫn."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "persuade",
+          "B": "persuades",
+          "C": "to persuade",
+          "D": "will persuade"
+        },
+        "explanation": "Cấu trúc “let + tân ngữ + động từ nguyên mẫu” yêu cầu “persuade”, không có “to” hay “-s”."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "satisfy",
+          "B": "satisfied",
+          "C": "will satisfy",
+          "D": "will be satisfied"
+        },
+        "explanation": "Khách hàng sẽ được làm hài lòng bởi hương vị và giá cả; “by” chỉ tác nhân nên dùng “will be satisfied”."
+      }
+    ],
+    "readingPassage": "Dear Valued Customer,\nSmart consumers like yourself are concerned about your family's nutrition. Health is a top priority, and so is value. You\nwant high-quality food products at competitive prices. That's why we are introducing Farm Fresh, our new line of 100%\nnatural and organic frozen dinners. We know you'll love the great natural taste of Farm Fresh dinners such as Turkey\nand Wild Rice, Wild Salmon with Spring Greens, and Country Chicken with Vegetables. Farm Fresh dinners are [16] ____ packaged with 100% recyclable materials. But we don't have to use a lot of fancy words to convince you to\nenjoy Farm Fresh frozen dinners. We will let their great taste [17] ____ you to keep coming back for more. Please use\nthe enclosed coupons to buy up to six Farm Fresh dinners of your choice at 25% off the usual retail price. We know\nyou [18] ____ by the great taste and the great price.\nSincerely,\nRosa Martello\nNational Frozen Foods, Inc."
+  },
+  {
+    "id": "essential-02-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "When did the sales department have a meeting?",
+        "choiceTexts": {
+          "A": "At the beginning of the year.",
+          "B": "In March.",
+          "C": "A quarter of a year ago.",
+          "D": "At the end of last year."
+        },
+        "explanation": "Ngày trên báo cáo là March 29, tức cuộc họp diễn ra trong tháng Ba."
+      },
+      {
+        "id": "20",
+        "prompt": "Which of the following might be part of the Catherine's Curls line of products?",
+        "choiceTexts": {
+          "A": "Shampoo.",
+          "B": "Hand lotion.",
+          "C": "Nail polish.",
+          "D": "Lipstick."
+        },
+        "explanation": "Catherine’s Curls được gọi là dòng “hair care products”; dầu gội thuộc nhóm chăm sóc tóc."
+      },
+      {
+        "id": "21",
+        "prompt": "According to the report, why are fewer people buying Catherine's Curls products?",
+        "choiceTexts": {
+          "A": "The prices are too high",
+          "B": "The ingredients aren't natural",
+          "C": "The packages aren't attractive.",
+          "D": "The type of product is not popular."
+        },
+        "explanation": "Báo cáo kết luận bao bì “significantly less eye-catching” và không truyền tải thành phần tự nhiên, nên đề nghị thiết kế lại."
+      },
+      {
+        "id": "22",
+        "prompt": "The word market in line 5 is closest in meaning to",
+        "choiceTexts": {
+          "A": "product",
+          "B": "factory",
+          "C": "purchase",
+          "D": "demand"
+        },
+        "explanation": "“Market for products” chỉ nhu cầu đối với các sản phẩm, tương đương “demand”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word fad in line 8 is closest in meaning to",
+        "choiceTexts": {
+          "A": "need",
+          "B": "fashion",
+          "C": "event",
+          "D": "wish"
+        },
+        "explanation": "“Passing fad” chỉ một trào lưu nhất thời; “fashion” gần nghĩa nhất trong các lựa chọn."
+      }
+    ],
+    "readingPassage": "Catherine Cosmetics Company\nSales Department Meeting Report\nMarch 29, 20We reviewed the sales figures for the past quarter. We are currently experiencing a significant drop in sales in our hair care products. This has been going on since the beginning of\nthe year when we introduced the improved version of our top-selling hair care line,\nCatherine's Curls. Our advertising has not been successful in convincing more consumers\nto buy these products. We know there is a market for products such as these manufactured\nwith 100% natural ingredients and no testing on animals. In fact, our competitors are doing\nquite well in this area and have been for a number of years. We know from our research\nthat the popularity of all-natural cosmetic products is more than just a passing fad, and this\nis why we decided to branch out into this area. We have carefully compared our products to those of our three largest competitors. We have looked at product ingredients, packaging, target consumers, pricing, and sales strategies. Our product is similar, or even better, in all ways but one. Our packaging is significantly less eye-catching than that of our competitors, and it does not convey the important aspects of the products to the consumer, that is, that these products are entirely made with natural ingredients. Therefore, in order to\nattract more customers, we recommend employing a new designer to create better packaging for the Catherine's Curls line of products."
+  }
+]

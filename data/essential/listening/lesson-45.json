@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-45.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-45.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 45"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "According to the woman, why are newspapers better than TV news shows?",
+      "choiceTexts": {
+        "A": "Newspaper editors are decisive.",
+        "B": "Newspaper coverage is more thorough.",
+        "C": "Newspaper stories are more interesting.",
+        "D": "Newspapers cover better stories."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "How long has the woman worked as a newspaper reporter?",
+      "choiceTexts": {
+        "A": "Four years.",
+        "B": "Thirteen years.",
+        "C": "Fourteen years.",
+        "D": "Thirty years."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What is the man's job?",
+      "choiceTexts": {
+        "A": "Investigative reporter.",
+        "B": "TV news reader.",
+        "C": "Journalism teacher.",
+        "D": "Journalism student."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What is the topic of the news report?",
+      "choiceTexts": {
+        "A": "A speech made by the country's president.",
+        "B": "The state of the national economy.",
+        "C": "Fraud committed by a company president.",
+        "D": "An industry report."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "At what time can this news report be heard?",
+      "choiceTexts": {
+        "A": "5:00.",
+        "B": "12:00.",
+        "C": "6:00.",
+        "D": "10:00."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "Why won't Mary Milo report the news tonight?",
+      "choiceTexts": {
+        "A": "She is sick.",
+        "B": "She got a new job.",
+        "C": "She is away on vacation.",
+        "D": "She has another assignment."
+      }
+    }
+  ]
+}

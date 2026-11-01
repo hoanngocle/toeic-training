@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-05-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "The banquet room could ____ up to 750 for dinner.",
+        "choiceTexts": {
+          "A": "accommodated",
+          "B": "accommodate",
+          "C": "accommodation",
+          "D": "accommodating"
+        },
+        "explanation": "Sau “could” cần động từ nguyên mẫu “accommodate”, nghĩa là chứa/phục vụ được 750 khách."
+      },
+      {
+        "id": "11",
+        "prompt": "Helen made the final ____ for use of the conference room with the hotel's general manager.",
+        "choiceTexts": {
+          "A": "arranging",
+          "B": "arrange",
+          "C": "arrangement",
+          "D": "arranged"
+        },
+        "explanation": "Sau “the final” cần danh từ “arrangement”, chỉ sự sắp xếp cuối cùng về phòng hội nghị."
+      },
+      {
+        "id": "12",
+        "prompt": "For most people, Samco is ____ with computer chip production.",
+        "choiceTexts": {
+          "A": "associate",
+          "B": "associated",
+          "C": "associating",
+          "D": "association"
+        },
+        "explanation": "Cụm “be associated with” diễn tả sự gắn liền: Samco được liên tưởng với sản xuất chip."
+      },
+      {
+        "id": "13",
+        "prompt": "We expect that fewer guests will ____ the evening gala.",
+        "choiceTexts": {
+          "A": "attend",
+          "B": "attending",
+          "C": "attention",
+          "D": "attendance"
+        },
+        "explanation": "Sau “will” cần nguyên mẫu “attend”, nghĩa là tham dự buổi dạ tiệc."
+      },
+      {
+        "id": "14",
+        "prompt": "The association's members were asked to ____ for the special session well in advance because space in the lecture hall was limited.",
+        "choiceTexts": {
+          "A": "register",
+          "B": "registration",
+          "C": "registering",
+          "D": "registrar"
+        },
+        "explanation": "“Were asked to + nguyên mẫu” yêu cầu “register”; các thành viên được yêu cầu đăng ký trước."
+      },
+      {
+        "id": "15",
+        "prompt": "By adding more class ____, the staff was able to please more members.",
+        "choiceTexts": {
+          "A": "select",
+          "B": "selective",
+          "C": "selecting",
+          "D": "selections"
+        },
+        "explanation": "“More class selections” là nhiều lựa chọn lớp học hơn; cần danh từ số nhiều."
+      }
+    ]
+  },
+  {
+    "id": "essential-05-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "select",
+          "B": "selection",
+          "C": "selective",
+          "D": "selectively"
+        },
+        "explanation": "Sau “can” dùng nguyên mẫu “select”; người tham gia chọn từ nhiều chủ đề."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "will register",
+          "B": "must register",
+          "C": "registering",
+          "D": "register"
+        },
+        "explanation": "Đây là lời hướng dẫn trực tiếp “register early”, nên dùng mệnh lệnh với động từ nguyên mẫu."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "accommodate",
+          "B": "accommodating",
+          "C": "accommodations",
+          "D": "accommodates"
+        },
+        "explanation": "“Overnight accommodations” chỉ chỗ lưu trú qua đêm; động từ “arrange” cần tân ngữ danh từ."
+      }
+    ],
+    "readingPassage": "All members of the Countywide Small Business Owners Association are invited to take part in our annual conference, to be held on March 31 at the Grand Hotel in Marysville.\nThe conference begins at 8:30 A.M. with an address by this year's guest, Cynthia Quinn, owner of Designs by Cynthia,\nInc., and winner of numerous business and community awards. Morning small group sessions begin at 9:30.\nAttendees can [16] ____ from a variety of session topics including Financing Your New Business; Selecting the Best\nLocation; and Formulas for Success. Lunch will be served at 12:30, followed by afternoon small group sessions at\n2:00.\nThis is the Association's most popular event, so [17] ____ early to assure your place. Fill out the form below and send\nit to the Association Secretary by March 1. To arrange overnight [18] ____ at the Grand Hotel, get in touch with the hotel\nreservations clerk at 498-1231. Mention the conference\nin order to get a special discount price."
+  },
+  {
+    "id": "essential-05-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "What are these e-mails about?",
+        "choiceTexts": {
+          "A": "The date of the conference.",
+          "B": "The conference site.",
+          "C": "The topics of the conference sessions.",
+          "D": "The number of conference attendees."
+        },
+        "explanation": "Hai email so sánh Convention Center với Mayfield Hotel để chọn nơi tổ chức hội nghị."
+      },
+      {
+        "id": "20",
+        "prompt": "How many meeting rooms will they need?",
+        "choiceTexts": {
+          "A": "Only three.",
+          "B": "At least five.",
+          "C": "Up to ten.",
+          "D": "Almost 50."
+        },
+        "explanation": "Max nói phải tổ chức ít nhất năm phiên cùng lúc, nên cần ít nhất năm phòng."
+      },
+      {
+        "id": "21",
+        "prompt": "What does Max prefer about the Convention Center?",
+        "choiceTexts": {
+          "A": "The price.",
+          "B": "The location.",
+          "C": "The size.",
+          "D": "The people."
+        },
+        "explanation": "Max cho rằng khách sạn quá nhỏ và cần chỗ đủ cho mọi người; lợi thế quyết định của trung tâm là kích thước."
+      },
+      {
+        "id": "22",
+        "prompt": "The words get in touch in line 14 of the first e-mail are closest in meaning to",
+        "choiceTexts": {
+          "A": "offer",
+          "B": "discuss",
+          "C": "provide",
+          "D": "contact"
+        },
+        "explanation": "“Get in touch with me” nghĩa là liên hệ với tôi, tương đương “contact”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word selecting in line 1 of the second e-mail is closest in meaning to",
+        "choiceTexts": {
+          "A": "choosing",
+          "B": "reserving",
+          "C": "comparing",
+          "D": "seeking"
+        },
+        "explanation": "“Selecting a location” nghĩa là chọn địa điểm; “choosing” là từ tương đương."
+      }
+    ],
+    "readingPassage": "To: Max Sullivan\nFrom: Martha Reynolds\nSubj: Conference\nMax,\nI have been working on the arrangements for our\nupcoming conference. I've looked into the City\nConvention Center, and I think it is the most convenient location. It is close to public transportation and\nhotels. The accommodations are also excellent. The\nrooms are large, and we can reserve up to ten meeting rooms. However, the price is almost 50% more than we agreed we could spend. The other choice is the Mayfield Hotel. Many associations hold their conventions there. It is a nice place, and the price is reasonable. However, it is not close to the subway. Also,\nit is much smaller than the Convention Center. I think\nwe could only get three meeting rooms. Would that be\nenough? Please get in touch with me today to let me\nknow what you think. I need to reserve a place soon.\nMartha\n\nTo: Martha Reynolds\nFrom: Max Sullivan\nSubj: Re: Conference\nMartha,\nIn regard to selecting a location for the conference, I\nthink the Convention Center is better than the\nMayfield Hotel. The hotel is much too small.\nRemember, we plan to hold at least five sessions at a\ntime. We couldn't do that at the hotel. We expect more people to take part in the convention this year, so it is important to have a space that can accommodate everyone. About the price, I think we can rearrange the budget a bit in order to be able to pay\nfor it. So go ahead and reserve the space at the Convention Center.\n\nMax"
+  }
+]

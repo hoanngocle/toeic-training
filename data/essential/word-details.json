@@ -1,0 +1,4302 @@
+{
+  "essential-01": {
+    "1": {
+      "pronunciation": "/əˈbaɪd baɪ/",
+      "example": {
+        "english": "The two parties agreed to abide by the judge's decision.",
+        "vietnamese": "Hai bên đã đồng ý tuân thủ quyết định của thẩm phán."
+      }
+    },
+    "2": {
+      "pronunciation": "/əˈɡriːmənt/",
+      "example": {
+        "english": "The landlord and tenant were in agreement that the rent should be prorated to the middle of the month.",
+        "vietnamese": "Chủ nhà và người thuê thống nhất rằng tiền thuê nên được tính theo tỷ lệ đến giữa tháng."
+      }
+    },
+    "3": {
+      "pronunciation": "/əˈʃʊrəns/",
+      "example": {
+        "english": "The sales associate gave his assurance that the missing keyboard would be replaced the next day.",
+        "vietnamese": "Nhân viên bán hàng bảo đảm rằng chiếc bàn phím còn thiếu sẽ được bổ sung vào ngày hôm sau."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˌkænsəˈleɪʃən/",
+      "example": {
+        "english": "The cancellation of her flight caused her problems for the rest of the week.",
+        "vietnamese": "Việc hủy chuyến bay đã gây rắc rối cho cô ấy trong suốt những ngày còn lại của tuần."
+      }
+    },
+    "5": {
+      "pronunciation": "/dɪˈtɝːmɪn/",
+      "example": {
+        "english": "After reading the contract, I was still unable to determine if our company was liable for back wages.",
+        "vietnamese": "Sau khi đọc hợp đồng, tôi vẫn chưa thể xác định liệu công ty chúng tôi có trách nhiệm trả khoản lương còn nợ hay không."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɪnˈɡeɪdʒ/",
+      "example": {
+        "english": "Before engaging in a new business, it is important to do thorough research.",
+        "vietnamese": "Trước khi tham gia một hoạt động kinh doanh mới, điều quan trọng là phải nghiên cứu kỹ lưỡng."
+      }
+    },
+    "7": {
+      "pronunciation": "/ɪˈstæblɪʃ/",
+      "example": {
+        "english": "Through her many books and interviews, Dr. Wan established herself as an authority on conflict resolution.",
+        "vietnamese": "Qua nhiều cuốn sách và cuộc phỏng vấn, Tiến sĩ Wan đã khẳng định vị thế chuyên gia về giải quyết xung đột."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈɑːbləɡeɪt/",
+      "example": {
+        "english": "The contractor was obligated by the contract to work 40 hours a week.",
+        "vietnamese": "Theo hợp đồng, nhà thầu có nghĩa vụ làm việc 40 giờ mỗi tuần."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈpɑːrti/",
+      "example": {
+        "english": "The parties agreed to a settlement in their contract dispute.",
+        "vietnamese": "Các bên đã đồng ý với một thỏa thuận dàn xếp trong tranh chấp hợp đồng."
+      }
+    },
+    "10": {
+      "pronunciation": "/prəˈvɪʒən/",
+      "example": {
+        "english": "The father made provisions for his children through his will.",
+        "vietnamese": "Người cha đã sắp xếp việc chu cấp cho các con thông qua di chúc của mình."
+      }
+    },
+    "11": {
+      "pronunciation": "/rɪˈzɑːlv/",
+      "example": {
+        "english": "The mediator was able to resolve the problem to everyone's satisfaction.",
+        "vietnamese": "Người hòa giải đã giải quyết được vấn đề khiến mọi người đều hài lòng."
+      }
+    },
+    "12": {
+      "pronunciation": "/spəˈsɪfɪk/",
+      "example": {
+        "english": "The customer's specific complaint was not addressed in his e-mail.",
+        "vietnamese": "Khiếu nại cụ thể của khách hàng đã không được giải quyết trong email của anh ấy."
+      }
+    }
+  },
+  "essential-02": {
+    "1": {
+      "pronunciation": "/əˈtrækt/",
+      "example": {
+        "english": "The display attracted a number of people at the convention.",
+        "vietnamese": "Gian trưng bày đã thu hút một số người tại hội nghị."
+      }
+    },
+    "2": {
+      "pronunciation": "/kəmˈper/",
+      "example": {
+        "english": "Once the customer compared the two products, her choice was easy.",
+        "vietnamese": "Sau khi so sánh hai sản phẩm, vị khách đã dễ dàng đưa ra lựa chọn."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˌkɑːmpəˈtɪʃən/",
+      "example": {
+        "english": "In the competition for afternoon diners, Hector's has come out on top.",
+        "vietnamese": "Trong cuộc cạnh tranh thu hút thực khách buổi chiều, nhà hàng Hector's đã giành vị trí dẫn đầu."
+      }
+    },
+    "4": {
+      "pronunciation": "/kənˈsuːm/",
+      "example": {
+        "english": "This printer consumes more toner than the downstairs printer.",
+        "vietnamese": "Máy in này tiêu thụ nhiều mực hơn máy in ở tầng dưới."
+      }
+    },
+    "5": {
+      "pronunciation": "/kənˈvɪns/",
+      "example": {
+        "english": "The salesman convinced his customer to buy his entire inventory of pens.",
+        "vietnamese": "Người bán hàng đã thuyết phục khách mua toàn bộ số bút trong kho của mình."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈkɝːəntli/",
+      "example": {
+        "english": "We are currently exploring plans to update the MX3 model.",
+        "vietnamese": "Hiện chúng tôi đang xem xét các kế hoạch nâng cấp mẫu MX3."
+      }
+    },
+    "7": {
+      "pronunciation": "/fæd/",
+      "example": {
+        "english": "Classic tastes may seem boring but they have proven to resist fads.",
+        "vietnamese": "Thị hiếu cổ điển có thể có vẻ nhàm chán nhưng đã chứng tỏ khả năng đứng vững trước những trào lưu nhất thời."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˌɪnspəˈreɪʃən/",
+      "example": {
+        "english": "His work is an inspiration to the marketing department.",
+        "vietnamese": "Công việc của anh ấy là nguồn cảm hứng cho phòng tiếp thị."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈmɑːrkɪt/",
+      "example": {
+        "english": "When Omar first began making his chutneys, he marketed them door-to-door to gourmet shops.",
+        "vietnamese": "Khi Omar mới bắt đầu làm các loại xốt chutney, anh đã đến từng cửa hàng thực phẩm cao cấp để chào bán."
+      }
+    },
+    "10": {
+      "pronunciation": "/pərˈsweɪʒən/",
+      "example": {
+        "english": "The seminar teaches techniques of persuasion to increase sales.",
+        "vietnamese": "Hội thảo hướng dẫn các kỹ thuật thuyết phục nhằm tăng doanh số."
+      }
+    },
+    "11": {
+      "pronunciation": "/prəˈdʌktɪv/",
+      "example": {
+        "english": "Alonzo is excited about his productive staff.",
+        "vietnamese": "Alonzo rất hào hứng với đội ngũ nhân viên làm việc hiệu quả của mình."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˌsætɪsˈfækʃən/",
+      "example": {
+        "english": "Your satisfaction is guaranteed or you'll get your money back.",
+        "vietnamese": "Chúng tôi bảo đảm quý khách hài lòng, nếu không quý khách sẽ được hoàn tiền."
+      }
+    }
+  },
+  "essential-03": {
+    "1": {
+      "pronunciation": "/ˌkærəktəˈrɪstɪk/",
+      "example": {
+        "english": "One characteristic of the store is that it is slow in mailing refund checks.",
+        "vietnamese": "Một đặc điểm của cửa hàng là gửi séc hoàn tiền chậm."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˈkɑːnsəkwens/",
+      "example": {
+        "english": "The consequence of not following the service instructions for your car is that the warranty is invalidated.",
+        "vietnamese": "Hậu quả của việc không làm theo hướng dẫn bảo dưỡng xe là bảo hành bị mất hiệu lực."
+      }
+    },
+    "3": {
+      "pronunciation": "/kənˈsɪdər/",
+      "example": {
+        "english": "After considering all the options, Della decided to buy a used car.",
+        "vietnamese": "Sau khi cân nhắc tất cả các lựa chọn, Della quyết định mua một chiếc xe đã qua sử dụng."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈkʌvər/",
+      "example": {
+        "english": "Will my medical insurance cover this surgery?",
+        "vietnamese": "Bảo hiểm y tế của tôi có chi trả cho ca phẫu thuật này không?"
+      }
+    },
+    "5": {
+      "pronunciation": "/ˌekspəˈreɪʃən/",
+      "example": {
+        "english": "Have you checked the expiration date on this yogurt?",
+        "vietnamese": "Bạn đã kiểm tra hạn sử dụng của hộp sữa chua này chưa?"
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈfriːkwəntli/",
+      "example": {
+        "english": "Appliances frequently come with a one-year warranty.",
+        "vietnamese": "Các thiết bị gia dụng thường có bảo hành một năm."
+      }
+    },
+    "7": {
+      "pronunciation": "/ɪmˈplaɪ/",
+      "example": {
+        "english": "The guarantee on the iPod implied that all damages were covered under warranty for one year.",
+        "vietnamese": "Cam kết bảo hành của iPod ngụ ý rằng mọi hư hỏng đều được bảo hành trong một năm."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈprɑːmɪs/",
+      "example": {
+        "english": "A warranty is a promise the manufacturer makes to the consumer.",
+        "vietnamese": "Bảo hành là lời cam kết của nhà sản xuất với người tiêu dùng."
+      }
+    },
+    "9": {
+      "pronunciation": "/prəˈtekt/",
+      "example": {
+        "english": "You can protect yourself from scams by getting detailed information on the seller.",
+        "vietnamese": "Bạn có thể tự bảo vệ mình trước các vụ lừa đảo bằng cách tìm hiểu thông tin chi tiết về người bán."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˌrepjəˈteɪʃən/",
+      "example": {
+        "english": "The company knew that the reputation of its products was the most important asset it had.",
+        "vietnamese": "Công ty biết rằng uy tín của các sản phẩm là tài sản quan trọng nhất mà mình có."
+      }
+    },
+    "11": {
+      "pronunciation": "/rɪˈkwaɪər/",
+      "example": {
+        "english": "The law requires that each item clearly display the warranty information.",
+        "vietnamese": "Luật yêu cầu mỗi mặt hàng phải hiển thị rõ thông tin bảo hành."
+      }
+    },
+    "12": {
+      "pronunciation": "/vəˈraɪəti/",
+      "example": {
+        "english": "There's a variety of standard terms that you'll find in warranties.",
+        "vietnamese": "Bạn sẽ thấy nhiều điều khoản tiêu chuẩn khác nhau trong các văn bản bảo hành."
+      }
+    }
+  },
+  "essential-04": {
+    "1": {
+      "pronunciation": "/əˈdres/",
+      "example": {
+        "english": "Marco's business plan addresses the needs of small business owners.",
+        "vietnamese": "Kế hoạch kinh doanh của Marco giải quyết nhu cầu của các chủ doanh nghiệp nhỏ."
+      }
+    },
+    "2": {
+      "pronunciation": "/əˈvɔɪd/",
+      "example": {
+        "english": "To avoid going out of business, owners should prepare a proper business plan.",
+        "vietnamese": "Để tránh phải đóng cửa, các chủ doanh nghiệp nên chuẩn bị một kế hoạch kinh doanh phù hợp."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈdemənstreɪt/",
+      "example": {
+        "english": "Alban's business plan demonstrated that he had put a lot of thought into making his dream a reality.",
+        "vietnamese": "Kế hoạch kinh doanh của Alban cho thấy anh đã suy nghĩ rất kỹ về việc biến ước mơ thành hiện thực."
+      }
+    },
+    "4": {
+      "pronunciation": "/dɪˈveləp/",
+      "example": {
+        "english": "The restaurant Wanda opened ten years ago has developed into a national chain.",
+        "vietnamese": "Nhà hàng Wanda mở mười năm trước đã phát triển thành một chuỗi trên toàn quốc."
+      }
+    },
+    "5": {
+      "pronunciation": "/ɪˈvæljueɪt/",
+      "example": {
+        "english": "It's important to evaluate your competition when making a business plan.",
+        "vietnamese": "Việc đánh giá đối thủ cạnh tranh là điều quan trọng khi lập kế hoạch kinh doanh."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈɡæðər/",
+      "example": {
+        "english": "We gathered information for our plan from many sources.",
+        "vietnamese": "Chúng tôi đã thu thập thông tin cho kế hoạch từ nhiều nguồn."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈɔːfər/",
+      "example": {
+        "english": "Devon accepted our offer to write the business plan.",
+        "vietnamese": "Devon đã chấp nhận đề nghị viết kế hoạch kinh doanh của chúng tôi."
+      }
+    },
+    "8": {
+      "pronunciation": "/praɪˈmerəli/",
+      "example": {
+        "english": "The developers are thinking primarily of how to enter the South American market.",
+        "vietnamese": "Các nhà phát triển đang chủ yếu suy nghĩ về cách thâm nhập thị trường Nam Mỹ."
+      }
+    },
+    "9": {
+      "pronunciation": "/rɪsk/",
+      "example": {
+        "english": "Expanding into a new market is a big risk.",
+        "vietnamese": "Mở rộng sang một thị trường mới là một rủi ro lớn."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈstrætədʒi/",
+      "example": {
+        "english": "Let's develop a strategy for promoting our ice cream parlor.",
+        "vietnamese": "Hãy xây dựng một chiến lược quảng bá quán kem của chúng ta."
+      }
+    },
+    "11": {
+      "pronunciation": "/strɔːŋ/",
+      "example": {
+        "english": "The professor made a strong argument for the value of a good business plan.",
+        "vietnamese": "Vị giáo sư đã đưa ra lập luận thuyết phục về giá trị của một kế hoạch kinh doanh tốt."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˌsʌbstəˈtuːʃən/",
+      "example": {
+        "english": "There is no substitution for hard work and perseverance.",
+        "vietnamese": "Không gì có thể thay thế sự chăm chỉ và kiên trì."
+      }
+    }
+  },
+  "essential-05": {
+    "1": {
+      "pronunciation": "/əˈkɑːmədeɪt/",
+      "example": {
+        "english": "The meeting room was large enough to accommodate the various needs of the groups using it.",
+        "vietnamese": "Phòng họp đủ lớn để đáp ứng các nhu cầu đa dạng của những nhóm sử dụng phòng."
+      }
+    },
+    "2": {
+      "pronunciation": "/əˈreɪndʒmənt/",
+      "example": {
+        "english": "The arrangement of speakers was alphabetical to avoid any hurt feelings.",
+        "vietnamese": "Các diễn giả được sắp xếp theo thứ tự bảng chữ cái để tránh làm ai phật lòng."
+      }
+    },
+    "3": {
+      "pronunciation": "/əˌsoʊsiˈeɪʃən/",
+      "example": {
+        "english": "Membership in a trade or professional association provides business contacts and mutual support.",
+        "vietnamese": "Việc tham gia một hiệp hội thương mại hoặc nghề nghiệp mang lại các mối liên hệ kinh doanh và sự hỗ trợ lẫn nhau."
+      }
+    },
+    "4": {
+      "pronunciation": "/əˈtend/",
+      "example": {
+        "english": "We expect more than 100 members to attend the annual meeting.",
+        "vietnamese": "Chúng tôi dự kiến hơn 100 thành viên sẽ tham dự cuộc họp thường niên."
+      }
+    },
+    "5": {
+      "pronunciation": "/ɡet ɪn ˈtʌtʃ/",
+      "example": {
+        "english": "As soon as we arrive at the hotel, we will get in touch with the manager about the unexpected guests.",
+        "vietnamese": "Ngay khi đến khách sạn, chúng tôi sẽ liên hệ với quản lý về những vị khách ngoài dự kiến."
+      }
+    },
+    "6": {
+      "pronunciation": "/hoʊld/",
+      "example": {
+        "english": "This meeting room holds at least 80 people comfortably.",
+        "vietnamese": "Phòng họp này có thể chứa ít nhất 80 người một cách thoải mái."
+      }
+    },
+    "7": {
+      "pronunciation": "/loʊˈkeɪʃən/",
+      "example": {
+        "english": "The location of the meeting was changed from the Red Room to the Green Room.",
+        "vietnamese": "Địa điểm họp đã được chuyển từ Phòng Đỏ sang Phòng Xanh."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˌoʊvərˈkraʊdɪd/",
+      "example": {
+        "english": "To avoid being overcrowded, we limited the number of guests that members could bring.",
+        "vietnamese": "Để tránh quá đông, chúng tôi đã giới hạn số khách mà mỗi thành viên có thể đưa theo."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈredʒɪstər/",
+      "example": {
+        "english": "Hotels ask all guests to register and give a home address.",
+        "vietnamese": "Các khách sạn yêu cầu mọi khách lưu trú đăng ký và cung cấp địa chỉ nhà."
+      }
+    },
+    "10": {
+      "pronunciation": "/səˈlekt/",
+      "example": {
+        "english": "The winners were a select group.",
+        "vietnamese": "Những người chiến thắng là một nhóm được tuyển chọn."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈseʃən/",
+      "example": {
+        "english": "The morning sessions tend to fill up first, so sign up early.",
+        "vietnamese": "Các buổi học sáng thường kín chỗ trước, vì vậy hãy đăng ký sớm."
+      }
+    },
+    "12": {
+      "pronunciation": "/teɪk ˈpɑːrt ɪn/",
+      "example": {
+        "english": "We could not get enough people to take part in the meeting, so we canceled it.",
+        "vietnamese": "Chúng tôi không tập hợp được đủ người tham gia cuộc họp nên đã hủy cuộc họp."
+      }
+    }
+  },
+  "essential-06": {
+    "1": {
+      "pronunciation": "/ˈækses/",
+      "example": {
+        "english": "You can't gain access to the files unless you know the password.",
+        "vietnamese": "Bạn không thể truy cập các tệp nếu không biết mật khẩu."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˈæləkeɪt/",
+      "example": {
+        "english": "The office manager did not allocate enough money to purchase software.",
+        "vietnamese": "Trưởng phòng hành chính đã không phân bổ đủ tiền để mua phần mềm."
+      }
+    },
+    "3": {
+      "pronunciation": "/kəmˈpætəbəl/",
+      "example": {
+        "english": "This operating system is not compatible with this model computer.",
+        "vietnamese": "Hệ điều hành này không tương thích với mẫu máy tính này."
+      }
+    },
+    "4": {
+      "pronunciation": "/dɪˈliːt/",
+      "example": {
+        "english": "The technicians deleted all the data on the disk accidentally.",
+        "vietnamese": "Các kỹ thuật viên đã vô tình xóa toàn bộ dữ liệu trên đĩa."
+      }
+    },
+    "5": {
+      "pronunciation": "/dɪˈspleɪ/",
+      "example": {
+        "english": "The light on the LCD display is too weak.",
+        "vietnamese": "Ánh sáng trên màn hình LCD quá yếu."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈduːplɪkeɪt/",
+      "example": {
+        "english": "Before you leave, please duplicate that file by making a copy on the CD-ROM.",
+        "vietnamese": "Trước khi rời đi, vui lòng sao chép tệp đó sang đĩa CD-ROM."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈfeɪljər/",
+      "example": {
+        "english": "The repeated failure of her printer baffled the technician.",
+        "vietnamese": "Việc máy in của cô ấy liên tục hỏng đã khiến kỹ thuật viên bối rối."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈfɪɡjər aʊt/",
+      "example": {
+        "english": "By examining all of the errors, the technicians figured out how to fix the problem.",
+        "vietnamese": "Bằng cách xem xét tất cả các lỗi, các kỹ thuật viên đã tìm ra cách khắc phục vấn đề."
+      }
+    },
+    "9": {
+      "pronunciation": "/ɪɡˈnɔːr/",
+      "example": {
+        "english": "Don't ignore the technician's advice when connecting cables.",
+        "vietnamese": "Đừng bỏ qua lời khuyên của kỹ thuật viên khi kết nối dây cáp."
+      }
+    },
+    "10": {
+      "pronunciation": "/sɝːtʃ/",
+      "example": {
+        "english": "Our search of the database produced very little information.",
+        "vietnamese": "Việc tìm kiếm trong cơ sở dữ liệu của chúng tôi mang lại rất ít thông tin."
+      }
+    },
+    "11": {
+      "pronunciation": "/ʃʌt ˈdaʊn/",
+      "example": {
+        "english": "Please shut down the computer before you leave.",
+        "vietnamese": "Vui lòng tắt máy tính trước khi rời đi."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈwɔːrnɪŋ/",
+      "example": {
+        "english": "The red flashing light gives a warning to users that the battery is low.",
+        "vietnamese": "Đèn đỏ nhấp nháy cảnh báo người dùng rằng pin sắp hết."
+      }
+    }
+  },
+  "essential-07": {
+    "1": {
+      "pronunciation": "/əˈfɔːrdəbəl/",
+      "example": {
+        "english": "The company's first priority was to find an affordable phone system.",
+        "vietnamese": "Ưu tiên hàng đầu của công ty là tìm một hệ thống điện thoại có giá phải chăng."
+      }
+    },
+    "2": {
+      "pronunciation": "/æz ˈniːdɪd/",
+      "example": {
+        "english": "The courier service did not come every day, only as needed.",
+        "vietnamese": "Dịch vụ chuyển phát không đến hằng ngày mà chỉ đến khi cần."
+      }
+    },
+    "3": {
+      "pronunciation": "/bi ɪn ˈtʃɑːrdʒ əv/",
+      "example": {
+        "english": "He appointed someone to be in charge of maintaining a supply of paper in the fax machine.",
+        "vietnamese": "Anh ấy đã giao cho một người phụ trách bảo đảm máy fax luôn có đủ giấy."
+      }
+    },
+    "4": {
+      "pronunciation": "/kəˈpæsəti/",
+      "example": {
+        "english": "The new conference room is much larger and has a capacity of one hundred people.",
+        "vietnamese": "Phòng hội nghị mới rộng hơn nhiều và có sức chứa một trăm người."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈdʊrəbəl/",
+      "example": {
+        "english": "These chairs are more durable than the first ones we looked at.",
+        "vietnamese": "Những chiếc ghế này bền hơn những chiếc đầu tiên chúng ta đã xem."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɪˈnɪʃətɪv/",
+      "example": {
+        "english": "Employees are encouraged to take the initiative and share their ideas with management.",
+        "vietnamese": "Nhân viên được khuyến khích chủ động chia sẻ ý tưởng với ban quản lý."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈfɪzɪkli/",
+      "example": {
+        "english": "The computer screen is making her physically sick.",
+        "vietnamese": "Màn hình máy tính đang khiến cô ấy khó chịu trong người."
+      }
+    },
+    "8": {
+      "pronunciation": "/prəˈvaɪdər/",
+      "example": {
+        "english": "The department was extremely pleased with the service they received from the phone provider.",
+        "vietnamese": "Bộ phận này cực kỳ hài lòng với dịch vụ nhận được từ nhà cung cấp điện thoại."
+      }
+    },
+    "9": {
+      "pronunciation": "/rɪˈkɝː/",
+      "example": {
+        "english": "The managers did not want that particular error to recur.",
+        "vietnamese": "Các quản lý không muốn lỗi cụ thể đó tái diễn."
+      }
+    },
+    "10": {
+      "pronunciation": "/rɪˈdʌkʃən/",
+      "example": {
+        "english": "The outlet store gave a 20 percent reduction in the price of the shelves and bookcases.",
+        "vietnamese": "Cửa hàng bán hàng giảm giá đã giảm 20 phần trăm giá kệ và tủ sách."
+      }
+    },
+    "11": {
+      "pronunciation": "/steɪ ɑːn ˈtɑːp əv/",
+      "example": {
+        "english": "In this industry, you must stay on top of current developments.",
+        "vietnamese": "Trong ngành này, bạn phải luôn nắm bắt những diễn biến mới nhất."
+      }
+    },
+    "12": {
+      "pronunciation": "/stɑːk/",
+      "example": {
+        "english": "The employees stocked the shelves on a weekly basis.",
+        "vietnamese": "Nhân viên bổ sung hàng lên kệ hằng tuần."
+      }
+    }
+  },
+  "essential-08": {
+    "1": {
+      "pronunciation": "/əˌpriːʃiˈeɪʃən/",
+      "example": {
+        "english": "Your appreciation of my efforts inspired me through the final stages of the construction.",
+        "vietnamese": "Sự ghi nhận của bạn đối với nỗ lực của tôi đã tiếp thêm động lực cho tôi trong những giai đoạn cuối của công trình."
+      }
+    },
+    "2": {
+      "pronunciation": "/bi ˈmeɪd əv/",
+      "example": {
+        "english": "This job will really test what you are made of.",
+        "vietnamese": "Công việc này sẽ thực sự thử thách bản lĩnh của bạn."
+      }
+    },
+    "3": {
+      "pronunciation": "/brɪŋ ˈɪn/",
+      "example": {
+        "english": "The company brought in a new team of project planners.",
+        "vietnamese": "Công ty đã tuyển một nhóm lập kế hoạch dự án mới."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈkæʒuəli/",
+      "example": {
+        "english": "On Fridays, most employees dress casually.",
+        "vietnamese": "Vào các ngày thứ Sáu, hầu hết nhân viên ăn mặc thoải mái."
+      }
+    },
+    "5": {
+      "pronunciation": "/koʊd/",
+      "example": {
+        "english": "Even the most traditional companies are changing their dress code to something less formal.",
+        "vietnamese": "Ngay cả những công ty truyền thống nhất cũng đang thay đổi quy định trang phục theo hướng bớt trang trọng hơn."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɪkˈspoʊz/",
+      "example": {
+        "english": "Mergers require that employees be exposed to different business practices.",
+        "vietnamese": "Các vụ sáp nhập đòi hỏi nhân viên được tiếp xúc với những phương thức kinh doanh khác nhau."
+      }
+    },
+    "7": {
+      "pronunciation": "/ɡlɪmps/",
+      "example": {
+        "english": "The secretary caught a glimpse of her new boss as she was leaving the office.",
+        "vietnamese": "Cô thư ký thoáng thấy sếp mới khi đang rời văn phòng."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈaʊt əv/",
+      "example": {
+        "english": "The presenter ran out of time before he reached his conclusion.",
+        "vietnamese": "Người thuyết trình đã hết thời gian trước khi trình bày phần kết luận."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˌaʊtˈdeɪtɪd/",
+      "example": {
+        "english": "Before you do a mailing, make sure that none of the addresses is outdated.",
+        "vietnamese": "Trước khi gửi thư hàng loạt, hãy bảo đảm không có địa chỉ nào đã lỗi thời."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈpræktɪs/",
+      "example": {
+        "english": "Bill practiced answering the telephone until he was satisfied.",
+        "vietnamese": "Bill đã luyện cách trả lời điện thoại cho đến khi cảm thấy hài lòng."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˌriːɪnˈfɔːrs/",
+      "example": {
+        "english": "Employees reinforced their learning with practice in the workplace.",
+        "vietnamese": "Nhân viên củng cố những gì đã học bằng cách thực hành tại nơi làm việc."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈvɝːbəli/",
+      "example": {
+        "english": "The guarantee was made only verbally.",
+        "vietnamese": "Cam kết bảo đảm chỉ được đưa ra bằng lời nói."
+      }
+    }
+  },
+  "essential-09": {
+    "1": {
+      "pronunciation": "/dɪsk/",
+      "example": {
+        "english": "The head of the optical disk reader was dirty.",
+        "vietnamese": "Đầu đọc của ổ đĩa quang bị bẩn."
+      }
+    },
+    "2": {
+      "pronunciation": "/fəˈsɪləteɪt/",
+      "example": {
+        "english": "The computer program facilitated the scheduling of appointments.",
+        "vietnamese": "Chương trình máy tính giúp việc sắp xếp các cuộc hẹn trở nên dễ dàng hơn."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈnetwɝːk/",
+      "example": {
+        "english": "We set up a new network in my office to share files.",
+        "vietnamese": "Chúng tôi đã thiết lập một mạng mới trong văn phòng tôi để chia sẻ tệp."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˌpɑːpjəˈlærəti/",
+      "example": {
+        "english": "After the new commercials began running, the popularity of the batteries increased significantly.",
+        "vietnamese": "Sau khi các quảng cáo mới bắt đầu được phát sóng, mức độ được ưa chuộng của loại pin này tăng lên đáng kể."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈprɑːses/",
+      "example": {
+        "english": "There is a process for determining why your computer is malfunctioning.",
+        "vietnamese": "Có một quy trình để xác định nguyên nhân máy tính của bạn hoạt động sai."
+      }
+    },
+    "6": {
+      "pronunciation": "/rɪˈpleɪs/",
+      "example": {
+        "english": "I've replaced the hard drive that was malfunctioning.",
+        "vietnamese": "Tôi đã thay ổ cứng bị lỗi."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˌrevəˈluːʃən/",
+      "example": {
+        "english": "We see a revolution in the computer field almost every day.",
+        "vietnamese": "Chúng ta thấy một cuộc cách mạng trong lĩnh vực máy tính gần như mỗi ngày."
+      }
+    },
+    "8": {
+      "pronunciation": "/ʃɑːrp/",
+      "example": {
+        "english": "The new employee proved how sharp she was when she mastered the new program in a few days.",
+        "vietnamese": "Nhân viên mới đã chứng tỏ sự nhanh nhạy của mình khi thành thạo chương trình mới chỉ trong vài ngày."
+      }
+    },
+    "9": {
+      "pronunciation": "/skɪl/",
+      "example": {
+        "english": "Salman's job as designer of electronic tools makes good use of his manual dexterity skills.",
+        "vietnamese": "Công việc thiết kế dụng cụ điện tử của Salman tận dụng tốt kỹ năng thao tác khéo léo của anh."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈsɔːftwer/",
+      "example": {
+        "english": "Many computers come pre-loaded with software.",
+        "vietnamese": "Nhiều máy tính được cài sẵn phần mềm."
+      }
+    },
+    "11": {
+      "pronunciation": "/stɔːr/",
+      "example": {
+        "english": "We store the master disks in the fireproof safe.",
+        "vietnamese": "Chúng tôi cất các đĩa gốc trong két chống cháy."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈteknɪkli/",
+      "example": {
+        "english": "Technically speaking, the virus infected only script files.",
+        "vietnamese": "Xét về mặt kỹ thuật, vi-rút chỉ lây nhiễm các tệp kịch bản."
+      }
+    }
+  },
+  "essential-10": {
+    "1": {
+      "pronunciation": "/əˈsembəl/",
+      "example": {
+        "english": "Her assistant copied and assembled the documents.",
+        "vietnamese": "Trợ lý của cô ấy đã sao chép và tập hợp các tài liệu."
+      }
+    },
+    "2": {
+      "pronunciation": "/bɪˈfɔːrhænd/",
+      "example": {
+        "english": "To speed up the mailing, we should prepare the labels beforehand.",
+        "vietnamese": "Để đẩy nhanh việc gửi thư, chúng ta nên chuẩn bị nhãn trước."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˌkɑːmplɪˈkeɪʃən/",
+      "example": {
+        "english": "Complications always arise when we try to cover too many topics in one letter.",
+        "vietnamese": "Rắc rối luôn phát sinh khi chúng ta cố đề cập quá nhiều chủ đề trong một lá thư."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈkʊriər/",
+      "example": {
+        "english": "We hired a courier to deliver the package.",
+        "vietnamese": "Chúng tôi đã thuê người chuyển phát để giao kiện hàng."
+      }
+    },
+    "5": {
+      "pronunciation": "/ɪkˈspres/",
+      "example": {
+        "english": "Express mail costs more than regular mail service, but it is more efficient.",
+        "vietnamese": "Thư chuyển phát nhanh đắt hơn dịch vụ thư thường nhưng hiệu quả hơn."
+      }
+    },
+    "6": {
+      "pronunciation": "/foʊld/",
+      "example": {
+        "english": "Don't fold the document if it doesn't fit the envelope.",
+        "vietnamese": "Đừng gấp tài liệu nếu nó không vừa phong bì."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈleɪaʊt/",
+      "example": {
+        "english": "We had to change the layout when we changed the size of the paper.",
+        "vietnamese": "Chúng tôi phải thay đổi bố cục khi đổi kích thước giấy."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈmenʃən/",
+      "example": {
+        "english": "There was no mention of the cost in the proposal.",
+        "vietnamese": "Bản đề xuất không đề cập đến chi phí."
+      }
+    },
+    "9": {
+      "pronunciation": "/pəˈtɪʃən/",
+      "example": {
+        "english": "The petition was photocopied and distributed to workers who will collect the necessary signatures.",
+        "vietnamese": "Bản kiến nghị được sao chụp và phát cho những người sẽ thu thập các chữ ký cần thiết."
+      }
+    },
+    "10": {
+      "pronunciation": "/pruːf/",
+      "example": {
+        "english": "This letter was not proofed very carefully; it is full of typing mistakes.",
+        "vietnamese": "Lá thư này không được soát lỗi kỹ; nó đầy lỗi đánh máy."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈredʒɪstər/",
+      "example": {
+        "english": "Everybody needs to sign the register before entering the mail room.",
+        "vietnamese": "Mọi người cần ký vào sổ đăng ký trước khi vào phòng thư."
+      }
+    },
+    "12": {
+      "pronunciation": "/rɪˈvaɪz/",
+      "example": {
+        "english": "We will need to revise the form letter since our address has changed.",
+        "vietnamese": "Chúng ta cần sửa lại thư mẫu vì địa chỉ đã thay đổi."
+      }
+    }
+  },
+  "essential-11": {
+    "1": {
+      "pronunciation": "/əˈbʌndənt/",
+      "example": {
+        "english": "The recruiter was surprised by the abundant number of qualified applicants.",
+        "vietnamese": "Nhà tuyển dụng ngạc nhiên trước số lượng dồi dào ứng viên đủ năng lực."
+      }
+    },
+    "2": {
+      "pronunciation": "/əˈkɑːmplɪʃmənt/",
+      "example": {
+        "english": "In honor of her accomplishments, the manager was promoted.",
+        "vietnamese": "Để ghi nhận những thành tích của cô ấy, người quản lý đã được thăng chức."
+      }
+    },
+    "3": {
+      "pronunciation": "/brɪŋ təˈɡeðər/",
+      "example": {
+        "english": "Our goal this year is to bring together the most creative group we can find.",
+        "vietnamese": "Mục tiêu năm nay của chúng tôi là tập hợp nhóm sáng tạo nhất có thể tìm được."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈkændɪdət/",
+      "example": {
+        "english": "The recruiter will interview all candidates for the position.",
+        "vietnamese": "Nhà tuyển dụng sẽ phỏng vấn tất cả ứng viên cho vị trí này."
+      }
+    },
+    "5": {
+      "pronunciation": "/kʌm ˈʌp wɪð/",
+      "example": {
+        "english": "In order for that small business to succeed, it needs to come up with a new strategy.",
+        "vietnamese": "Để thành công, doanh nghiệp nhỏ đó cần nghĩ ra một chiến lược mới."
+      }
+    },
+    "6": {
+      "pronunciation": "/kəˈmenʃərət/",
+      "example": {
+        "english": "Generally the first year's salary is commensurate with experience and education level.",
+        "vietnamese": "Nhìn chung, mức lương năm đầu tương xứng với kinh nghiệm và trình độ học vấn."
+      }
+    },
+    "7": {
+      "pronunciation": "/mætʃ/",
+      "example": {
+        "english": "A headhunter matches qualified candidates to suitable positions.",
+        "vietnamese": "Chuyên viên săn nhân tài kết nối các ứng viên đủ năng lực với những vị trí phù hợp."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈproʊfaɪl/",
+      "example": {
+        "english": "The recruiter told him that, unfortunately, he did not fit the job profile.",
+        "vietnamese": "Nhà tuyển dụng nói với anh rằng rất tiếc, anh không phù hợp với các tiêu chí của công việc."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˌkwɑːləfəˈkeɪʃənz/",
+      "example": {
+        "english": "The applicant had so many qualifications that the company created a new position for her.",
+        "vietnamese": "Ứng viên có nhiều năng lực đến mức công ty đã tạo một vị trí mới cho cô ấy."
+      }
+    },
+    "10": {
+      "pronunciation": "/rɪˈkruːt/",
+      "example": {
+        "english": "The new recruits spent the entire day in training.",
+        "vietnamese": "Các nhân viên mới dành cả ngày để tham gia đào tạo."
+      }
+    },
+    "11": {
+      "pronunciation": "/səbˈmɪt/",
+      "example": {
+        "english": "Submit your résumé to the human resources department.",
+        "vietnamese": "Hãy nộp sơ yếu lý lịch của bạn cho phòng nhân sự."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈtaɪm kənˌsuːmɪŋ/",
+      "example": {
+        "english": "Even though it was time-consuming, all of the participants felt that the open house was very worthwhile.",
+        "vietnamese": "Mặc dù tốn thời gian, tất cả người tham dự đều thấy buổi tham quan giới thiệu rất đáng giá."
+      }
+    }
+  },
+  "essential-12": {
+    "1": {
+      "pronunciation": "/əˈbɪləti/",
+      "example": {
+        "english": "The ability to work with others is a key requirement.",
+        "vietnamese": "Khả năng làm việc với người khác là một yêu cầu then chốt."
+      }
+    },
+    "2": {
+      "pronunciation": "/əˈplaɪ/",
+      "example": {
+        "english": "The college graduate applied for three jobs and received three offers.",
+        "vietnamese": "Người vừa tốt nghiệp đại học đã ứng tuyển ba công việc và nhận được ba lời mời làm việc."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈbækɡraʊnd/",
+      "example": {
+        "english": "Your background in the publishing industry is a definite asset for this job.",
+        "vietnamese": "Kinh nghiệm của bạn trong ngành xuất bản là một lợi thế rõ ràng cho công việc này."
+      }
+    },
+    "4": {
+      "pronunciation": "/bi ˈredi fər/",
+      "example": {
+        "english": "The employer wasn't ready for the applicant's questions.",
+        "vietnamese": "Nhà tuyển dụng chưa sẵn sàng trước những câu hỏi của ứng viên."
+      }
+    },
+    "5": {
+      "pronunciation": "/kɔːl ˈɪn/",
+      "example": {
+        "english": "The human resources manager called in all the qualified applicants for a second interview.",
+        "vietnamese": "Trưởng phòng nhân sự đã mời tất cả ứng viên đủ năng lực đến phỏng vấn lần hai."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈkɑːnfɪdəns/",
+      "example": {
+        "english": "Good applicants show confidence during an interview.",
+        "vietnamese": "Các ứng viên giỏi thể hiện sự tự tin trong buổi phỏng vấn."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈkɑːnstəntli/",
+      "example": {
+        "english": "The company is constantly looking for highly trained employees.",
+        "vietnamese": "Công ty luôn tìm kiếm những nhân viên được đào tạo chuyên sâu."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈekspɝːt/",
+      "example": {
+        "english": "Our department head is an expert in financing.",
+        "vietnamese": "Trưởng bộ phận của chúng tôi là chuyên gia về tài trợ vốn."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈfɑːloʊ ʌp/",
+      "example": {
+        "english": "Always follow up an interview with a thank-you note.",
+        "vietnamese": "Hãy luôn gửi thư cảm ơn sau buổi phỏng vấn."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈhezɪtənt/",
+      "example": {
+        "english": "Marla was hesitant about negotiating a higher salary.",
+        "vietnamese": "Marla còn do dự về việc thương lượng mức lương cao hơn."
+      }
+    },
+    "11": {
+      "pronunciation": "/prɪˈzent/",
+      "example": {
+        "english": "The candidate presented her qualifications so well that the employer offered her a job on the spot.",
+        "vietnamese": "Ứng viên trình bày năng lực của mình tốt đến mức nhà tuyển dụng đã mời cô nhận việc ngay tại chỗ."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈwiːkli/",
+      "example": {
+        "english": "Her hands trembled and she spoke weakly at the interview.",
+        "vietnamese": "Tay cô ấy run và cô nói với giọng yếu ớt trong buổi phỏng vấn."
+      }
+    }
+  },
+  "essential-13": {
+    "1": {
+      "pronunciation": "/ˈkɑːndʌkt/",
+      "example": {
+        "english": "The trainees' conduct during training was unacceptable.",
+        "vietnamese": "Hành vi của các học viên trong quá trình đào tạo là không thể chấp nhận được."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˈdʒenəreɪt/",
+      "example": {
+        "english": "The new training program generated a lot of interest among employees.",
+        "vietnamese": "Chương trình đào tạo mới đã tạo được nhiều sự quan tâm từ nhân viên."
+      }
+    },
+    "3": {
+      "pronunciation": "/haɪər/",
+      "example": {
+        "english": "She was hired after her third interview.",
+        "vietnamese": "Cô ấy được tuyển dụng sau buổi phỏng vấn thứ ba."
+      }
+    },
+    "4": {
+      "pronunciation": "/kiːp ˈʌp wɪð/",
+      "example": {
+        "english": "Employees are encouraged to take courses in order to keep up with new developments.",
+        "vietnamese": "Nhân viên được khuyến khích tham gia các khóa học để theo kịp những phát triển mới."
+      }
+    },
+    "5": {
+      "pronunciation": "/lʊk ˈʌp tə/",
+      "example": {
+        "english": "Staff members looked up to the director because he had earned their respect over the years.",
+        "vietnamese": "Nhân viên kính trọng giám đốc vì ông đã giành được sự tôn trọng của họ qua nhiều năm."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈmentɔːr/",
+      "example": {
+        "english": "The mentor helped her make some decisions about combining career and family.",
+        "vietnamese": "Người cố vấn đã giúp cô đưa ra một số quyết định về việc dung hòa sự nghiệp và gia đình."
+      }
+    },
+    "7": {
+      "pronunciation": "/ɑːn ˈtræk/",
+      "example": {
+        "english": "If we stay on track, the meeting should be finished at 9:30.",
+        "vietnamese": "Nếu chúng ta theo đúng tiến độ, cuộc họp sẽ kết thúc lúc 9 giờ 30."
+      }
+    },
+    "8": {
+      "pronunciation": "/rɪˈdʒekt/",
+      "example": {
+        "english": "Even though Mr. Lukin rejected their offer, they remained in contact.",
+        "vietnamese": "Mặc dù ông Lukin từ chối đề nghị của họ, họ vẫn giữ liên lạc."
+      }
+    },
+    "9": {
+      "pronunciation": "/set ˈʌp/",
+      "example": {
+        "english": "Set up a time and place for the meeting and then inform everyone who is involved.",
+        "vietnamese": "Hãy ấn định thời gian và địa điểm họp rồi thông báo cho tất cả những người liên quan."
+      }
+    },
+    "10": {
+      "pronunciation": "/səkˈses/",
+      "example": {
+        "english": "When the manager won an award, he attributed his success to his colleagues.",
+        "vietnamese": "Khi nhận giải thưởng, người quản lý cho rằng thành công của mình là nhờ các đồng nghiệp."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈtreɪnɪŋ/",
+      "example": {
+        "english": "The new hire received such good training that, within a week, she was as productive as the other workers.",
+        "vietnamese": "Nhân viên mới được đào tạo tốt đến mức chỉ trong một tuần, cô đã làm việc hiệu quả ngang những nhân viên khác."
+      }
+    },
+    "12": {
+      "pronunciation": "/ʌpˈdeɪt/",
+      "example": {
+        "english": "The personnel officer updated the employees on the latest personnel changes.",
+        "vietnamese": "Cán bộ nhân sự đã cập nhật cho nhân viên những thay đổi nhân sự mới nhất."
+      }
+    }
+  },
+  "essential-14": {
+    "1": {
+      "pronunciation": "/ˈbeɪsɪs/",
+      "example": {
+        "english": "The manager didn't have any basis for firing the employee.",
+        "vietnamese": "Người quản lý không có căn cứ nào để sa thải nhân viên."
+      }
+    },
+    "2": {
+      "pronunciation": "/bi əˈwer əv/",
+      "example": {
+        "english": "Are you aware of the new employee's past work history?",
+        "vietnamese": "Bạn có biết quá trình làm việc trước đây của nhân viên mới không?"
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈbenɪfɪt/",
+      "example": {
+        "english": "We all benefit from the company's policy of semiannual reviews.",
+        "vietnamese": "Tất cả chúng ta đều hưởng lợi từ chính sách đánh giá sáu tháng một lần của công ty."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈkɑːmpənseɪt/",
+      "example": {
+        "english": "The company will compensate employees for any travel expenses.",
+        "vietnamese": "Công ty sẽ hoàn trả cho nhân viên mọi chi phí đi lại."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈdelɪkətli/",
+      "example": {
+        "english": "The manager delicately asked about the health of his client.",
+        "vietnamese": "Người quản lý đã khéo léo hỏi thăm sức khỏe khách hàng của mình."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈelɪdʒəbəl/",
+      "example": {
+        "english": "Some employees may be eligible for the tuition reimbursement plan.",
+        "vietnamese": "Một số nhân viên có thể đủ điều kiện tham gia chương trình hoàn trả học phí."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈfleksəbli/",
+      "example": {
+        "english": "My manager thinks flexibly, enabling herself to solve many sticky problems.",
+        "vietnamese": "Quản lý của tôi suy nghĩ linh hoạt, nhờ đó cô ấy giải quyết được nhiều vấn đề khó khăn."
+      }
+    },
+    "8": {
+      "pronunciation": "/nɪˈɡoʊʃieɪt/",
+      "example": {
+        "english": "You must know what you want and what you can accept when you negotiate a salary.",
+        "vietnamese": "Bạn phải biết mình muốn gì và có thể chấp nhận gì khi thương lượng lương."
+      }
+    },
+    "9": {
+      "pronunciation": "/reɪz/",
+      "example": {
+        "english": "We need to raise the standard for timeliness.",
+        "vietnamese": "Chúng ta cần nâng cao tiêu chuẩn về tính đúng giờ."
+      }
+    },
+    "10": {
+      "pronunciation": "/rɪˈtaɪər/",
+      "example": {
+        "english": "Many people would like to win the lottery and retire.",
+        "vietnamese": "Nhiều người muốn trúng xổ số rồi nghỉ hưu."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈvestɪd/",
+      "example": {
+        "english": "The company has a vested interest in the happiness of its employees.",
+        "vietnamese": "Công ty có lợi ích trực tiếp gắn với hạnh phúc của nhân viên."
+      }
+    },
+    "12": {
+      "pronunciation": "/weɪdʒ/",
+      "example": {
+        "english": "The intern spends more than half of her wages on rent.",
+        "vietnamese": "Cô thực tập sinh chi hơn một nửa tiền lương để trả tiền thuê nhà."
+      }
+    }
+  },
+  "essential-15": {
+    "1": {
+      "pronunciation": "/əˈtʃiːvmənt/",
+      "example": {
+        "english": "Your main achievements will be listed in your personnel file.",
+        "vietnamese": "Những thành tích chính của bạn sẽ được ghi trong hồ sơ nhân sự."
+      }
+    },
+    "2": {
+      "pronunciation": "/kənˈtrɪbjuːt/",
+      "example": {
+        "english": "Make sure your boss is aware of the work you contributed to the project.",
+        "vietnamese": "Hãy bảo đảm sếp biết phần công việc bạn đã đóng góp cho dự án."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˌdedɪˈkeɪʃən/",
+      "example": {
+        "english": "The director's dedication to a high-quality product has motivated many of his employees.",
+        "vietnamese": "Sự tận tâm của giám đốc đối với sản phẩm chất lượng cao đã tạo động lực cho nhiều nhân viên."
+      }
+    },
+    "4": {
+      "pronunciation": "/lʊk ˈfɔːrwərd tə/",
+      "example": {
+        "english": "We look forward to seeing you at the next meeting.",
+        "vietnamese": "Chúng tôi mong được gặp bạn tại cuộc họp tiếp theo."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈlʊk tə/",
+      "example": {
+        "english": "The staff is looking to their supervisor for guidance and direction.",
+        "vietnamese": "Các nhân viên đang trông cậy vào người giám sát để được hướng dẫn và định hướng."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈlɔɪəl/",
+      "example": {
+        "english": "Even though your assistant is loyal, you have to question his job performance.",
+        "vietnamese": "Dù trợ lý của bạn trung thành, bạn vẫn phải xem xét hiệu quả công việc của anh ấy."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈmerɪt/",
+      "example": {
+        "english": "Employees are evaluated on their merit and not on seniority.",
+        "vietnamese": "Nhân viên được đánh giá dựa trên năng lực và thành tích, chứ không phải thâm niên."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈɑːbviəsli/",
+      "example": {
+        "english": "Her tardiness was obviously resented by her coworkers.",
+        "vietnamese": "Các đồng nghiệp rõ ràng rất bất bình trước việc cô ấy đi muộn."
+      }
+    },
+    "9": {
+      "pronunciation": "/prəˈdʌktɪv/",
+      "example": {
+        "english": "The researcher wasn't as productive when he first started working here.",
+        "vietnamese": "Khi mới bắt đầu làm việc ở đây, nhà nghiên cứu chưa đạt được năng suất như vậy."
+      }
+    },
+    "10": {
+      "pronunciation": "/prəˈmoʊt/",
+      "example": {
+        "english": "Even though the sales associate had a good year, it wasn't possible to promote him.",
+        "vietnamese": "Mặc dù nhân viên bán hàng đã có một năm làm việc tốt, việc thăng chức cho anh ấy vẫn không thể thực hiện được."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˌrekəɡˈnɪʃən/",
+      "example": {
+        "english": "Recognition of excellent work should be routine for every manager.",
+        "vietnamese": "Việc ghi nhận công việc xuất sắc nên là thông lệ đối với mọi nhà quản lý."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈvæljuː/",
+      "example": {
+        "english": "Employees value their colleagues' opinions.",
+        "vietnamese": "Nhân viên coi trọng ý kiến của các đồng nghiệp."
+      }
+    }
+  },
+  "essential-16": {
+    "1": {
+      "pronunciation": "/ˈbɑːrɡən/",
+      "example": {
+        "english": "She bargained for over an hour, finally reducing the price by half.",
+        "vietnamese": "Cô ấy mặc cả hơn một giờ và cuối cùng giảm được giá xuống một nửa."
+      }
+    },
+    "2": {
+      "pronunciation": "/ber/",
+      "example": {
+        "english": "If you can bear with me, I'd like to stop in one more store.",
+        "vietnamese": "Nếu bạn có thể kiên nhẫn với tôi, tôi muốn ghé thêm một cửa hàng nữa."
+      }
+    },
+    "3": {
+      "pronunciation": "/bɪˈheɪvjər/",
+      "example": {
+        "english": "Suspicious behavior in a department store will draw the attention of the security guards.",
+        "vietnamese": "Hành vi đáng ngờ trong cửa hàng bách hóa sẽ thu hút sự chú ý của các nhân viên bảo vệ."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈtʃekaʊt/",
+      "example": {
+        "english": "The line at this checkout is too long, so let's look for another.",
+        "vietnamese": "Hàng chờ ở quầy thanh toán này quá dài, nên hãy tìm quầy khác."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈkʌmfərt/",
+      "example": {
+        "english": "I like to dress for comfort if I'm spending the day shopping.",
+        "vietnamese": "Tôi thích ăn mặc thoải mái nếu dành cả ngày đi mua sắm."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɪkˈspænd/",
+      "example": {
+        "english": "The new manager has significantly expanded the store's inventory.",
+        "vietnamese": "Người quản lý mới đã tăng đáng kể lượng hàng của cửa hàng."
+      }
+    },
+    "7": {
+      "pronunciation": "/ɪkˈsplɔːr/",
+      "example": {
+        "english": "The collector likes to explore antique shops looking for bargains.",
+        "vietnamese": "Nhà sưu tầm thích khám phá các cửa hàng đồ cổ để tìm món hời."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈaɪtəm/",
+      "example": {
+        "english": "Do you think I can get all these items into one bag?",
+        "vietnamese": "Bạn nghĩ tôi có thể cho tất cả những món đồ này vào một túi không?"
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈmændətɔːri/",
+      "example": {
+        "english": "There is a mandatory limit of nine items for use of this checkout line.",
+        "vietnamese": "Khách sử dụng hàng thanh toán này bắt buộc chỉ được mua tối đa chín món."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈmɝːtʃəndaɪs/",
+      "example": {
+        "english": "I am very impressed with the selection of merchandise at this store.",
+        "vietnamese": "Tôi rất ấn tượng với các mặt hàng được lựa chọn bày bán tại cửa hàng này."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈstrɪktli/",
+      "example": {
+        "english": "Our store strictly enforces its return policy.",
+        "vietnamese": "Cửa hàng chúng tôi thực thi nghiêm ngặt chính sách trả hàng."
+      }
+    },
+    "12": {
+      "pronunciation": "/trend/",
+      "example": {
+        "english": "The clothing store tries to stay on top of all the new trends.",
+        "vietnamese": "Cửa hàng quần áo cố gắng nắm bắt tất cả các xu hướng mới."
+      }
+    }
+  },
+  "essential-17": {
+    "1": {
+      "pronunciation": "/daɪˈvɝːsɪfaɪ/",
+      "example": {
+        "english": "The stationery department plans to diversify its offering of paper products.",
+        "vietnamese": "Bộ phận văn phòng phẩm dự định đa dạng hóa các sản phẩm giấy cung cấp."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˈentərpraɪz/",
+      "example": {
+        "english": "This enterprise has become unmanageable and is beginning to lose money.",
+        "vietnamese": "Doanh nghiệp này đã trở nên khó quản lý và bắt đầu thua lỗ."
+      }
+    },
+    "3": {
+      "pronunciation": "/ɪˈsenʃəli/",
+      "example": {
+        "english": "After distributing all of the cartridges that were ordered, we were essentially left with none.",
+        "vietnamese": "Sau khi phân phối tất cả hộp mực đã đặt, chúng tôi về cơ bản không còn hộp nào."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈevrideɪ/",
+      "example": {
+        "english": "This everyday routine of having to check inventory is boring.",
+        "vietnamese": "Công việc kiểm tra hàng tồn kho hằng ngày này thật nhàm chán."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈfʌŋkʃən/",
+      "example": {
+        "english": "What is the function of this device?",
+        "vietnamese": "Chức năng của thiết bị này là gì?"
+      }
+    },
+    "6": {
+      "pronunciation": "/meɪnˈteɪn/",
+      "example": {
+        "english": "Trying to maintain two different stockrooms is too much work.",
+        "vietnamese": "Cố duy trì hai kho hàng khác nhau là quá nhiều việc."
+      }
+    },
+    "7": {
+      "pronunciation": "/əbˈteɪn/",
+      "example": {
+        "english": "The employee obtained the report from her supervisor.",
+        "vietnamese": "Nhân viên đã lấy được báo cáo từ người giám sát của cô ấy."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˌpriːˈrekwəzɪt/",
+      "example": {
+        "english": "One of the prerequisites for this job is competence in bookkeeping.",
+        "vietnamese": "Một trong những điều kiện tiên quyết của công việc này là thành thạo ghi chép sổ sách kế toán."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈkwɑːləti/",
+      "example": {
+        "english": "The most important qualities we look for in a supplier are reliability and quick response.",
+        "vietnamese": "Những phẩm chất quan trọng nhất chúng tôi tìm kiếm ở nhà cung cấp là sự đáng tin cậy và phản hồi nhanh."
+      }
+    },
+    "10": {
+      "pronunciation": "/smuːð/",
+      "example": {
+        "english": "Thanks to our smooth transition to the new supplier, there was no interruption in shipments.",
+        "vietnamese": "Nhờ việc chuyển sang nhà cung cấp mới diễn ra suôn sẻ, các đợt giao hàng không bị gián đoạn."
+      }
+    },
+    "11": {
+      "pronunciation": "/sɔːrs/",
+      "example": {
+        "english": "I can't tell you the source of this information.",
+        "vietnamese": "Tôi không thể cho bạn biết nguồn thông tin này."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈsteɪʃəneri/",
+      "example": {
+        "english": "We do not have enough stationery, so please order some more.",
+        "vietnamese": "Chúng ta không có đủ văn phòng phẩm, vì vậy vui lòng đặt thêm."
+      }
+    }
+  },
+  "essential-18": {
+    "1": {
+      "pronunciation": "/ˈækjərətli/",
+      "example": {
+        "english": "To gauge these figures accurately, we first need to get some facts from the shipping department.",
+        "vietnamese": "Để đánh giá chính xác các số liệu này, trước hết chúng ta cần lấy một số thông tin thực tế từ bộ phận vận chuyển."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˈkæriər/",
+      "example": {
+        "english": "Mr. Lau switched carriers in order to get a price savings on deliveries out of state.",
+        "vietnamese": "Ông Lau đã đổi đơn vị vận chuyển để tiết kiệm chi phí giao hàng ngoài tiểu bang."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈkætəlɔːɡ/",
+      "example": {
+        "english": "Ellen cataloged the complaints according to severity.",
+        "vietnamese": "Ellen đã lập danh mục các khiếu nại theo mức độ nghiêm trọng."
+      }
+    },
+    "4": {
+      "pronunciation": "/fʊlˈfɪl/",
+      "example": {
+        "english": "The engineers fulfilled a client's request for larger display screens.",
+        "vietnamese": "Các kỹ sư đã đáp ứng yêu cầu của một khách hàng về màn hình hiển thị lớn hơn."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈɪntɪɡrəl/",
+      "example": {
+        "english": "Good customer relations is an integral component of any business.",
+        "vietnamese": "Quan hệ tốt với khách hàng là một thành phần không thể thiếu của bất kỳ doanh nghiệp nào."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈɪnvəntɔːri/",
+      "example": {
+        "english": "Their inventory has not changed much over the years.",
+        "vietnamese": "Lượng hàng tồn kho của họ không thay đổi nhiều qua các năm."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈmɪnɪmaɪz/",
+      "example": {
+        "english": "The shipping staff minimized customer complaints by working overtime to deliver the packages quickly.",
+        "vietnamese": "Nhân viên vận chuyển giảm thiểu khiếu nại của khách bằng cách làm thêm giờ để giao các kiện hàng nhanh chóng."
+      }
+    },
+    "8": {
+      "pronunciation": "/ɑːn ˈhænd/",
+      "example": {
+        "english": "We had too much stock on hand, so we had a summer sale.",
+        "vietnamese": "Chúng tôi có quá nhiều hàng sẵn trong kho nên đã tổ chức đợt giảm giá mùa hè."
+      }
+    },
+    "9": {
+      "pronunciation": "/rɪˈmembər/",
+      "example": {
+        "english": "I will remember the combination to the safe without writing it down.",
+        "vietnamese": "Tôi sẽ nhớ mã số két sắt mà không cần ghi lại."
+      }
+    },
+    "10": {
+      "pronunciation": "/ʃɪp/",
+      "example": {
+        "english": "Eva shipped the package carefully, since she knew the contents were made of glass.",
+        "vietnamese": "Eva gửi kiện hàng một cách cẩn thận vì cô biết những món bên trong làm bằng thủy tinh."
+      }
+    },
+    "11": {
+      "pronunciation": "/səˈfɪʃəntli/",
+      "example": {
+        "english": "The boxcar was sufficiently damaged that it could not be loaded on the truck.",
+        "vietnamese": "Toa xe hàng bị hư hại đến mức không thể được chất lên xe tải."
+      }
+    },
+    "12": {
+      "pronunciation": "/səˈplaɪ/",
+      "example": {
+        "english": "Gerald supplied the shipping staff with enough labels to last a year.",
+        "vietnamese": "Gerald cung cấp cho nhân viên vận chuyển đủ nhãn để dùng trong một năm."
+      }
+    }
+  },
+  "essential-19": {
+    "1": {
+      "pronunciation": "/tʃɑːrdʒ/",
+      "example": {
+        "english": "The extra charge for gift wrapping your purchase will appear on your invoice.",
+        "vietnamese": "Phí gói quà thêm cho món hàng bạn mua sẽ được ghi trên hóa đơn."
+      }
+    },
+    "2": {
+      "pronunciation": "/kəmˈpaɪl/",
+      "example": {
+        "english": "The clerk is responsible for compiling the orders at the end of the day.",
+        "vietnamese": "Nhân viên phụ trách tổng hợp các đơn hàng vào cuối ngày."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈkʌstəmər/",
+      "example": {
+        "english": "Let's make sure all invoices sent to customers are kept in alphabetical order.",
+        "vietnamese": "Hãy bảo đảm tất cả hóa đơn gửi cho khách hàng được lưu theo thứ tự bảng chữ cái."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈdɪskaʊnt/",
+      "example": {
+        "english": "We are offering a 10 percent discount to all new customers.",
+        "vietnamese": "Chúng tôi đang giảm giá 10 phần trăm cho tất cả khách hàng mới."
+      }
+    },
+    "5": {
+      "pronunciation": "/ɪˈfɪʃənt/",
+      "example": {
+        "english": "Electronic invoicing has helped us to be efficient.",
+        "vietnamese": "Việc lập hóa đơn điện tử đã giúp chúng tôi làm việc hiệu quả."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈestɪmeɪt/",
+      "example": {
+        "english": "We estimated our losses this year at about five thousand dollars.",
+        "vietnamese": "Chúng tôi ước tính khoản lỗ năm nay vào khoảng năm nghìn đô la."
+      }
+    },
+    "7": {
+      "pronunciation": "/ɪmˈpoʊz/",
+      "example": {
+        "english": "The company will impose a surcharge for any items returned.",
+        "vietnamese": "Công ty sẽ áp dụng phụ phí cho bất kỳ mặt hàng nào bị trả lại."
+      }
+    },
+    "8": {
+      "pronunciation": "/mɪˈsteɪk/",
+      "example": {
+        "english": "I made a mistake in adding up your bill and we overcharged you twenty dollars.",
+        "vietnamese": "Tôi đã cộng nhầm hóa đơn và chúng tôi đã thu thừa của bạn hai mươi đô la."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈɔːrdər/",
+      "example": {
+        "english": "The customer placed an order for ten new chairs.",
+        "vietnamese": "Khách hàng đã đặt mua mười chiếc ghế mới."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈprɑːmptli/",
+      "example": {
+        "english": "We always reply promptly to customers' letters.",
+        "vietnamese": "Chúng tôi luôn trả lời thư của khách hàng nhanh chóng."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈrektɪfaɪ/",
+      "example": {
+        "english": "Embarrassed at his behavior, he rectified the situation by writing a letter of apology.",
+        "vietnamese": "Xấu hổ về hành vi của mình, anh ấy đã khắc phục tình hình bằng cách viết thư xin lỗi."
+      }
+    },
+    "12": {
+      "pronunciation": "/tɝːmz/",
+      "example": {
+        "english": "The terms of payment were clearly listed at the bottom of the invoice.",
+        "vietnamese": "Các điều khoản thanh toán được liệt kê rõ ràng ở cuối hóa đơn."
+      }
+    }
+  },
+  "essential-20": {
+    "1": {
+      "pronunciation": "/əˈdʒʌstmənt/",
+      "example": {
+        "english": "An adjustment to the number of damaged items would help us align our figures.",
+        "vietnamese": "Điều chỉnh số lượng hàng bị hư hỏng sẽ giúp chúng ta thống nhất các số liệu."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˌɔːtəˈmætɪkli/",
+      "example": {
+        "english": "The door opens automatically.",
+        "vietnamese": "Cánh cửa tự động mở."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈkruːʃəl/",
+      "example": {
+        "english": "Inventory is a crucial process and must be taken seriously by all staff.",
+        "vietnamese": "Kiểm kê là một quy trình thiết yếu và tất cả nhân viên phải thực hiện nghiêm túc."
+      }
+    },
+    "4": {
+      "pronunciation": "/dɪˈskrepənsi/",
+      "example": {
+        "english": "We easily explained the discrepancy between the two counts.",
+        "vietnamese": "Chúng tôi dễ dàng giải thích sự chênh lệch giữa hai lần đếm."
+      }
+    },
+    "5": {
+      "pronunciation": "/dɪˈstɝːb/",
+      "example": {
+        "english": "I hope I'm not disturbing you, but I need to ask you to move so I can record the products behind you.",
+        "vietnamese": "Tôi hy vọng không làm phiền bạn, nhưng tôi cần nhờ bạn di chuyển để tôi có thể ghi lại các sản phẩm phía sau bạn."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˌlaɪəˈbɪləti/",
+      "example": {
+        "english": "The slippery steps were a terrible liability for the store.",
+        "vietnamese": "Các bậc thang trơn trượt là một nguy cơ trách nhiệm bồi thường nghiêm trọng đối với cửa hàng."
+      }
+    },
+    "7": {
+      "pronunciation": "/rɪˈflekʃən/",
+      "example": {
+        "english": "She saw her reflection in the mirror.",
+        "vietnamese": "Cô ấy nhìn thấy hình ảnh phản chiếu của mình trong gương."
+      }
+    },
+    "8": {
+      "pronunciation": "/rʌn/",
+      "example": {
+        "english": "As long as the computer is running, you can keep adding new data.",
+        "vietnamese": "Chừng nào máy tính còn hoạt động, bạn có thể tiếp tục thêm dữ liệu mới."
+      }
+    },
+    "9": {
+      "pronunciation": "/skæn/",
+      "example": {
+        "english": "Jasmine quickly scanned the list to see if any information was missing.",
+        "vietnamese": "Jasmine nhanh chóng xem lướt danh sách để kiểm tra có thiếu thông tin nào không."
+      }
+    },
+    "10": {
+      "pronunciation": "/səbˈtrækt/",
+      "example": {
+        "english": "Once you ring up an item, the computer automatically subtracts it from the inventory log.",
+        "vietnamese": "Khi bạn tính tiền một mặt hàng, máy tính sẽ tự động trừ mặt hàng đó khỏi sổ theo dõi tồn kho."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈtiːdiəs/",
+      "example": {
+        "english": "Counting merchandise all weekend is the most tedious job I can imagine.",
+        "vietnamese": "Đếm hàng hóa suốt cuối tuần là công việc tẻ nhạt nhất tôi có thể tưởng tượng."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈverɪfaɪ/",
+      "example": {
+        "english": "I can't verify the accuracy of these numbers, since I was not present for inventory weekend.",
+        "vietnamese": "Tôi không thể xác nhận độ chính xác của các số liệu này vì tôi không có mặt vào cuối tuần kiểm kê."
+      }
+    }
+  },
+  "essential-21": {
+    "1": {
+      "pronunciation": "/əkˈsept/",
+      "example": {
+        "english": "The receptionist accepted the package from the courier.",
+        "vietnamese": "Nhân viên lễ tân đã nhận kiện hàng từ người chuyển phát."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˈbæləns/",
+      "example": {
+        "english": "It took him over an hour to balance his checkbook.",
+        "vietnamese": "Anh ấy mất hơn một giờ để đối chiếu số dư sổ séc."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈbɑːroʊ/",
+      "example": {
+        "english": "The couple borrowed money from the bank to buy a home.",
+        "vietnamese": "Cặp vợ chồng đã vay tiền ngân hàng để mua nhà."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈkɔːʃəsli/",
+      "example": {
+        "english": "Act cautiously when signing contracts and read them thoroughly first.",
+        "vietnamese": "Hãy thận trọng khi ký hợp đồng và đọc kỹ trước."
+      }
+    },
+    "5": {
+      "pronunciation": "/dɪˈdʌkt/",
+      "example": {
+        "english": "Before computing his taxes, Christophe remembered to deduct allowable home improvement expenses.",
+        "vietnamese": "Trước khi tính thuế, Christophe đã nhớ khấu trừ các chi phí cải tạo nhà được phép."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈdɪvɪdend/",
+      "example": {
+        "english": "The dividend was calculated and distributed to the group.",
+        "vietnamese": "Cổ tức đã được tính toán và phân chia cho nhóm."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈdaʊn ˌpeɪmənt/",
+      "example": {
+        "english": "By making a large down payment, the couple saved a great deal in mortgage interest.",
+        "vietnamese": "Nhờ trả trước một khoản lớn, cặp vợ chồng đã tiết kiệm được nhiều tiền lãi vay thế chấp."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈmɔːrɡɪdʒ/",
+      "example": {
+        "english": "Hiram mortgaged his home to get extra money to invest in his business.",
+        "vietnamese": "Hiram đã thế chấp nhà để có thêm tiền đầu tư vào công việc kinh doanh."
+      }
+    },
+    "9": {
+      "pronunciation": "/rɪˈstrɪktɪd/",
+      "example": {
+        "english": "Access to the safe deposit box vault is restricted to key holders.",
+        "vietnamese": "Chỉ những người giữ chìa khóa mới được vào khu vực két ký gửi."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈsɪɡnətʃər/",
+      "example": {
+        "english": "Once we have your signature, the contract will be complete.",
+        "vietnamese": "Khi có chữ ký của bạn, hợp đồng sẽ hoàn tất."
+      }
+    },
+    "11": {
+      "pronunciation": "/teɪk ˈaʊt/",
+      "example": {
+        "english": "My checking account allows me to take out money at any bank branch without a fee.",
+        "vietnamese": "Tài khoản thanh toán của tôi cho phép rút tiền tại bất kỳ chi nhánh ngân hàng nào mà không mất phí."
+      }
+    },
+    "12": {
+      "pronunciation": "/trænˈzækʃən/",
+      "example": {
+        "english": "Banking transactions will appear on your monthly statement.",
+        "vietnamese": "Các giao dịch ngân hàng sẽ xuất hiện trên sao kê hằng tháng của bạn."
+      }
+    }
+  },
+  "essential-22": {
+    "1": {
+      "pronunciation": "/əˈkaʊntɪŋ/",
+      "example": {
+        "english": "Good accounting is needed in all businesses.",
+        "vietnamese": "Mọi doanh nghiệp đều cần công tác kế toán tốt."
+      }
+    },
+    "2": {
+      "pronunciation": "/əˈkjuːmjəleɪt/",
+      "example": {
+        "english": "The bills started to accumulate after the secretary quit.",
+        "vietnamese": "Các hóa đơn bắt đầu dồn lại sau khi thư ký nghỉ việc."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈæset/",
+      "example": {
+        "english": "The company's assets are worth millions of dollars.",
+        "vietnamese": "Tài sản của công ty trị giá hàng triệu đô la."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈɔːdɪt/",
+      "example": {
+        "english": "The independent accountants audited the company's books.",
+        "vietnamese": "Các kế toán viên độc lập đã kiểm toán sổ sách của công ty."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈbʌdʒɪt/",
+      "example": {
+        "english": "The company will have to budget more money for this department next year.",
+        "vietnamese": "Công ty sẽ phải phân bổ ngân sách nhiều hơn cho bộ phận này vào năm tới."
+      }
+    },
+    "6": {
+      "pronunciation": "/bɪld ˈʌp/",
+      "example": {
+        "english": "The firm has built up a solid reputation for itself.",
+        "vietnamese": "Công ty đã xây dựng được uy tín vững chắc cho mình."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈklaɪənt/",
+      "example": {
+        "english": "Maintaining close contact with clients keeps the account managers aware of changing needs.",
+        "vietnamese": "Việc duy trì liên hệ chặt chẽ với khách hàng giúp các quản lý khách hàng nắm được nhu cầu đang thay đổi."
+      }
+    },
+    "8": {
+      "pronunciation": "/det/",
+      "example": {
+        "english": "The banks are worried about your increasing debt.",
+        "vietnamese": "Các ngân hàng lo ngại về khoản nợ ngày càng tăng của bạn."
+      }
+    },
+    "9": {
+      "pronunciation": "/aʊtˈstændɪŋ/",
+      "example": {
+        "english": "That client still has several outstanding bills.",
+        "vietnamese": "Khách hàng đó vẫn còn vài hóa đơn chưa thanh toán."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈprɑːfɪtəbli/",
+      "example": {
+        "english": "We invested in the stock market profitably.",
+        "vietnamese": "Chúng tôi đã đầu tư có lãi trên thị trường chứng khoán."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈrekənsaɪl/",
+      "example": {
+        "english": "The accountant found the error when she reconciled the account.",
+        "vietnamese": "Kế toán viên phát hiện lỗi khi đối chiếu tài khoản."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈtɝːnoʊvər/",
+      "example": {
+        "english": "The overseas branch has much lower employee turnover than does domestic operations.",
+        "vietnamese": "Chi nhánh ở nước ngoài có tỷ lệ nhân viên nghỉ việc thấp hơn nhiều so với các đơn vị trong nước."
+      }
+    }
+  },
+  "essential-23": {
+    "1": {
+      "pronunciation": "/əˈɡresɪvli/",
+      "example": {
+        "english": "His ideas were not well received because he spoke so aggressively.",
+        "vietnamese": "Ý tưởng của anh ấy không được đón nhận vì anh nói quá gay gắt."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˈætɪtuːd/",
+      "example": {
+        "english": "Each investor should assess his or her own attitude toward investment.",
+        "vietnamese": "Mỗi nhà đầu tư nên đánh giá thái độ của chính mình đối với việc đầu tư."
+      }
+    },
+    "3": {
+      "pronunciation": "/kəˈmɪt/",
+      "example": {
+        "english": "The stockbroker committed herself to finding the best investments for each client.",
+        "vietnamese": "Nữ môi giới chứng khoán cam kết tìm những khoản đầu tư tốt nhất cho từng khách hàng."
+      }
+    },
+    "4": {
+      "pronunciation": "/kənˈsɝːvətɪv/",
+      "example": {
+        "english": "Her conservative strategy paid off over the years.",
+        "vietnamese": "Chiến lược thận trọng của cô ấy đã mang lại kết quả qua nhiều năm."
+      }
+    },
+    "5": {
+      "pronunciation": "/fʌnd/",
+      "example": {
+        "english": "The company will fund the trip to the conference.",
+        "vietnamese": "Công ty sẽ tài trợ chuyến đi dự hội nghị."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɪnˈvest/",
+      "example": {
+        "english": "Don't invest all of your time in just one project.",
+        "vietnamese": "Đừng dành toàn bộ thời gian của bạn cho chỉ một dự án."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈlɔːŋ tɝːm/",
+      "example": {
+        "english": "The CEO's long-term goal was to increase the return on investment.",
+        "vietnamese": "Mục tiêu dài hạn của tổng giám đốc là tăng lợi nhuận trên vốn đầu tư."
+      }
+    },
+    "8": {
+      "pronunciation": "/pɔːrtˈfoʊlioʊ/",
+      "example": {
+        "english": "Investors are advised to have diverse portfolios.",
+        "vietnamese": "Các nhà đầu tư được khuyên nên có danh mục đầu tư đa dạng."
+      }
+    },
+    "9": {
+      "pronunciation": "/pʊl ˈaʊt/",
+      "example": {
+        "english": "The pull out of the bank has left the company without financing.",
+        "vietnamese": "Việc ngân hàng rút lui đã khiến công ty không còn nguồn tài trợ vốn."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈriːsɔːrs/",
+      "example": {
+        "english": "The company's most valuable resource was its staff.",
+        "vietnamese": "Nguồn lực quý giá nhất của công ty là đội ngũ nhân viên."
+      }
+    },
+    "11": {
+      "pronunciation": "/rɪˈtɝːn/",
+      "example": {
+        "english": "The 44 percent return on the new stock was far more than the stockbroker had anticipated.",
+        "vietnamese": "Mức lợi nhuận 44 phần trăm từ cổ phiếu mới cao hơn nhiều so với dự đoán của người môi giới."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈwaɪzli/",
+      "example": {
+        "english": "If you invest wisely, you will be able to retire early.",
+        "vietnamese": "Nếu đầu tư khôn ngoan, bạn sẽ có thể nghỉ hưu sớm."
+      }
+    }
+  },
+  "essential-24": {
+    "1": {
+      "pronunciation": "/ˌkælkjəˈleɪʃən/",
+      "example": {
+        "english": "It took my accountant some time to complete the calculations on my income tax.",
+        "vietnamese": "Kế toán của tôi mất một khoảng thời gian để hoàn thành việc tính thuế thu nhập của tôi."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˈdedlaɪn/",
+      "example": {
+        "english": "The deadline for paying this year's taxes is just two weeks away.",
+        "vietnamese": "Chỉ còn hai tuần nữa là đến hạn nộp thuế năm nay."
+      }
+    },
+    "3": {
+      "pronunciation": "/faɪl/",
+      "example": {
+        "english": "If you file your taxes late, you will have to pay a fine.",
+        "vietnamese": "Nếu nộp tờ khai thuế muộn, bạn sẽ phải nộp phạt."
+      }
+    },
+    "4": {
+      "pronunciation": "/fɪl ˈaʊt/",
+      "example": {
+        "english": "I usually ask someone to help me fill out my tax form.",
+        "vietnamese": "Tôi thường nhờ người giúp điền tờ khai thuế."
+      }
+    },
+    "5": {
+      "pronunciation": "/ɡɪv ˈʌp/",
+      "example": {
+        "english": "Ms. Gomez is so optimistic that she never gives up.",
+        "vietnamese": "Cô Gomez lạc quan đến mức không bao giờ bỏ cuộc."
+      }
+    },
+    "6": {
+      "pronunciation": "/dʒɔɪnt/",
+      "example": {
+        "english": "We opened a joint bank account five years ago.",
+        "vietnamese": "Chúng tôi đã mở một tài khoản ngân hàng chung cách đây năm năm."
+      }
+    },
+    "7": {
+      "pronunciation": "/oʊ/",
+      "example": {
+        "english": "As the business grew, the owner paid back loans and owed less money.",
+        "vietnamese": "Khi doanh nghiệp phát triển, chủ doanh nghiệp trả bớt các khoản vay và giảm số tiền còn nợ."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈpenəlti/",
+      "example": {
+        "english": "Anyone who pays less than they should in taxes will face a penalty.",
+        "vietnamese": "Bất kỳ ai nộp thuế ít hơn mức phải nộp sẽ bị phạt."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˌprepəˈreɪʃən/",
+      "example": {
+        "english": "Income tax preparation can take a long time.",
+        "vietnamese": "Việc chuẩn bị hồ sơ thuế thu nhập có thể mất nhiều thời gian."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈriːfʌnd/",
+      "example": {
+        "english": "With the tax refund, we bought two plane tickets.",
+        "vietnamese": "Chúng tôi dùng khoản hoàn thuế để mua hai vé máy bay."
+      }
+    },
+    "11": {
+      "pronunciation": "/spaʊs/",
+      "example": {
+        "english": "My spouse prepares the tax return for both of us.",
+        "vietnamese": "Bạn đời của tôi chuẩn bị tờ khai thuế cho cả hai chúng tôi."
+      }
+    },
+    "12": {
+      "pronunciation": "/wɪðˈhoʊld/",
+      "example": {
+        "english": "Do not withhold any information from your accountant or he will not be able to prepare your tax form correctly.",
+        "vietnamese": "Đừng giấu kế toán bất kỳ thông tin nào, nếu không anh ấy sẽ không thể lập tờ khai thuế cho bạn chính xác."
+      }
+    }
+  },
+  "essential-25": {
+    "1": {
+      "pronunciation": "/dɪˈzaɪər/",
+      "example": {
+        "english": "We desire to have our own home.",
+        "vietnamese": "Chúng tôi mong muốn có ngôi nhà riêng."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˈdiːteɪl/",
+      "example": {
+        "english": "The office manager detailed each step of the inventory process at the staff meeting.",
+        "vietnamese": "Trưởng phòng hành chính đã trình bày chi tiết từng bước của quy trình kiểm kê tại cuộc họp nhân viên."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈfɔːrkæst/",
+      "example": {
+        "english": "The financial forecast indicates a deficit in the next quarter.",
+        "vietnamese": "Dự báo tài chính cho thấy sẽ có thâm hụt trong quý tới."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈlevəl/",
+      "example": {
+        "english": "The meeting was only open to staff at the assistant director level or higher.",
+        "vietnamese": "Cuộc họp chỉ dành cho nhân sự từ cấp phó giám đốc trở lên."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˌoʊvərˈɔːl/",
+      "example": {
+        "english": "Overall, our costs are running true to prediction.",
+        "vietnamese": "Nhìn chung, chi phí của chúng tôi đang đúng như dự đoán."
+      }
+    },
+    "6": {
+      "pronunciation": "/pərˈspektɪv/",
+      "example": {
+        "english": "The budget statement will give the manager some perspective on where the costs of running the business are to be found.",
+        "vietnamese": "Báo cáo ngân sách sẽ giúp người quản lý hiểu phần nào các chi phí vận hành doanh nghiệp phát sinh ở đâu."
+      }
+    },
+    "7": {
+      "pronunciation": "/prəˈdʒekt/",
+      "example": {
+        "english": "The director projects that the company will need to hire ten new employees this year.",
+        "vietnamese": "Giám đốc dự đoán công ty sẽ cần tuyển mười nhân viên mới trong năm nay."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˌriːəˈlɪstɪk/",
+      "example": {
+        "english": "Realistic expectations are important when you review your financial statements.",
+        "vietnamese": "Những kỳ vọng thực tế là điều quan trọng khi bạn xem xét các báo cáo tài chính."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈtɑːrɡɪt/",
+      "example": {
+        "english": "We targeted March as the deadline for completing the financial statement.",
+        "vietnamese": "Chúng tôi chọn tháng Ba làm hạn hoàn thành báo cáo tài chính."
+      }
+    },
+    "10": {
+      "pronunciation": "/trænzˈleɪʃən/",
+      "example": {
+        "english": "The translation of the statement from Japanese into English was very helpful.",
+        "vietnamese": "Bản dịch báo cáo từ tiếng Nhật sang tiếng Anh rất hữu ích."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈtɪpɪkli/",
+      "example": {
+        "english": "The director typically dominates the staff meetings.",
+        "vietnamese": "Giám đốc thường chi phối các cuộc họp nhân viên."
+      }
+    },
+    "12": {
+      "pronunciation": "/jiːld/",
+      "example": {
+        "english": "The company's investment yielded high returns.",
+        "vietnamese": "Khoản đầu tư của công ty mang lại lợi nhuận cao."
+      }
+    }
+  },
+  "essential-26": {
+    "1": {
+      "pronunciation": "/əˈdʒeɪsənt/",
+      "example": {
+        "english": "My office is adjacent to the receptionist area on the third floor.",
+        "vietnamese": "Văn phòng của tôi nằm cạnh khu vực lễ tân ở tầng ba."
+      }
+    },
+    "2": {
+      "pronunciation": "/kəˌlæbəˈreɪʃən/",
+      "example": {
+        "english": "The manager had never seen such effective collaboration between two groups.",
+        "vietnamese": "Người quản lý chưa từng thấy sự hợp tác hiệu quả như vậy giữa hai nhóm."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈkɑːnsəntreɪt/",
+      "example": {
+        "english": "We should concentrate our efforts on the last quarter of the year.",
+        "vietnamese": "Chúng ta nên tập trung nỗ lực vào quý cuối năm."
+      }
+    },
+    "4": {
+      "pronunciation": "/kənˈduːsɪv/",
+      "example": {
+        "english": "Arranging chairs so that participants can see each other easily is conducive to open communication.",
+        "vietnamese": "Sắp xếp ghế để người tham dự dễ nhìn thấy nhau tạo điều kiện cho việc trao đổi cởi mở."
+      }
+    },
+    "5": {
+      "pronunciation": "/dɪsˈrʌpʃən/",
+      "example": {
+        "english": "The strike caused a disruption in production at the factory.",
+        "vietnamese": "Cuộc đình công gây gián đoạn sản xuất tại nhà máy."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈhæmpər/",
+      "example": {
+        "english": "The lack of supplies hampered our ability to finish on schedule.",
+        "vietnamese": "Việc thiếu vật tư cản trở khả năng hoàn thành đúng tiến độ của chúng tôi."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˌɪnkənˈsɪdərətli/",
+      "example": {
+        "english": "The manager inconsiderately scheduled the meeting for late Friday afternoon.",
+        "vietnamese": "Người quản lý đã thiếu cân nhắc khi xếp cuộc họp vào cuối chiều thứ Sáu."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈlɑːbi/",
+      "example": {
+        "english": "The salesperson waited in the busy lobby for the buyer to see him.",
+        "vietnamese": "Nhân viên bán hàng chờ ở sảnh đông đúc để được người mua tiếp."
+      }
+    },
+    "9": {
+      "pronunciation": "/muːv ˈʌp/",
+      "example": {
+        "english": "In order to move up in the company, employees had to demonstrate their loyalty.",
+        "vietnamese": "Để thăng tiến trong công ty, nhân viên phải thể hiện lòng trung thành."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈoʊpən tə/",
+      "example": {
+        "english": "What I valued most in my previous supervisor was that she was always open to ideas and suggestions.",
+        "vietnamese": "Điều tôi trân trọng nhất ở người giám sát trước đây là cô ấy luôn sẵn lòng tiếp nhận ý tưởng và đề xuất."
+      }
+    },
+    "11": {
+      "pronunciation": "/ɑːpt/",
+      "example": {
+        "english": "If Mary opts to join that department, you will be working together.",
+        "vietnamese": "Nếu Mary chọn gia nhập bộ phận đó, hai bạn sẽ làm việc cùng nhau."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈskruːtəni/",
+      "example": {
+        "english": "Jim left his old job because he found it difficult to work under the close scrutiny of his boss.",
+        "vietnamese": "Jim nghỉ công việc cũ vì thấy khó làm việc dưới sự soi xét sát sao của sếp."
+      }
+    }
+  },
+  "essential-27": {
+    "1": {
+      "pronunciation": "/ədˈhɪr tə/",
+      "example": {
+        "english": "The chairman never adhered to his own rules.",
+        "vietnamese": "Vị chủ tịch chưa bao giờ tuân thủ chính các quy tắc của mình."
+      }
+    },
+    "2": {
+      "pronunciation": "/əˈdʒendə/",
+      "example": {
+        "english": "The board was able to cover fifteen items on the agenda.",
+        "vietnamese": "Hội đồng đã giải quyết được mười lăm mục trong chương trình nghị sự."
+      }
+    },
+    "3": {
+      "pronunciation": "/brɪŋ ˈʌp/",
+      "example": {
+        "english": "No one brought up the resignation of the director.",
+        "vietnamese": "Không ai đề cập đến việc giám đốc từ chức."
+      }
+    },
+    "4": {
+      "pronunciation": "/kənˈkluːd/",
+      "example": {
+        "english": "The committee members concluded the meeting early so that they could finish their budgets.",
+        "vietnamese": "Các thành viên ủy ban kết thúc cuộc họp sớm để có thể hoàn tất ngân sách của mình."
+      }
+    },
+    "5": {
+      "pronunciation": "/ɡoʊ əˈhed/",
+      "example": {
+        "english": "Five of the six members felt that they should go ahead with the plan.",
+        "vietnamese": "Năm trong sáu thành viên cho rằng họ nên tiếp tục thực hiện kế hoạch."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɡoʊl/",
+      "example": {
+        "english": "Employees are expected to analyze and evaluate their annual goals.",
+        "vietnamese": "Nhân viên được yêu cầu phân tích và đánh giá các mục tiêu hằng năm của mình."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈleŋθi/",
+      "example": {
+        "english": "After lengthy discussions, the chairperson was reelected for another term.",
+        "vietnamese": "Sau những cuộc thảo luận kéo dài, chủ tịch đã được bầu lại cho một nhiệm kỳ nữa."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈmætər/",
+      "example": {
+        "english": "This is not the place to bring up personal matters.",
+        "vietnamese": "Đây không phải nơi để đề cập chuyện cá nhân."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˌpɪriˈɑːdɪkli/",
+      "example": {
+        "english": "The group tried to meet periodically.",
+        "vietnamese": "Nhóm cố gắng gặp nhau định kỳ."
+      }
+    },
+    "10": {
+      "pronunciation": "/praɪˈɔːrəti/",
+      "example": {
+        "english": "The manager was ineffective because she was unable to set priorities.",
+        "vietnamese": "Người quản lý làm việc kém hiệu quả vì không thể xác định các ưu tiên."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈprɑːɡres/",
+      "example": {
+        "english": "The executive committee asked each group to present a report showing their progress for the year.",
+        "vietnamese": "Ban điều hành yêu cầu mỗi nhóm trình bày báo cáo thể hiện tiến độ trong năm."
+      }
+    },
+    "12": {
+      "pronunciation": "/weɪst/",
+      "example": {
+        "english": "Without a leader, the group members wasted time and energy trying to organize themselves.",
+        "vietnamese": "Không có người lãnh đạo, các thành viên nhóm lãng phí thời gian và sức lực để tự tổ chức công việc."
+      }
+    }
+  },
+  "essential-28": {
+    "1": {
+      "pronunciation": "/brænd/",
+      "example": {
+        "english": "Consumers often buy highly advertised brands of athletic shoes.",
+        "vietnamese": "Người tiêu dùng thường mua các thương hiệu giày thể thao được quảng cáo nhiều."
+      }
+    },
+    "2": {
+      "pronunciation": "/kənˈfɔːrm/",
+      "example": {
+        "english": "Our safety standards conform to those established by the government.",
+        "vietnamese": "Các tiêu chuẩn an toàn của chúng tôi tuân theo những tiêu chuẩn do chính phủ quy định."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈdiːfekt/",
+      "example": {
+        "english": "Because of a defect in stitching, the entire suit was thrown out.",
+        "vietnamese": "Do một lỗi đường may, cả bộ vest đã bị loại bỏ."
+      }
+    },
+    "4": {
+      "pronunciation": "/ɪnˈhæns/",
+      "example": {
+        "english": "A stylish color enhances the appeal of a car.",
+        "vietnamese": "Một màu sắc hợp thời trang làm tăng sức hấp dẫn của chiếc xe."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈɡɑːrmənt/",
+      "example": {
+        "english": "Every garment must be carefully inspected for defects before it is shipped.",
+        "vietnamese": "Mỗi sản phẩm may mặc phải được kiểm tra lỗi cẩn thận trước khi giao đi."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɪnˈspekt/",
+      "example": {
+        "english": "Children's car seats are thoroughly inspected and tested for safety before being put on the market.",
+        "vietnamese": "Ghế ô tô cho trẻ em được kiểm tra kỹ lưỡng và thử nghiệm an toàn trước khi đưa ra thị trường."
+      }
+    },
+    "7": {
+      "pronunciation": "/pərˈseptɪv/",
+      "example": {
+        "english": "It takes a perceptive person to be a good manager.",
+        "vietnamese": "Muốn làm một nhà quản lý giỏi cần phải là người nhạy bén."
+      }
+    },
+    "8": {
+      "pronunciation": "/rɪˈpel/",
+      "example": {
+        "english": "Faulty products repel repeat customers.",
+        "vietnamese": "Sản phẩm lỗi khiến khách hàng không muốn quay lại."
+      }
+    },
+    "9": {
+      "pronunciation": "/teɪk ˈbæk/",
+      "example": {
+        "english": "Good quality control significantly limits the number of products taken back for a refund.",
+        "vietnamese": "Kiểm soát chất lượng tốt hạn chế đáng kể số sản phẩm bị trả lại để hoàn tiền."
+      }
+    },
+    "10": {
+      "pronunciation": "/θroʊ ˈaʊt/",
+      "example": {
+        "english": "It is cheaper to throw out shoddy products than to lose customers.",
+        "vietnamese": "Loại bỏ sản phẩm kém chất lượng ít tốn kém hơn việc mất khách hàng."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈjuːnɪfɔːrmli/",
+      "example": {
+        "english": "The products are checked to make sure they are uniformly packaged before they leave the factory.",
+        "vietnamese": "Các sản phẩm được kiểm tra để bảo đảm đóng gói đồng nhất trước khi rời nhà máy."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈrɪŋkəl/",
+      "example": {
+        "english": "A wrinkle in the finish can be repaired more economically before a sale than after.",
+        "vietnamese": "Một nếp nhăn trên bề mặt hoàn thiện có thể được sửa với chi phí thấp hơn trước khi bán so với sau khi bán."
+      }
+    }
+  },
+  "essential-29": {
+    "1": {
+      "pronunciation": "/ˈæŋkʃəs/",
+      "example": {
+        "english": "The developers were anxious about the sales forecast for the new product.",
+        "vietnamese": "Các nhà phát triển lo lắng về dự báo doanh số của sản phẩm mới."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˌæsərˈteɪn/",
+      "example": {
+        "english": "A customer survey will help to ascertain whether there is a market for the product.",
+        "vietnamese": "Một khảo sát khách hàng sẽ giúp xác định liệu có thị trường cho sản phẩm hay không."
+      }
+    },
+    "3": {
+      "pronunciation": "/əˈsuːm/",
+      "example": {
+        "english": "The young man felt ready to assume the new responsibilities of his promotion.",
+        "vietnamese": "Chàng trai cảm thấy sẵn sàng đảm nhận những trách nhiệm mới đi kèm với việc thăng chức."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈdekeɪd/",
+      "example": {
+        "english": "Each decade seems to have its own fad products.",
+        "vietnamese": "Mỗi thập kỷ dường như có những sản phẩm trào lưu riêng."
+      }
+    },
+    "5": {
+      "pronunciation": "/ɪɡˈzæmɪn/",
+      "example": {
+        "english": "Before marketing a new product, researchers must carefully examine it from every aspect.",
+        "vietnamese": "Trước khi tiếp thị sản phẩm mới, các nhà nghiên cứu phải xem xét kỹ lưỡng mọi khía cạnh của nó."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɪkˈsperɪmənt/",
+      "example": {
+        "english": "Product developers must conduct hundreds of experiments in their research.",
+        "vietnamese": "Các nhà phát triển sản phẩm phải tiến hành hàng trăm thí nghiệm trong quá trình nghiên cứu."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈlɑːdʒɪkəl/",
+      "example": {
+        "english": "In addition to logical thinkers, a good research and development team should include a few dreamers.",
+        "vietnamese": "Ngoài những người tư duy logic, một nhóm nghiên cứu và phát triển tốt nên có vài người giàu mơ mộng."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈriːsɝːtʃ/",
+      "example": {
+        "english": "For toy manufacturers, research can be pure fun.",
+        "vietnamese": "Đối với các nhà sản xuất đồ chơi, nghiên cứu có thể hoàn toàn là niềm vui."
+      }
+    },
+    "9": {
+      "pronunciation": "/rɪˌspɑːnsəˈbɪləti/",
+      "example": {
+        "english": "Another responsibility of product development is to ensure that there will be a demand for the product.",
+        "vietnamese": "Một trách nhiệm khác của bộ phận phát triển sản phẩm là bảo đảm sẽ có nhu cầu đối với sản phẩm."
+      }
+    },
+    "10": {
+      "pronunciation": "/sɑːlv/",
+      "example": {
+        "english": "Researchers find that every time they solve one problem, two more result.",
+        "vietnamese": "Các nhà nghiên cứu nhận thấy mỗi khi giải quyết một vấn đề thì lại phát sinh thêm hai vấn đề."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈsuːpərvaɪzər/",
+      "example": {
+        "english": "A good supervisor gets his team to work with him, not just for him.",
+        "vietnamese": "Một người giám sát giỏi khiến cả nhóm làm việc cùng mình, chứ không chỉ làm việc cho mình."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˌsɪstəˈmætɪkli/",
+      "example": {
+        "english": "While creative thinking is necessary, analyzing a problem systematically is indispensable.",
+        "vietnamese": "Dù tư duy sáng tạo là cần thiết, việc phân tích vấn đề một cách có hệ thống là không thể thiếu."
+      }
+    }
+  },
+  "essential-30": {
+    "1": {
+      "pronunciation": "/ˌæprɪˈhensɪv/",
+      "example": {
+        "english": "Most new home buyers are apprehensive about their decision.",
+        "vietnamese": "Hầu hết người mua nhà lần đầu đều lo lắng về quyết định của mình."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˈsɝːkəmstæns/",
+      "example": {
+        "english": "Under the current economic circumstances, they will not be able to purchase the property.",
+        "vietnamese": "Trong hoàn cảnh kinh tế hiện tại, họ sẽ không thể mua bất động sản đó."
+      }
+    },
+    "3": {
+      "pronunciation": "/kənˈdɪʃən/",
+      "example": {
+        "english": "Except for some minor repairs, the building is in very good condition.",
+        "vietnamese": "Ngoại trừ một vài chỗ cần sửa chữa nhỏ, tòa nhà ở trong tình trạng rất tốt."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈduː tə/",
+      "example": {
+        "english": "Due to the low interest rates, good office space is difficult to find.",
+        "vietnamese": "Do lãi suất thấp, rất khó tìm được mặt bằng văn phòng tốt."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈflʌktʃueɪt/",
+      "example": {
+        "english": "No one is very comfortable making a large investment while the currency values fluctuate almost daily.",
+        "vietnamese": "Không ai thực sự yên tâm đầu tư lớn khi giá trị tiền tệ biến động gần như hằng ngày."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɡet ˈaʊt əv/",
+      "example": {
+        "english": "The company wanted to get out of the area before property values declined even further.",
+        "vietnamese": "Công ty muốn rời khu vực đó trước khi giá bất động sản giảm thêm nữa."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈɪndɪkeɪtər/",
+      "example": {
+        "english": "The results of the elections were seen as an important indicator of the stability in the area.",
+        "vietnamese": "Kết quả bầu cử được xem là một dấu hiệu quan trọng về sự ổn định trong khu vực."
+      }
+    },
+    "8": {
+      "pronunciation": "/liːs/",
+      "example": {
+        "english": "They decided to lease the property rather than buy it.",
+        "vietnamese": "Họ quyết định thuê bất động sản thay vì mua."
+      }
+    },
+    "9": {
+      "pronunciation": "/lɑːk ˈɪntuː/",
+      "example": {
+        "english": "Before you lock yourself into something, check all your options.",
+        "vietnamese": "Trước khi tự ràng buộc vào điều gì, hãy xem xét tất cả lựa chọn của bạn."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈɑːkjəpaɪ/",
+      "example": {
+        "english": "Our company has occupied this office for more than five years.",
+        "vietnamese": "Công ty chúng tôi đã sử dụng văn phòng này hơn năm năm."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈɑːpʃən/",
+      "example": {
+        "english": "You could arrange the lease with an option to buy after a certain amount of time.",
+        "vietnamese": "Bạn có thể thỏa thuận hợp đồng thuê kèm quyền mua sau một khoảng thời gian nhất định."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈsʌbdʒɪkt tə/",
+      "example": {
+        "english": "The go-ahead to buy is subject to the president's approval.",
+        "vietnamese": "Việc cho phép mua phụ thuộc vào sự phê duyệt của chủ tịch."
+      }
+    }
+  },
+  "essential-31": {
+    "1": {
+      "pronunciation": "/əˈpiːl/",
+      "example": {
+        "english": "A restaurant with good food and reasonable prices has a lot of appeal.",
+        "vietnamese": "Một nhà hàng có đồ ăn ngon và giá cả hợp lý rất có sức hấp dẫn."
+      }
+    },
+    "2": {
+      "pronunciation": "/əˈraɪv/",
+      "example": {
+        "english": "By the time our meal arrived, it was cold.",
+        "vietnamese": "Khi món ăn của chúng tôi được mang ra thì đã nguội."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈkɑːmprəmaɪz/",
+      "example": {
+        "english": "The couple made a compromise and ordered food to take out.",
+        "vietnamese": "Cặp đôi đã thỏa hiệp và gọi đồ ăn mang về."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈderɪŋli/",
+      "example": {
+        "english": "We daringly ordered the raw squid.",
+        "vietnamese": "Chúng tôi đã mạnh dạn gọi món mực sống."
+      }
+    },
+    "5": {
+      "pronunciation": "/fəˈmɪljər/",
+      "example": {
+        "english": "It's nice to see some familiar items on the menu.",
+        "vietnamese": "Thật vui khi thấy vài món quen thuộc trong thực đơn."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɡaɪd/",
+      "example": {
+        "english": "The guide led our tour group to a small restaurant only known to the locals.",
+        "vietnamese": "Hướng dẫn viên đưa đoàn chúng tôi đến một nhà hàng nhỏ chỉ người địa phương biết."
+      }
+    },
+    "7": {
+      "pronunciation": "/məˈdʒɔːrəti/",
+      "example": {
+        "english": "The majority of the group wanted to try the new Chinese restaurant.",
+        "vietnamese": "Đa số thành viên trong nhóm muốn thử nhà hàng Trung Hoa mới."
+      }
+    },
+    "8": {
+      "pronunciation": "/mɪks/",
+      "example": {
+        "english": "The daring chef mixed two uncommon ingredients.",
+        "vietnamese": "Đầu bếp táo bạo đã trộn hai nguyên liệu ít phổ biến."
+      }
+    },
+    "9": {
+      "pronunciation": "/rɪˈlaɪ/",
+      "example": {
+        "english": "I seldom rely on the restaurant reviews in the paper when choosing a restaurant.",
+        "vietnamese": "Tôi hiếm khi dựa vào các bài đánh giá trên báo khi chọn nhà hàng."
+      }
+    },
+    "10": {
+      "pronunciation": "/sɪˈkjʊr/",
+      "example": {
+        "english": "The hostess secured us another chair, so we could eat together.",
+        "vietnamese": "Nhân viên đón khách kiếm thêm cho chúng tôi một chiếc ghế để chúng tôi có thể ăn cùng nhau."
+      }
+    },
+    "11": {
+      "pronunciation": "/səbˈdʒektɪv/",
+      "example": {
+        "english": "The reviews in this guidebook are highly subjective, but fun to read.",
+        "vietnamese": "Các bài đánh giá trong sách hướng dẫn này rất chủ quan nhưng đọc khá thú vị."
+      }
+    },
+    "12": {
+      "pronunciation": "/səɡˈdʒestʃən/",
+      "example": {
+        "english": "Can I make a suggestion about what to order?",
+        "vietnamese": "Tôi có thể gợi ý nên gọi món gì không?"
+      }
+    }
+  },
+  "essential-32": {
+    "1": {
+      "pronunciation": "/ˈbeɪsɪk/",
+      "example": {
+        "english": "The new restaurant offers a very basic menu.",
+        "vietnamese": "Nhà hàng mới cung cấp một thực đơn rất đơn giản."
+      }
+    },
+    "2": {
+      "pronunciation": "/kəmˈpliːt/",
+      "example": {
+        "english": "We ordered some dessert to complete our meal.",
+        "vietnamese": "Chúng tôi gọi thêm món tráng miệng để hoàn tất bữa ăn."
+      }
+    },
+    "3": {
+      "pronunciation": "/ɪkˈsaɪt/",
+      "example": {
+        "english": "Exotic flavors always excite me.",
+        "vietnamese": "Những hương vị lạ luôn khiến tôi thích thú."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈfleɪvər/",
+      "example": {
+        "english": "The cook changed the flavor of the soup with a unique blend of herbs.",
+        "vietnamese": "Đầu bếp thay đổi hương vị món súp bằng một hỗn hợp thảo mộc độc đáo."
+      }
+    },
+    "5": {
+      "pronunciation": "/fərˈɡet/",
+      "example": {
+        "english": "The waiter forgot to bring the rolls, annoying the customer.",
+        "vietnamese": "Người phục vụ quên mang bánh mì cuộn ra, khiến khách hàng khó chịu."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɪnˈɡriːdiənt/",
+      "example": {
+        "english": "I was unfamiliar with some of the ingredients in the dish.",
+        "vietnamese": "Tôi không quen với một số nguyên liệu trong món ăn."
+      }
+    },
+    "7": {
+      "pronunciation": "/dʒʌdʒ/",
+      "example": {
+        "english": "The restaurant review harshly judged the quality of the service.",
+        "vietnamese": "Bài đánh giá nhà hàng đã phê bình gay gắt chất lượng phục vụ."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈmɪks ʌp/",
+      "example": {
+        "english": "There was a mix-up in the kitchen so your order will be delayed.",
+        "vietnamese": "Có sự nhầm lẫn trong bếp nên món bạn gọi sẽ ra chậm."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈpeɪtrən/",
+      "example": {
+        "english": "This restaurant has many loyal patrons.",
+        "vietnamese": "Nhà hàng này có nhiều khách hàng trung thành."
+      }
+    },
+    "10": {
+      "pronunciation": "/prɪˈdɪkt/",
+      "example": {
+        "english": "I predicted this restaurant would become popular and I was right.",
+        "vietnamese": "Tôi đã dự đoán nhà hàng này sẽ trở nên nổi tiếng và tôi đã đúng."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈrændəmli/",
+      "example": {
+        "english": "We randomly made our selections from the menu.",
+        "vietnamese": "Chúng tôi chọn món ngẫu nhiên từ thực đơn."
+      }
+    },
+    "12": {
+      "pronunciation": "/rɪˈmaɪnd/",
+      "example": {
+        "english": "I reminded the client that we are meeting for dinner tomorrow.",
+        "vietnamese": "Tôi nhắc khách hàng rằng chúng tôi sẽ gặp nhau ăn tối vào ngày mai."
+      }
+    }
+  },
+  "essential-33": {
+    "1": {
+      "pronunciation": "/ˈbɝːdən/",
+      "example": {
+        "english": "The deliveryman's back ached from the heavy burden he carried.",
+        "vietnamese": "Lưng người giao hàng đau vì gánh nặng anh mang."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˈkɑːmənli/",
+      "example": {
+        "english": "The restaurants in this area commonly serve office workers and are only open during the week.",
+        "vietnamese": "Các nhà hàng trong khu vực này thường phục vụ dân văn phòng và chỉ mở vào các ngày trong tuần."
+      }
+    },
+    "3": {
+      "pronunciation": "/dɪˈlɪvəri/",
+      "example": {
+        "english": "The caterer hired a courier to make the delivery.",
+        "vietnamese": "Đơn vị cung cấp suất ăn đã thuê người chuyển phát để giao hàng."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈelɪɡəns/",
+      "example": {
+        "english": "The elegance of the restaurant made it a pleasant place to eat.",
+        "vietnamese": "Vẻ thanh lịch của nhà hàng khiến nơi đây trở thành địa điểm ăn uống dễ chịu."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈfɔːl tə/",
+      "example": {
+        "english": "The menu was in French, so ordering for us fell to Monique, who spoke French.",
+        "vietnamese": "Thực đơn bằng tiếng Pháp nên việc gọi món cho chúng tôi được giao cho Monique, người biết tiếng Pháp."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɪmˈpres/",
+      "example": {
+        "english": "I was impressed with how quickly they delivered our lunch.",
+        "vietnamese": "Tôi ấn tượng với tốc độ giao bữa trưa của họ."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˌɪndɪˈvɪdʒuəl/",
+      "example": {
+        "english": "We had the delivery man mark the contents of each individual order.",
+        "vietnamese": "Chúng tôi nhờ người giao hàng ghi rõ món trong từng đơn riêng."
+      }
+    },
+    "8": {
+      "pronunciation": "/lɪst/",
+      "example": {
+        "english": "We keep a list of all the restaurants in this area that deliver.",
+        "vietnamese": "Chúng tôi lưu danh sách tất cả nhà hàng có giao hàng trong khu vực này."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈmʌltɪpəl/",
+      "example": {
+        "english": "It takes multiple steps to get into this building, which frustrates all our employees.",
+        "vietnamese": "Phải qua nhiều bước mới vào được tòa nhà này, khiến tất cả nhân viên của chúng tôi bực bội."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈnæroʊ/",
+      "example": {
+        "english": "Etseko narrowed the restaurant possibilities down to three.",
+        "vietnamese": "Etseko thu hẹp các lựa chọn nhà hàng xuống còn ba."
+      }
+    },
+    "11": {
+      "pronunciation": "/pɪk ˈʌp/",
+      "example": {
+        "english": "If you ask me nicely, I will pick up the order on my way home.",
+        "vietnamese": "Nếu bạn nhờ tôi tử tế, tôi sẽ ghé lấy đồ đã đặt trên đường về nhà."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈsetəl/",
+      "example": {
+        "english": "We settled the bill with the cashier.",
+        "vietnamese": "Chúng tôi đã thanh toán hóa đơn với nhân viên thu ngân."
+      }
+    }
+  },
+  "essential-34": {
+    "1": {
+      "pronunciation": "/əˈkʌstəm tə/",
+      "example": {
+        "english": "Chefs must accustom themselves to working long hours.",
+        "vietnamese": "Đầu bếp phải tập quen với việc làm nhiều giờ."
+      }
+    },
+    "2": {
+      "pronunciation": "/əˈprentɪs/",
+      "example": {
+        "english": "Instead of attending cooking school, Raul chose to work as an apprentice with an experienced chef.",
+        "vietnamese": "Thay vì học trường nấu ăn, Raul chọn học việc với một đầu bếp giàu kinh nghiệm."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈkʌləneri/",
+      "example": {
+        "english": "The chef was widely known for his culinary artistry.",
+        "vietnamese": "Đầu bếp được biết đến rộng rãi nhờ tài nghệ ẩm thực."
+      }
+    },
+    "4": {
+      "pronunciation": "/dɪˈmænd/",
+      "example": {
+        "english": "This style of cooking demands many exotic ingredients and a lot of preparation time.",
+        "vietnamese": "Phong cách nấu ăn này đòi hỏi nhiều nguyên liệu lạ và nhiều thời gian chuẩn bị."
+      }
+    },
+    "5": {
+      "pronunciation": "/drɔː/",
+      "example": {
+        "english": "Matthew was drawn to a career in cooking.",
+        "vietnamese": "Matthew bị thu hút bởi nghề nấu ăn."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɪnˈkɔːrpəreɪt/",
+      "example": {
+        "english": "Here are the fresh greens for you to incorporate into a salad.",
+        "vietnamese": "Đây là rau xanh tươi để bạn cho vào món salad."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈɪnflʌks/",
+      "example": {
+        "english": "An influx of new chefs is constantly needed to fill open jobs.",
+        "vietnamese": "Luôn cần một lượng đầu bếp mới gia nhập để lấp đầy các vị trí còn trống."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈmeθəd/",
+      "example": {
+        "english": "Gloria perfected a simple method for making croissants.",
+        "vietnamese": "Gloria đã hoàn thiện một phương pháp đơn giản để làm bánh sừng bò."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈaʊtlet/",
+      "example": {
+        "english": "Many people find cooking to be a hands-on outlet for their creativity.",
+        "vietnamese": "Nhiều người thấy nấu ăn là cách thực hành để thể hiện sự sáng tạo."
+      }
+    },
+    "10": {
+      "pronunciation": "/prəˈfeʃən/",
+      "example": {
+        "english": "Lulu took up cooking as her profession and is very happy with her decision.",
+        "vietnamese": "Lulu chọn nấu ăn làm nghề nghiệp và rất hài lòng với quyết định đó."
+      }
+    },
+    "11": {
+      "pronunciation": "/rɪˈlɪŋkwɪʃ/",
+      "example": {
+        "english": "People find it hard to relinquish their accustomed food preferences and try something new.",
+        "vietnamese": "Mọi người thấy khó từ bỏ sở thích ăn uống quen thuộc để thử món mới."
+      }
+    },
+    "12": {
+      "pronunciation": "/θiːm/",
+      "example": {
+        "english": "The caterers prepared food for a party with a tropical island theme.",
+        "vietnamese": "Đơn vị phục vụ tiệc chuẩn bị đồ ăn cho một bữa tiệc theo chủ đề đảo nhiệt đới."
+      }
+    }
+  },
+  "essential-35": {
+    "1": {
+      "pronunciation": "/əˈsɪst/",
+      "example": {
+        "english": "The hotel manager was able to assist us with some last-minute advice.",
+        "vietnamese": "Quản lý khách sạn đã giúp chúng tôi bằng một vài lời khuyên vào phút chót."
+      }
+    },
+    "2": {
+      "pronunciation": "/koʊˈɔːrdɪneɪt/",
+      "example": {
+        "english": "Benet tried to coordinate all departments to make sure the event ran smoothly.",
+        "vietnamese": "Benet cố gắng phối hợp tất cả các bộ phận để bảo đảm sự kiện diễn ra suôn sẻ."
+      }
+    },
+    "3": {
+      "pronunciation": "/daɪˈmenʃən/",
+      "example": {
+        "english": "What are the dimensions of the ballroom?",
+        "vietnamese": "Phòng khiêu vũ có kích thước bao nhiêu?"
+      }
+    },
+    "4": {
+      "pronunciation": "/ɪɡˈzækt/",
+      "example": {
+        "english": "We will need an exact head count by noon tomorrow.",
+        "vietnamese": "Chúng tôi sẽ cần số lượng người chính xác trước trưa mai."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈdʒenərəl/",
+      "example": {
+        "english": "We have a general idea of how many guests will attend.",
+        "vietnamese": "Chúng tôi có ước lượng sơ bộ về số khách sẽ tham dự."
+      }
+    },
+    "6": {
+      "pronunciation": "/aɪˈdiːəli/",
+      "example": {
+        "english": "Ideally, the location for the concert would have plenty of parking.",
+        "vietnamese": "Lý tưởng nhất là địa điểm tổ chức hòa nhạc có nhiều chỗ đỗ xe."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈliːd taɪm/",
+      "example": {
+        "english": "We will need to give the caterer enough lead time to cut the cake.",
+        "vietnamese": "Chúng ta cần dành đủ thời gian chuẩn bị để bên phục vụ tiệc cắt bánh."
+      }
+    },
+    "8": {
+      "pronunciation": "/plæn/",
+      "example": {
+        "english": "We plan to get together tomorrow to discuss the menu.",
+        "vietnamese": "Chúng tôi dự định gặp nhau ngày mai để bàn về thực đơn."
+      }
+    },
+    "9": {
+      "pronunciation": "/prɑːkˈsɪməti/",
+      "example": {
+        "english": "An important factor in selecting the site was its close proximity to a parking garage.",
+        "vietnamese": "Một yếu tố quan trọng khi chọn địa điểm là nơi đó nằm gần nhà để xe."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈreɡjəleɪt/",
+      "example": {
+        "english": "The site staff closely regulates how many cars can be brought on the grounds.",
+        "vietnamese": "Nhân viên tại địa điểm kiểm soát chặt chẽ số xe được phép vào khuôn viên."
+      }
+    },
+    "11": {
+      "pronunciation": "/saɪt/",
+      "example": {
+        "english": "Once we saw the site, we knew it would be perfect for the event.",
+        "vietnamese": "Ngay khi nhìn thấy địa điểm, chúng tôi biết nơi đó hoàn hảo cho sự kiện."
+      }
+    },
+    "12": {
+      "pronunciation": "/steɪdʒ/",
+      "example": {
+        "english": "A historic house can be the perfect site to stage a small reception.",
+        "vietnamese": "Một ngôi nhà cổ có thể là địa điểm hoàn hảo để tổ chức một buổi tiếp đón nhỏ."
+      }
+    }
+  },
+  "essential-36": {
+    "1": {
+      "pronunciation": "/ˈeɪdʒənt/",
+      "example": {
+        "english": "A travel agent can usually find you the best deals on tickets and hotels.",
+        "vietnamese": "Nhân viên đại lý du lịch thường có thể tìm cho bạn các ưu đãi tốt nhất về vé và khách sạn."
+      }
+    },
+    "2": {
+      "pronunciation": "/əˈnaʊnsmənt/",
+      "example": {
+        "english": "Did you hear an announcement about our new departure time?",
+        "vietnamese": "Bạn có nghe thông báo về giờ khởi hành mới của chúng ta không?"
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈbevərɪdʒ/",
+      "example": {
+        "english": "The flight attendant offered all passengers a cold beverage during the flight.",
+        "vietnamese": "Tiếp viên đã mời tất cả hành khách một đồ uống lạnh trong chuyến bay."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈblæŋkɪt/",
+      "example": {
+        "english": "The snow blanketed the windshield, making it difficult to see the roads.",
+        "vietnamese": "Tuyết phủ kín kính chắn gió, khiến việc nhìn đường trở nên khó khăn."
+      }
+    },
+    "5": {
+      "pronunciation": "/bɔːrd/",
+      "example": {
+        "english": "We will board the train for New York in ten minutes.",
+        "vietnamese": "Chúng ta sẽ lên tàu đi New York trong mười phút nữa."
+      }
+    },
+    "6": {
+      "pronunciation": "/kleɪm/",
+      "example": {
+        "english": "Lost luggage can be claimed at the airline office.",
+        "vietnamese": "Có thể đến văn phòng hãng hàng không để nhận lại hành lý thất lạc."
+      }
+    },
+    "7": {
+      "pronunciation": "/dɪˈleɪ/",
+      "example": {
+        "english": "The heavy traffic delayed our arrival at the train station.",
+        "vietnamese": "Giao thông đông đúc khiến chúng tôi đến ga tàu muộn."
+      }
+    },
+    "8": {
+      "pronunciation": "/dɪˈpɑːrt/",
+      "example": {
+        "english": "After the wedding, the married couple departed for their honeymoon in Morocco.",
+        "vietnamese": "Sau đám cưới, đôi vợ chồng lên đường hưởng tuần trăng mật ở Maroc."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˌembɑːrˈkeɪʃən/",
+      "example": {
+        "english": "The flight crew must check the passengers' documents before embarkation.",
+        "vietnamese": "Phi hành đoàn phải kiểm tra giấy tờ của hành khách trước khi lên máy bay."
+      }
+    },
+    "10": {
+      "pronunciation": "/aɪˈtɪnəreri/",
+      "example": {
+        "english": "I had to change my itinerary when I decided to add two more countries to my vacation.",
+        "vietnamese": "Tôi phải thay đổi lịch trình khi quyết định ghé thêm hai quốc gia trong kỳ nghỉ."
+      }
+    },
+    "11": {
+      "pronunciation": "/prəˈhɪbɪt/",
+      "example": {
+        "english": "We were prohibited from wearing casual clothes in the office.",
+        "vietnamese": "Chúng tôi bị cấm mặc quần áo thường ngày trong văn phòng."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈvælɪd/",
+      "example": {
+        "english": "I need to make certain that my passport is valid if we plan to go overseas this December.",
+        "vietnamese": "Tôi cần bảo đảm hộ chiếu còn hiệu lực nếu chúng ta định ra nước ngoài vào tháng Mười Hai này."
+      }
+    }
+  },
+  "essential-37": {
+    "1": {
+      "pronunciation": "/ˈdiːl wɪð/",
+      "example": {
+        "english": "Ticket agents must deal courteously with irate customers.",
+        "vietnamese": "Nhân viên bán vé phải cư xử lịch sự với những khách hàng đang giận dữ."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˌdestɪˈneɪʃən/",
+      "example": {
+        "english": "The Great Barrier Reef is a popular tourist destination this year.",
+        "vietnamese": "Rạn san hô Great Barrier là một điểm du lịch được ưa chuộng trong năm nay."
+      }
+    },
+    "3": {
+      "pronunciation": "/dɪˈstɪŋɡwɪʃ/",
+      "example": {
+        "english": "Suki was able to distinguish between the different types of jets on the runway.",
+        "vietnamese": "Suki có thể phân biệt các loại máy bay phản lực khác nhau trên đường băng."
+      }
+    },
+    "4": {
+      "pronunciation": "/ɪˈkɑːnəmaɪz/",
+      "example": {
+        "english": "We decided to economize this year and take our vacation during the off season, when prices are lower.",
+        "vietnamese": "Năm nay chúng tôi quyết định tiết kiệm và đi nghỉ vào mùa thấp điểm, khi giá rẻ hơn."
+      }
+    },
+    "5": {
+      "pronunciation": "/ɪˈkwɪvələnt/",
+      "example": {
+        "english": "The food the airline serves in coach class is equivalent to that served in first class.",
+        "vietnamese": "Đồ ăn hãng hàng không phục vụ ở hạng phổ thông tương đương với đồ ăn ở hạng nhất."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɪkˈskɝːʒən/",
+      "example": {
+        "english": "With some time between meetings in London, the company president enjoyed an excursion to Stonehenge.",
+        "vietnamese": "Trong thời gian rảnh giữa các cuộc họp ở London, chủ tịch công ty đã tận hưởng chuyến tham quan Stonehenge."
+      }
+    },
+    "7": {
+      "pronunciation": "/ɪkˈspens/",
+      "example": {
+        "english": "A luxury vacation involves many expenses.",
+        "vietnamese": "Một kỳ nghỉ xa xỉ kéo theo nhiều khoản chi phí."
+      }
+    },
+    "8": {
+      "pronunciation": "/ɪkˈstend/",
+      "example": {
+        "english": "We extended our vacation by a day.",
+        "vietnamese": "Chúng tôi kéo dài kỳ nghỉ thêm một ngày."
+      }
+    },
+    "9": {
+      "pronunciation": "/prəˈspektɪv/",
+      "example": {
+        "english": "I narrowed my list of prospective destinations to my three top choices.",
+        "vietnamese": "Tôi thu hẹp danh sách điểm đến dự kiến xuống ba lựa chọn hàng đầu."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˌsɪtʃuˈeɪʃən/",
+      "example": {
+        "english": "The vast number of different airfares available makes for a complicated situation.",
+        "vietnamese": "Số lượng rất lớn các mức giá vé máy bay khác nhau tạo nên một tình huống phức tạp."
+      }
+    },
+    "11": {
+      "pronunciation": "/səbˈstænʃəli/",
+      "example": {
+        "english": "The airfares charged by different airlines are not substantially different.",
+        "vietnamese": "Giá vé của các hãng hàng không khác nhau không chênh lệch đáng kể."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈsɪstəm/",
+      "example": {
+        "english": "The airline system covers the entire world with flights.",
+        "vietnamese": "Hệ thống hàng không bao phủ toàn thế giới bằng các chuyến bay."
+      }
+    }
+  },
+  "essential-38": {
+    "1": {
+      "pronunciation": "/ˌkɑːmprɪˈhensɪv/",
+      "example": {
+        "english": "Our travel agent gave us a comprehensive travel package, including rail passes.",
+        "vietnamese": "Đại lý du lịch cung cấp cho chúng tôi một gói du lịch toàn diện, bao gồm vé đi tàu."
+      }
+    },
+    "2": {
+      "pronunciation": "/dəˈlʌks/",
+      "example": {
+        "english": "My parents decided to splurge on deluxe accommodations for their trip.",
+        "vietnamese": "Bố mẹ tôi quyết định chi mạnh tay cho chỗ ở sang trọng trong chuyến đi."
+      }
+    },
+    "3": {
+      "pronunciation": "/dəˈrektəri/",
+      "example": {
+        "english": "We consulted the directory to see where the train station was located.",
+        "vietnamese": "Chúng tôi tra cứu danh bạ để xem ga tàu nằm ở đâu."
+      }
+    },
+    "4": {
+      "pronunciation": "/dʊˈreɪʃən/",
+      "example": {
+        "english": "Mother lent me her spare jacket for the duration of the trip.",
+        "vietnamese": "Mẹ cho tôi mượn chiếc áo khoác dự phòng của bà trong suốt chuyến đi."
+      }
+    },
+    "5": {
+      "pronunciation": "/ɪnˈtaɪtəl/",
+      "example": {
+        "english": "During the holiday rush, a train ticket entitled the passenger to a ride, but not necessarily a seat.",
+        "vietnamese": "Trong đợt cao điểm nghỉ lễ, vé tàu cho hành khách quyền đi tàu nhưng không nhất thiết có chỗ ngồi."
+      }
+    },
+    "6": {
+      "pronunciation": "/fer/",
+      "example": {
+        "english": "The train fare has increased since I rode last.",
+        "vietnamese": "Giá vé tàu đã tăng so với lần cuối tôi đi."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˌɔːfˈset/",
+      "example": {
+        "english": "The high cost of the hotel room offset the savings we made by taking the train instead of the plane.",
+        "vietnamese": "Chi phí phòng khách sạn cao đã làm mất khoản tiết kiệm nhờ đi tàu thay vì máy bay."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈɑːpəreɪt/",
+      "example": {
+        "english": "The train operates on a punctual schedule.",
+        "vietnamese": "Tàu chạy theo lịch trình đúng giờ."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈpʌŋktʃuəli/",
+      "example": {
+        "english": "Please be on time; the train leaves punctually at noon.",
+        "vietnamese": "Vui lòng đến đúng giờ; tàu khởi hành đúng vào buổi trưa."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈrelətɪvli/",
+      "example": {
+        "english": "The train is relatively empty for this time of day.",
+        "vietnamese": "Tàu khá vắng so với thời điểm này trong ngày."
+      }
+    },
+    "11": {
+      "pronunciation": "/rɪˈmeɪndər/",
+      "example": {
+        "english": "The Alaskan frontier has train service in the summer, but for the remainder of the year the tracks are impassable.",
+        "vietnamese": "Vùng biên viễn Alaska có dịch vụ tàu hỏa vào mùa hè, nhưng trong thời gian còn lại của năm đường ray không thể lưu thông."
+      }
+    },
+    "12": {
+      "pronunciation": "/rɪˈmoʊt/",
+      "example": {
+        "english": "I was surprised to find train service to such a remote location.",
+        "vietnamese": "Tôi ngạc nhiên khi thấy có tàu chạy đến một nơi xa xôi như vậy."
+      }
+    }
+  },
+  "essential-39": {
+    "1": {
+      "pronunciation": "/ədˈvænst/",
+      "example": {
+        "english": "Since the hotel installed an advanced computer system, all operations have been functioning more smoothly.",
+        "vietnamese": "Kể từ khi khách sạn lắp đặt hệ thống máy tính tiên tiến, mọi hoạt động đều diễn ra suôn sẻ hơn."
+      }
+    },
+    "2": {
+      "pronunciation": "/tʃeɪn/",
+      "example": {
+        "english": "The hotel being built in Seoul is the newest one in the chain.",
+        "vietnamese": "Khách sạn đang được xây ở Seoul là khách sạn mới nhất trong chuỗi."
+      }
+    },
+    "3": {
+      "pronunciation": "/tʃek ˈɪn/",
+      "example": {
+        "english": "Patrons check in at the hotel immediately upon their arrival.",
+        "vietnamese": "Khách làm thủ tục nhận phòng ngay khi đến khách sạn."
+      }
+    },
+    "4": {
+      "pronunciation": "/kənˈfɝːm/",
+      "example": {
+        "english": "Jorge called the hotel to confirm that he had a room reservation.",
+        "vietnamese": "Jorge gọi khách sạn để xác nhận rằng anh đã đặt phòng."
+      }
+    },
+    "5": {
+      "pronunciation": "/ɪkˈspekt/",
+      "example": {
+        "english": "Mr. Kim expected that the bed linens would be changed daily.",
+        "vietnamese": "Ông Kim kỳ vọng khăn trải giường sẽ được thay hằng ngày."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈhaʊskiːpər/",
+      "example": {
+        "english": "The desk clerk is sending the housekeeper to bring more towels to your room.",
+        "vietnamese": "Nhân viên lễ tân đang cử nhân viên buồng phòng mang thêm khăn đến phòng bạn."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈnoʊtɪfaɪ/",
+      "example": {
+        "english": "Lydia notified the hotel in writing that she was canceling her reservation.",
+        "vietnamese": "Lydia thông báo bằng văn bản cho khách sạn rằng cô hủy đặt phòng."
+      }
+    },
+    "8": {
+      "pronunciation": "/prɪˈkluːd/",
+      "example": {
+        "english": "The horrible rainstorm precluded us from traveling any further.",
+        "vietnamese": "Cơn mưa bão khủng khiếp khiến chúng tôi không thể đi xa hơn."
+      }
+    },
+    "9": {
+      "pronunciation": "/kwoʊt/",
+      "example": {
+        "english": "Call ahead and get a price quote for a week-long stay.",
+        "vietnamese": "Hãy gọi trước để lấy báo giá cho kỳ lưu trú một tuần."
+      }
+    },
+    "10": {
+      "pronunciation": "/reɪt/",
+      "example": {
+        "english": "The sign in the lobby lists the seasonal rates.",
+        "vietnamese": "Tấm bảng ở sảnh liệt kê giá phòng theo mùa."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˌrezərˈveɪʃən/",
+      "example": {
+        "english": "I know I made a reservation for tonight, but the hotel staff has no record of it in the system.",
+        "vietnamese": "Tôi biết mình đã đặt phòng tối nay, nhưng nhân viên khách sạn không tìm thấy thông tin trong hệ thống."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈsɝːvɪs/",
+      "example": {
+        "english": "Mr. Rockmont called room service to order a late-night snack.",
+        "vietnamese": "Ông Rockmont gọi dịch vụ phòng để đặt món ăn nhẹ đêm khuya."
+      }
+    }
+  },
+  "essential-40": {
+    "1": {
+      "pronunciation": "/ˈbɪzi/",
+      "example": {
+        "english": "Alfred was busy getting ready for his vacation.",
+        "vietnamese": "Alfred bận chuẩn bị cho kỳ nghỉ."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˌkoʊɪnˈsaɪd/",
+      "example": {
+        "english": "My cousin's wedding coincided with a holiday weekend, so it was a perfect time to rent a car and go for a drive.",
+        "vietnamese": "Đám cưới của anh chị em họ tôi trùng với cuối tuần nghỉ lễ nên đó là thời điểm hoàn hảo để thuê xe đi chơi."
+      }
+    },
+    "3": {
+      "pronunciation": "/kənˈfjuːʒən/",
+      "example": {
+        "english": "There was some confusion about which rental discount coupons applied to which car rental agency.",
+        "vietnamese": "Có một số nhầm lẫn về việc phiếu giảm giá thuê xe nào áp dụng cho hãng cho thuê xe nào."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈkɑːntækt/",
+      "example": {
+        "english": "Manuel contacted at least a dozen car rental agencies to get the best deal.",
+        "vietnamese": "Manuel liên hệ với ít nhất mười hai hãng cho thuê xe để có giá tốt nhất."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˌdɪsəˈpɔɪnt/",
+      "example": {
+        "english": "Leila was disappointed to discover that no rental cars were available the weekend she wished to travel.",
+        "vietnamese": "Leila thất vọng khi biết không còn xe cho thuê vào cuối tuần cô muốn đi du lịch."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɪnˈtend/",
+      "example": {
+        "english": "Do you intend to return the car to this location or to another location?",
+        "vietnamese": "Bạn định trả xe tại địa điểm này hay một địa điểm khác?"
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈlaɪsəns/",
+      "example": {
+        "english": "You will need a license in order to run this business.",
+        "vietnamese": "Bạn sẽ cần giấy phép để điều hành doanh nghiệp này."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈnɝːvəsli/",
+      "example": {
+        "english": "I looked around nervously the entire time I was in the dark parking garage.",
+        "vietnamese": "Tôi lo lắng nhìn quanh suốt thời gian ở trong nhà để xe tối tăm."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈɑːpʃənəl/",
+      "example": {
+        "english": "Check this box if you wish to have this optional insurance.",
+        "vietnamese": "Hãy đánh dấu ô này nếu bạn muốn mua loại bảo hiểm tùy chọn này."
+      }
+    },
+    "10": {
+      "pronunciation": "/tempt/",
+      "example": {
+        "english": "Gina is tempted to rent the smaller car to save a few dollars.",
+        "vietnamese": "Gina muốn thuê chiếc xe nhỏ hơn để tiết kiệm vài đô la."
+      }
+    },
+    "11": {
+      "pronunciation": "/θrɪl/",
+      "example": {
+        "english": "The thought of renting a sports car gave John a thrill.",
+        "vietnamese": "Ý nghĩ thuê một chiếc xe thể thao khiến John phấn khích."
+      }
+    },
+    "12": {
+      "pronunciation": "/tɪr/",
+      "example": {
+        "english": "The car rental company had a few tiers of cars, each one costing more than the previous tier.",
+        "vietnamese": "Công ty cho thuê xe có vài hạng xe, mỗi hạng có giá cao hơn hạng trước."
+      }
+    }
+  },
+  "essential-41": {
+    "1": {
+      "pronunciation": "/əˈteɪnmənt/",
+      "example": {
+        "english": "The actress received a lot of attention for her many professional attainments.",
+        "vietnamese": "Nữ diễn viên nhận được nhiều sự chú ý nhờ những thành tựu trong nghề."
+      }
+    },
+    "2": {
+      "pronunciation": "/kəmˈbaɪn/",
+      "example": {
+        "english": "The director combined two previously separate visual techniques.",
+        "vietnamese": "Đạo diễn kết hợp hai kỹ thuật hình ảnh trước đây tách biệt."
+      }
+    },
+    "3": {
+      "pronunciation": "/kənˈtɪnjuː/",
+      "example": {
+        "english": "The search for a star will continue until one is found.",
+        "vietnamese": "Việc tìm kiếm một ngôi sao sẽ tiếp tục cho đến khi tìm được."
+      }
+    },
+    "4": {
+      "pronunciation": "/dɪˈskrɪpʃən/",
+      "example": {
+        "english": "The description of the film did not match what we saw on screen.",
+        "vietnamese": "Phần mô tả bộ phim không khớp với những gì chúng tôi thấy trên màn ảnh."
+      }
+    },
+    "5": {
+      "pronunciation": "/dɪˈspɝːs/",
+      "example": {
+        "english": "The crowd outside the movie premiere would not disperse until they had seen the movie stars.",
+        "vietnamese": "Đám đông bên ngoài buổi công chiếu không chịu giải tán cho đến khi được thấy các ngôi sao điện ảnh."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˌentərˈteɪnmənt/",
+      "example": {
+        "english": "The movie was provided for our entertainment.",
+        "vietnamese": "Bộ phim được chiếu để chúng tôi giải trí."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈɪnfluəns/",
+      "example": {
+        "english": "The editor's style influenced a generation of film editors.",
+        "vietnamese": "Phong cách của người dựng phim đã ảnh hưởng đến cả một thế hệ biên tập phim."
+      }
+    },
+    "8": {
+      "pronunciation": "/reɪndʒ/",
+      "example": {
+        "english": "The range of the director's vision is impressive.",
+        "vietnamese": "Tầm nhìn rộng của đạo diễn thật ấn tượng."
+      }
+    },
+    "9": {
+      "pronunciation": "/rɪˈliːs/",
+      "example": {
+        "english": "The film was finally released to movie theaters after many delays.",
+        "vietnamese": "Bộ phim cuối cùng đã được phát hành tại các rạp sau nhiều lần trì hoãn."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˌreprɪzenˈteɪʃən/",
+      "example": {
+        "english": "The actor's representation of his character did not seem authentic.",
+        "vietnamese": "Cách nam diễn viên thể hiện nhân vật có vẻ không chân thực."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈsepərətli/",
+      "example": {
+        "english": "The theater was very crowded so we had to sit separately.",
+        "vietnamese": "Rạp rất đông nên chúng tôi phải ngồi riêng."
+      }
+    },
+    "12": {
+      "pronunciation": "/səkˈsesɪv/",
+      "example": {
+        "english": "The script went through successive rewrites.",
+        "vietnamese": "Kịch bản trải qua nhiều lần viết lại liên tiếp."
+      }
+    }
+  },
+  "essential-42": {
+    "1": {
+      "pronunciation": "/ˈækʃən/",
+      "example": {
+        "english": "The action on stage was spellbinding.",
+        "vietnamese": "Diễn biến trên sân khấu cuốn hút đến mê hồn."
+      }
+    },
+    "2": {
+      "pronunciation": "/əˈproʊtʃ/",
+      "example": {
+        "english": "The performance approaches perfection.",
+        "vietnamese": "Màn trình diễn gần đạt đến sự hoàn hảo."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈɔːdiəns/",
+      "example": {
+        "english": "The audience cheered the actors as they walked off the stage.",
+        "vietnamese": "Khán giả reo hò cổ vũ khi các diễn viên rời sân khấu."
+      }
+    },
+    "4": {
+      "pronunciation": "/kriˈeɪtɪv/",
+      "example": {
+        "english": "There are a number of creative people writing for the theater these days.",
+        "vietnamese": "Ngày nay có nhiều người sáng tạo đang viết cho sân khấu."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈdaɪəlɔːɡ/",
+      "example": {
+        "english": "The actors performed the dialogue without using scripts.",
+        "vietnamese": "Các diễn viên diễn đoạn hội thoại mà không cần dùng kịch bản."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈelɪmənt/",
+      "example": {
+        "english": "The audience is an essential element of live theater.",
+        "vietnamese": "Khán giả là một yếu tố thiết yếu của sân khấu trực tiếp."
+      }
+    },
+    "7": {
+      "pronunciation": "/ɪkˈspɪriəns/",
+      "example": {
+        "english": "The experience of live theater is very thrilling.",
+        "vietnamese": "Trải nghiệm xem kịch trực tiếp rất thú vị."
+      }
+    },
+    "8": {
+      "pronunciation": "/əˈkɝː/",
+      "example": {
+        "english": "The murder in the play occurs in the second act.",
+        "vietnamese": "Vụ giết người trong vở kịch xảy ra ở màn hai."
+      }
+    },
+    "9": {
+      "pronunciation": "/pərˈfɔːrm/",
+      "example": {
+        "english": "The theater group performed a three-act play.",
+        "vietnamese": "Đoàn kịch biểu diễn một vở gồm ba màn."
+      }
+    },
+    "10": {
+      "pronunciation": "/rɪˈhɝːs/",
+      "example": {
+        "english": "The director rehearses with the actors ten hours each day.",
+        "vietnamese": "Đạo diễn tập với các diễn viên mười giờ mỗi ngày."
+      }
+    },
+    "11": {
+      "pronunciation": "/rɪˈvjuː/",
+      "example": {
+        "english": "The newspaper sent a rank amateur to review the play.",
+        "vietnamese": "Tờ báo cử một người hoàn toàn nghiệp dư đến viết bài đánh giá vở kịch."
+      }
+    },
+    "12": {
+      "pronunciation": "/sel ˈaʊt/",
+      "example": {
+        "english": "The Broadway opening sold out months in advance.",
+        "vietnamese": "Vé buổi khai diễn ở Broadway đã bán hết từ nhiều tháng trước."
+      }
+    }
+  },
+  "essential-43": {
+    "1": {
+      "pronunciation": "/əˈveɪləbəl/",
+      "example": {
+        "english": "I checked the list of available compact discs before ordering.",
+        "vietnamese": "Tôi kiểm tra danh sách đĩa CD có sẵn trước khi đặt mua."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˈbrɔːdən/",
+      "example": {
+        "english": "Dominique wants to broaden her knowledge of opera history.",
+        "vietnamese": "Dominique muốn mở rộng kiến thức về lịch sử opera."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈkætəɡɔːri/",
+      "example": {
+        "english": "Jazz is one of many categories of music.",
+        "vietnamese": "Jazz là một trong nhiều thể loại âm nhạc."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈdɪspərət/",
+      "example": {
+        "english": "Religious songs cut across disparate categories of music.",
+        "vietnamese": "Các bài hát tôn giáo trải rộng qua nhiều thể loại âm nhạc khác biệt."
+      }
+    },
+    "5": {
+      "pronunciation": "/dɪˈvaɪd/",
+      "example": {
+        "english": "The broad topic of music can be divided into manageable parts, such as themes, styles, or centuries.",
+        "vietnamese": "Chủ đề âm nhạc rộng lớn có thể chia thành những phần dễ xử lý như chủ đề, phong cách hoặc thế kỷ."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈfeɪvər/",
+      "example": {
+        "english": "Sam enjoys the works of several composers but he tends to favor Mozart.",
+        "vietnamese": "Sam thích tác phẩm của nhiều nhà soạn nhạc nhưng thường ưu ái Mozart hơn."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈɪnstɪŋkt/",
+      "example": {
+        "english": "The music lover followed his instincts and collected only music that he enjoyed.",
+        "vietnamese": "Người yêu nhạc làm theo bản năng và chỉ sưu tầm những bản nhạc mình thích."
+      }
+    },
+    "8": {
+      "pronunciation": "/prɪˈfɝː/",
+      "example": {
+        "english": "He preferred contemporary music to any other type.",
+        "vietnamese": "Anh ấy thích nhạc đương đại hơn mọi thể loại khác."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈriːzən/",
+      "example": {
+        "english": "We'll never understand the reason why some music is popular and some is not.",
+        "vietnamese": "Chúng ta sẽ không bao giờ hiểu hết lý do tại sao một số loại nhạc được ưa chuộng còn một số thì không."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˌriːlækˈseɪʃən/",
+      "example": {
+        "english": "He played the piano for relaxation and pleasure.",
+        "vietnamese": "Anh ấy chơi piano để thư giãn và tìm niềm vui."
+      }
+    },
+    "11": {
+      "pronunciation": "/teɪst/",
+      "example": {
+        "english": "This music does not appeal to my tastes; but I'm old-fashioned.",
+        "vietnamese": "Loại nhạc này không hợp gu tôi; nhưng tôi là người cổ điển."
+      }
+    },
+    "12": {
+      "pronunciation": "/ɝːdʒ/",
+      "example": {
+        "english": "Despite my reluctance, my friends urged me to attend an opera.",
+        "vietnamese": "Dù tôi ngần ngại, bạn bè vẫn khuyên tôi đi xem một vở opera."
+      }
+    }
+  },
+  "essential-44": {
+    "1": {
+      "pronunciation": "/əˈkwaɪər/",
+      "example": {
+        "english": "The sculptor acquired metalworking skills after much practice.",
+        "vietnamese": "Nhà điêu khắc đã có được kỹ năng gia công kim loại sau nhiều lần luyện tập."
+      }
+    },
+    "2": {
+      "pronunciation": "/ədˈmaɪər/",
+      "example": {
+        "english": "Raisa, admiring the famous smile, stood before the Mona Lisa for hours.",
+        "vietnamese": "Raisa đứng trước bức Mona Lisa hàng giờ, ngắm nhìn nụ cười nổi tiếng."
+      }
+    },
+    "3": {
+      "pronunciation": "/kəˈlekʃən/",
+      "example": {
+        "english": "The museum's collection kept two full-time curators busy.",
+        "vietnamese": "Bộ sưu tập của bảo tàng khiến hai giám tuyển toàn thời gian luôn bận rộn."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈkrɪtɪsɪzəm/",
+      "example": {
+        "english": "The revered artist's criticism of the piece was particularly insightful.",
+        "vietnamese": "Nhận xét của người nghệ sĩ được kính trọng về tác phẩm đặc biệt sâu sắc."
+      }
+    },
+    "5": {
+      "pronunciation": "/ɪkˈspres/",
+      "example": {
+        "english": "The photograph expresses a range of emotions.",
+        "vietnamese": "Bức ảnh thể hiện nhiều cung bậc cảm xúc."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈfæʃən/",
+      "example": {
+        "english": "The museum's classical architecture has never gone out of fashion.",
+        "vietnamese": "Kiến trúc cổ điển của bảo tàng chưa bao giờ lỗi thời."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈliːʒər/",
+      "example": {
+        "english": "We can go to the permanent collection at our leisure.",
+        "vietnamese": "Chúng ta có thể thong thả đến xem bộ sưu tập thường trực khi thuận tiện."
+      }
+    },
+    "8": {
+      "pronunciation": "/rɪˈspɑːnd/",
+      "example": {
+        "english": "You should respond to the invitation to attend the museum gala.",
+        "vietnamese": "Bạn nên trả lời lời mời dự dạ tiệc của bảo tàng."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈskedʒuːl/",
+      "example": {
+        "english": "We didn't schedule enough time to see all the exhibits that we were interested in.",
+        "vietnamese": "Chúng tôi không bố trí đủ thời gian để xem tất cả các trưng bày mình quan tâm."
+      }
+    },
+    "10": {
+      "pronunciation": "/sɪɡˈnɪfɪkənt/",
+      "example": {
+        "english": "The rash of new acquisitions represented a significant change in the museum's policies.",
+        "vietnamese": "Loạt tác phẩm mới được mua về thể hiện một thay đổi đáng kể trong chính sách của bảo tàng."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈspeʃəlaɪz/",
+      "example": {
+        "english": "The museum shop specializes in Ming vases.",
+        "vietnamese": "Cửa hàng bảo tàng chuyên về bình thời Minh."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈspektrəm/",
+      "example": {
+        "english": "The whole spectrum of artistic expression was represented in the exhibit.",
+        "vietnamese": "Triển lãm thể hiện toàn bộ các hình thức biểu đạt nghệ thuật."
+      }
+    }
+  },
+  "essential-45": {
+    "1": {
+      "pronunciation": "/əˈsaɪnmənt/",
+      "example": {
+        "english": "This assignment has to be turned in before midnight.",
+        "vietnamese": "Bài được giao này phải được nộp trước nửa đêm."
+      }
+    },
+    "2": {
+      "pronunciation": "/tʃuːz/",
+      "example": {
+        "english": "I did not choose that candidate to be the editor of our student newspaper.",
+        "vietnamese": "Tôi không chọn ứng viên đó làm biên tập viên tờ báo sinh viên của chúng ta."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈkɑːnstəntli/",
+      "example": {
+        "english": "An advantage of Internet news reports is that they can be constantly updated.",
+        "vietnamese": "Một ưu điểm của tin tức trên Internet là có thể được cập nhật liên tục."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈkɑːnstɪtuːt/",
+      "example": {
+        "english": "All the different news sources constitute the media industry.",
+        "vietnamese": "Tất cả các nguồn tin khác nhau tạo thành ngành truyền thông."
+      }
+    },
+    "5": {
+      "pronunciation": "/dɪˈsɪʒən/",
+      "example": {
+        "english": "Newspaper editors often have to make quick decisions about which stories to publish.",
+        "vietnamese": "Biên tập viên báo thường phải quyết định nhanh nên đăng những bài nào."
+      }
+    },
+    "6": {
+      "pronunciation": "/dɪˈsemɪneɪt/",
+      "example": {
+        "english": "The media disseminates news across the world.",
+        "vietnamese": "Truyền thông phổ biến tin tức khắp thế giới."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈɪmpækt/",
+      "example": {
+        "english": "The impact of the news coverage is yet to be known.",
+        "vietnamese": "Tác động của việc đưa tin vẫn chưa được biết rõ."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈɪn depθ/",
+      "example": {
+        "english": "The newspaper gave in-depth coverage of the tragic bombing.",
+        "vietnamese": "Tờ báo đưa tin chuyên sâu về vụ đánh bom bi thảm."
+      }
+    },
+    "9": {
+      "pronunciation": "/ɪnˈvestɪɡeɪt/",
+      "example": {
+        "english": "Reporters need to thoroughly investigate the facts before publishing their stories.",
+        "vietnamese": "Phóng viên cần điều tra kỹ các sự việc trước khi đăng bài."
+      }
+    },
+    "10": {
+      "pronunciation": "/lɪŋk/",
+      "example": {
+        "english": "The computer links will take you to today's headlines.",
+        "vietnamese": "Các liên kết trên máy tính sẽ đưa bạn đến những tin chính hôm nay."
+      }
+    },
+    "11": {
+      "pronunciation": "/səbˈskraɪb/",
+      "example": {
+        "english": "Jill subscribes to a gardening magazine.",
+        "vietnamese": "Jill đặt mua định kỳ một tạp chí làm vườn."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈθɝːoʊ/",
+      "example": {
+        "english": "The story was the result of thorough research.",
+        "vietnamese": "Bài viết là kết quả của quá trình nghiên cứu kỹ lưỡng."
+      }
+    }
+  },
+  "essential-46": {
+    "1": {
+      "pronunciation": "/ˈænjuəli/",
+      "example": {
+        "english": "A number of tests are provided annually by my insurance plan.",
+        "vietnamese": "Chương trình bảo hiểm của tôi cung cấp một số xét nghiệm hằng năm."
+      }
+    },
+    "2": {
+      "pronunciation": "/əˈpɔɪntmənt/",
+      "example": {
+        "english": "To get the most out of your appointment, keep a log of your symptoms and concerns.",
+        "vietnamese": "Để tận dụng tốt nhất buổi khám, hãy ghi lại các triệu chứng và những điều bạn lo lắng."
+      }
+    },
+    "3": {
+      "pronunciation": "/əˈses/",
+      "example": {
+        "english": "The physical therapist assessed the amount of mobility Ms. Crowl had lost after her stroke.",
+        "vietnamese": "Chuyên viên vật lý trị liệu đánh giá mức suy giảm khả năng vận động của bà Crowl sau đột quỵ."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈdaɪəɡnoʊs/",
+      "example": {
+        "english": "She diagnosed the problem as a failure to follow the directions for taking the medication.",
+        "vietnamese": "Cô ấy xác định nguyên nhân vấn đề là không tuân theo hướng dẫn dùng thuốc."
+      }
+    },
+    "5": {
+      "pronunciation": "/ɪˈfektɪv/",
+      "example": {
+        "english": "Howard was pleased to find that the diet recommended by his doctor was quite effective.",
+        "vietnamese": "Howard vui mừng nhận thấy chế độ ăn bác sĩ khuyên dùng khá hiệu quả."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈɪnstrəmənt/",
+      "example": {
+        "english": "The senior physician carried his instruments in a black leather bag.",
+        "vietnamese": "Vị bác sĩ cao cấp mang dụng cụ trong một chiếc túi da đen."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈmænɪdʒ/",
+      "example": {
+        "english": "By carefully managing their limited resources, the couple found the money for the elective surgery.",
+        "vietnamese": "Nhờ quản lý cẩn thận nguồn lực hạn chế, cặp vợ chồng đã thu xếp được tiền cho ca phẫu thuật theo kế hoạch."
+      }
+    },
+    "8": {
+      "pronunciation": "/prɪˈvent/",
+      "example": {
+        "english": "His full caseload prevented the doctor from taking on new patients.",
+        "vietnamese": "Số bệnh nhân đã kín khiến bác sĩ không thể nhận thêm bệnh nhân mới."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˌrekəmenˈdeɪʃən/",
+      "example": {
+        "english": "The professor gave her former student a recommendation when he applied for a job at the hospital.",
+        "vietnamese": "Nữ giáo sư đã viết thư giới thiệu cho sinh viên cũ khi anh ứng tuyển vào bệnh viện."
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈrekərd/",
+      "example": {
+        "english": "Ms. Han typed a written request for her medical records.",
+        "vietnamese": "Bà Han đánh máy một văn bản yêu cầu cung cấp hồ sơ bệnh án của mình."
+      }
+    },
+    "11": {
+      "pronunciation": "/rɪˈfɝː/",
+      "example": {
+        "english": "I was referred to this specialist by the family practice nurse.",
+        "vietnamese": "Tôi được y tá của phòng khám gia đình giới thiệu đến bác sĩ chuyên khoa này."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈsɪriəs/",
+      "example": {
+        "english": "The impact of the serious news could be read on everyone's face.",
+        "vietnamese": "Có thể thấy tác động của tin tức nghiêm trọng trên gương mặt mọi người."
+      }
+    }
+  },
+  "essential-47": {
+    "1": {
+      "pronunciation": "/əˈwer/",
+      "example": {
+        "english": "I was not aware that flossing my teeth could prevent a buildup of plaque.",
+        "vietnamese": "Tôi không biết rằng dùng chỉ nha khoa có thể ngăn mảng bám tích tụ."
+      }
+    },
+    "2": {
+      "pronunciation": "/kætʃ ˈʌp/",
+      "example": {
+        "english": "The dental assistant caught up on her paperwork in between patients.",
+        "vietnamese": "Trợ lý nha khoa tranh thủ hoàn thành giấy tờ còn tồn giữa các lượt bệnh nhân."
+      }
+    },
+    "3": {
+      "pronunciation": "/dɪˈstrækʃən/",
+      "example": {
+        "english": "To provide a distraction from the noise, Luisa's dentist offered her a pair of earphones.",
+        "vietnamese": "Để giúp Luisa phân tán sự chú ý khỏi tiếng ồn, nha sĩ đưa cho cô một đôi tai nghe."
+      }
+    },
+    "4": {
+      "pronunciation": "/ɪnˈkɝːɪdʒmənt/",
+      "example": {
+        "english": "The perfect checkup was certainly encouragement to keep up my good dental hygiene.",
+        "vietnamese": "Kết quả khám hoàn hảo chắc chắn là động lực để tôi tiếp tục giữ vệ sinh răng miệng tốt."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈevɪdənt/",
+      "example": {
+        "english": "Unfortunately, his poor dental hygiene is evident from a distance.",
+        "vietnamese": "Đáng tiếc là tình trạng vệ sinh răng miệng kém của anh ấy có thể thấy rõ từ xa."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈhæbɪt/",
+      "example": {
+        "english": "The patient had a habit of grinding his teeth during his sleep.",
+        "vietnamese": "Bệnh nhân có thói quen nghiến răng khi ngủ."
+      }
+    },
+    "7": {
+      "pronunciation": "/ɪˈluːməneɪt/",
+      "example": {
+        "english": "Let me turn on more lights to properly illuminate the back teeth.",
+        "vietnamese": "Để tôi bật thêm đèn nhằm chiếu sáng đầy đủ các răng phía trong."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈɪrɪteɪt/",
+      "example": {
+        "english": "The broken tooth rubbed against my tongue, irritating it.",
+        "vietnamese": "Chiếc răng vỡ cọ vào lưỡi tôi, khiến lưỡi bị kích ứng."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈoʊvərvjuː/",
+      "example": {
+        "english": "An overview of your dental records shows a history of problems.",
+        "vietnamese": "Xem tổng quan hồ sơ nha khoa cho thấy bạn từng gặp nhiều vấn đề."
+      }
+    },
+    "10": {
+      "pronunciation": "/pəˈzɪʃən/",
+      "example": {
+        "english": "The position of the chair can be adjusted to a range of heights.",
+        "vietnamese": "Vị trí ghế có thể điều chỉnh theo nhiều độ cao."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈreɡjələrli/",
+      "example": {
+        "english": "She brushes regularly after every meal.",
+        "vietnamese": "Cô ấy đều đặn đánh răng sau mỗi bữa ăn."
+      }
+    },
+    "12": {
+      "pronunciation": "/rɪˈstɔːr/",
+      "example": {
+        "english": "The cleaning restored the whiteness of my teeth.",
+        "vietnamese": "Việc làm sạch đã khôi phục độ trắng của răng tôi."
+      }
+    }
+  },
+  "essential-48": {
+    "1": {
+      "pronunciation": "/əˈlaʊ/",
+      "example": {
+        "english": "My insurance does not allow me to choose my own hospital.",
+        "vietnamese": "Bảo hiểm của tôi không cho phép tôi tự chọn bệnh viện."
+      }
+    },
+    "2": {
+      "pronunciation": "/ɔːlˈtɝːnətɪv/",
+      "example": {
+        "english": "I'd like to discuss alternative treatments before I agree to anything.",
+        "vietnamese": "Tôi muốn thảo luận các phương pháp điều trị thay thế trước khi đồng ý với bất cứ điều gì."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈæspekt/",
+      "example": {
+        "english": "The right to choose their own doctor is an important aspect of health coverage for many people.",
+        "vietnamese": "Quyền tự chọn bác sĩ là một khía cạnh quan trọng của bảo hiểm y tế đối với nhiều người."
+      }
+    },
+    "4": {
+      "pronunciation": "/kənˈsɝːn/",
+      "example": {
+        "english": "Whenever I have health concerns, I call my doctor.",
+        "vietnamese": "Mỗi khi có lo ngại về sức khỏe, tôi gọi cho bác sĩ."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈemfəsaɪz/",
+      "example": {
+        "english": "The nurse emphasized the importance of eating a balanced diet.",
+        "vietnamese": "Y tá nhấn mạnh tầm quan trọng của chế độ ăn cân bằng."
+      }
+    },
+    "6": {
+      "pronunciation": "/ɪnˈkɝː/",
+      "example": {
+        "english": "I incurred substantial expenses that my health plan does not cover.",
+        "vietnamese": "Tôi phải chịu những khoản chi phí đáng kể mà chương trình bảo hiểm y tế không chi trả."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˌpɝːsəˈnel/",
+      "example": {
+        "english": "The office manager insisted that she needed more personnel to finish the project on time.",
+        "vietnamese": "Trưởng phòng hành chính khẳng định cô cần thêm nhân sự để hoàn thành dự án đúng hạn."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈpɑːləsi/",
+      "example": {
+        "english": "Company policy did not provide for overtime pay.",
+        "vietnamese": "Chính sách công ty không quy định trả tiền làm thêm giờ."
+      }
+    },
+    "9": {
+      "pronunciation": "/ˈpɔːrʃən/",
+      "example": {
+        "english": "I am keeping a record of the portion of my income I spend on health care.",
+        "vietnamese": "Tôi đang ghi lại phần thu nhập mình chi cho chăm sóc sức khỏe."
+      }
+    },
+    "10": {
+      "pronunciation": "/rɪˈɡɑːrdləs/",
+      "example": {
+        "english": "Regardless of the cost, we all need health insurance.",
+        "vietnamese": "Bất kể chi phí bao nhiêu, tất cả chúng ta đều cần bảo hiểm y tế."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈsæləri/",
+      "example": {
+        "english": "The receptionist believed that he worked too hard for such a small salary.",
+        "vietnamese": "Nhân viên lễ tân cho rằng mình làm việc quá vất vả so với mức lương ít ỏi như vậy."
+      }
+    },
+    "12": {
+      "pronunciation": "/suːt/",
+      "example": {
+        "english": "I have finally found a health plan that suits my needs.",
+        "vietnamese": "Cuối cùng tôi đã tìm được chương trình bảo hiểm y tế phù hợp với nhu cầu."
+      }
+    }
+  },
+  "essential-49": {
+    "1": {
+      "pronunciation": "/ədˈmɪt/",
+      "example": {
+        "english": "The injured patient was admitted to the unit directly from the emergency room.",
+        "vietnamese": "Bệnh nhân bị thương được chuyển thẳng từ phòng cấp cứu vào khoa."
+      }
+    },
+    "2": {
+      "pronunciation": "/ˈɔːθəraɪz/",
+      "example": {
+        "english": "We cannot share the test results with you until we have been authorized to do so by your doctor.",
+        "vietnamese": "Chúng tôi không thể cung cấp kết quả xét nghiệm cho bạn cho đến khi được bác sĩ của bạn cho phép."
+      }
+    },
+    "3": {
+      "pronunciation": "/ˈdezɪɡneɪt/",
+      "example": {
+        "english": "The labels on the bags designated the type of blood they contained.",
+        "vietnamese": "Nhãn trên các túi ghi rõ nhóm máu chứa bên trong."
+      }
+    },
+    "4": {
+      "pronunciation": "/ˈeskɔːrt/",
+      "example": {
+        "english": "You cannot leave the unit on your own; you'll have to wait for an escort.",
+        "vietnamese": "Bạn không thể tự rời khoa; bạn phải chờ người đi cùng."
+      }
+    },
+    "5": {
+      "pronunciation": "/aɪˈdentɪfaɪ/",
+      "example": {
+        "english": "The tiny bracelets identified each baby in the nursery.",
+        "vietnamese": "Những chiếc vòng tay nhỏ giúp nhận diện từng em bé trong phòng sơ sinh."
+      }
+    },
+    "6": {
+      "pronunciation": "/ˈmɪʃən/",
+      "example": {
+        "english": "The nurse explained that the mission of everyone in the unit was to make sure the patients got well as soon as possible.",
+        "vietnamese": "Y tá giải thích rằng nhiệm vụ của mọi người trong khoa là bảo đảm bệnh nhân bình phục sớm nhất có thể."
+      }
+    },
+    "7": {
+      "pronunciation": "/pərˈmɪt/",
+      "example": {
+        "english": "Smoking is not permitted anywhere inside the hospital.",
+        "vietnamese": "Không được phép hút thuốc ở bất kỳ đâu bên trong bệnh viện."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈpɝːtɪnənt/",
+      "example": {
+        "english": "The patient's health record contained pertinent information, like the dates of all his inoculations.",
+        "vietnamese": "Hồ sơ sức khỏe của bệnh nhân chứa thông tin liên quan, chẳng hạn ngày của tất cả các lần tiêm chủng."
+      }
+    },
+    "9": {
+      "pronunciation": "/prəˈsiːdʒər/",
+      "example": {
+        "english": "Call the hospital to schedule this procedure for tomorrow.",
+        "vietnamese": "Hãy gọi bệnh viện để đặt lịch làm thủ thuật này vào ngày mai."
+      }
+    },
+    "10": {
+      "pronunciation": "/rɪˈzʌlt/",
+      "example": {
+        "english": "Your lab results won't be ready for hours.",
+        "vietnamese": "Phải vài giờ nữa mới có kết quả xét nghiệm của bạn."
+      }
+    },
+    "11": {
+      "pronunciation": "/ˈsteɪtmənt/",
+      "example": {
+        "english": "The billing statement was filed with the insurance company last month.",
+        "vietnamese": "Bảng kê chi phí đã được nộp cho công ty bảo hiểm vào tháng trước."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˈjuːʒuəli/",
+      "example": {
+        "english": "That kind of surgery is usually performed on an outpatient basis.",
+        "vietnamese": "Loại phẫu thuật đó thường được thực hiện theo hình thức ngoại trú."
+      }
+    }
+  },
+  "essential-50": {
+    "1": {
+      "pronunciation": "/kənˈsʌlt/",
+      "example": {
+        "english": "The doctor consulted with a specialist before writing a new prescription.",
+        "vietnamese": "Bác sĩ đã tham khảo ý kiến chuyên gia trước khi kê đơn mới."
+      }
+    },
+    "2": {
+      "pronunciation": "/kənˈtroʊl/",
+      "example": {
+        "english": "To control the cost of this medication, you may get the generic version.",
+        "vietnamese": "Để kiểm soát chi phí loại thuốc này, bạn có thể dùng phiên bản thuốc generic."
+      }
+    },
+    "3": {
+      "pronunciation": "/kənˈviːniənt/",
+      "example": {
+        "english": "Is this a convenient location for you to pick up your prescription?",
+        "vietnamese": "Địa điểm này có thuận tiện để bạn lấy thuốc theo đơn không?"
+      }
+    },
+    "4": {
+      "pronunciation": "/dɪˈtekt/",
+      "example": {
+        "english": "My doctor put me through some simple tests to detect if I have asthma.",
+        "vietnamese": "Bác sĩ cho tôi làm một số xét nghiệm đơn giản để xác định tôi có bị hen suyễn hay không."
+      }
+    },
+    "5": {
+      "pronunciation": "/ˈfæktər/",
+      "example": {
+        "english": "Could my cat be a factor contributing to my asthma?",
+        "vietnamese": "Liệu mèo của tôi có thể là một yếu tố góp phần gây ra bệnh hen suyễn của tôi không?"
+      }
+    },
+    "6": {
+      "pronunciation": "/ˌɪntərˈækʃən/",
+      "example": {
+        "english": "The interaction between the patient and the doctor showed a high level of trust.",
+        "vietnamese": "Sự tương tác giữa bệnh nhân và bác sĩ thể hiện mức độ tin tưởng cao."
+      }
+    },
+    "7": {
+      "pronunciation": "/ˈlɪmɪt/",
+      "example": {
+        "english": "My prescription has a limit of three refills.",
+        "vietnamese": "Đơn thuốc của tôi chỉ được cấp lại tối đa ba lần."
+      }
+    },
+    "8": {
+      "pronunciation": "/ˈmɑːnɪtər/",
+      "example": {
+        "english": "The patient had weekly appointments so that the doctor could monitor her progress.",
+        "vietnamese": "Bệnh nhân có lịch khám hằng tuần để bác sĩ theo dõi tiến triển của cô ấy."
+      }
+    },
+    "9": {
+      "pronunciation": "/pəˈtenʃəl/",
+      "example": {
+        "english": "Given the potential delay in getting reimbursed by the health plan, why don't we just fill one prescription today?",
+        "vietnamese": "Vì việc được bảo hiểm y tế hoàn tiền có thể bị chậm, sao hôm nay chúng ta không chỉ lấy thuốc theo một đơn thôi?"
+      }
+    },
+    "10": {
+      "pronunciation": "/ˈsæmpəl/",
+      "example": {
+        "english": "The pharmacist gave Myra a few free samples of the allergy medication.",
+        "vietnamese": "Dược sĩ đưa cho Myra vài mẫu thuốc dị ứng miễn phí."
+      }
+    },
+    "11": {
+      "pronunciation": "/sens/",
+      "example": {
+        "english": "I got the sense it would be better to get my prescription filled right away.",
+        "vietnamese": "Tôi có cảm giác tốt hơn là nên lấy thuốc theo đơn ngay."
+      }
+    },
+    "12": {
+      "pronunciation": "/ˌvɑːlənˈtɪr/",
+      "example": {
+        "english": "My doctor volunteered to call the drugstore, so my medication would be waiting for me.",
+        "vietnamese": "Bác sĩ chủ động gọi nhà thuốc để thuốc được chuẩn bị sẵn chờ tôi."
+      }
+    }
+  }
+}

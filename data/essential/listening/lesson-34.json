@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/essential/audio/track-34.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-34.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 34"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "According to the conversation, what do good chefs do?",
+      "choiceTexts": {
+        "A": "Demand a lot from their assistants.",
+        "B": "Manage their restaurants well.",
+        "C": "Attract customers.",
+        "D": "Influence new chefs."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "What does the woman think of cooking as a career?",
+      "choiceTexts": {
+        "A": "It pays well.",
+        "B": "It's hard to manage.",
+        "C": "It's not worth the effort.",
+        "D": "It's very demanding."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What does the man plan to do?",
+      "choiceTexts": {
+        "A": "Take more rests.",
+        "B": "Eat at restaurants more often.",
+        "C": "Become a chef.",
+        "D": "Practice cooking."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who is this talk for?",
+      "choiceTexts": {
+        "A": "Cooking instructors.",
+        "B": "People who work in the culinary arts.",
+        "C": "People looking for a profession.",
+        "D": "Career counselors."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What kind of people are attracted to the cooking profession?",
+      "choiceTexts": {
+        "A": "Bored.",
+        "B": "Demanding.",
+        "C": "Exciting.",
+        "D": "Creative."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What does the speaker recommend to become a professional chef?",
+      "choiceTexts": {
+        "A": "Becoming an apprentice.",
+        "B": "Reading cookbooks.",
+        "C": "Visiting restaurants around the world.",
+        "D": "Attending a culinary school."
+      }
+    }
+  ]
+}

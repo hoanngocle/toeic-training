@@ -1,0 +1,173 @@
+[
+  {
+    "id": "essential-03-reading-5",
+    "questions": [
+      {
+        "id": "10",
+        "prompt": "The timing belt ____ shows signs of wear after about 180,000 miles.",
+        "choiceTexts": {
+          "A": "character",
+          "B": "characteristic",
+          "C": "characterize",
+          "D": "characteristically"
+        },
+        "explanation": "Cần trạng từ bổ nghĩa cho “shows”, nên dùng “characteristically” để nói dấu hiệu hao mòn thường thấy."
+      },
+      {
+        "id": "11",
+        "prompt": "Jacques and Louisa will only ____ purchasing appliances that come with a money-back guarantee.",
+        "choiceTexts": {
+          "A": "consideration",
+          "B": "consider",
+          "C": "considering",
+          "D": "considerable"
+        },
+        "explanation": "Sau “will only” dùng nguyên mẫu “consider”; “consider” đi với danh động từ “purchasing”."
+      },
+      {
+        "id": "12",
+        "prompt": "If there is any ____ of the director's involvement, we need to follow up swiftly and thoroughly.",
+        "choiceTexts": {
+          "A": "imply",
+          "B": "implicit",
+          "C": "implicated",
+          "D": "implication"
+        },
+        "explanation": "Sau “any” và trước “of” cần danh từ “implication”, chỉ dấu hiệu liên quan của giám đốc."
+      },
+      {
+        "id": "13",
+        "prompt": "The level of ____ implied by the warranty was misleading.",
+        "choiceTexts": {
+          "A": "protect",
+          "B": "protective",
+          "C": "protection",
+          "D": "protector"
+        },
+        "explanation": "“Level of protection” là mức bảo vệ; sau giới từ “of” cần danh từ chỉ sự bảo vệ."
+      },
+      {
+        "id": "14",
+        "prompt": "It can be very helpful to consider the ____ of the manufacturer and the merchant when making a major purchase.",
+        "choiceTexts": {
+          "A": "reputation",
+          "B": "reputable",
+          "C": "reputing",
+          "D": "reputed"
+        },
+        "explanation": "“The reputation of” là danh tiếng của nhà sản xuất và người bán; các dạng tính từ không làm trung tâm cụm danh từ này."
+      },
+      {
+        "id": "15",
+        "prompt": "If the appliance breaks down within two years of purchase, the manufacturer is ____ to send you a replacement at no charge.",
+        "choiceTexts": {
+          "A": "requiring",
+          "B": "requisite",
+          "C": "requirement",
+          "D": "required"
+        },
+        "explanation": "“Is required to” là cấu trúc bị động mang nghĩa được yêu cầu/phải gửi hàng thay thế."
+      }
+    ]
+  },
+  {
+    "id": "essential-03-reading-6",
+    "questions": [
+      {
+        "id": "16",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (16).",
+        "choiceTexts": {
+          "A": "protects",
+          "B": "protectors",
+          "C": "protection",
+          "D": "protective"
+        },
+        "explanation": "Chủ ngữ “This warranty” số ít cần động từ “protects”; nghĩa là bảo hành bảo vệ người mua khỏi lỗi sản phẩm."
+      },
+      {
+        "id": "17",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (17).",
+        "choiceTexts": {
+          "A": "require",
+          "B": "requires",
+          "C": "is requiring",
+          "D": "has required"
+        },
+        "explanation": "“Warranty” số ít đi với “requires”; văn bản mô tả nghĩa vụ chung trong điều khoản nên dùng hiện tại đơn."
+      },
+      {
+        "id": "18",
+        "prompt": "Chọn từ thích hợp cho chỗ trống (18).",
+        "choiceTexts": {
+          "A": "should expire",
+          "B": "might expire",
+          "C": "will expire",
+          "D": "can expire"
+        },
+        "explanation": "Mốc một năm sau ngày mua là thời hạn chắc chắn, nên dùng “will expire”, không phải khả năng hay lời khuyên."
+      }
+    ],
+    "readingPassage": "One-Year Limited Warranty\nThis warranty [16] ____ the purchaser from all malfunctions of the product due to defects in materials or workmanship.\nOnly the original purchaser of the product is covered. Resale of the product automatically invalidates this warranty.\nThis warranty [17] ____ the manufacturer to repair any defective product or to refund the full purchase price to the purchaser, at the manufacturer's discretion. The manufacturer's liability does not exceed the purchase price of the product. This warranty does not imply that the purchaser has any rights in the case of a defective product beyond those\nstated herein. This warranty [18] ____ one year from the date of purchase. A receipt or other proof of purchase is\nrequired in order to make claims under the terms of this warranty."
+  },
+  {
+    "id": "essential-03-reading-7",
+    "questions": [
+      {
+        "id": "19",
+        "prompt": "Why did the customer return the toaster?",
+        "choiceTexts": {
+          "A": "It doesn't work.",
+          "B": "It was too expensive.",
+          "C": "She wants a brand new one.",
+          "D": "She prefers a different model."
+        },
+        "explanation": "Thư gọi máy là “defective toaster”, tức máy bị lỗi/không hoạt động."
+      },
+      {
+        "id": "20",
+        "prompt": "When did she purchase the toaster?",
+        "choiceTexts": {
+          "A": "A month ago.",
+          "B": "Last October.",
+          "C": "Exactly one year ago.",
+          "D": "A little over a year ago."
+        },
+        "explanation": "Bảo hành một năm đã hết hạn một tháng trước; vậy máy được mua hơn một năm trước một chút."
+      },
+      {
+        "id": "21",
+        "prompt": "What will she get in place of the returned toaster?",
+        "choiceTexts": {
+          "A": "Nothing.",
+          "B": "A refund.",
+          "C": "A brand new toaster.",
+          "D": "A different, repaired toaster."
+        },
+        "explanation": "Công ty đề nghị máy “refurbished” cùng mẫu thay cho máy hỏng, và khách hàng đồng ý nhận máy đã sửa chữa này."
+      },
+      {
+        "id": "22",
+        "prompt": "The word considering in line 4 of the second letter is closest in meaning to",
+        "choiceTexts": {
+          "A": "reading about",
+          "B": "thinking about",
+          "C": "talking about",
+          "D": "worrying about"
+        },
+        "explanation": "“After considering the matter” nghĩa là sau khi suy nghĩ/cân nhắc vấn đề; tương đương “thinking about”."
+      },
+      {
+        "id": "23",
+        "prompt": "The word frequently in line 6 of the second letter is closest in meaning to",
+        "choiceTexts": {
+          "A": "often",
+          "B": "rarely",
+          "C": "never",
+          "D": "occasionally"
+        },
+        "explanation": "Khách hàng nói thường xuyên sử dụng sản phẩm; “frequently” đồng nghĩa “often”."
+      }
+    ],
+    "readingPassage": "Kitchen Electronics, Inc.\nOctober 12, 20—\nMrs. Sophie Bordeaux\n118 Montrose Street\nStoneybrook, MI\nDear Mrs. Bordeaux,\nWe received the defective toaster which you returned\nto us asking for a full refund under the terms of the\none-year warranty. Unfortunately, the warranty on the\ntoaster expired a month ago. The terms of the warranty do not cover your product once it has expired.\nConsequently, we will not be able to send you a\nrefund. However, we will be able to send you a refurbished toaster of the same model in exchange for the\ndefective one if you desire. Please let us know if such\nan arrangement would be satisfactory to you.\nPlease don't hesitate to contact me if you have any\nquestions. We appreciate your business.\nSincerely,\nMatthew Bodine\nCustomer Service Manager\n\nNovember 1, 20—\nMatthew Bodine\nCustomer Service Manager\nKitchen Electronics, Inc.\n194294 Honeywell Boulevard\nVictoria Springs, AL\nDear Mr. Bodine,\n\nI have received your letter offering to send me a refurbished toaster in place of my defective one. I had not realized that my warranty had already expired. After considering the matter, I have decided to accept\nthe refurbished toaster. Your company has a good reputation, and I frequently use your products. In fact,\nthis is the first time I have ever had a problem with\nanything I have purchased from you. Therefore, I am\nsure that the refurbished toaster will work as well as a\nbrand new one. However, I would like to be assured\nthat the refurbished toaster will be protected by a\nwarranty the same as a new toaster would be. If this is\nthe case, then please send me the toaster as soon as\npossible. Thank you.\nSincerely,\nSophie Bordeaux"
+  }
+]
