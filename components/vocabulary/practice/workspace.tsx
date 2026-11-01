@@ -8,15 +8,16 @@ import Writing from './writing';
 import TestMode from './test-mode';
 import { AnswerReview } from './shared';
 import EssentialSection from '../essential/section';
+import { useRememberedTab } from '../use-remembered-tab';
 import type { EssentialTab, PublicBookSection } from '../../../lib/essential/types';
 
 const practiceTabs=[['list','Danh sách từ'],['flashcard','Flash Card'],['writing','Writing'],['test','Test']] as const;
 const bookTabs=[['context','Words in Context'],['families','Word Families'],['reading','Reading'],['listening','Listening'],['review','Word Review']] as const;
 type Tab=(typeof practiceTabs)[number][0] | EssentialTab | 'history';
 export default function PracticeWorkspace({lesson,children,sections}: {lesson:Lesson;children:ReactNode;sections?:Partial<Record<EssentialTab,PublicBookSection>>}) {
-  const availableBookTabs=lesson.source==='essential'?bookTabs.filter(([id])=>sections?.[id]):[];
+  const availableBookTabs=bookTabs.filter(([id])=>(sections?.[id]?.units.length ?? 0)>0);
   const tabs:readonly (readonly [Tab,string])[]=[...practiceTabs,...availableBookTabs,['history','Lịch sử']];
-  const [tab,setTab]=useState<Tab>('list');
+  const [tab,setTab]=useRememberedTab<Tab>(`vocabulary:${lesson.slug}:tab`, tabs.map(([id])=>id), 'list');
   const [state,setState]=useState<LearningState|null>(null);
   const [error,setError]=useState('');
   const [revision,setRevision]=useState(0);
@@ -46,7 +47,7 @@ export default function PracticeWorkspace({lesson,children,sections}: {lesson:Le
       <progress max={lesson.words.length} value={learned} aria-label="Số từ đã nhớ"/>
     </section>
     {error&&<p className="study-error" role="alert">{error} <button className="study-button" onClick={refresh}>Tải lại tiến độ</button></p>}
-    <div className={`study-tabs${lesson.source === "essential" ? " essential-modeTabs" : ""}`} role="tablist" aria-label="Chế độ học">{tabs.map(([id,label],index)=><button key={id} id={`tab-${id}`} role="tab" aria-selected={tab===id} aria-controls={`panel-${id}`} tabIndex={tab===id?0:-1} onKeyDown={event=>handleKeys(event,index)} onClick={()=>choose(id)}>{label}</button>)}</div>
+    <div className="study-tabs study-modeTabs" role="tablist" aria-label="Chế độ học">{tabs.map(([id,label],index)=><button key={id} id={`tab-${id}`} role="tab" aria-selected={tab===id} aria-controls={`panel-${id}`} tabIndex={tab===id?0:-1} onKeyDown={event=>handleKeys(event,index)} onClick={()=>choose(id)}>{label}</button>)}</div>
     <div id="panel-list" role="tabpanel" aria-labelledby="tab-list" hidden={tab!=='list'}>{children}</div>
     <div id="panel-flashcard" role="tabpanel" aria-labelledby="tab-flashcard" hidden={tab!=='flashcard'}><FlashCards lesson={lesson} progress={state?.progress??[]} onSaved={refresh}/></div>
     <div id="panel-writing" role="tabpanel" aria-labelledby="tab-writing" hidden={tab!=='writing'}><Writing lesson={lesson} onSaved={refresh}/></div>
@@ -57,6 +58,6 @@ export default function PracticeWorkspace({lesson,children,sections}: {lesson:Le
         {state&&<details className="study-wordProgress"><summary>Tiến độ từng từ ({state.progress.length} từ đã luyện)</summary><p className="study-hint">“Đã nhớ” khi bạn tự đánh giá trên Flash Card hoặc trả lời đúng 3 lần liên tiếp. Trả lời sai sẽ đưa từ về “Đang học”.</p><ul>{state.progress.map(progress=><li key={progress.wordId}><strong>{lesson.words.find(word=>word.id===progress.wordId)?.spokenText}</strong><span>{progress.status==='learned'?'Đã nhớ':'Đang học'} · {progress.reviews} lần luyện · {progress.correct} đúng / {progress.incorrect} sai</span></li>)}</ul></details>}
       </section>
     </div>
-    {availableBookTabs.map(([id])=><div key={id} id={`panel-${id}`} role="tabpanel" aria-labelledby={`tab-${id}`} hidden={tab!==id}><EssentialSection section={sections![id]!} active={tab===id}/></div>)}
+    {availableBookTabs.map(([id])=><div key={id} id={`panel-${id}`} role="tabpanel" aria-labelledby={`tab-${id}`} hidden={tab!==id}><EssentialSection section={sections![id]!} active={tab===id} storageKey={`vocabulary:${lesson.slug}:${id}:part`}/></div>)}
   </>;
 }

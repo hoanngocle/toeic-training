@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/17 Order Supplies.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-17.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 17"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What is the man looking for?",
+      "choiceTexts": {
+        "A": "A diverse range of applicants.",
+        "B": "A glassware merchant.",
+        "C": "A pair of eyeglasses.",
+        "D": "A warehouse."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "How will he obtain more information about what he needs?",
+      "choiceTexts": {
+        "A": "He'll write a letter.",
+        "B": "He'll make a phone call.",
+        "C": "The woman will tell him.",
+        "D": "He'll visit a web site."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "When does the woman want to speak to the man again?",
+      "choiceTexts": {
+        "A": "Today.",
+        "B": "Tuesday.",
+        "C": "Next week.",
+        "D": "On the weekend."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who is listening to this talk?",
+      "choiceTexts": {
+        "A": "Upper management at a stationery supplier.",
+        "B": "Employees at a stationery supplier.",
+        "C": "Upper management at Margatel.",
+        "D": "Employees at Margatel."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What is the problem?",
+      "choiceTexts": {
+        "A": "There was an order with a mistake.",
+        "B": "The company lost a $50,000 client.",
+        "C": "Employees got locked out of the office.",
+        "D": "A worker slipped and fell."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "When did Carla take the order?",
+      "choiceTexts": {
+        "A": "January 14.",
+        "B": "January 19.",
+        "C": "January 21.",
+        "D": "January 30."
+      }
+    }
+  ]
+}

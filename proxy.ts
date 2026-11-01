@@ -1,16 +1,30 @@
+import { createServerClient } from '@supabase/ssr';
 import { NextRequest, NextResponse } from 'next/server';
-import { SESSION_COOKIE, verifySession } from './lib/auth';
+import { safeReturnPath } from './lib/auth';
+import { hasSupabaseConfig, supabaseConfig } from './lib/supabase/config';
 
-export function proxy(request: NextRequest) {
-  const path = request.nextUrl.pathname;
-  if (path === '/login' || path === '/api/auth/login' || path === '/api/auth/logout') return NextResponse.next();
-  if (verifySession(request.cookies.get(SESSION_COOKIE)?.value)) return NextResponse.next();
-  if (path.startsWith('/api/')) return NextResponse.json({ error: 'Vui lòng đăng nhập.' }, { status: 401, headers: { 'Cache-Control': 'no-store' } });
-  const login = new URL('/login', request.url);
-  login.searchParams.set('next', path + request.nextUrl.search);
-  return NextResponse.redirect(login);
+export async function proxy(request: NextRequest) {
+  const requestHeaders = new Headers(request.headers);
+  requestHeaders.set('x-app-return-path',safeReturnPath(request.nextUrl.pathname+request.nextUrl.search));
+  let response=NextResponse.next({request:{headers:requestHeaders}});
+  response.headers.set('Cache-Control','private, no-store');
+  if (!hasSupabaseConfig()) return response;
+  const {url,key}=supabaseConfig();
+  const client=createServerClient(url,key,{
+    cookieOptions:{httpOnly:true,sameSite:'lax',secure:process.env.NODE_ENV==='production',path:'/'},
+    cookies:{
+      getAll:()=>request.cookies.getAll(),
+      setAll(values) {
+        for (const {name,value} of values) request.cookies.set(name,value);
+        requestHeaders.set('cookie',request.cookies.toString());
+        response=NextResponse.next({request:{headers:requestHeaders}});
+        for (const {name,value,options} of values) response.cookies.set(name,value,options);
+        response.headers.set('Cache-Control','private, no-store');
+      },
+    },
+  });
+  // Refresh only; every protected page/API verifies identity and the current profile.
+  await client.auth.getClaims();
+  return response;
 }
-
-export const config = {
-  matcher: ['/((?!_next/static|_next/image|favicon.ico|fonts/).*)'],
-};
+export const config={matcher:['/((?!_next/static|_next/image|favicon.ico|fonts/).*)']};

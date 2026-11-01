@@ -41,7 +41,7 @@ export default function LessonDetail({ lesson, navigation, sections }: { lesson:
             <ChatBubbleLeftEllipsisIcon width={22} height={22} aria-hidden="true" />
           </button>}
         </div>
-          {word.example && <div id={`example-${lesson.slug}-${word.id}`} className="vocab-example" hidden={!expandedExamples.has(word.id)}><WordExample english={word.example.english} vietnamese={word.example.vietnamese} term={word.spokenText} label={lesson.source === "essential" ? "VÍ DỤ" : "VÍ DỤ · NGỮ CẢNH TOEIC"} /></div>}
+          {word.example && <div id={`example-${lesson.slug}-${word.id}`} className="vocab-example" hidden={!expandedExamples.has(word.id)}><WordExample english={word.example.english} vietnamese={word.example.vietnamese} term={word.spokenText} label="VÍ DỤ" /></div>}
         </li>)}</ol> : <div className="vocab-empty"><h3>Không tìm thấy từ phù hợp</h3><p>Thử từ tiếng Anh hoặc nghĩa tiếng Việt khác.</p><button onClick={() => setQuery("")}>Xóa tìm kiếm</button></div>}
         <nav className="vocab-pagination" aria-label="Chuyển bài"><div>{previous && <Link href={`/tu-vung/${previous.slug}`}><small><ArrowLeftIcon width={18} height={18} aria-hidden="true" /> BÀI TRƯỚC</small><strong>{previous.title}</strong></Link>}</div><div>{next && <Link href={`/tu-vung/${next.slug}`}><small>BÀI TIẾP THEO <ArrowRightIcon width={18} height={18} aria-hidden="true" /></small><strong>{next.title}</strong></Link>}</div></nav>
       </section>

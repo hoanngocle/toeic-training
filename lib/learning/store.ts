@@ -1,29 +1,12 @@
+import { initializeActivity, recordActivity } from '../achievements/activity.ts';
 import { DatabaseSync } from 'node:sqlite';
 import { mkdirSync } from 'node:fs';
 import { dirname } from 'node:path';
-import { gradeAnswer } from './practice.ts';
 import type { Word } from './practice.ts';
-import type { LearningState, Progress, SaveRequest, Session } from './types.ts';
+import type { LearningState, Progress, Session } from './types.ts';
 
-export class InputError extends Error {}
-export function validateRequest(input: unknown, words: Word[]): SaveRequest {
-  if (!input || typeof input !== 'object') throw new InputError('Dữ liệu không hợp lệ.');
-  const value = input as SaveRequest;
-  if (typeof value.id !== 'string' || !/^[\w-]{10,80}$/.test(value.id) || typeof value.lesson !== 'string' || !/^(?:lesson-\d+|essential-(?:0[1-9]|[1-4]\d|50))$/.test(value.lesson) ||
-      !['flashcard', 'writing', 'test'].includes(value.mode) || !Number.isInteger(value.durationMs) || value.durationMs < 0 || value.durationMs > 86400000 ||
-      !Array.isArray(value.answers) || value.answers.length < 1 || value.answers.length > 20 ||
-      (value.mode !== 'test' && value.answers.length !== 1)) throw new InputError('Dữ liệu lượt học không hợp lệ.');
-  const ids = new Set<number>();
-  for (const answer of value.answers) {
-    if (!answer || !Number.isInteger(answer.wordId) || !words.some(word => word.id === answer.wordId) || ids.has(answer.wordId) ||
-        !['en-vi','vi-en'].includes(answer.direction) || typeof answer.answer !== 'string' || answer.answer.length > 2000 ||
-        (value.mode === 'writing' && !answer.answer.trim()) ||
-        (value.mode === 'flashcard' && !['known','learning'].includes(answer.answer))) throw new InputError('Câu trả lời không hợp lệ.');
-    ids.add(answer.wordId);
-  }
-  return { id: value.id, lesson: value.lesson, mode: value.mode, durationMs: value.durationMs,
-    answers: value.answers.map(({wordId, direction, answer}) => ({wordId, direction, answer})) };
-}
+import { InputError, validateRequest, gradeLearning } from './grading.ts';
+export { InputError, validateRequest } from './grading.ts';
 
 export class LearningStore {
   private db: DatabaseSync;
@@ -42,6 +25,7 @@ export class LearningStore {
         streak INTEGER NOT NULL DEFAULT 0, status TEXT NOT NULL, last_reviewed_at TEXT NOT NULL,
         PRIMARY KEY (lesson, word_id)
       );`);
+    initializeActivity(this.db);
   }
   close() { this.db.close(); }
   read(lesson: string): LearningState {
@@ -61,16 +45,16 @@ export class LearningStore {
         this.db.exec('COMMIT');
         return JSON.parse(String(existing.result)) as Session;
       }
-      const createdAt = new Date().toISOString();
-      const results = request.answers.map(answer => {
-        const word = words.find(word => word.id === answer.wordId)!;
-        return {...answer, term: word.spokenText, meaning: word.meaning,
-          expected: answer.direction === 'en-vi' ? word.meaning : word.spokenText,
-          correct: request.mode === 'flashcard' ? answer.answer === 'known' : gradeAnswer(word, answer.direction, answer.answer)};
-      });
-      const result: Session = {id: request.id, lesson: request.lesson, mode: request.mode, durationMs: request.durationMs, createdAt,
-        total: results.length, score: request.mode === 'flashcard' ? null : results.filter(answer => answer.correct).length, results};
+      if (request.retryOf) {
+        const parent = this.db.prepare("SELECT result FROM sessions WHERE id=? AND lesson=? AND mode='test'").get(request.retryOf, request.lesson);
+        if (!parent) throw new InputError('Không tìm thấy bài kiểm tra để ôn lại.');
+        const wrong = (JSON.parse(String(parent.result)) as Session).results.filter(answer => !answer.correct).map(answer => answer.wordId);
+        if (!wrong.length || wrong.length !== request.answers.length || request.answers.some(answer => !wrong.includes(answer.wordId))) throw new InputError('Lượt ôn phải gồm đúng các câu sai.');
+      }
+      const {result} = gradeLearning(request, words);
+      const {createdAt,results} = result;
       this.db.prepare('INSERT INTO sessions (id, lesson, mode, created_at, request, result) VALUES (?, ?, ?, ?, ?, ?)').run(request.id, request.lesson, request.mode, createdAt, serialized, JSON.stringify(result));
+      recordActivity(this.db, createdAt);
       for (const answer of results) {
         const old = this.db.prepare('SELECT * FROM progress WHERE lesson = ? AND word_id = ?').get(request.lesson, answer.wordId);
         const isFlash = request.mode === 'flashcard';

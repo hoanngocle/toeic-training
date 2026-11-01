@@ -1,37 +1,27 @@
-import { unauthorizedResponse } from "../../../lib/auth-server";
-import { join } from 'node:path';
+import { requireApiUser } from '../../../lib/auth-server';
 import { getLesson } from '../../../components/vocabulary/catalog';
-import { InputError, LearningStore } from '../../../lib/learning/store';
+import { InputError } from '../../../lib/learning/grading';
 import { hasValidOrigin } from '../../../lib/request-origin';
-
-function openStore() { return new LearningStore(process.env.LEARNING_DB_PATH || join(process.cwd(), 'data', 'learning.sqlite')); }
-export async function GET(request: Request) {
-  const unauthorized = await unauthorizedResponse();
-  if (unauthorized) return unauthorized;
-  const slug = new URL(request.url).searchParams.get('lesson') ?? '';
-  if (!getLesson(slug)) return Response.json({error:'Không tìm thấy bài học.'}, {status:404});
-  let store: LearningStore | undefined;
+import { userClient } from '../../../lib/supabase/server';
+import { adminClient } from '../../../lib/supabase/admin';
+import { readLearning,saveLearning } from '../../../lib/supabase/learning';
+import { readInput,accountFailure } from '../../../lib/accounts/http';
+import { AccountError } from '../../../lib/accounts/policy';
+export async function GET(request:Request) {
   try {
-    store = openStore();
-    return Response.json(store.read(slug), {headers:{'Cache-Control':'no-store'}});
-  } catch { return Response.json({error:'Chưa đọc được tiến độ. Vui lòng thử lại.'}, {status:500}); }
-  finally { store?.close(); }
+    const user=await requireApiUser();if(!user) throw new AccountError('Vui lòng đăng nhập.',401);
+    const slug=new URL(request.url).searchParams.get('lesson')??'';
+    if(!getLesson(slug)) throw new AccountError('Không tìm thấy bài học.',404);
+    return Response.json(await readLearning(await userClient(),user.id,slug),{headers:{'Cache-Control':'no-store'}});
+  } catch(error) {return accountFailure(error);}
 }
-export async function POST(request: Request) {
-  const unauthorized = await unauthorizedResponse();
-  if (unauthorized) return unauthorized;
-  if (!hasValidOrigin(request)) return Response.json({error:'Nguồn yêu cầu không hợp lệ.'}, {status:403});
-  let store: LearningStore | undefined;
+export async function POST(request:Request) {
   try {
-    const text = await request.text();
-    if (text.length > 64000) return Response.json({error:'Dữ liệu quá lớn.'}, {status:413});
-    const input = JSON.parse(text);
-    const lesson = getLesson(typeof input?.lesson === 'string' ? input.lesson : '');
-    if (!lesson) return Response.json({error:'Không tìm thấy bài học.'}, {status:404});
-    store = openStore();
-    return Response.json(store.save(input, lesson.words));
-  } catch (error) {
-    if (error instanceof InputError || error instanceof SyntaxError) return Response.json({error:error instanceof InputError ? error.message : 'Dữ liệu JSON không hợp lệ.'}, {status:400});
-    return Response.json({error:'Chưa lưu được kết quả. Giữ trang này và thử lưu lại.'}, {status:500});
-  } finally { store?.close(); }
+    const user=await requireApiUser();if(!user) throw new AccountError('Vui lòng đăng nhập.',401);
+    if(!hasValidOrigin(request)) throw new AccountError('Nguồn yêu cầu không hợp lệ.',403);
+    const input=await readInput(request,64000);
+    const slug=input && typeof input==='object' && 'lesson' in input && typeof input.lesson==='string'?input.lesson:'';
+    const lesson=getLesson(slug);if(!lesson) throw new AccountError('Không tìm thấy bài học.',404);
+    return Response.json(await saveLearning(adminClient(),user.id,input,lesson.words),{headers:{'Cache-Control':'no-store'}});
+  } catch(error) {return accountFailure(error instanceof InputError?new AccountError(error.message):error);}
 }

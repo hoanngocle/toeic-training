@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/13 Hire And Train.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-13.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 13"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What is the response to the training program?",
+      "choiceTexts": {
+        "A": "Boredom.",
+        "B": "Confusion.",
+        "C": "Chaos.",
+        "D": "Enthusiasm."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "How long will the training program last?",
+      "choiceTexts": {
+        "A": "One week.",
+        "B": "Two weeks.",
+        "C": "Three weeks.",
+        "D": "Four weeks."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What will the woman do now?",
+      "choiceTexts": {
+        "A": "Join a discussion.",
+        "B": "Set up the room.",
+        "C": "Look for seating.",
+        "D": "Write a letter."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who is listening to this talk?",
+      "choiceTexts": {
+        "A": "New workers.",
+        "B": "Annual trainers.",
+        "C": "Patients.",
+        "D": "New mentors."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What will they do first?",
+      "choiceTexts": {
+        "A": "Select participants for the program.",
+        "B": "Think of traits of good teachers.",
+        "C": "Generate a list of rules.",
+        "D": "Hear an update on sales figures."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "How long will they spend on the first activity?",
+      "choiceTexts": {
+        "A": "Two minutes.",
+        "B": "Three minutes.",
+        "C": "Four minutes.",
+        "D": "Five minutes."
+      }
+    }
+  ]
+}

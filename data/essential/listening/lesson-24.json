@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/24 Taxes.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-24.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 24"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "Who usually prepares the man's taxes?",
+      "choiceTexts": {
+        "A": "The man.",
+        "B": "His wife.",
+        "C": "The man and his wife together.",
+        "D": "An accountant."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "When did the man file his taxes last year?",
+      "choiceTexts": {
+        "A": "One month before the deadline.",
+        "B": "Two months before the deadline.",
+        "C": "One month after the deadline.",
+        "D": "Two months after the deadline."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What is the penalty for missing the deadline?",
+      "choiceTexts": {
+        "A": "1 percent.",
+        "B": "2 percent.",
+        "C": "9 percent.",
+        "D": "10 percent."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who is the speaker?",
+      "choiceTexts": {
+        "A": "A tax preparer.",
+        "B": "A government tax agent.",
+        "C": "A tax filer.",
+        "D": "An employer."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "When can the refund check be expected?",
+      "choiceTexts": {
+        "A": "In eighteen weeks.",
+        "B": "Before six weeks.",
+        "C": "In four weeks.",
+        "D": "In ten weeks at the latest."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What does the speaker offer to do?",
+      "choiceTexts": {
+        "A": "Calculate the amount to withhold from the paycheck.",
+        "B": "Make an arrangement with the employer.",
+        "C": "Show the listener a fee schedule.",
+        "D": "Send in the tax payment."
+      }
+    }
+  ]
+}

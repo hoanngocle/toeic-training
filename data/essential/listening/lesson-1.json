@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/01 Contracts.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-1.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 1"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What problem do the speakers have with the computer company?",
+      "choiceTexts": {
+        "A": "It won't renew the contract.",
+        "B": "It can't repair the computer.",
+        "C": "It sends incorrect bills.",
+        "D": "It charges them for extra spare parts."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "When will the contract run out?",
+      "choiceTexts": {
+        "A": "In two months.",
+        "B": "In nine months.",
+        "C": "In one year.",
+        "D": "In four years."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What does the woman suggest doing?",
+      "choiceTexts": {
+        "A": "Asking the company to write a new contract.",
+        "B": "Canceling the contract.",
+        "C": "Renewing the contract.",
+        "D": "Waiting until the contract runs out."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who is talking?",
+      "choiceTexts": {
+        "A": "A lawyer.",
+        "B": "An upset signer of the contract.",
+        "C": "A secretary.",
+        "D": "Someone who has canceled his agreement."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "Which part of the contract are they looking at?",
+      "choiceTexts": {
+        "A": "A cancellation clause.",
+        "B": "The assurance of quality.",
+        "C": "The agreement on payment.",
+        "D": "A provision in case of bankruptcy."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "When can the parties sign the contract?",
+      "choiceTexts": {
+        "A": "In two days.",
+        "B": "At the end of the week.",
+        "C": "Next week.",
+        "D": "In thirty days."
+      }
+    }
+  ]
+}

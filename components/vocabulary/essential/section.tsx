@@ -1,4 +1,7 @@
 "use client";
+import { useRouter } from "next/navigation";
+import { RewardPopup } from "../../progression/reward-popup";
+import { RewardNotice } from "../../progression/progression-card";
 
 import { Fragment, useEffect, useId, useReducer, useRef, useState } from 'react';
 import type { KeyboardEvent } from 'react';
@@ -8,6 +11,7 @@ import { createExerciseTimer, exerciseDuration, setTimerActive } from './timer';
 import BookPages from './pages';
 import SyntheticSpeech from './speech';
 import OriginalAudio from './original-audio';
+import { useRememberedTab } from '../use-remembered-tab';
 import ContextPassage from './context-passage';
 import WordFamilies from './word-families';
 import './essential.css';
@@ -43,6 +47,7 @@ function ReferenceUnit({ unit }: { unit: PublicBookUnit }) {
 }
 
 function ExerciseUnit({ unit, active }: { unit: PublicBookUnit; active: boolean }) {
+  const router = useRouter();
   const [state, dispatch] = useReducer(exerciseReducer, undefined, initialExercise);
   const [history, setHistory] = useState<ExerciseResult[]>([]);
   const [historyStatus, setHistoryStatus] = useState<'loading' | 'ready' | 'error'>('loading');
@@ -104,6 +109,7 @@ function ExerciseUnit({ unit, active }: { unit: PublicBookUnit; active: boolean 
       if (!response.ok) throw new Error(result.error || 'Chưa lưu được bài làm.');
       dispatch({ type: 'success', result });
       setHistoryVersion(value => value + 1);
+      router.refresh();
     } catch (error) {
       dispatch({ type: 'failure', error: error instanceof Error ? error.message : 'Chưa lưu được bài làm.' });
     } finally { lock.current = false; }
@@ -123,7 +129,8 @@ function ExerciseUnit({ unit, active }: { unit: PublicBookUnit; active: boolean 
   }
 
   return <div className="essential-unit">
-    {!unit.passage && <div className="essential-unitHeading"><h3>{unit.title}</h3><span>{unit.questions.length} câu · nội dung từ sách</span></div>}
+    {state.result && <RewardPopup result={state.result}/>}
+    {!unit.passage && !unit.questionPassages && <div className="essential-unitHeading"><h3>{unit.title}</h3></div>}
     {unit.note && <p className="study-hint essential-sourceNote">{unit.note}</p>}
     {unit.transcript && !unit.audioSrc && <SyntheticSpeech text={unit.transcript} active={active} />}
     {!unit.passage && !isReading && !unit.audioSrc && <BookPages pages={unit.pages} />}
@@ -131,7 +138,6 @@ function ExerciseUnit({ unit, active }: { unit: PublicBookUnit; active: boolean 
       {/* This is the exercise photograph, without the surrounding scanned page. */}
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img src={unit.listeningImage.src} alt={unit.listeningImage.alt} />
-      <figcaption>Part 1 · Nhìn ảnh và chọn câu mô tả phù hợp nhất.</figcaption>
     </figure>}
     {unit.readingPassage && <article className="essential-readingPassage" aria-label="Đoạn đọc">
       <span className="study-eyebrow">ĐOẠN ĐỌC</span>
@@ -140,7 +146,7 @@ function ExerciseUnit({ unit, active }: { unit: PublicBookUnit; active: boolean 
     <div className={`essential-answerArea${unit.passage ? ' essential-contextAnswerArea' : ''}`}>
       {state.result ? <>
         <div className="study-complete"><span className="study-eyebrow">KẾT QUẢ ĐÃ LƯU</span>
-          <h3 ref={resultHeading} tabIndex={-1}>{state.result.score} / {state.result.total} câu đúng</h3>
+          <h3 ref={resultHeading} tabIndex={-1}>{state.result.score} / {state.result.total} câu đúng</h3><RewardNotice result={state.result}/>
           <p>{Math.round(state.result.score / state.result.total * 100)}% · {Math.ceil(state.result.durationMs / 1000)} giây</p>
           <div className="study-rating">{!!wrong.length && <button type="button" className="study-button primary" onClick={() => restart(wrong)}>Làm lại {wrong.length} câu sai</button>}
             <button type="button" className="study-button" onClick={() => restart()}>Làm lại toàn bộ</button></div>
@@ -150,8 +156,8 @@ function ExerciseUnit({ unit, active }: { unit: PublicBookUnit; active: boolean 
         {!unit.passage && !!unit.answerKeyPages?.length && <details className="essential-transcript"><summary>Xem đáp án gốc trong sách</summary><BookPages pages={unit.answerKeyPages} /></details>}
       </> : <form onSubmit={event => { event.preventDefault(); submit(); }}>
         <div className="study-counter"><strong>{state.questionIds ? 'Ôn lại câu sai' : 'Phiếu trả lời'}</strong><span>Đã trả lời {answered} / {questions.length}</span></div>
-        <p className="study-hint">{unit.audioSrc ? 'Nghe audio gốc và chọn một đáp án cho mỗi câu. Mở script ở cuối để đối chiếu sau khi làm bài.' : isReading ? unit.questionPassages ? 'Chọn một đáp án cho mỗi câu. Với câu 11–19, đọc đoạn văn đi kèm. Đáp án đúng sẽ hiện sau khi nộp bài.' : 'Chọn một đáp án cho mỗi câu. Đáp án đúng và giải thích sẽ hiện ngay sau khi nộp bài.' : unit.passage ? 'Điền từ trực tiếp vào chỗ trống trong đoạn văn. Dùng Tab để chuyển ô. Kết quả hiện sau khi nộp bài.' : 'Đọc đề và lựa chọn trên trang sách, rồi điền đáp án bên dưới. Kết quả hiện sau khi nộp bài.'}</p>
-        {unit.passage ? <ContextPassage unit={unit} answers={{ ...completedAnswers, ...state.answers }} questionIds={questions.map(q => q.id)} disabled={blocked} onAnswer={(id, value) => dispatch({ type: 'answer', id, value })} /> : <div className={`essential-questions${isReading ? ' essential-readingQuestions' : ''}`}>{questions.map(question => <Fragment key={question.id}><QuestionPassage unit={unit} questionId={question.id} visibleIds={questions.map(question => question.id)} /><fieldset className="essential-question" disabled={blocked}>
+        {!unit.audioSrc && !unit.questionPassages && <p className="study-hint">{isReading ? 'Chọn một đáp án cho mỗi câu. Đáp án đúng và giải thích sẽ hiện ngay sau khi nộp bài.' : unit.passage ? 'Điền từ trực tiếp vào chỗ trống trong đoạn văn. Dùng Tab để chuyển ô. Kết quả hiện sau khi nộp bài.' : 'Đọc đề và lựa chọn trên trang sách, rồi điền đáp án bên dưới. Kết quả hiện sau khi nộp bài.'}</p>}
+        {unit.passage ? <ContextPassage unit={unit} answers={{ ...completedAnswers, ...state.answers }} questionIds={questions.map(q => q.id)} disabled={blocked} onAnswer={(id, value) => dispatch({ type: 'answer', id, value })} /> : <div className={`essential-questions${isReading ? ' essential-readingQuestions' : ''}${unit.questionPassages ? ' essential-reviewQuestions' : ''}`}>{questions.map(question => <Fragment key={question.id}><QuestionPassage unit={unit} questionId={question.id} visibleIds={questions.map(question => question.id)} /><fieldset className="essential-question" disabled={blocked}>
           <legend>{question.label}{question.prompt && <span className="essential-readingPrompt" lang="en">{question.prompt}</span>}</legend>
           {question.choices?.length ? <div className="essential-choices">{question.choices.map(choice => <label key={choice} className={state.answers[question.id] === choice ? 'selected' : ''}>
             <input type="radio" name={`${unit.id}-${question.id}`} value={choice} checked={state.answers[question.id] === choice} onChange={() => dispatch({ type: 'answer', id: question.id, value: choice })} required />
@@ -163,9 +169,8 @@ function ExerciseUnit({ unit, active }: { unit: PublicBookUnit; active: boolean 
       </form>}
       {state.error && <div className="study-save" role="alert"><p>{state.error} Câu trả lời được giữ nguyên; hãy giữ trang này để thử lưu lại.</p><button type="button" className="study-button" disabled={state.saving} onClick={() => { if (state.pending) void save(state.pending); }}>Thử lưu lại</button></div>}
     </div>
-    {(unit.transcript || !!unit.transcriptPages?.length) && <details className="essential-transcript"><summary>{unit.audioSrc ? 'Script gốc · đối chiếu' : 'Xem bản chép lời từ sách'}</summary>
+    {unit.transcript && <details className="essential-transcript"><summary>Script</summary>
       {unit.transcript && <p className="essential-transcriptText" lang="en">{unit.transcript}</p>}
-      {!!unit.transcriptPages?.length && <BookPages pages={unit.transcriptPages} />}
     </details>}
     <details className="study-history essential-history"><summary>Lịch sử bài làm {historyStatus === 'ready' ? `(${history.length})` : ''}</summary>
       {historyStatus === 'loading' && <p className="study-hint" role="status">Đang tải lịch sử…</p>}
@@ -176,8 +181,8 @@ function ExerciseUnit({ unit, active }: { unit: PublicBookUnit; active: boolean 
   </div>;
 }
 
-export default function EssentialSection({ section, active: sectionActive = true }: { section: PublicBookSection; active?: boolean }) {
-  const [selected, setSelected] = useState(section.units[0]?.id ?? '');
+export default function EssentialSection({ section, active: sectionActive = true, storageKey }: { section: PublicBookSection; active?: boolean; storageKey: string }) {
+  const [selected, setSelected] = useRememberedTab(storageKey, section.units.map(unit => unit.id), section.units[0]?.id ?? '');
   const id = useId();
   const current = section.units.some(unit => unit.id === selected) ? selected : section.units[0]?.id;
   const audioSrc = section.units.find(unit => unit.audioSrc)?.audioSrc;

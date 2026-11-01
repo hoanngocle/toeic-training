@@ -1,0 +1,41 @@
+.app-shell .home-topbar { min-height: 60px; padding-block: 10px; justify-content: flex-end; }
+.app-shell .home-content { padding: clamp(14px, 2.5vh, 26px) clamp(16px, 3vw, 46px); }
+.home-content .hero { min-height: 0; padding: clamp(16px, 3vh, 28px) 28px; }
+.home-content .hero h1 { font-size: clamp(26px, 3.6vh, 36px); line-height: 1.25; margin: 0 0 10px; }
+.home-content .hero p { font-size: 14px; line-height: 1.6; margin-bottom: 14px; }
+.home-content .primary-button { padding: 8px 14px; font-size: 13px; }
+.home-content .hero-art { transform: scale(.7); transform-origin: center; top: -38px; bottom: -38px; }
+.home-content .skills-section { padding-top: 16px; }
+.home-content .section-heading { margin-bottom: 12px; }
+.home-content .section-heading h2 { font-size: 21px; margin: 0; }
+.home-content .skill-card { min-width: 0; padding: 14px 16px 0; }
+.home-content .skill-icon { width: 34px; height: 34px; border-radius: 8px; }
+.home-content .skill-icon svg { width: 20px; height: 20px; }
+.home-content .skill-title { margin: 10px 0; gap: 4px 8px; }
+.home-content .skill-title h3 { font-size: 21px; }
+.home-content .skill-title > span { font-size: 14px; }
+.home-content .tags { margin-bottom: 12px; gap: 4px; }
+.home-content .tags > span { font-size: 11px; padding: 1px 6px; }
+.home-content .skill-card-bottom { padding: 8px 0; font-size: 12px; }
+@media(min-width:521px) and (max-width:800px) {
+  .home-content .hero { padding-block: 16px; }
+  .home-content .skill-card { display: grid; grid-template-columns: 34px minmax(0, 1fr); column-gap: 12px; padding: 12px 14px 0; }
+  .home-content .skill-title { margin: 0; align-self: center; }
+  .home-content .tags { grid-column: 1 / -1; margin: 10px 0; }
+  .home-content .skill-card-bottom { grid-column: 1 / -1; }
+}
+@media(max-width:520px) {
+  .app-shell .home-content { padding: 12px; }
+  .app-shell .home-content .hero { padding: 16px; }
+  .home-content .hero h1 { font-size: 24px; }
+  .home-content .hero p { font-size: 12px; margin-bottom: 10px; }
+  .home-content .skills-section { padding-top: 12px; }
+  .home-content .skill-card { display: grid; grid-template-columns: 28px minmax(0, 1fr); gap: 0 8px; padding: 8px 10px 0; }
+  .home-content .skill-icon { width: 28px; height: 28px; }
+  .home-content .skill-title { display: flex; margin: 0; align-items: baseline; }
+  .home-content .skill-title h3 { font-size: 17px; }
+  .home-content .skill-title > span { font-size: 12px; }
+  .home-content .tags { grid-column: 1 / -1; margin: 5px 0; }
+  .home-content .tags > span { font-size: 10px; }
+  .home-content .skill-card-bottom { grid-column: 1 / -1; padding: 5px 0; font-size: 11px; }
+}

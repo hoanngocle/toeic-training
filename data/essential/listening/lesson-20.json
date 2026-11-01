@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/20 Inventory.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-20.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 20"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What information does the man want to verify?",
+      "choiceTexts": {
+        "A": "The size of the bedspreads.",
+        "B": "The number of bedspreads on hand.",
+        "C": "The reason for the discrepancy.",
+        "D": "The number of bedspreads the customer needs."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "According to the computer, how many bedspreads are there?",
+      "choiceTexts": {
+        "A": "Three.",
+        "B": "Five.",
+        "C": "Seven.",
+        "D": "Eleven."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "Where are the bedspreads?",
+      "choiceTexts": {
+        "A": "In a box.",
+        "B": "On a shelf.",
+        "C": "On the bed.",
+        "D": "In the stockroom."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What happens every year in January?",
+      "choiceTexts": {
+        "A": "They adjust the file drawers.",
+        "B": "They record the audio portion.",
+        "C": "They delete unnecessary computer files.",
+        "D": "They do a physical count."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What is one problem with their work?",
+      "choiceTexts": {
+        "A": "It consumes too much time.",
+        "B": "Nobody appreciates it.",
+        "C": "The hourly rate is low.",
+        "D": "It's boring."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "How many days does it take to complete the work?",
+      "choiceTexts": {
+        "A": "Two.",
+        "B": "Three.",
+        "C": "Four.",
+        "D": "Eight."
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/03 Warrenties.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-3.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 3"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "How long is the basic warranty effective?",
+      "choiceTexts": {
+        "A": "Thirty days.",
+        "B": "Sixty days.",
+        "C": "One year.",
+        "D": "Two years."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "What will happen if the woman uses an unapproved mechanic?",
+      "choiceTexts": {
+        "A": "There are no consequences.",
+        "B": "The warranty is no longer effective.",
+        "C": "Protection is decreased by 50%.",
+        "D": "She will have full coverage."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What does the woman decide to do?",
+      "choiceTexts": {
+        "A": "Take her car to an approved mechanic.",
+        "B": "Buy the extended warranty.",
+        "C": "Refuse the basic warranty.",
+        "D": "Buy a different car."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What is the point of the talk?",
+      "choiceTexts": {
+        "A": "Items under warranty must be fixed.",
+        "B": "If an item is misused, the warranty may be invalidated.",
+        "C": "Machines with unusual wear are difficult to repair.",
+        "D": "Customers often don't understand warranties."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "Who is the audience for this talk?",
+      "choiceTexts": {
+        "A": "A factory repairperson.",
+        "B": "A customer.",
+        "C": "Someone who rents machines.",
+        "D": "Buyers."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "How can a customer receive money back for a defective product?",
+      "choiceTexts": {
+        "A": "Follow the directions on the package.",
+        "B": "Return it to the place of purchase.",
+        "C": "Repackage it carefully.",
+        "D": "Return it within 30 days."
+      }
+    }
+  ]
+}

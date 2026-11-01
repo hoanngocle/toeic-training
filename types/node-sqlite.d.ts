@@ -2,7 +2,7 @@
 declare module 'node:sqlite' {
   type SQLValue = string | number | bigint | null | Uint8Array;
   export class DatabaseSync {
-    constructor(path: string);
+    constructor(path: string, options?: { readOnly?: boolean });
     exec(sql: string): void;
     prepare(sql: string): {
       run(...values: SQLValue[]): { changes: number | bigint; lastInsertRowid: number | bigint };

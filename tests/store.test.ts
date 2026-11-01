@@ -77,3 +77,16 @@ test('Malformed and out-of-range Essential Word slugs cannot mutate DB', () => {
   }
  } finally { store.close(); }
 });
+
+test('full tests earn eligibility but explicit wrong-answer retries never do', () => {
+ const store=new LearningStore(':memory:');
+ try {
+  const first=store.save(request,words);
+  assert.equal(first.fullTest,true);
+  const retry={...request,id:'retry-event-0001',retryOf:request.id,answers:[{wordId:1,direction:'en-vi',answer:'tiền mặt'}]};
+  assert.equal(store.save(retry,words).fullTest,false);
+  assert.equal(store.save(retry,words).fullTest,false);
+  assert.throws(()=>store.save({...retry,id:'retry-invalid-01',retryOf:'missing-parent-1'},words));
+  assert.throws(()=>store.save({...retry,id:'retry-invalid-02',answers:[{wordId:2,direction:'vi-en',answer:'broken'}]},words));
+ }finally{store.close();}
+});

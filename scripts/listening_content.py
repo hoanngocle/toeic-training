@@ -1,6 +1,7 @@
-"""Merge the reviewed CD2 listening data; runtime rendering needs no PDF/OCR.
+"""Merge the reviewed listening data for all 50 lessons; runtime rendering needs no PDF/OCR.
 
-Audio filenames follow lesson numbers (26–50), as supplied in 600_EWT_CD2.
+Lessons 1–25 use the supplied files in public/audio/600TOEIC.
+Lessons 26–50 retain their existing original audio paths.
 Photographs are standalone crops of the original Part 1 exercise images.
 """
 import json
@@ -11,10 +12,12 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def enrich_listening(lessons, directory=ROOT / 'data/essential/listening'):
     for lesson in lessons:
-        if lesson['number'] < 26:
-            continue
         content = json.loads((directory / f'lesson-{lesson["number"]}.json').read_text())
-        assert content['audioSrc'] == f'/essential/audio/track-{lesson["number"]}.mp3'
+        if lesson['number'] <= 25:
+            assert content['audioSrc'].startswith(f'/audio/600TOEIC/{lesson["number"]:02} ')
+            assert content['audioSrc'].endswith('.mp3')
+        else:
+            assert content['audioSrc'] == f'/essential/audio/track-{lesson["number"]}.mp3'
         assert (ROOT / 'public' / content['audioSrc'].lstrip('/')).is_file()
         assert (ROOT / 'public' / content['listeningImage']['src'].lstrip('/')).is_file()
         questions = {q['id']: q for q in content['questions']}
@@ -22,7 +25,7 @@ def enrich_listening(lessons, directory=ROOT / 'data/essential/listening'):
         for index, unit in enumerate(lesson['sections']['listening']['units']):
             unit['audioSrc'] = content['audioSrc']
             unit['pages'] = []
-            unit['note'] = 'Nghe bản thu gốc của bài; script và trang script gốc ở cuối để đối chiếu.'
+            unit.pop('note', None)
             if index == 0:
                 unit['listeningImage'] = content['listeningImage']
             for question in unit['questions']:
@@ -40,4 +43,4 @@ if __name__ == '__main__':
     path = ROOT / 'data/essential/book.json'
     lessons = enrich_listening(json.loads(path.read_text()))
     path.write_text(json.dumps(lessons, ensure_ascii=False, indent=2) + '\n')
-    print('Updated Listening lessons 26–50 with original audio and structured questions.')
+    print('Updated Listening lessons 1–50 with original audio and structured questions.')

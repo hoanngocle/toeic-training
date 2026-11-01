@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/16 Shopping.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-16.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 16"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What class is the man taking?",
+      "choiceTexts": {
+        "A": "Psychology.",
+        "B": "Sociology.",
+        "C": "Economics.",
+        "D": "Marketing."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "How much time did he spend watching consumers?",
+      "choiceTexts": {
+        "A": "Two weeks.",
+        "B": "Three weeks.",
+        "C": "Four weeks.",
+        "D": "Five weeks."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What did he learn about consumers' shopping habits?",
+      "choiceTexts": {
+        "A": "They hunt for bargains.",
+        "B": "They buy more during sales.",
+        "C": "Color is a key motivator in clothing selections.",
+        "D": "They feel comfortable with the brands they know."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What items are reduced in price?",
+      "choiceTexts": {
+        "A": "Scarves.",
+        "B": "Boots.",
+        "C": "Hats.",
+        "D": "Coats."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What kind of merchandise does the store carry?",
+      "choiceTexts": {
+        "A": "Winter sports equipment.",
+        "B": "Gift items.",
+        "C": "Clothing.",
+        "D": "Work uniforms."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "How many store visits are required to get a gift?",
+      "choiceTexts": {
+        "A": "Three.",
+        "B": "Four.",
+        "C": "Nine.",
+        "D": "Ten."
+      }
+    }
+  ]
+}

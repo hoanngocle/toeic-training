@@ -45,3 +45,18 @@ test('Writing accepts each listed meaning with its explanatory parentheses intac
   assert.equal(gradeAnswer(word, 'en-vi', 'tăng lên'), true);
   assert.equal(gradeAnswer(word, 'en-vi', 'nhiệt độ'), false);
 });
+
+test('Typing generates balanced questions without exposing choices, even for a small vocabulary', () => {
+  const words = lessons[0].words.slice(0, 2);
+  const questions = makeQuestions(words, undefined, 'typing');
+  assert.equal(questions.length, 2);
+  assert.equal(questions.filter(q => q.direction === 'en-vi').length, 1);
+  for (const question of questions) {
+    assert.deepEqual(question.choices, []);
+    const word = words.find((word: { id: number }) => word.id === question.wordId);
+    assert.equal(question.prompt, question.direction === 'en-vi' ? word.spokenText : word.meaning);
+  }
+  const retry = makeQuestions(words, [words[1].id], 'typing');
+  assert.deepEqual(retry.map(q => q.wordId), [words[1].id]);
+  assert.deepEqual(retry[0].choices, []);
+});

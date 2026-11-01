@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/21 Banking.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-21.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 21"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What does the man want to do?",
+      "choiceTexts": {
+        "A": "Open a bank account.",
+        "B": "Get a new driver's license.",
+        "C": "Put his signature on file.",
+        "D": "Cash a check."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "According to the woman, what is required?",
+      "choiceTexts": {
+        "A": "A photo ID.",
+        "B": "An order form.",
+        "C": "A large deposit.",
+        "D": "A signed check."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "When will the man's check clear?",
+      "choiceTexts": {
+        "A": "In seven days.",
+        "B": "In eight days.",
+        "C": "In ten days.",
+        "D": "In eleven days."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who is this talk for?",
+      "choiceTexts": {
+        "A": "People who are looking for a job.",
+        "B": "People who want to borrow money.",
+        "C": "People who work in a bank.",
+        "D": "People who want to open a bank account."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "How big a down payment is required?",
+      "choiceTexts": {
+        "A": "10 percent.",
+        "B": "3 percent.",
+        "C": "1 percent.",
+        "D": "4 percent."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What is a requirement?",
+      "choiceTexts": {
+        "A": "A new job.",
+        "B": "An important address.",
+        "C": "Money in the bank.",
+        "D": "An accountant."
+      }
+    }
+  ]
+}

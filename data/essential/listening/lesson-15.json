@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/15 Promotions, Pensions.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-15.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 15"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "Why will the ceremony be held?",
+      "choiceTexts": {
+        "A": "To honor Darrell.",
+        "B": "To boast about production figures.",
+        "C": "To celebrate the opening of a new office.",
+        "D": "To present awards."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "When will the ceremony be held?",
+      "choiceTexts": {
+        "A": "Today.",
+        "B": "Tuesday.",
+        "C": "Tonight.",
+        "D": "Tomorrow."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What is the speaker's opinion of Darrell?",
+      "choiceTexts": {
+        "A": "He is loyal.",
+        "B": "He is not productive.",
+        "C": "He is unimpressive.",
+        "D": "He is not a hard worker."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who is talking?",
+      "choiceTexts": {
+        "A": "Two employees.",
+        "B": "An award presenter.",
+        "C": "Community volunteers.",
+        "D": "A professor."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "Who is the audience?",
+      "choiceTexts": {
+        "A": "Students.",
+        "B": "Customers.",
+        "C": "Employees.",
+        "D": "Citizens."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "When did the company open?",
+      "choiceTexts": {
+        "A": "1965.",
+        "B": "1975.",
+        "C": "1985.",
+        "D": "1995."
+      }
+    }
+  ]
+}

@@ -6,7 +6,7 @@ import { shuffle } from '../../../lib/learning/practice';
 import type { Direction } from '../../../lib/learning/practice';
 import type { Progress } from '../../../lib/learning/types';
 import PronounceButton from '../pronounce-button';
-import { DirectionPicker, SaveNotice } from './shared';
+import { SaveNotice } from './shared';
 import { useRecord } from './use-record';
 
 export default function FlashCards({lesson,progress,onSaved}: {lesson:Lesson;progress:Progress[];onSaved:()=>void}) {
@@ -16,7 +16,7 @@ export default function FlashCards({lesson,progress,onSaved}: {lesson:Lesson;pro
   const [deck,setDeck]=useState(lesson.words);
   const [position,setPosition]=useState(0);
   const [flipped,setFlipped]=useState(false);
-  const [direction,setDirection]=useState<Direction>('en-vi');
+  const direction:Direction='en-vi';
   useEffect(()=>{
     function onKey(event:KeyboardEvent) {
       if(event.code!=='Space'||event.repeat||event.altKey||event.ctrlKey||event.metaKey||!root.current||root.current.closest('[hidden]'))return;
@@ -63,7 +63,6 @@ export default function FlashCards({lesson,progress,onSaved}: {lesson:Lesson;pro
     </div>
     </div>
     <div className="flash-controls">
-      <DirectionPicker value={direction} disabled={record.blocked} onChange={value=>{setDirection(value);setFlipped(false);setHint(false);}}/>
       <div className="flash-decisions"><button className="flash-rate flash-rateAgain" title="Cần ôn lại" aria-label="Cần ôn lại" disabled={record.blocked} onClick={()=>rate(false)}><XMarkIcon width={30} height={30}/></button><button className="flash-rate flash-rateKnown" title="Đã biết" aria-label="Đã biết" disabled={record.blocked} onClick={()=>rate(true)}><CheckIcon width={30} height={30}/></button></div>
       <button className="flash-iconButton" title="Đảo thứ tự" aria-label="Đảo thứ tự" disabled={record.blocked} onClick={()=>{setDeck(shuffle(deck));move(0);}}><ArrowsRightLeftIcon width={23} height={23}/></button>
     </div>

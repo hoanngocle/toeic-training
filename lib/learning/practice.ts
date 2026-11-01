@@ -1,3 +1,4 @@
+export type TestFormat = 'multiple-choice' | 'typing';
 export type Direction = 'en-vi' | 'vi-en';
 export type Word = { id: number; spokenText: string; meaning: string };
 export type Question = { wordId: number; direction: Direction; prompt: string; choices: string[] };
@@ -38,12 +39,13 @@ export function shuffle<T>(items: readonly T[]): T[] {
   }
   return result;
 }
-export function makeQuestions(words: Word[], retryIds?: number[]): Question[] {
+export function makeQuestions(words: Word[], retryIds?: number[], format: TestFormat = 'multiple-choice'): Question[] {
   const unique = words.filter((word, index) => words.findIndex(other => normalizeAnswer(other.spokenText) === normalizeAnswer(word.spokenText)) === index);
   const selected = retryIds ? words.filter(word => retryIds.includes(word.id)) : shuffle(unique).slice(0, 20);
   const directions = shuffle(selected.map((_, i): Direction => i % 2 === 0 ? 'en-vi' : 'vi-en'));
   return selected.map((word, i) => {
     const direction = directions[i];
+    if (format === 'typing') return { wordId: word.id, direction, prompt: direction === 'en-vi' ? word.spokenText : word.meaning, choices: [] };
     const label = (entry: Word) => direction === 'en-vi' ? entry.meaning : entry.spokenText;
     const aliases = meanings(word.meaning);
     const candidates = shuffle(words).filter(other => other.id !== word.id &&

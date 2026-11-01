@@ -1,8 +1,10 @@
 "use client";
+import { useRouter } from "next/navigation";
 import { useRef, useState } from 'react';
 import type { SaveRequest, Session } from '../../../lib/learning/types';
 
 export function useRecord(onComplete: (result: Session) => void, onSaved: () => void) {
+  const router = useRouter();
   const lock = useRef(false);
   const [saving, setSaving] = useState(false);
   const [failed, setFailed] = useState<SaveRequest | null>(null);
@@ -20,6 +22,7 @@ export function useRecord(onComplete: (result: Session) => void, onSaved: () => 
       setFailed(null);
       onComplete(result);
       onSaved();
+      router.refresh();
     } catch (error) {
       setFailed(payload);
       setError(error instanceof Error ? error.message : 'Chưa lưu được kết quả.');

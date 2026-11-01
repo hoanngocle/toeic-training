@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/06 Computers.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-6.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 6"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What happens when the man tries to access his e-mail?",
+      "choiceTexts": {
+        "A": "The computer shuts down.",
+        "B": "A warning appears on the screen.",
+        "C": "He hears a beeping noise.",
+        "D": "The screen turns black."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "What will the man do now?",
+      "choiceTexts": {
+        "A": "Turn off the computer.",
+        "B": "Get a new monitor.",
+        "C": "Use a different program.",
+        "D": "Wait some more time."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What does the woman suggest doing?",
+      "choiceTexts": {
+        "A": "Working harder.",
+        "B": "Taking the computer back to the store.",
+        "C": "Calling someone to fix the computer.",
+        "D": "Ignoring the problem."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What does the speaker suggest that listeners do?",
+      "choiceTexts": {
+        "A": "Buy his software.",
+        "B": "Read the manual.",
+        "C": "Figure out the program by tinkering with it.",
+        "D": "Consult the competitor's manual to check for compatibility."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What problems could users face?",
+      "choiceTexts": {
+        "A": "Their warranties could be invalidated.",
+        "B": "Their warning systems could malfunction.",
+        "C": "Their computers could shut down without warning.",
+        "D": "Their manuals could be inaccurate."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What does the speaker recommend doing with files?",
+      "choiceTexts": {
+        "A": "Reading them.",
+        "B": "Accessing them.",
+        "C": "Deleting them.",
+        "D": "Copying them."
+      }
+    }
+  ]
+}

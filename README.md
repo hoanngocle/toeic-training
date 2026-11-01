@@ -119,18 +119,12 @@ Lesson 8 Listening questions 5–6 are omitted from the printed key; A and D wer
 checked against the questions and transcript, with a note shown in the lesson.
 Lesson 29's last key row and several OCR words were checked against the scans.
 
-### Đăng nhập
+### Đăng nhập và tài khoản
 
-Ứng dụng yêu cầu đăng nhập trước khi xem trang học hoặc gọi API. Tài khoản ban đầu
-được cấu hình trong `.env.local` (không đưa vào Git). Khi triển khai, cung cấp đủ:
+Ứng dụng dùng Supabase Auth (email + mật khẩu) và PostgreSQL. Chỉ quản trị viên
+cấp tài khoản, khóa/mở khóa và đặt lại mật khẩu tại `/admin/users`. Đăng ký công
+khai phải được tắt trong Supabase. Tiến độ, lịch sử và thành tích tách theo từng người.
 
-- `AUTH_USERNAME`: tên đăng nhập.
-- `AUTH_PASSWORD_HASH`: giá trị `salt:hash`, với hash là scrypt 64 byte dạng hex.
-- `AUTH_SESSION_SECRET`: khóa ngẫu nhiên ít nhất 32 ký tự dùng để ký cookie.
-
-Phiên đăng nhập có hiệu lực 7 ngày. Cookie có HttpOnly, SameSite=Lax và Secure
-trong production, vì vậy production cần HTTPS. Nút Đăng xuất xóa cookie trên
-trình duyệt; đổi `AUTH_SESSION_SECRET` sẽ vô hiệu hóa tất cả phiên đang có.
-Giới hạn thử đăng nhập áp dụng theo tiến trình máy chủ (5 lần/phút), phù hợp với
-ứng dụng cá nhân một máy chủ; triển khai nhiều máy chủ cần bộ giới hạn dùng chung.
-Giữ cấu hình môi trường khi chuyển hoặc triển khai dự án.
+Xem [hướng dẫn thiết lập Supabase](docs/supabase-setup.md) để chạy migration,
+tạo admin đầu tiên, cấu hình `.env.local`/Vercel và nhập dữ liệu SQLite cũ.
+Mẫu biến môi trường: [`.env.example`](.env.example). Tài khoản không còn lưu trong env.

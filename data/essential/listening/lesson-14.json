@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/14 Salaries And Benefits.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-14.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 14"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "Why is the man disappointed?",
+      "choiceTexts": {
+        "A": "His health coverage is poor.",
+        "B": "He asked for too much compensation.",
+        "C": "He doesn't know how to negotiate.",
+        "D": "He doesn't earn enough money."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "How long has he been working at the company?",
+      "choiceTexts": {
+        "A": "Two months.",
+        "B": "Four months.",
+        "C": "Six months.",
+        "D": "Nine months."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What benefit does he get?",
+      "choiceTexts": {
+        "A": "Life insurance.",
+        "B": "Health insurance.",
+        "C": "Paid vacation.",
+        "D": "Regular raises."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "How often are raises given?",
+      "choiceTexts": {
+        "A": "Once a year.",
+        "B": "Twice a year.",
+        "C": "At an employee's request.",
+        "D": "Whenever an employee is eligible for a raise."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "Where should employees go to learn more about wage increases?",
+      "choiceTexts": {
+        "A": "The Employee Handbook.",
+        "B": "Their paycheck stubs.",
+        "C": "Their contract.",
+        "D": "Their supervisor."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "How many days of paid vacation does each employee get?",
+      "choiceTexts": {
+        "A": "Five.",
+        "B": "Ten.",
+        "C": "Fourteen.",
+        "D": "Forty-two."
+      }
+    }
+  ]
+}

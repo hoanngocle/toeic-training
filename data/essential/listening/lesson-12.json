@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/12 Apply And Interview.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-12.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 12"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What do people think about the woman now?",
+      "choiceTexts": {
+        "A": "She has no confidence.",
+        "B": "She is an expert.",
+        "C": "She is a beginner at networking.",
+        "D": "Her computer skills are weak."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "What was the woman hesitant to do?",
+      "choiceTexts": {
+        "A": "Apply for a job.",
+        "B": "Use a computer.",
+        "C": "Give a presentation.",
+        "D": "Go to a job interview."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What does the man want the woman to do?",
+      "choiceTexts": {
+        "A": "Help him with a workshop.",
+        "B": "Speak at a conference.",
+        "C": "Give him some change.",
+        "D": "Hire him."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who would call in to this hotline?",
+      "choiceTexts": {
+        "A": "An expert in Salvo's product line.",
+        "B": "An employer.",
+        "C": "A human resources presenter.",
+        "D": "A job seeker."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What is the purpose of this recording?",
+      "choiceTexts": {
+        "A": "To inform callers about Salvo.",
+        "B": "To explain to callers what they can do.",
+        "C": "To present the company's philosophy.",
+        "D": "To give background information about a product problem."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What kind of people is Salvo currently looking for?",
+      "choiceTexts": {
+        "A": "Fashion designers.",
+        "B": "Foreign language speakers.",
+        "C": "Human resource experts.",
+        "D": "Software users."
+      }
+    }
+  ]
+}

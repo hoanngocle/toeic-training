@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/25 Financial Statements.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-25.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 25"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What is the woman doing?",
+      "choiceTexts": {
+        "A": "Developing a project report.",
+        "B": "Preparing a financial statement.",
+        "C": "Making a weather forecast.",
+        "D": "Writing an expense report."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "When does she want to have this finished?",
+      "choiceTexts": {
+        "A": "By noon.",
+        "B": "Before 8:00.",
+        "C": "By the end of the week.",
+        "D": "Before the end of the year."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What does the man offer to do?",
+      "choiceTexts": {
+        "A": "Write a check.",
+        "B": "Sign a statement.",
+        "C": "Solve her financial problems.",
+        "D": "Correct her calculations."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who is this talk directed at?",
+      "choiceTexts": {
+        "A": "Large companies.",
+        "B": "Financial advisors.",
+        "C": "Small business owners.",
+        "D": "Finance companies."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "When does a business typically become profitable?",
+      "choiceTexts": {
+        "A": "During the first five years.",
+        "B": "During the first year.",
+        "C": "After five years.",
+        "D": "After two years."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "According to the speaker, what is the first step to take when starting a small business?",
+      "choiceTexts": {
+        "A": "Get an office with a key.",
+        "B": "Write a financial statement.",
+        "C": "Raise start-up funds.",
+        "D": "Hire a project manager."
+      }
+    }
+  ]
+}

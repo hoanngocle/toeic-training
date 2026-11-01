@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/23 Investments.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-23.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 23"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What does the man recommend?",
+      "choiceTexts": {
+        "A": "Investing mainly in natural resources.",
+        "B": "Investing in various industries.",
+        "C": "Investing aggressively.",
+        "D": "Investing in the basket industry."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "How much money has the man made through his investments?",
+      "choiceTexts": {
+        "A": "One million dollars.",
+        "B": "Two million dollars.",
+        "C": "Five million dollars.",
+        "D": "Ten million dollars."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What will the woman do?",
+      "choiceTexts": {
+        "A": "Take her money out of the stock market.",
+        "B": "Hire an investment advisor.",
+        "C": "Start a marketing business.",
+        "D": "Follow the man's investment strategy."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What is this talk about?",
+      "choiceTexts": {
+        "A": "How to invest in the stock market.",
+        "B": "How to choose a good college.",
+        "C": "How to choose investments.",
+        "D": "How to save money for college."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "When should parents start saving money for college?",
+      "choiceTexts": {
+        "A": "Two or three years from now.",
+        "B": "When their children are small.",
+        "C": "After they have had two or three children.",
+        "D": "When their children are in high school."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "How often should parents put money in the stock market?",
+      "choiceTexts": {
+        "A": "Every month.",
+        "B": "Every two or three months.",
+        "C": "Every year.",
+        "D": "Every two or three years."
+      }
+    }
+  ]
+}

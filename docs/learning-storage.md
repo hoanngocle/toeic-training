@@ -1,3 +1,5 @@
+> Cập nhật 02/11/2026: runtime tài khoản hiện dùng Supabase; nội dung SQLite dưới đây mô tả kho dữ liệu cũ. EXP/level/cảnh giới dùng PostgreSQL, xem [hướng dẫn progression](progression.md).
+
 # Personal learning data
 
 Run this app with Node.js 24 or newer. No account or database service is required.

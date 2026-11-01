@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/08 Office Procedure.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-8.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 8"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What will the woman tell the man about?",
+      "choiceTexts": {
+        "A": "Hiring policies.",
+        "B": "Company practices.",
+        "C": "How to make a schedule.",
+        "D": "The employee's communication problems."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "What problem has the man had?",
+      "choiceTexts": {
+        "A": "No one can explain things to him clearly.",
+        "B": "He never has time for anything.",
+        "C": "No one has time to talk to him.",
+        "D": "He isn't familiar with his coworkers."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "How does the woman suggest he reinforce their discussion?",
+      "choiceTexts": {
+        "A": "By talking to other employees.",
+        "B": "By practicing what he hears.",
+        "C": "By reviewing the schedule.",
+        "D": "By looking at the handbook."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who is the speaker?",
+      "choiceTexts": {
+        "A": "A software trainer.",
+        "B": "A hardware salesman.",
+        "C": "A new computer owner.",
+        "D": "A scientist from R&D."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What will they do today?",
+      "choiceTexts": {
+        "A": "Choose new software.",
+        "B": "Review their computer skills.",
+        "C": "Hire a specialist.",
+        "D": "Take apart the CPU."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What will they do after the speaker finishes?",
+      "choiceTexts": {
+        "A": "Spend a lot of time practicing.",
+        "B": "Watch a television program.",
+        "C": "Have lunch.",
+        "D": "Attend a board meeting."
+      }
+    }
+  ]
+}

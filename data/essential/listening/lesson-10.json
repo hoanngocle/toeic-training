@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/10 Correspondence.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-10.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 10"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "When will the meeting take place?",
+      "choiceTexts": {
+        "A": "This afternoon.",
+        "B": "Tomorrow.",
+        "C": "In two days.",
+        "D": "On Tuesday."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "Why won't the woman help assemble the documents?",
+      "choiceTexts": {
+        "A": "She's in a meeting.",
+        "B": "She hurt her hand.",
+        "C": "She's too busy.",
+        "D": "She needs to revise them first."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What does the woman suggest that the man do?",
+      "choiceTexts": {
+        "A": "Finish the work before the afternoon.",
+        "B": "Do the work himself.",
+        "C": "Ask another person for help.",
+        "D": "Remember to fold all the documents."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Where would you hear this talk?",
+      "choiceTexts": {
+        "A": "A post office.",
+        "B": "A grocery store.",
+        "C": "A restaurant.",
+        "D": "An assembly line."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What is the purpose of this talk?",
+      "choiceTexts": {
+        "A": "To sell merchandise.",
+        "B": "To inform customers of a new service.",
+        "C": "To warn workers.",
+        "D": "To recognize a new employee."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What time does the Courier Center close?",
+      "choiceTexts": {
+        "A": "2:00 P.M.",
+        "B": "4:00 P.M.",
+        "C": "6:00 P.M.",
+        "D": "8:00 P.M."
+      }
+    }
+  ]
+}

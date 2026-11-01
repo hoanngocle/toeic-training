@@ -1,0 +1,58 @@
+.progression-card { display:flex; align-items:center; gap:24px; padding:24px; margin:0 0 28px; border:1px solid var(--line); border-radius:16px; background:var(--panel); color:var(--text); }
+.progression-level { display:flex; flex-direction:column; align-items:center; justify-content:center; flex-shrink:0; width:84px; height:84px; border-radius:50%; border:1px solid var(--line); background:var(--hero); color:var(--accent); }
+.progression-level span, .progression-eyebrow { font-size:10px; letter-spacing:.14em; font-weight:700; color:var(--muted); }
+.progression-level strong { font-size:32px; line-height:1.15; }
+.progression-content { flex:1; min-width:0; }
+.progression-title { display:flex; align-items:baseline; flex-wrap:wrap; gap:8px 12px; margin:6px 0 14px; }
+.progression-card h2 { font-size:22px; margin:0; font-weight:650; }
+.progression-card p, .progression-title>span { color:var(--muted); font-size:14px; }
+.progression-track { height:8px; overflow:hidden; border-radius:10px; background:var(--hero); }
+.progression-track>span { display:block; height:100%; border-radius:inherit; background:var(--accent); }
+.progression-meta { display:flex; justify-content:space-between; flex-wrap:wrap; gap:4px 12px; margin-top:9px; color:var(--muted); font-size:12px; }
+.progression-reward { display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:6px 12px; padding:10px 14px; margin:12px 0; border:1px solid var(--line); border-radius:10px; background:var(--success-bg); color:var(--success); font-size:14px; }
+@media(max-width:520px) { .progression-card { padding:18px 14px; gap:14px; }.progression-level { width:62px; height:62px; }.progression-level strong { font-size:26px; }.progression-card h2 { font-size:19px; }.progression-title>span { font-size:12px; } }
+
+/* Home keeps realm identity and the next learning milestone on one compact card. */
+.home-progression { display:grid; grid-template-columns:minmax(220px,1fr) minmax(280px,1.25fr); align-items:center; gap:28px; padding:22px 26px; margin:18px 0 6px; background:var(--panel); border:1px solid var(--line); border-radius:16px; color:var(--text); }
+.home-progression-identity { display:flex; align-items:center; gap:14px; min-width:0; }
+.home-progression-seal { display:grid; place-items:center; flex-shrink:0; width:52px; height:52px; border-radius:16px; background:var(--hero); color:var(--accent); border:1px solid var(--line); }
+.home-progression-realm { display:flex; flex-wrap:wrap; align-items:center; gap:6px 10px; margin-top:5px; }
+.home-progression-realm h2 { margin:0; font-size:22px; font-weight:650; letter-spacing:-.03em; }
+.home-progression-realm>span { padding:3px 8px; background:var(--hero); color:var(--accent); border-radius:6px; font-size:11px; font-weight:600; white-space:nowrap; }
+.home-progression-experience { min-width:0; }
+.home-progression-topline, .home-progression-bottomline { display:flex; justify-content:space-between; flex-wrap:wrap; align-items:baseline; gap:5px 12px; }
+.home-progression-topline { margin-bottom:9px; color:var(--muted); font-size:12px; }
+.home-progression-topline strong { color:var(--text); font-weight:650; }
+.home-progression-level { color:var(--text); font-size:13px; }
+.home-progression-level strong { font-size:18px; margin-left:3px; }
+.home-progression .progression-track { height:10px; background:var(--hero); box-shadow:inset 0 0 0 1px var(--line); }
+.home-progression .progression-track>span { background:linear-gradient(90deg,var(--primary),var(--accent)); min-width:0; }
+.home-progression-bottomline { margin-top:9px; font-size:11px; color:var(--muted); }
+
+html:has(.reward-dialog[open]) { overflow:hidden; }
+.reward-dialog { box-sizing:border-box; margin:auto; width:calc(100% - 32px); max-width:410px; max-height:calc(100dvh - 40px); overflow-y:auto; padding:32px; border:1px solid var(--line); border-radius:24px; background:var(--panel); color:var(--text); box-shadow:0 24px 80px #0003; text-align:center; }
+.reward-dialog::backdrop { background:rgb(17 29 20 / .5); backdrop-filter:blur(5px); }
+.reward-dialog[open] { animation:reward-appear .22s ease-out; }
+.reward-dialog-close { display:grid; place-items:center; position:absolute; top:14px; right:14px; width:32px; height:32px; padding:0; border:0; border-radius:50%; background:transparent; color:var(--muted); cursor:pointer; }
+.reward-dialog-close:hover { background:var(--hero); color:var(--text); }
+.reward-dialog-emblem { display:grid; place-items:center; width:70px; height:70px; margin:0 auto 20px; border:1px solid var(--line); border-radius:22px; color:var(--accent); background:var(--hero); transform:rotate(-6deg); }
+.reward-dialog-emblem svg { transform:rotate(6deg); }
+.reward-dialog .reward-dialog-eyebrow { margin:0 0 10px; font-size:10px; font-weight:700; letter-spacing:.15em; color:var(--muted); }
+.reward-dialog h2 { margin:0; font-size:25px; line-height:1.2; font-weight:650; letter-spacing:-.035em; }
+.reward-dialog .reward-dialog-description { margin:10px 0 0; font-size:13px; line-height:1.6; color:var(--muted); }
+.reward-dialog-amount { display:flex; align-items:baseline; justify-content:center; gap:8px; padding:22px 0; color:var(--accent); }
+.reward-dialog-amount strong { font-size:56px; font-weight:650; line-height:1; letter-spacing:-.05em; }
+.reward-dialog-amount>span { font-size:15px; font-weight:650; }
+.reward-dialog-progress { background:var(--bg); border:1px solid var(--line); border-radius:12px; padding:14px 16px; text-align:left; margin-bottom:22px; }
+.reward-dialog-levels { display:flex; align-items:center; gap:8px; color:var(--muted); font-size:12px; }
+.reward-dialog-levels strong { color:var(--accent); margin-left:auto; font-weight:650; }
+.reward-dialog .reward-dialog-progress p { margin:7px 0 12px; color:var(--text); font-size:14px; font-weight:600; }
+.reward-dialog-progress p span { color:var(--muted); font-weight:400; font-size:12px; }
+.reward-dialog-progress small { display:block; margin-top:8px; color:var(--muted); font-size:11px; }
+.reward-dialog-continue { display:flex; justify-content:center; align-items:center; gap:10px; width:100%; padding:12px 18px; background:var(--primary); color:var(--on-primary); border:0; border-radius:10px; font-size:14px; font-weight:600; cursor:pointer; }
+.reward-dialog-continue:hover { background:var(--primary-hover); }
+.reward-dialog button:focus-visible { outline:2px solid var(--accent); outline-offset:3px; }
+@keyframes reward-appear { from { opacity:0; transform:translateY(10px) scale(.97); } to { opacity:1; transform:translateY(0) scale(1); } }
+@media(prefers-reduced-motion:reduce) { .reward-dialog[open] { animation:none; } }
+@media(max-width:700px) { .home-progression { grid-template-columns:1fr; gap:18px; padding:20px; }.home-progression-experience { border-top:1px solid var(--line); padding-top:13px; } }
+@media(max-width:520px) { .home-progression { margin:12px 0 4px; padding:16px; border-radius:12px; }.home-progression-realm h2 { font-size:21px; }.home-progression-bottomline { font-size:10px; }.reward-dialog { padding:28px 22px 22px; }.reward-dialog h2 { font-size:23px; } }

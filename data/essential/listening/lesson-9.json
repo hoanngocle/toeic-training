@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/09 Electronics.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-9.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 9"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "Why can't the woman retrieve her file?",
+      "choiceTexts": {
+        "A": "She doesn't know how.",
+        "B": "She forgot its name.",
+        "C": "It was accidentally deleted.",
+        "D": "She can't remember where it's stored."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "Why does she need the file?",
+      "choiceTexts": {
+        "A": "To do her accounts.",
+        "B": "To report the news.",
+        "C": "To finish her proposal.",
+        "D": "To get information about a store."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What does the man suggest the woman should do?",
+      "choiceTexts": {
+        "A": "Figure it out herself.",
+        "B": "Let him help her.",
+        "C": "Improve her skills.",
+        "D": "Get help from the IT department."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What is the speaker's opinion of the process of downloading software?",
+      "choiceTexts": {
+        "A": "Anyone can do it.",
+        "B": "It requires technical skills.",
+        "C": "It's easiest if you download from a remote server.",
+        "D": "It's time-consuming."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "Who is the intended audience for this talk?",
+      "choiceTexts": {
+        "A": "Computer technicians.",
+        "B": "Network managers.",
+        "C": "New computer users.",
+        "D": "Software writers."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What will the listeners do next?",
+      "choiceTexts": {
+        "A": "Look at a chart.",
+        "B": "Turn on their computers.",
+        "C": "Connect to the Internet.",
+        "D": "Type a web address."
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/11 Job Ads And Recruiting.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-11.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 11"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What has the woman been doing lately?",
+      "choiceTexts": {
+        "A": "Fixing her drain.",
+        "B": "Earning money.",
+        "C": "Looking for matches.",
+        "D": "Searching for a job."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "How long has she been doing this?",
+      "choiceTexts": {
+        "A": "Two months.",
+        "B": "Four months.",
+        "C": "Five months.",
+        "D": "Nine months."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What did she do yesterday?",
+      "choiceTexts": {
+        "A": "She had an interview.",
+        "B": "She read a review.",
+        "C": "She helped someone.",
+        "D": "She accepted a new position."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "What should the résumé include?",
+      "choiceTexts": {
+        "A": "Your major in college.",
+        "B": "Your grade point average.",
+        "C": "A current reference.",
+        "D": "A list of concrete achievements."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What is the employer looking for?",
+      "choiceTexts": {
+        "A": "Employees with long-term career plans.",
+        "B": "People to fill positions immediately.",
+        "C": "Aggressive marketers.",
+        "D": "People willing to accept minimum wage."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "Who should apply for a position now?",
+      "choiceTexts": {
+        "A": "Accountants.",
+        "B": "Recruiters.",
+        "C": "School teachers.",
+        "D": "Apartment managers."
+      }
+    }
+  ]
+}

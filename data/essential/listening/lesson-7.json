@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/07 Office Tech.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-7.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 7"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "What is required for all new purchases?",
+      "choiceTexts": {
+        "A": "A receipt.",
+        "B": "A charge card.",
+        "C": "Up-front payment.",
+        "D": "Approval."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "What is the purpose of this requirement?",
+      "choiceTexts": {
+        "A": "To avoid delays.",
+        "B": "To help save money.",
+        "C": "To make purchasing a top priority.",
+        "D": "To reduce steps in the ordering process."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "What is the woman's opinion of this requirement?",
+      "choiceTexts": {
+        "A": "It's annoying.",
+        "B": "It's enjoyable.",
+        "C": "It's a good idea.",
+        "D": "It's boring."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Why don't they order units on an as-needed basis?",
+      "choiceTexts": {
+        "A": "They're more expensive.",
+        "B": "The provider won't take individual orders.",
+        "C": "Delivery time is too long.",
+        "D": "Nobody takes the initiative to place the order."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What kind of provider could help them?",
+      "choiceTexts": {
+        "A": "A less pushy provider.",
+        "B": "A more aggressive provider.",
+        "C": "One with better prices.",
+        "D": "One with a web site."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "What does the speaker like about the suggested company's products?",
+      "choiceTexts": {
+        "A": "The durability.",
+        "B": "The quality.",
+        "C": "The price.",
+        "D": "The size."
+      }
+    }
+  ]
+}

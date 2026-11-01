@@ -1,0 +1,2428 @@
+{
+  "version": "toeic-level-realms-v1",
+  "sourceVersion": "nova-core-v2.2",
+  "levels": [
+    {
+      "level": 1,
+      "cumulative_exp": 0,
+      "exp_to_next_level": 281,
+      "realm_key": "mortal",
+      "realm_phase": "cultivation",
+      "stage_key": null,
+      "stage_index": null,
+      "stage_count": 1
+    },
+    {
+      "level": 2,
+      "cumulative_exp": 281,
+      "exp_to_next_level": 388,
+      "realm_key": "qi_refining",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_01",
+      "stage_index": 1,
+      "stage_count": 9
+    },
+    {
+      "level": 3,
+      "cumulative_exp": 669,
+      "exp_to_next_level": 441,
+      "realm_key": "qi_refining",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_02",
+      "stage_index": 2,
+      "stage_count": 9
+    },
+    {
+      "level": 4,
+      "cumulative_exp": 1110,
+      "exp_to_next_level": 481,
+      "realm_key": "qi_refining",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_03",
+      "stage_index": 3,
+      "stage_count": 9
+    },
+    {
+      "level": 5,
+      "cumulative_exp": 1591,
+      "exp_to_next_level": 511,
+      "realm_key": "qi_refining",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_04",
+      "stage_index": 4,
+      "stage_count": 9
+    },
+    {
+      "level": 6,
+      "cumulative_exp": 2102,
+      "exp_to_next_level": 538,
+      "realm_key": "qi_refining",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_05",
+      "stage_index": 5,
+      "stage_count": 9
+    },
+    {
+      "level": 7,
+      "cumulative_exp": 2640,
+      "exp_to_next_level": 561,
+      "realm_key": "qi_refining",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_06",
+      "stage_index": 6,
+      "stage_count": 9
+    },
+    {
+      "level": 8,
+      "cumulative_exp": 3201,
+      "exp_to_next_level": 582,
+      "realm_key": "qi_refining",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_07",
+      "stage_index": 7,
+      "stage_count": 9
+    },
+    {
+      "level": 9,
+      "cumulative_exp": 3783,
+      "exp_to_next_level": 600,
+      "realm_key": "qi_refining",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_08",
+      "stage_index": 8,
+      "stage_count": 9
+    },
+    {
+      "level": 10,
+      "cumulative_exp": 4383,
+      "exp_to_next_level": 617,
+      "realm_key": "qi_refining",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_09",
+      "stage_index": 9,
+      "stage_count": 9
+    },
+    {
+      "level": 11,
+      "cumulative_exp": 5000,
+      "exp_to_next_level": 167,
+      "realm_key": "foundation_establishment",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_01",
+      "stage_index": 1,
+      "stage_count": 9
+    },
+    {
+      "level": 12,
+      "cumulative_exp": 5167,
+      "exp_to_next_level": 318,
+      "realm_key": "foundation_establishment",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_02",
+      "stage_index": 2,
+      "stage_count": 9
+    },
+    {
+      "level": 13,
+      "cumulative_exp": 5485,
+      "exp_to_next_level": 422,
+      "realm_key": "foundation_establishment",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_03",
+      "stage_index": 3,
+      "stage_count": 9
+    },
+    {
+      "level": 14,
+      "cumulative_exp": 5907,
+      "exp_to_next_level": 505,
+      "realm_key": "foundation_establishment",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_04",
+      "stage_index": 4,
+      "stage_count": 9
+    },
+    {
+      "level": 15,
+      "cumulative_exp": 6412,
+      "exp_to_next_level": 579,
+      "realm_key": "foundation_establishment",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_05",
+      "stage_index": 5,
+      "stage_count": 9
+    },
+    {
+      "level": 16,
+      "cumulative_exp": 6991,
+      "exp_to_next_level": 645,
+      "realm_key": "foundation_establishment",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_06",
+      "stage_index": 6,
+      "stage_count": 9
+    },
+    {
+      "level": 17,
+      "cumulative_exp": 7636,
+      "exp_to_next_level": 706,
+      "realm_key": "foundation_establishment",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_07",
+      "stage_index": 7,
+      "stage_count": 9
+    },
+    {
+      "level": 18,
+      "cumulative_exp": 8342,
+      "exp_to_next_level": 763,
+      "realm_key": "foundation_establishment",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_08",
+      "stage_index": 8,
+      "stage_count": 9
+    },
+    {
+      "level": 19,
+      "cumulative_exp": 9105,
+      "exp_to_next_level": 817,
+      "realm_key": "foundation_establishment",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_09",
+      "stage_index": 9,
+      "stage_count": 9
+    },
+    {
+      "level": 20,
+      "cumulative_exp": 9922,
+      "exp_to_next_level": 867,
+      "realm_key": "golden_core",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_01",
+      "stage_index": 1,
+      "stage_count": 9
+    },
+    {
+      "level": 21,
+      "cumulative_exp": 10789,
+      "exp_to_next_level": 915,
+      "realm_key": "golden_core",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_02",
+      "stage_index": 2,
+      "stage_count": 9
+    },
+    {
+      "level": 22,
+      "cumulative_exp": 11704,
+      "exp_to_next_level": 962,
+      "realm_key": "golden_core",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_03",
+      "stage_index": 3,
+      "stage_count": 9
+    },
+    {
+      "level": 23,
+      "cumulative_exp": 12666,
+      "exp_to_next_level": 1005,
+      "realm_key": "golden_core",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_04",
+      "stage_index": 4,
+      "stage_count": 9
+    },
+    {
+      "level": 24,
+      "cumulative_exp": 13671,
+      "exp_to_next_level": 1048,
+      "realm_key": "golden_core",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_05",
+      "stage_index": 5,
+      "stage_count": 9
+    },
+    {
+      "level": 25,
+      "cumulative_exp": 14719,
+      "exp_to_next_level": 1090,
+      "realm_key": "golden_core",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_06",
+      "stage_index": 6,
+      "stage_count": 9
+    },
+    {
+      "level": 26,
+      "cumulative_exp": 15809,
+      "exp_to_next_level": 1129,
+      "realm_key": "golden_core",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_07",
+      "stage_index": 7,
+      "stage_count": 9
+    },
+    {
+      "level": 27,
+      "cumulative_exp": 16938,
+      "exp_to_next_level": 1169,
+      "realm_key": "golden_core",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_08",
+      "stage_index": 8,
+      "stage_count": 9
+    },
+    {
+      "level": 28,
+      "cumulative_exp": 18107,
+      "exp_to_next_level": 1206,
+      "realm_key": "golden_core",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_09",
+      "stage_index": 9,
+      "stage_count": 9
+    },
+    {
+      "level": 29,
+      "cumulative_exp": 19313,
+      "exp_to_next_level": 1242,
+      "realm_key": "nascent_soul",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_01",
+      "stage_index": 1,
+      "stage_count": 9
+    },
+    {
+      "level": 30,
+      "cumulative_exp": 20555,
+      "exp_to_next_level": 1279,
+      "realm_key": "nascent_soul",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_02",
+      "stage_index": 2,
+      "stage_count": 9
+    },
+    {
+      "level": 31,
+      "cumulative_exp": 21834,
+      "exp_to_next_level": 1314,
+      "realm_key": "nascent_soul",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_03",
+      "stage_index": 3,
+      "stage_count": 9
+    },
+    {
+      "level": 32,
+      "cumulative_exp": 23148,
+      "exp_to_next_level": 1347,
+      "realm_key": "nascent_soul",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_04",
+      "stage_index": 4,
+      "stage_count": 9
+    },
+    {
+      "level": 33,
+      "cumulative_exp": 24495,
+      "exp_to_next_level": 1382,
+      "realm_key": "nascent_soul",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_05",
+      "stage_index": 5,
+      "stage_count": 9
+    },
+    {
+      "level": 34,
+      "cumulative_exp": 25877,
+      "exp_to_next_level": 1414,
+      "realm_key": "nascent_soul",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_06",
+      "stage_index": 6,
+      "stage_count": 9
+    },
+    {
+      "level": 35,
+      "cumulative_exp": 27291,
+      "exp_to_next_level": 1446,
+      "realm_key": "nascent_soul",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_07",
+      "stage_index": 7,
+      "stage_count": 9
+    },
+    {
+      "level": 36,
+      "cumulative_exp": 28737,
+      "exp_to_next_level": 1478,
+      "realm_key": "nascent_soul",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_08",
+      "stage_index": 8,
+      "stage_count": 9
+    },
+    {
+      "level": 37,
+      "cumulative_exp": 30215,
+      "exp_to_next_level": 1509,
+      "realm_key": "nascent_soul",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_09",
+      "stage_index": 9,
+      "stage_count": 9
+    },
+    {
+      "level": 38,
+      "cumulative_exp": 31724,
+      "exp_to_next_level": 1540,
+      "realm_key": "spirit_transformation",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_01",
+      "stage_index": 1,
+      "stage_count": 9
+    },
+    {
+      "level": 39,
+      "cumulative_exp": 33264,
+      "exp_to_next_level": 1569,
+      "realm_key": "spirit_transformation",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_02",
+      "stage_index": 2,
+      "stage_count": 9
+    },
+    {
+      "level": 40,
+      "cumulative_exp": 34833,
+      "exp_to_next_level": 1599,
+      "realm_key": "spirit_transformation",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_03",
+      "stage_index": 3,
+      "stage_count": 9
+    },
+    {
+      "level": 41,
+      "cumulative_exp": 36432,
+      "exp_to_next_level": 1628,
+      "realm_key": "spirit_transformation",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_04",
+      "stage_index": 4,
+      "stage_count": 9
+    },
+    {
+      "level": 42,
+      "cumulative_exp": 38060,
+      "exp_to_next_level": 1656,
+      "realm_key": "spirit_transformation",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_05",
+      "stage_index": 5,
+      "stage_count": 9
+    },
+    {
+      "level": 43,
+      "cumulative_exp": 39716,
+      "exp_to_next_level": 1685,
+      "realm_key": "spirit_transformation",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_06",
+      "stage_index": 6,
+      "stage_count": 9
+    },
+    {
+      "level": 44,
+      "cumulative_exp": 41401,
+      "exp_to_next_level": 1713,
+      "realm_key": "spirit_transformation",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_07",
+      "stage_index": 7,
+      "stage_count": 9
+    },
+    {
+      "level": 45,
+      "cumulative_exp": 43114,
+      "exp_to_next_level": 1740,
+      "realm_key": "spirit_transformation",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_08",
+      "stage_index": 8,
+      "stage_count": 9
+    },
+    {
+      "level": 46,
+      "cumulative_exp": 44854,
+      "exp_to_next_level": 1767,
+      "realm_key": "spirit_transformation",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_09",
+      "stage_index": 9,
+      "stage_count": 9
+    },
+    {
+      "level": 47,
+      "cumulative_exp": 46621,
+      "exp_to_next_level": 1793,
+      "realm_key": "void_refinement",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_01",
+      "stage_index": 1,
+      "stage_count": 9
+    },
+    {
+      "level": 48,
+      "cumulative_exp": 48414,
+      "exp_to_next_level": 1820,
+      "realm_key": "void_refinement",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_02",
+      "stage_index": 2,
+      "stage_count": 9
+    },
+    {
+      "level": 49,
+      "cumulative_exp": 50234,
+      "exp_to_next_level": 1847,
+      "realm_key": "void_refinement",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_03",
+      "stage_index": 3,
+      "stage_count": 9
+    },
+    {
+      "level": 50,
+      "cumulative_exp": 52081,
+      "exp_to_next_level": 1872,
+      "realm_key": "void_refinement",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_04",
+      "stage_index": 4,
+      "stage_count": 9
+    },
+    {
+      "level": 51,
+      "cumulative_exp": 53953,
+      "exp_to_next_level": 1897,
+      "realm_key": "void_refinement",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_05",
+      "stage_index": 5,
+      "stage_count": 9
+    },
+    {
+      "level": 52,
+      "cumulative_exp": 55850,
+      "exp_to_next_level": 1922,
+      "realm_key": "void_refinement",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_06",
+      "stage_index": 6,
+      "stage_count": 9
+    },
+    {
+      "level": 53,
+      "cumulative_exp": 57772,
+      "exp_to_next_level": 1948,
+      "realm_key": "void_refinement",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_07",
+      "stage_index": 7,
+      "stage_count": 9
+    },
+    {
+      "level": 54,
+      "cumulative_exp": 59720,
+      "exp_to_next_level": 1972,
+      "realm_key": "void_refinement",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_08",
+      "stage_index": 8,
+      "stage_count": 9
+    },
+    {
+      "level": 55,
+      "cumulative_exp": 61692,
+      "exp_to_next_level": 1996,
+      "realm_key": "void_refinement",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_09",
+      "stage_index": 9,
+      "stage_count": 9
+    },
+    {
+      "level": 56,
+      "cumulative_exp": 63688,
+      "exp_to_next_level": 2021,
+      "realm_key": "body_integration",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_01",
+      "stage_index": 1,
+      "stage_count": 9
+    },
+    {
+      "level": 57,
+      "cumulative_exp": 65709,
+      "exp_to_next_level": 2044,
+      "realm_key": "body_integration",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_02",
+      "stage_index": 2,
+      "stage_count": 9
+    },
+    {
+      "level": 58,
+      "cumulative_exp": 67753,
+      "exp_to_next_level": 2068,
+      "realm_key": "body_integration",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_03",
+      "stage_index": 3,
+      "stage_count": 9
+    },
+    {
+      "level": 59,
+      "cumulative_exp": 69821,
+      "exp_to_next_level": 2091,
+      "realm_key": "body_integration",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_04",
+      "stage_index": 4,
+      "stage_count": 9
+    },
+    {
+      "level": 60,
+      "cumulative_exp": 71912,
+      "exp_to_next_level": 2115,
+      "realm_key": "body_integration",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_05",
+      "stage_index": 5,
+      "stage_count": 9
+    },
+    {
+      "level": 61,
+      "cumulative_exp": 74027,
+      "exp_to_next_level": 2137,
+      "realm_key": "body_integration",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_06",
+      "stage_index": 6,
+      "stage_count": 9
+    },
+    {
+      "level": 62,
+      "cumulative_exp": 76164,
+      "exp_to_next_level": 2160,
+      "realm_key": "body_integration",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_07",
+      "stage_index": 7,
+      "stage_count": 9
+    },
+    {
+      "level": 63,
+      "cumulative_exp": 78324,
+      "exp_to_next_level": 2183,
+      "realm_key": "body_integration",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_08",
+      "stage_index": 8,
+      "stage_count": 9
+    },
+    {
+      "level": 64,
+      "cumulative_exp": 80507,
+      "exp_to_next_level": 2205,
+      "realm_key": "body_integration",
+      "realm_phase": "cultivation",
+      "stage_key": "layer_09",
+      "stage_index": 9,
+      "stage_count": 9
+    },
+    {
+      "level": 65,
+      "cumulative_exp": 82712,
+      "exp_to_next_level": 2227,
+      "realm_key": "mahayana",
+      "realm_phase": "cultivation",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 66,
+      "cumulative_exp": 84939,
+      "exp_to_next_level": 2250,
+      "realm_key": "mahayana",
+      "realm_phase": "cultivation",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 67,
+      "cumulative_exp": 87189,
+      "exp_to_next_level": 2271,
+      "realm_key": "mahayana",
+      "realm_phase": "cultivation",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 68,
+      "cumulative_exp": 89460,
+      "exp_to_next_level": 2292,
+      "realm_key": "mahayana",
+      "realm_phase": "cultivation",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 69,
+      "cumulative_exp": 91752,
+      "exp_to_next_level": 2315,
+      "realm_key": "tribulation_transcendence",
+      "realm_phase": "cultivation",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 70,
+      "cumulative_exp": 94067,
+      "exp_to_next_level": 2335,
+      "realm_key": "tribulation_transcendence",
+      "realm_phase": "cultivation",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 71,
+      "cumulative_exp": 96402,
+      "exp_to_next_level": 2356,
+      "realm_key": "tribulation_transcendence",
+      "realm_phase": "cultivation",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 72,
+      "cumulative_exp": 98758,
+      "exp_to_next_level": 2378,
+      "realm_key": "tribulation_transcendence",
+      "realm_phase": "cultivation",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 73,
+      "cumulative_exp": 101136,
+      "exp_to_next_level": 2398,
+      "realm_key": "earth_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 74,
+      "cumulative_exp": 103534,
+      "exp_to_next_level": 2419,
+      "realm_key": "earth_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 75,
+      "cumulative_exp": 105953,
+      "exp_to_next_level": 2440,
+      "realm_key": "earth_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 76,
+      "cumulative_exp": 108393,
+      "exp_to_next_level": 2459,
+      "realm_key": "earth_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 77,
+      "cumulative_exp": 110852,
+      "exp_to_next_level": 2480,
+      "realm_key": "heaven_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 78,
+      "cumulative_exp": 113332,
+      "exp_to_next_level": 2500,
+      "realm_key": "heaven_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 79,
+      "cumulative_exp": 115832,
+      "exp_to_next_level": 2520,
+      "realm_key": "heaven_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 80,
+      "cumulative_exp": 118352,
+      "exp_to_next_level": 2540,
+      "realm_key": "heaven_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 81,
+      "cumulative_exp": 120892,
+      "exp_to_next_level": 2559,
+      "realm_key": "true_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 82,
+      "cumulative_exp": 123451,
+      "exp_to_next_level": 2579,
+      "realm_key": "true_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 83,
+      "cumulative_exp": 126030,
+      "exp_to_next_level": 2599,
+      "realm_key": "true_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 84,
+      "cumulative_exp": 128629,
+      "exp_to_next_level": 2618,
+      "realm_key": "true_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 85,
+      "cumulative_exp": 131247,
+      "exp_to_next_level": 2636,
+      "realm_key": "mystic_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 86,
+      "cumulative_exp": 133883,
+      "exp_to_next_level": 2656,
+      "realm_key": "mystic_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 87,
+      "cumulative_exp": 136539,
+      "exp_to_next_level": 2675,
+      "realm_key": "mystic_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 88,
+      "cumulative_exp": 139214,
+      "exp_to_next_level": 2694,
+      "realm_key": "mystic_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 89,
+      "cumulative_exp": 141908,
+      "exp_to_next_level": 2712,
+      "realm_key": "golden_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 90,
+      "cumulative_exp": 144620,
+      "exp_to_next_level": 2731,
+      "realm_key": "golden_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 91,
+      "cumulative_exp": 147351,
+      "exp_to_next_level": 2750,
+      "realm_key": "golden_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 92,
+      "cumulative_exp": 150101,
+      "exp_to_next_level": 2768,
+      "realm_key": "golden_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 93,
+      "cumulative_exp": 152869,
+      "exp_to_next_level": 2786,
+      "realm_key": "taiyi_golden_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 94,
+      "cumulative_exp": 155655,
+      "exp_to_next_level": 2804,
+      "realm_key": "taiyi_golden_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 95,
+      "cumulative_exp": 158459,
+      "exp_to_next_level": 2823,
+      "realm_key": "taiyi_golden_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 96,
+      "cumulative_exp": 161282,
+      "exp_to_next_level": 2840,
+      "realm_key": "taiyi_golden_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 97,
+      "cumulative_exp": 164122,
+      "exp_to_next_level": 2858,
+      "realm_key": "daluo_golden_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 98,
+      "cumulative_exp": 166980,
+      "exp_to_next_level": 2876,
+      "realm_key": "daluo_golden_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 99,
+      "cumulative_exp": 169856,
+      "exp_to_next_level": 2894,
+      "realm_key": "daluo_golden_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 100,
+      "cumulative_exp": 172750,
+      "exp_to_next_level": 2912,
+      "realm_key": "daluo_golden_immortal",
+      "realm_phase": "immortal",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 101,
+      "cumulative_exp": 175662,
+      "exp_to_next_level": 2929,
+      "realm_key": "xian_king",
+      "realm_phase": "immortal",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 102,
+      "cumulative_exp": 178591,
+      "exp_to_next_level": 2946,
+      "realm_key": "xian_king",
+      "realm_phase": "immortal",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 103,
+      "cumulative_exp": 181537,
+      "exp_to_next_level": 2964,
+      "realm_key": "xian_king",
+      "realm_phase": "immortal",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 104,
+      "cumulative_exp": 184501,
+      "exp_to_next_level": 2981,
+      "realm_key": "xian_king",
+      "realm_phase": "immortal",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 105,
+      "cumulative_exp": 187482,
+      "exp_to_next_level": 2998,
+      "realm_key": "xian_emperor",
+      "realm_phase": "immortal",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 106,
+      "cumulative_exp": 190480,
+      "exp_to_next_level": 3015,
+      "realm_key": "xian_emperor",
+      "realm_phase": "immortal",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 107,
+      "cumulative_exp": 193495,
+      "exp_to_next_level": 3032,
+      "realm_key": "xian_emperor",
+      "realm_phase": "immortal",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 108,
+      "cumulative_exp": 196527,
+      "exp_to_next_level": 3050,
+      "realm_key": "xian_emperor",
+      "realm_phase": "immortal",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 109,
+      "cumulative_exp": 199577,
+      "exp_to_next_level": 3066,
+      "realm_key": "quasi_saint",
+      "realm_phase": "immortal",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 110,
+      "cumulative_exp": 202643,
+      "exp_to_next_level": 3083,
+      "realm_key": "quasi_saint",
+      "realm_phase": "immortal",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 111,
+      "cumulative_exp": 205726,
+      "exp_to_next_level": 3099,
+      "realm_key": "quasi_saint",
+      "realm_phase": "immortal",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 112,
+      "cumulative_exp": 208825,
+      "exp_to_next_level": 3116,
+      "realm_key": "quasi_saint",
+      "realm_phase": "immortal",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 113,
+      "cumulative_exp": 211941,
+      "exp_to_next_level": 3133,
+      "realm_key": "saint",
+      "realm_phase": "immortal",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 114,
+      "cumulative_exp": 215074,
+      "exp_to_next_level": 3149,
+      "realm_key": "saint",
+      "realm_phase": "immortal",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 115,
+      "cumulative_exp": 218223,
+      "exp_to_next_level": 3165,
+      "realm_key": "saint",
+      "realm_phase": "immortal",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 116,
+      "cumulative_exp": 221388,
+      "exp_to_next_level": 3182,
+      "realm_key": "saint",
+      "realm_phase": "immortal",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 117,
+      "cumulative_exp": 224570,
+      "exp_to_next_level": 3198,
+      "realm_key": "universe_level",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 118,
+      "cumulative_exp": 227768,
+      "exp_to_next_level": 3215,
+      "realm_key": "universe_level",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 119,
+      "cumulative_exp": 230983,
+      "exp_to_next_level": 3230,
+      "realm_key": "universe_level",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 120,
+      "cumulative_exp": 234213,
+      "exp_to_next_level": 3247,
+      "realm_key": "universe_level",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 121,
+      "cumulative_exp": 237460,
+      "exp_to_next_level": 3262,
+      "realm_key": "domain_lord",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 122,
+      "cumulative_exp": 240722,
+      "exp_to_next_level": 3278,
+      "realm_key": "domain_lord",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 123,
+      "cumulative_exp": 244000,
+      "exp_to_next_level": 3294,
+      "realm_key": "domain_lord",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 124,
+      "cumulative_exp": 247294,
+      "exp_to_next_level": 3310,
+      "realm_key": "domain_lord",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 125,
+      "cumulative_exp": 250604,
+      "exp_to_next_level": 3326,
+      "realm_key": "world_lord",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 126,
+      "cumulative_exp": 253930,
+      "exp_to_next_level": 3341,
+      "realm_key": "world_lord",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 127,
+      "cumulative_exp": 257271,
+      "exp_to_next_level": 3357,
+      "realm_key": "world_lord",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 128,
+      "cumulative_exp": 260628,
+      "exp_to_next_level": 3373,
+      "realm_key": "world_lord",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 129,
+      "cumulative_exp": 264001,
+      "exp_to_next_level": 3388,
+      "realm_key": "undying_lord",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 130,
+      "cumulative_exp": 267389,
+      "exp_to_next_level": 3403,
+      "realm_key": "undying_lord",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 131,
+      "cumulative_exp": 270792,
+      "exp_to_next_level": 3419,
+      "realm_key": "undying_lord",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 132,
+      "cumulative_exp": 274211,
+      "exp_to_next_level": 3434,
+      "realm_key": "undying_lord",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 133,
+      "cumulative_exp": 277645,
+      "exp_to_next_level": 3449,
+      "realm_key": "undying_marquis",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 134,
+      "cumulative_exp": 281094,
+      "exp_to_next_level": 3464,
+      "realm_key": "undying_marquis",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 135,
+      "cumulative_exp": 284558,
+      "exp_to_next_level": 3480,
+      "realm_key": "undying_marquis",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 136,
+      "cumulative_exp": 288038,
+      "exp_to_next_level": 3494,
+      "realm_key": "undying_marquis",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 137,
+      "cumulative_exp": 291532,
+      "exp_to_next_level": 3510,
+      "realm_key": "undying_king",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 138,
+      "cumulative_exp": 295042,
+      "exp_to_next_level": 3524,
+      "realm_key": "undying_king",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 139,
+      "cumulative_exp": 298566,
+      "exp_to_next_level": 3540,
+      "realm_key": "undying_king",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 140,
+      "cumulative_exp": 302106,
+      "exp_to_next_level": 3554,
+      "realm_key": "undying_king",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 141,
+      "cumulative_exp": 305660,
+      "exp_to_next_level": 3569,
+      "realm_key": "universe_venerable",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 142,
+      "cumulative_exp": 309229,
+      "exp_to_next_level": 3584,
+      "realm_key": "universe_venerable",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 143,
+      "cumulative_exp": 312813,
+      "exp_to_next_level": 3598,
+      "realm_key": "universe_venerable",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 144,
+      "cumulative_exp": 316411,
+      "exp_to_next_level": 3613,
+      "realm_key": "universe_venerable",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 145,
+      "cumulative_exp": 320024,
+      "exp_to_next_level": 3628,
+      "realm_key": "universe_overlord",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 146,
+      "cumulative_exp": 323652,
+      "exp_to_next_level": 3642,
+      "realm_key": "universe_overlord",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 147,
+      "cumulative_exp": 327294,
+      "exp_to_next_level": 3657,
+      "realm_key": "universe_overlord",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 148,
+      "cumulative_exp": 330951,
+      "exp_to_next_level": 3671,
+      "realm_key": "universe_overlord",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 149,
+      "cumulative_exp": 334622,
+      "exp_to_next_level": 3686,
+      "realm_key": "universe_master",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 150,
+      "cumulative_exp": 338308,
+      "exp_to_next_level": 3700,
+      "realm_key": "universe_master",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 151,
+      "cumulative_exp": 342008,
+      "exp_to_next_level": 3714,
+      "realm_key": "universe_master",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 152,
+      "cumulative_exp": 345722,
+      "exp_to_next_level": 3728,
+      "realm_key": "universe_master",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 153,
+      "cumulative_exp": 349450,
+      "exp_to_next_level": 3743,
+      "realm_key": "true_god",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 154,
+      "cumulative_exp": 353193,
+      "exp_to_next_level": 3757,
+      "realm_key": "true_god",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 155,
+      "cumulative_exp": 356950,
+      "exp_to_next_level": 3771,
+      "realm_key": "true_god",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 156,
+      "cumulative_exp": 360721,
+      "exp_to_next_level": 3785,
+      "realm_key": "true_god",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 157,
+      "cumulative_exp": 364506,
+      "exp_to_next_level": 3799,
+      "realm_key": "void_true_god",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 158,
+      "cumulative_exp": 368305,
+      "exp_to_next_level": 3813,
+      "realm_key": "void_true_god",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 159,
+      "cumulative_exp": 372118,
+      "exp_to_next_level": 3827,
+      "realm_key": "void_true_god",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 160,
+      "cumulative_exp": 375945,
+      "exp_to_next_level": 3841,
+      "realm_key": "void_true_god",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 161,
+      "cumulative_exp": 379786,
+      "exp_to_next_level": 3855,
+      "realm_key": "eternal_true_god",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 162,
+      "cumulative_exp": 383641,
+      "exp_to_next_level": 3868,
+      "realm_key": "eternal_true_god",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 163,
+      "cumulative_exp": 387509,
+      "exp_to_next_level": 3882,
+      "realm_key": "eternal_true_god",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 164,
+      "cumulative_exp": 391391,
+      "exp_to_next_level": 3896,
+      "realm_key": "eternal_true_god",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 165,
+      "cumulative_exp": 395287,
+      "exp_to_next_level": 3910,
+      "realm_key": "chaos_sovereign",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 166,
+      "cumulative_exp": 399197,
+      "exp_to_next_level": 3923,
+      "realm_key": "chaos_sovereign",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 167,
+      "cumulative_exp": 403120,
+      "exp_to_next_level": 3937,
+      "realm_key": "chaos_sovereign",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 168,
+      "cumulative_exp": 407057,
+      "exp_to_next_level": 3951,
+      "realm_key": "chaos_sovereign",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 169,
+      "cumulative_exp": 411008,
+      "exp_to_next_level": 3964,
+      "realm_key": "god_king",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 170,
+      "cumulative_exp": 414972,
+      "exp_to_next_level": 3978,
+      "realm_key": "god_king",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 171,
+      "cumulative_exp": 418950,
+      "exp_to_next_level": 3990,
+      "realm_key": "god_king",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 172,
+      "cumulative_exp": 422940,
+      "exp_to_next_level": 4005,
+      "realm_key": "god_king",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 173,
+      "cumulative_exp": 426945,
+      "exp_to_next_level": 4018,
+      "realm_key": "god_emperor",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 174,
+      "cumulative_exp": 430963,
+      "exp_to_next_level": 4031,
+      "realm_key": "god_emperor",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 175,
+      "cumulative_exp": 434994,
+      "exp_to_next_level": 4044,
+      "realm_key": "god_emperor",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 176,
+      "cumulative_exp": 439038,
+      "exp_to_next_level": 4058,
+      "realm_key": "god_emperor",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 177,
+      "cumulative_exp": 443096,
+      "exp_to_next_level": 4071,
+      "realm_key": "quasi_hunyuan",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 178,
+      "cumulative_exp": 447167,
+      "exp_to_next_level": 4084,
+      "realm_key": "quasi_hunyuan",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 179,
+      "cumulative_exp": 451251,
+      "exp_to_next_level": 4097,
+      "realm_key": "quasi_hunyuan",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 180,
+      "cumulative_exp": 455348,
+      "exp_to_next_level": 4110,
+      "realm_key": "quasi_hunyuan",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 181,
+      "cumulative_exp": 459458,
+      "exp_to_next_level": 4124,
+      "realm_key": "low_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 182,
+      "cumulative_exp": 463582,
+      "exp_to_next_level": 4136,
+      "realm_key": "low_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 183,
+      "cumulative_exp": 467718,
+      "exp_to_next_level": 4149,
+      "realm_key": "low_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 184,
+      "cumulative_exp": 471867,
+      "exp_to_next_level": 4163,
+      "realm_key": "low_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 185,
+      "cumulative_exp": 476030,
+      "exp_to_next_level": 4175,
+      "realm_key": "high_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 186,
+      "cumulative_exp": 480205,
+      "exp_to_next_level": 4188,
+      "realm_key": "high_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 187,
+      "cumulative_exp": 484393,
+      "exp_to_next_level": 4202,
+      "realm_key": "high_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 188,
+      "cumulative_exp": 488595,
+      "exp_to_next_level": 4214,
+      "realm_key": "high_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 189,
+      "cumulative_exp": 492809,
+      "exp_to_next_level": 4226,
+      "realm_key": "world_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 190,
+      "cumulative_exp": 497035,
+      "exp_to_next_level": 4240,
+      "realm_key": "world_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 191,
+      "cumulative_exp": 501275,
+      "exp_to_next_level": 4252,
+      "realm_key": "world_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 192,
+      "cumulative_exp": 505527,
+      "exp_to_next_level": 4265,
+      "realm_key": "world_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 193,
+      "cumulative_exp": 509792,
+      "exp_to_next_level": 4278,
+      "realm_key": "lord_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 194,
+      "cumulative_exp": 514070,
+      "exp_to_next_level": 4290,
+      "realm_key": "lord_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 195,
+      "cumulative_exp": 518360,
+      "exp_to_next_level": 4303,
+      "realm_key": "lord_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 196,
+      "cumulative_exp": 522663,
+      "exp_to_next_level": 4315,
+      "realm_key": "lord_hunyuan_life",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    },
+    {
+      "level": 197,
+      "cumulative_exp": 526978,
+      "exp_to_next_level": 4328,
+      "realm_key": "transcendent",
+      "realm_phase": "cosmic",
+      "stage_key": "early",
+      "stage_index": 1,
+      "stage_count": 4
+    },
+    {
+      "level": 198,
+      "cumulative_exp": 531306,
+      "exp_to_next_level": 4341,
+      "realm_key": "transcendent",
+      "realm_phase": "cosmic",
+      "stage_key": "middle",
+      "stage_index": 2,
+      "stage_count": 4
+    },
+    {
+      "level": 199,
+      "cumulative_exp": 535647,
+      "exp_to_next_level": 4353,
+      "realm_key": "transcendent",
+      "realm_phase": "cosmic",
+      "stage_key": "late",
+      "stage_index": 3,
+      "stage_count": 4
+    },
+    {
+      "level": 200,
+      "cumulative_exp": 540000,
+      "exp_to_next_level": 0,
+      "realm_key": "transcendent",
+      "realm_phase": "cosmic",
+      "stage_key": "great_completion",
+      "stage_index": 4,
+      "stage_count": 4
+    }
+  ],
+  "realms": [
+    {
+      "realm_key": "mortal",
+      "display_name_vi": "Phàm Nhân",
+      "display_name_en": "Mortal",
+      "realm_phase": "cultivation",
+      "sort_order": 1,
+      "level_from": 1,
+      "level_to": 1,
+      "stage_scheme": "none"
+    },
+    {
+      "realm_key": "qi_refining",
+      "display_name_vi": "Luyện Khí",
+      "display_name_en": "Qi Refining",
+      "realm_phase": "cultivation",
+      "sort_order": 2,
+      "level_from": 2,
+      "level_to": 10,
+      "stage_scheme": "nine_layers"
+    },
+    {
+      "realm_key": "foundation_establishment",
+      "display_name_vi": "Trúc Cơ",
+      "display_name_en": "Foundation Establishment",
+      "realm_phase": "cultivation",
+      "sort_order": 3,
+      "level_from": 11,
+      "level_to": 19,
+      "stage_scheme": "nine_layers"
+    },
+    {
+      "realm_key": "golden_core",
+      "display_name_vi": "Kim Đan",
+      "display_name_en": "Golden Core",
+      "realm_phase": "cultivation",
+      "sort_order": 4,
+      "level_from": 20,
+      "level_to": 28,
+      "stage_scheme": "nine_layers"
+    },
+    {
+      "realm_key": "nascent_soul",
+      "display_name_vi": "Nguyên Anh",
+      "display_name_en": "Nascent Soul",
+      "realm_phase": "cultivation",
+      "sort_order": 5,
+      "level_from": 29,
+      "level_to": 37,
+      "stage_scheme": "nine_layers"
+    },
+    {
+      "realm_key": "spirit_transformation",
+      "display_name_vi": "Hóa Thần",
+      "display_name_en": "Spirit Transformation",
+      "realm_phase": "cultivation",
+      "sort_order": 6,
+      "level_from": 38,
+      "level_to": 46,
+      "stage_scheme": "nine_layers"
+    },
+    {
+      "realm_key": "void_refinement",
+      "display_name_vi": "Luyện Hư",
+      "display_name_en": "Void Refinement",
+      "realm_phase": "cultivation",
+      "sort_order": 7,
+      "level_from": 47,
+      "level_to": 55,
+      "stage_scheme": "nine_layers"
+    },
+    {
+      "realm_key": "body_integration",
+      "display_name_vi": "Hợp Thể",
+      "display_name_en": "Body Integration",
+      "realm_phase": "cultivation",
+      "sort_order": 8,
+      "level_from": 56,
+      "level_to": 64,
+      "stage_scheme": "nine_layers"
+    },
+    {
+      "realm_key": "mahayana",
+      "display_name_vi": "Đại Thừa",
+      "display_name_en": "Mahayana",
+      "realm_phase": "cultivation",
+      "sort_order": 9,
+      "level_from": 65,
+      "level_to": 68,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "tribulation_transcendence",
+      "display_name_vi": "Độ Kiếp",
+      "display_name_en": "Tribulation Transcendence",
+      "realm_phase": "cultivation",
+      "sort_order": 10,
+      "level_from": 69,
+      "level_to": 72,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "earth_immortal",
+      "display_name_vi": "Địa Tiên",
+      "display_name_en": "Earth Immortal",
+      "realm_phase": "immortal",
+      "sort_order": 11,
+      "level_from": 73,
+      "level_to": 76,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "heaven_immortal",
+      "display_name_vi": "Thiên Tiên",
+      "display_name_en": "Heaven Immortal",
+      "realm_phase": "immortal",
+      "sort_order": 12,
+      "level_from": 77,
+      "level_to": 80,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "true_immortal",
+      "display_name_vi": "Chân Tiên",
+      "display_name_en": "True Immortal",
+      "realm_phase": "immortal",
+      "sort_order": 13,
+      "level_from": 81,
+      "level_to": 84,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "mystic_immortal",
+      "display_name_vi": "Huyền Tiên",
+      "display_name_en": "Mystic Immortal",
+      "realm_phase": "immortal",
+      "sort_order": 14,
+      "level_from": 85,
+      "level_to": 88,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "golden_immortal",
+      "display_name_vi": "Kim Tiên",
+      "display_name_en": "Golden Immortal",
+      "realm_phase": "immortal",
+      "sort_order": 15,
+      "level_from": 89,
+      "level_to": 92,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "taiyi_golden_immortal",
+      "display_name_vi": "Thái Ất Kim Tiên",
+      "display_name_en": "Taiyi Golden Immortal",
+      "realm_phase": "immortal",
+      "sort_order": 16,
+      "level_from": 93,
+      "level_to": 96,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "daluo_golden_immortal",
+      "display_name_vi": "Đại La Kim Tiên",
+      "display_name_en": "Daluo Golden Immortal",
+      "realm_phase": "immortal",
+      "sort_order": 17,
+      "level_from": 97,
+      "level_to": 100,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "xian_king",
+      "display_name_vi": "Tiên Vương",
+      "display_name_en": "Immortal King",
+      "realm_phase": "immortal",
+      "sort_order": 18,
+      "level_from": 101,
+      "level_to": 104,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "xian_emperor",
+      "display_name_vi": "Tiên Đế",
+      "display_name_en": "Immortal Emperor",
+      "realm_phase": "immortal",
+      "sort_order": 19,
+      "level_from": 105,
+      "level_to": 108,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "quasi_saint",
+      "display_name_vi": "Chuẩn Thánh",
+      "display_name_en": "Quasi-Saint",
+      "realm_phase": "immortal",
+      "sort_order": 20,
+      "level_from": 109,
+      "level_to": 112,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "saint",
+      "display_name_vi": "Thánh Nhân",
+      "display_name_en": "Saint",
+      "realm_phase": "immortal",
+      "sort_order": 21,
+      "level_from": 113,
+      "level_to": 116,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "universe_level",
+      "display_name_vi": "Vũ Trụ Cấp",
+      "display_name_en": "Universe Level",
+      "realm_phase": "cosmic",
+      "sort_order": 22,
+      "level_from": 117,
+      "level_to": 120,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "domain_lord",
+      "display_name_vi": "Vực Chủ",
+      "display_name_en": "Domain Lord",
+      "realm_phase": "cosmic",
+      "sort_order": 23,
+      "level_from": 121,
+      "level_to": 124,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "world_lord",
+      "display_name_vi": "Giới Chủ",
+      "display_name_en": "World Lord",
+      "realm_phase": "cosmic",
+      "sort_order": 24,
+      "level_from": 125,
+      "level_to": 128,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "undying_lord",
+      "display_name_vi": "Bất Hủ Quân Chủ",
+      "display_name_en": "Undying Lord",
+      "realm_phase": "cosmic",
+      "sort_order": 25,
+      "level_from": 129,
+      "level_to": 132,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "undying_marquis",
+      "display_name_vi": "Bất Hủ Phong Hầu",
+      "display_name_en": "Undying Marquis",
+      "realm_phase": "cosmic",
+      "sort_order": 26,
+      "level_from": 133,
+      "level_to": 136,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "undying_king",
+      "display_name_vi": "Bất Hủ Phong Vương",
+      "display_name_en": "Undying King",
+      "realm_phase": "cosmic",
+      "sort_order": 27,
+      "level_from": 137,
+      "level_to": 140,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "universe_venerable",
+      "display_name_vi": "Vũ Trụ Tôn Giả",
+      "display_name_en": "Universe Venerable",
+      "realm_phase": "cosmic",
+      "sort_order": 28,
+      "level_from": 141,
+      "level_to": 144,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "universe_overlord",
+      "display_name_vi": "Vũ Trụ Bá Chủ",
+      "display_name_en": "Universe Overlord",
+      "realm_phase": "cosmic",
+      "sort_order": 29,
+      "level_from": 145,
+      "level_to": 148,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "universe_master",
+      "display_name_vi": "Vũ Trụ Chi Chủ",
+      "display_name_en": "Universe Master",
+      "realm_phase": "cosmic",
+      "sort_order": 30,
+      "level_from": 149,
+      "level_to": 152,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "true_god",
+      "display_name_vi": "Chân Thần",
+      "display_name_en": "True God",
+      "realm_phase": "cosmic",
+      "sort_order": 31,
+      "level_from": 153,
+      "level_to": 156,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "void_true_god",
+      "display_name_vi": "Hư Không Chân Thần",
+      "display_name_en": "Void True God",
+      "realm_phase": "cosmic",
+      "sort_order": 32,
+      "level_from": 157,
+      "level_to": 160,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "eternal_true_god",
+      "display_name_vi": "Vĩnh Hằng Chân Thần",
+      "display_name_en": "Eternal True God",
+      "realm_phase": "cosmic",
+      "sort_order": 33,
+      "level_from": 161,
+      "level_to": 164,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "chaos_sovereign",
+      "display_name_vi": "Hỗn Độn Chúa Tể",
+      "display_name_en": "Chaos Sovereign",
+      "realm_phase": "cosmic",
+      "sort_order": 34,
+      "level_from": 165,
+      "level_to": 168,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "god_king",
+      "display_name_vi": "Thần Vương",
+      "display_name_en": "God King",
+      "realm_phase": "cosmic",
+      "sort_order": 35,
+      "level_from": 169,
+      "level_to": 172,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "god_emperor",
+      "display_name_vi": "Thần Đế",
+      "display_name_en": "God Emperor",
+      "realm_phase": "cosmic",
+      "sort_order": 36,
+      "level_from": 173,
+      "level_to": 176,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "quasi_hunyuan",
+      "display_name_vi": "Chuẩn Hồn Nguyên",
+      "display_name_en": "Quasi-Hunyuan",
+      "realm_phase": "cosmic",
+      "sort_order": 37,
+      "level_from": 177,
+      "level_to": 180,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "low_hunyuan_life",
+      "display_name_vi": "Sơ Đẳng Hồn Nguyên",
+      "display_name_en": "Low Hunyuan Lifeform",
+      "realm_phase": "cosmic",
+      "sort_order": 38,
+      "level_from": 181,
+      "level_to": 184,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "high_hunyuan_life",
+      "display_name_vi": "Cao Đẳng Hồn Nguyên",
+      "display_name_en": "High Hunyuan Lifeform",
+      "realm_phase": "cosmic",
+      "sort_order": 39,
+      "level_from": 185,
+      "level_to": 188,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "world_hunyuan_life",
+      "display_name_vi": "Thế Giới Cấp Hồn Nguyên",
+      "display_name_en": "World-Class Hunyuan Lifeform",
+      "realm_phase": "cosmic",
+      "sort_order": 40,
+      "level_from": 189,
+      "level_to": 192,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "lord_hunyuan_life",
+      "display_name_vi": "Lĩnh Chủ Cấp Hồn Nguyên",
+      "display_name_en": "Lord-Class Hunyuan Lifeform",
+      "realm_phase": "cosmic",
+      "sort_order": 41,
+      "level_from": 193,
+      "level_to": 196,
+      "stage_scheme": "four_phases"
+    },
+    {
+      "realm_key": "transcendent",
+      "display_name_vi": "Siêu Thoát",
+      "display_name_en": "Transcendent",
+      "realm_phase": "cosmic",
+      "sort_order": 42,
+      "level_from": 197,
+      "level_to": 200,
+      "stage_scheme": "four_phases"
+    }
+  ]
+}

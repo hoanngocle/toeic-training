@@ -1,0 +1,69 @@
+{
+  "audioSrc": "/audio/600TOEIC/02 Marketing.mp3",
+  "listeningImage": {
+    "src": "/essential/listening/lesson-2.webp",
+    "alt": "Ảnh đề bài Listening Part 1 · Bài 2"
+  },
+  "questions": [
+    {
+      "id": "4",
+      "prompt": "Why does the store need to be more competitive?",
+      "choiceTexts": {
+        "A": "There's currently a recession.",
+        "B": "Productivity has dropped lately.",
+        "C": "There's a new competitor nearby.",
+        "D": "New employees have little experience."
+      }
+    },
+    {
+      "id": "5",
+      "prompt": "How will the store attract more customers?",
+      "choiceTexts": {
+        "A": "By giving them trial products.",
+        "B": "By giving them discounts.",
+        "C": "By selling new products.",
+        "D": "By featuring happy customers in ads."
+      }
+    },
+    {
+      "id": "6",
+      "prompt": "Who will the woman call?",
+      "choiceTexts": {
+        "A": "A photographer.",
+        "B": "A photocopy salesperson.",
+        "C": "A customer.",
+        "D": "A marketing executive."
+      }
+    },
+    {
+      "id": "7",
+      "prompt": "Who would listen to this talk?",
+      "choiceTexts": {
+        "A": "Customers.",
+        "B": "Competitors.",
+        "C": "Students.",
+        "D": "Salespeople."
+      }
+    },
+    {
+      "id": "8",
+      "prompt": "What are they trying to identify?",
+      "choiceTexts": {
+        "A": "Their weaknesses.",
+        "B": "How to price their service.",
+        "C": "Their strong points.",
+        "D": "Who the competition is."
+      }
+    },
+    {
+      "id": "9",
+      "prompt": "Where will the listeners be this afternoon?",
+      "choiceTexts": {
+        "A": "At home.",
+        "B": "In a workshop.",
+        "C": "At a store.",
+        "D": "With a client."
+      }
+    }
+  ]
+}

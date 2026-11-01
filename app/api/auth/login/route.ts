@@ -1,30 +1,24 @@
-import { NextResponse } from 'next/server';
-import { createSession, SESSION_COOKIE, SESSION_MAX_AGE, verifyCredentials } from '../../../../lib/auth';
 import { hasValidOrigin } from '../../../../lib/request-origin';
-
-// A single-account app: limit failed attempts per server process, independent of spoofed IP headers.
-let failures = 0;
-let resetAt = 0;
-export async function POST(request: Request) {
-  if (!hasValidOrigin(request)) return NextResponse.json({ error: 'Nguồn yêu cầu không hợp lệ.' }, { status: 403 });
-  const now = Date.now();
-  if (now >= resetAt) { failures = 0; resetAt = now + 60_000; }
-  if (failures >= 5) return NextResponse.json({ error: 'Bạn đã thử quá nhiều lần. Vui lòng thử lại sau một phút.' }, { status: 429, headers: { 'Retry-After': '60' } });
+import { userClient } from '../../../../lib/supabase/server';
+import { credentials, activeUser, AccountError } from '../../../../lib/accounts/policy';
+import { readInput, accountFailure } from '../../../../lib/accounts/http';
+import { hasSupabaseConfig } from '../../../../lib/supabase/config';
+export async function POST(request:Request) {
+  if (!hasValidOrigin(request)) return Response.json({error:'Nguồn yêu cầu không hợp lệ.'},{status:403});
   try {
-    const text = await request.text();
-    if (text.length > 2048) return NextResponse.json({ error: 'Dữ liệu quá lớn.' }, { status: 413 });
-    const input = JSON.parse(text);
-    if (typeof input?.username !== 'string' || typeof input?.password !== 'string') return NextResponse.json({ error: 'Vui lòng nhập tài khoản và mật khẩu.' }, { status: 400 });
-    // Reading a body yields: another request may have consumed the last attempt.
-    if (failures >= 5) return NextResponse.json({ error: 'Bạn đã thử quá nhiều lần. Vui lòng thử lại sau một phút.' }, { status: 429, headers: { 'Retry-After': '60' } });
-    failures++;
-    if (!await verifyCredentials(input.username, input.password)) return NextResponse.json({ error: 'Tài khoản hoặc mật khẩu không đúng.' }, { status: 401 });
-    const token = createSession();
-    failures = 0;
-    const response = NextResponse.json({ ok: true }, { headers: { 'Cache-Control': 'no-store' } });
-    response.cookies.set(SESSION_COOKIE, token, { httpOnly: true, sameSite: 'lax', secure: process.env.NODE_ENV === 'production', path: '/', maxAge: SESSION_MAX_AGE });
-    return response;
-  } catch (error) {
-    return NextResponse.json({ error: error instanceof SyntaxError ? 'Dữ liệu không hợp lệ.' : 'Chưa thể đăng nhập. Vui lòng thử lại sau.' }, { status: error instanceof SyntaxError ? 400 : 500 });
-  }
+    if (!hasSupabaseConfig()) {
+      console.error('Missing NEXT_PUBLIC_SUPABASE_URL or NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY');
+      throw new AccountError('Đăng nhập chưa được cấu hình. Vui lòng liên hệ quản trị viên.',503);
+    }
+    const input=credentials(await readInput(request));
+    const client=await userClient();
+    const {data,error}=await client.auth.signInWithPassword(input);
+    if (error || !data.user) throw new AccountError(error?.status===429?'Bạn đã thử quá nhiều lần. Vui lòng thử lại sau.':'Email hoặc mật khẩu không đúng, hoặc tài khoản không khả dụng.',error?.status===429?429:401);
+    const {data:profile,error:profileError}=await client.from('profiles').select('id,role,disabled').eq('id',data.user.id).maybeSingle();
+    if (profileError || !activeUser(data.user,profile)) {
+      await client.auth.signOut({scope:'local'});
+      throw new AccountError(profileError?'Chưa đọc được tài khoản. Vui lòng liên hệ quản trị viên.':'Email hoặc mật khẩu không đúng, hoặc tài khoản không khả dụng.',profileError?503:401);
+    }
+    return Response.json({ok:true},{headers:{'Cache-Control':'no-store'}});
+  } catch(error) {return accountFailure(error);}
 }

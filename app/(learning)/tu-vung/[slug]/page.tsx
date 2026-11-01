@@ -1,3 +1,4 @@
+import { requireUser } from '../../../../lib/auth-server';
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getLesson, lessonSummaries } from "../../../../components/vocabulary/catalog";
@@ -13,6 +14,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return { title: lesson ? `${lesson.title} · Từ vựng | English Space` : "Không tìm thấy bài" };
 }
 export default async function LessonPage({ params }: Props) {
+  await requireUser();
   const lesson = getLesson((await params).slug);
   if (!lesson) notFound();
   const navigation = lessonSummaries.filter(item => item.source === lesson.source).map(({ slug, title, count }) => ({ slug, title, count }));
