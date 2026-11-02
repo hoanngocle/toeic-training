@@ -1,0 +1,61 @@
+.page {
+  min-height: 100svh;
+  padding: 48px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: var(--bg);
+  color: var(--text);
+}
+
+.brand {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .2em;
+}
+
+.code {
+  margin: 24px 0 12px;
+  color: var(--accent);
+  font-size: clamp(96px, 20vw, 160px);
+  font-weight: 700;
+  letter-spacing: -.06em;
+  line-height: 1;
+}
+
+.title {
+  margin: 12px 0 0;
+  font-size: clamp(24px, 5vw, 32px);
+  font-weight: 600;
+  letter-spacing: -.6px;
+  line-height: 1.5;
+}
+
+.description {
+  max-width: 420px;
+  margin: 14px 0 28px;
+  color: var(--muted);
+  font-size: 15px;
+  line-height: 1.9;
+}
+
+.homeButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  min-height: 48px;
+  padding: 12px 22px;
+  border: 1px solid var(--primary);
+  border-radius: 7px;
+  background: var(--primary);
+  color: var(--on-primary);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.homeButton:hover { background: var(--primary-hover); border-color: var(--primary-hover); }
+.homeButton:focus-visible { outline: 2px solid var(--accent); outline-offset: 5px; }

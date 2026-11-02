@@ -1,7 +1,32 @@
+import type { WordFamilyRow } from '../essential/types.ts';
 export type TestFormat = 'multiple-choice' | 'typing';
 export type Direction = 'en-vi' | 'vi-en';
-export type Word = { id: number; spokenText: string; meaning: string };
+export type Word = { id: number; spokenText: string; meaning: string; family?: boolean; partOfSpeech?: string; acceptedForms?: string[]; example?: { english: string; vietnamese: string } };
 export type Question = { wordId: number; direction: Direction; prompt: string; choices: string[] };
+
+// Reserve IDs independently of the current question order or sampled test.
+// A form already in the lesson is practiced once, using its existing progress ID.
+export function withWordFamilies(words: Word[], rows: WordFamilyRow[] = []): Word[] {
+  const seen = new Set(words.map(word => normalizeAnswer(word.spokenText)));
+  const extra: Word[] = [];
+  rows.forEach((row, index) => {
+    const key = normalizeAnswer(row.word);
+    if (seen.has(key)) return;
+    seen.add(key);
+    extra.push({ id: 1001 + index, spokenText: row.word, meaning: row.meaning, family: true,
+      partOfSpeech: row.partOfSpeech, example: { english: row.example, vietnamese: row.translation } });
+  });
+  return [...words, ...extra.map(word => {
+    // A translation and POS alone cannot distinguish synonymous family forms.
+    const forms = extra.filter(other => other.partOfSpeech === word.partOfSpeech && normalizeAnswer(other.meaning) === normalizeAnswer(word.meaning)).map(other => other.spokenText);
+    return forms.length > 1 ? { ...word, acceptedForms: forms } : word;
+  })];
+}
+
+export function wordPrompt(word: Word, direction: Direction) {
+  const text = direction === 'en-vi' ? word.spokenText : word.meaning;
+  return word.partOfSpeech ? `${text} (${word.partOfSpeech})` : text;
+}
 
 export function normalizeAnswer(text: string) {
   return text.normalize('NFC').toLowerCase().trim().replace(/[.!?。]+$/u, '').replace(/\s+/g, ' ').trim();
@@ -28,7 +53,7 @@ export function gradeAnswer(word: Word, direction: Direction, answer: string) {
   const normalized = normalizeAnswer(answer);
   if (!normalized) return false;
   return direction === 'vi-en'
-    ? normalized === normalizeAnswer(word.spokenText)
+    ? (word.acceptedForms ?? [word.spokenText]).some(form => normalized === normalizeAnswer(form))
     : [normalizeAnswer(word.meaning), ...listedMeanings(word.meaning), ...meanings(word.meaning)].includes(normalized);
 }
 export function shuffle<T>(items: readonly T[]): T[] {
@@ -45,7 +70,7 @@ export function makeQuestions(words: Word[], retryIds?: number[], format: TestFo
   const directions = shuffle(selected.map((_, i): Direction => i % 2 === 0 ? 'en-vi' : 'vi-en'));
   return selected.map((word, i) => {
     const direction = directions[i];
-    if (format === 'typing') return { wordId: word.id, direction, prompt: direction === 'en-vi' ? word.spokenText : word.meaning, choices: [] };
+    if (format === 'typing') return { wordId: word.id, direction, prompt: wordPrompt(word, direction), choices: [] };
     const label = (entry: Word) => direction === 'en-vi' ? entry.meaning : entry.spokenText;
     const aliases = meanings(word.meaning);
     const candidates = shuffle(words).filter(other => other.id !== word.id &&
@@ -61,6 +86,6 @@ export function makeQuestions(words: Word[], retryIds?: number[], format: TestFo
       if (choices.length === 4) break;
     }
     if (choices.length !== 4) throw new Error('Bài này chưa đủ từ khác nghĩa để tạo 4 lựa chọn.');
-    return { wordId: word.id, direction, prompt: direction === 'en-vi' ? word.spokenText : word.meaning, choices: shuffle(choices) };
+    return { wordId: word.id, direction, prompt: wordPrompt(word, direction), choices: shuffle(choices) };
   });
 }

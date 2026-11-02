@@ -1,9 +1,10 @@
-import { calculateVocabularyReward, calculateEssentialReward } from '../progression/reward.ts';
+import { applyBadgeBonus, calculateVocabularyReward, calculateEssentialReward } from '../progression/reward.ts';
+import { collectionBonusPercent } from '../achievements/bonus.ts';
 import { progressionResult } from '../progression/cloud.ts';
 import type { SupabaseClient } from '@supabase/supabase-js';
 import { gradeLearning } from '../learning/grading.ts';
 import type { Word } from '../learning/practice.ts';
-import type { LearningState, Progress, Session } from '../learning/types.ts';
+import type { LearningState, Progress, Session, SessionSummary } from '../learning/types.ts';
 import { gradeExercise, ExerciseInputError } from '../essential/grading.ts';
 import type { BookUnit, ExerciseRequest, ExerciseResult } from '../essential/types.ts';
 import { activityDay, summarizeActivity } from '../achievements/summary.ts';
@@ -27,16 +28,47 @@ export async function readLearning(client:SupabaseClient,userId:string,lesson:st
   check(progress.error);check(sessions.error);
   return {progress:(progress.data??[]) as Progress[],sessions:(sessions.data??[]).map(row=>row.result as Session),totalSessions:sessions.count??0};
 }
-export async function saveLearning(writer:SupabaseClient,userId:string,input:unknown,words:Word[]):Promise<Session> {
+export async function readLearningProgress(client:SupabaseClient,userId:string,lesson:string):Promise<LearningState> {
+  const [progress,sessions]=await Promise.all([
+    client.from('progress').select('wordId:word_id,reviews,correct,incorrect,streak,status,lastReviewedAt:last_reviewed_at').eq('user_id',userId).eq('lesson',lesson).order('word_id'),
+    client.from('sessions').select('id',{count:'exact',head:true}).eq('user_id',userId).eq('lesson',lesson).neq('mode','flashcard'),
+  ]);
+  check(progress.error);check(sessions.error);
+  return {progress:(progress.data??[]) as Progress[],sessions:[],totalSessions:sessions.count??0};
+}
+export async function readLearningHistory(client:SupabaseClient,userId:string,lesson:string):Promise<SessionSummary[]> {
+  const response=await client.from('sessions')
+    .select('id,mode,createdAt:created_at,durationMs:result->durationMs,score:result->score,total:result->total,includeWordFamilies:result->includeWordFamilies')
+    .eq('user_id',userId).eq('lesson',lesson).neq('mode','flashcard')
+    .order('created_at',{ascending:false}).order('id').limit(50);
+  check(response.error);
+  return (response.data??[]) as unknown as SessionSummary[];
+}
+export async function readLearnedWords(client:SupabaseClient,userId:string) {
+  const byLesson: Record<string, Pick<Progress,'wordId'|'status'>[]> = {};
+  const pageSize = 1000;
+  for (let offset = 0; ; offset += pageSize) {
+    const response = await client.from('progress').select('lesson,wordId:word_id')
+      .eq('user_id',userId).eq('status','learned')
+      .order('lesson').order('word_id').range(offset,offset + pageSize - 1);
+    check(response.error);
+    const rows = response.data ?? [];
+    for (const row of rows) (byLesson[row.lesson] ??= []).push({wordId:row.wordId,status:'learned'});
+    if (rows.length < pageSize) return byLesson;
+  }
+}
+export async function saveLearning(writer:SupabaseClient,userId:string,input:unknown,words:Word[],testSize:(lesson:string)=>number):Promise<Session> {
   const {request,result}=gradeLearning(input,words);
-  const response=await writer.rpc('save_learning',{p_user_id:userId,p_request:request,p_result:{...result,rewardCalculation:calculateVocabularyReward(result)}});
+  const achievements=await readCloudAchievements(writer,userId,new Date(),testSize);
+  const rewardCalculation=applyBadgeBonus(calculateVocabularyReward(result),collectionBonusPercent(achievements.collection.awards));
+  const response=await writer.rpc('save_learning',{p_user_id:userId,p_request:request,p_result:{...result,rewardCalculation}});
   check(response.error);return progressionResult(response.data as Session & {progressionTotals?: {before:number;after:number}});
 }
 export async function readExercises(client:SupabaseClient,userId:string,unit:string):Promise<ExerciseResult[]> {
   const response=await client.from('essential_sessions').select('result').eq('user_id',userId).eq('unit',unit).order('created_at',{ascending:false}).order('id').limit(50);
   check(response.error);return (response.data??[]).map(row=>row.result as ExerciseResult);
 }
-export async function saveExercise(client:SupabaseClient,writer:SupabaseClient,userId:string,input:unknown,unit:BookUnit):Promise<ExerciseResult> {
+export async function saveExercise(client:SupabaseClient,writer:SupabaseClient,userId:string,input:unknown,unit:BookUnit,testSize:(lesson:string)=>number):Promise<ExerciseResult> {
   let scope:string[]|undefined;
   if (input && typeof input==='object' && 'retryOf' in input && input.retryOf!==undefined) {
     if (typeof input.retryOf!=='string' || !/^[\w-]{10,80}$/.test(input.retryOf)) throw new ExerciseInputError('Lượt ôn lại không hợp lệ.');
@@ -48,7 +80,9 @@ export async function saveExercise(client:SupabaseClient,writer:SupabaseClient,u
   const result=gradeExercise(input,unit,scope);
   const value=input as ExerciseRequest;
   const request={id:value.id,unitId:value.unitId,durationMs:value.durationMs,...(value.retryOf?{retryOf:value.retryOf}:{}),answers:value.answers};
-  const response=await writer.rpc('save_exercise',{p_user_id:userId,p_request:request,p_result:{...result,rewardCalculation:calculateEssentialReward(result)}});
+  const achievements=await readCloudAchievements(writer,userId,new Date(),testSize);
+  const rewardCalculation=applyBadgeBonus(calculateEssentialReward(result),collectionBonusPercent(achievements.collection.awards));
+  const response=await writer.rpc('save_exercise',{p_user_id:userId,p_request:request,p_result:{...result,rewardCalculation}});
   check(response.error);return progressionResult(response.data as ExerciseResult & {progressionTotals?: {before:number;after:number}});
 }
 export async function readCloudAchievements(client:SupabaseClient,userId:string,now=new Date(),testSize:(lesson:string)=>number=()=>20) {

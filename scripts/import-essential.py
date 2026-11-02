@@ -120,6 +120,7 @@ def main():
             assert set(detail['example'])=={'english','vietnamese'}, (slug,word_id,'Missing example language')
             assert all(isinstance(value,str) and value.strip() for value in detail['example'].values()), (slug,word_id,'Empty example')
     context_passages=json.loads((ROOT/'data/essential/context-passages.json').read_text())
+    context_review=json.loads((ROOT/'data/essential/context-review.json').read_text())
     word_families=json.loads((ROOT/'data/essential/word-families.json').read_text())
     assert len(terms)==50 and all(len(ws)==12 for ws in terms)
     lessons=[]
@@ -131,6 +132,11 @@ def main():
             return {'id':f'{slug}-{suffix}','title':label,'pages':[page(p,label) for p in pages],'questions':qs,'answerKeyPages':[page(p,'Đáp án gốc') for p in key_pages] if qs else []}
         context=unit('context','Words in Context',[start+1],questions(key['context'],range(1,13),False))
         context.update(context_passages[slug])
+        review_content=context_review[slug]
+        assert len(review_content['explanations'])==len(context['questions']), (slug,'Missing context explanations')
+        context['passageTranslation']=review_content['translation']
+        for question,explanation in zip(context['questions'],review_content['explanations']):
+            question['explanation']=explanation
         families=unit('families','Word Families',[start+2],[])
         families['wordFamilies']=word_families[slug]
         reading=[unit(f'reading-{p}',f'Part {p} · '+label,[start+offset],questions(key['practice'],nums)) for p,label,offset,nums in [(5,'Incomplete Sentences',4,range(10,16)),(6,'Text Completion',4,range(16,19)),(7,'Reading Comprehension',5,range(19,24))]]

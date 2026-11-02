@@ -48,3 +48,13 @@ __pycache__/
 
 # Personal learning database
 /data/*.sqlite*
+
+# Local ETS rendering and visual source-audit intermediates
+/tmp/ets/
+/tmp/ets-*
+/scripts/ets-audio.envelope.json
+
+# Local source documents, workspace settings and temporary artifacts
+/ETS 2024/
+/.idea/
+/tmp/

@@ -1,0 +1,2517 @@
+{
+  "scope": "All 60 Part 1 photographs and all 50 Part 3/4 listening graphics",
+  "method": "Pillow contact sheets inspected with view_image; original source pages 03-05 and 09/10/13 inspected for every test. Audit covers crop completeness, not OCR text correctness or audio.",
+  "summary": {
+    "photos": 60,
+    "clippedPhotos": 26,
+    "visuallyCompletePhotos": 34,
+    "graphics": 50,
+    "clippedGraphics": 0
+  },
+  "replacementCaution": "Suggested padded boxes preserve the entire original photo; do not pass these through density-based crop trimming. All boxes were inspected again as proposed replacement sheets.",
+  "photos": [
+    {
+      "test": 1,
+      "question": 1,
+      "file": "public/ets-2024/figures/test-01-q-001.webp",
+      "source": "tmp/ets/lc-01/page-03.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1112,
+        776
+      ],
+      "suggestedBoxPixels": [
+        270,
+        139,
+        1404,
+        939
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        280,
+        150,
+        1392,
+        926
+      ],
+      "omittedApproxPixels": {
+        "left": 10,
+        "top": 11,
+        "right": 12,
+        "bottom": 13
+      }
+    },
+    {
+      "test": 1,
+      "question": 2,
+      "file": "public/ets-2024/figures/test-01-q-002.webp",
+      "source": "tmp/ets/lc-01/page-03.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Bottom of photograph clipped: lower legs/feet, snow and bottom of car are missing.",
+      "currentSize": [
+        725,
+        883
+      ],
+      "suggestedBoxPixels": [
+        480,
+        1088,
+        1230,
+        2147
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        493,
+        1098,
+        1218,
+        1981
+      ],
+      "omittedApproxPixels": {
+        "left": 13,
+        "top": 10,
+        "right": 12,
+        "bottom": 166
+      }
+    },
+    {
+      "test": 1,
+      "question": 3,
+      "file": "public/ets-2024/figures/test-01-q-003.webp",
+      "source": "tmp/ets/lc-01/page-04.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1111,
+        797
+      ],
+      "suggestedBoxPixels": [
+        306,
+        139,
+        1443,
+        960
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        319,
+        152,
+        1430,
+        949
+      ],
+      "omittedApproxPixels": {
+        "left": 13,
+        "top": 13,
+        "right": 13,
+        "bottom": 11
+      }
+    },
+    {
+      "test": 1,
+      "question": 4,
+      "file": "public/ets-2024/figures/test-01-q-004.webp",
+      "source": "tmp/ets/lc-01/page-04.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper tent canopy/roof strip is clipped.",
+      "currentSize": [
+        1110,
+        691
+      ],
+      "suggestedBoxPixels": [
+        306,
+        1109,
+        1443,
+        1930
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        318,
+        1227,
+        1428,
+        1918
+      ],
+      "omittedApproxPixels": {
+        "left": 12,
+        "top": 118,
+        "right": 15,
+        "bottom": 12
+      }
+    },
+    {
+      "test": 1,
+      "question": 5,
+      "file": "public/ets-2024/figures/test-01-q-005.webp",
+      "source": "tmp/ets/lc-01/page-05.png",
+      "sourceSize": [
+        1744,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1110,
+        796
+      ],
+      "suggestedBoxPixels": [
+        270,
+        142,
+        1406,
+        961
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        283,
+        155,
+        1393,
+        951
+      ],
+      "omittedApproxPixels": {
+        "left": 13,
+        "top": 13,
+        "right": 13,
+        "bottom": 10
+      }
+    },
+    {
+      "test": 1,
+      "question": 6,
+      "file": "public/ets-2024/figures/test-01-q-006.webp",
+      "source": "tmp/ets/lc-01/page-05.png",
+      "sourceSize": [
+        1744,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper ceiling strip around the light fixture is clipped.",
+      "currentSize": [
+        726,
+        903
+      ],
+      "suggestedBoxPixels": [
+        480,
+        1107,
+        1231,
+        2164
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        496,
+        1250,
+        1222,
+        2153
+      ],
+      "omittedApproxPixels": {
+        "left": 16,
+        "top": 143,
+        "right": 9,
+        "bottom": 11
+      }
+    },
+    {
+      "test": 2,
+      "question": 1,
+      "file": "public/ets-2024/figures/test-02-q-001.webp",
+      "source": "tmp/ets/lc-02/page-03.png",
+      "sourceSize": [
+        1745,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper cabinet/wall strip and top of the man's head are clipped.",
+      "currentSize": [
+        656,
+        830
+      ],
+      "suggestedBoxPixels": [
+        477,
+        153,
+        1161,
+        1129
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        490,
+        272,
+        1146,
+        1102
+      ],
+      "omittedApproxPixels": {
+        "left": 13,
+        "top": 119,
+        "right": 15,
+        "bottom": 27
+      }
+    },
+    {
+      "test": 2,
+      "question": 2,
+      "file": "public/ets-2024/figures/test-02-q-002.webp",
+      "source": "tmp/ets/lc-02/page-03.png",
+      "sourceSize": [
+        1745,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        656,
+        935
+      ],
+      "suggestedBoxPixels": [
+        477,
+        1214,
+        1161,
+        2187
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        490,
+        1225,
+        1146,
+        2160
+      ],
+      "omittedApproxPixels": {
+        "left": 13,
+        "top": 11,
+        "right": 15,
+        "bottom": 27
+      }
+    },
+    {
+      "test": 2,
+      "question": 3,
+      "file": "public/ets-2024/figures/test-02-q-003.webp",
+      "source": "tmp/ets/lc-02/page-04.png",
+      "sourceSize": [
+        1745,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper wall/sign and pipe area clipped.",
+      "currentSize": [
+        726,
+        972
+      ],
+      "suggestedBoxPixels": [
+        520,
+        146,
+        1268,
+        1204
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        532,
+        220,
+        1258,
+        1192
+      ],
+      "omittedApproxPixels": {
+        "left": 12,
+        "top": 74,
+        "right": 10,
+        "bottom": 12
+      }
+    },
+    {
+      "test": 2,
+      "question": 4,
+      "file": "public/ets-2024/figures/test-02-q-004.webp",
+      "source": "tmp/ets/lc-02/page-04.png",
+      "sourceSize": [
+        1745,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1111,
+        774
+      ],
+      "suggestedBoxPixels": [
+        310,
+        1350,
+        1446,
+        2151
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        324,
+        1365,
+        1435,
+        2139
+      ],
+      "omittedApproxPixels": {
+        "left": 14,
+        "top": 15,
+        "right": 11,
+        "bottom": 12
+      }
+    },
+    {
+      "test": 2,
+      "question": 5,
+      "file": "public/ets-2024/figures/test-02-q-005.webp",
+      "source": "tmp/ets/lc-02/page-05.png",
+      "sourceSize": [
+        1744,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1110,
+        796
+      ],
+      "suggestedBoxPixels": [
+        270,
+        146,
+        1406,
+        961
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        281,
+        157,
+        1391,
+        953
+      ],
+      "omittedApproxPixels": {
+        "left": 11,
+        "top": 11,
+        "right": 15,
+        "bottom": 8
+      }
+    },
+    {
+      "test": 2,
+      "question": 6,
+      "file": "public/ets-2024/figures/test-02-q-006.webp",
+      "source": "tmp/ets/lc-02/page-05.png",
+      "sourceSize": [
+        1744,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper luggage handles and top bag/background strip are clipped (about 68 source pixels).",
+      "currentSize": [
+        1109,
+        739
+      ],
+      "suggestedBoxPixels": [
+        270,
+        1114,
+        1406,
+        1933
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        282,
+        1182,
+        1391,
+        1921
+      ],
+      "omittedApproxPixels": {
+        "left": 12,
+        "top": 68,
+        "right": 15,
+        "bottom": 12
+      }
+    },
+    {
+      "test": 3,
+      "question": 1,
+      "file": "public/ets-2024/figures/test-03-q-001.webp",
+      "source": "tmp/ets/lc-03/page-03.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper microwave/cabinet and wall area clipped.",
+      "currentSize": [
+        724,
+        928
+      ],
+      "suggestedBoxPixels": [
+        480,
+        146,
+        1230,
+        1202
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        493,
+        261,
+        1217,
+        1189
+      ],
+      "omittedApproxPixels": {
+        "left": 13,
+        "top": 115,
+        "right": 13,
+        "bottom": 13
+      }
+    },
+    {
+      "test": 3,
+      "question": 2,
+      "file": "public/ets-2024/figures/test-03-q-002.webp",
+      "source": "tmp/ets/lc-03/page-03.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Only the lower portion remains; heads, upper bodies, upper shelving and objects are missing.",
+      "currentSize": [
+        1108,
+        348
+      ],
+      "suggestedBoxPixels": [
+        270,
+        1351,
+        1404,
+        2147
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        283,
+        1788,
+        1391,
+        2136
+      ],
+      "omittedApproxPixels": {
+        "left": 13,
+        "top": 437,
+        "right": 13,
+        "bottom": 11
+      }
+    },
+    {
+      "test": 3,
+      "question": 3,
+      "file": "public/ets-2024/figures/test-03-q-003.webp",
+      "source": "tmp/ets/lc-03/page-04.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1111,
+        795
+      ],
+      "suggestedBoxPixels": [
+        302,
+        146,
+        1440,
+        967
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        314,
+        157,
+        1425,
+        952
+      ],
+      "omittedApproxPixels": {
+        "left": 12,
+        "top": 11,
+        "right": 15,
+        "bottom": 15
+      }
+    },
+    {
+      "test": 3,
+      "question": 4,
+      "file": "public/ets-2024/figures/test-03-q-004.webp",
+      "source": "tmp/ets/lc-03/page-04.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1110,
+        795
+      ],
+      "suggestedBoxPixels": [
+        306,
+        1113,
+        1443,
+        1930
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        317,
+        1125,
+        1427,
+        1920
+      ],
+      "omittedApproxPixels": {
+        "left": 11,
+        "top": 12,
+        "right": 16,
+        "bottom": 10
+      }
+    },
+    {
+      "test": 3,
+      "question": 5,
+      "file": "public/ets-2024/figures/test-03-q-005.webp",
+      "source": "tmp/ets/lc-03/page-05.png",
+      "sourceSize": [
+        1740,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper trees, roof beam and worker on top are missing.",
+      "currentSize": [
+        1107,
+        432
+      ],
+      "suggestedBoxPixels": [
+        270,
+        146,
+        1406,
+        966
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        283,
+        524,
+        1390,
+        956
+      ],
+      "omittedApproxPixels": {
+        "left": 13,
+        "top": 378,
+        "right": 16,
+        "bottom": 10
+      }
+    },
+    {
+      "test": 3,
+      "question": 6,
+      "file": "public/ets-2024/figures/test-03-q-006.webp",
+      "source": "tmp/ets/lc-03/page-05.png",
+      "sourceSize": [
+        1740,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1108,
+        795
+      ],
+      "suggestedBoxPixels": [
+        270,
+        1115,
+        1406,
+        1932
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        282,
+        1127,
+        1390,
+        1922
+      ],
+      "omittedApproxPixels": {
+        "left": 12,
+        "top": 12,
+        "right": 16,
+        "bottom": 10
+      }
+    },
+    {
+      "test": 4,
+      "question": 1,
+      "file": "public/ets-2024/figures/test-04-q-001.webp",
+      "source": "tmp/ets/lc-04/page-03.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1110,
+        796
+      ],
+      "suggestedBoxPixels": [
+        270,
+        146,
+        1408,
+        967
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        285,
+        159,
+        1395,
+        955
+      ],
+      "omittedApproxPixels": {
+        "left": 15,
+        "top": 13,
+        "right": 13,
+        "bottom": 12
+      }
+    },
+    {
+      "test": 4,
+      "question": 2,
+      "file": "public/ets-2024/figures/test-04-q-002.webp",
+      "source": "tmp/ets/lc-04/page-03.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1110,
+        795
+      ],
+      "suggestedBoxPixels": [
+        270,
+        1116,
+        1408,
+        1930
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        285,
+        1126,
+        1395,
+        1921
+      ],
+      "omittedApproxPixels": {
+        "left": 15,
+        "top": 10,
+        "right": 13,
+        "bottom": 9
+      }
+    },
+    {
+      "test": 4,
+      "question": 3,
+      "file": "public/ets-2024/figures/test-04-q-003.webp",
+      "source": "tmp/ets/lc-04/page-04.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1111,
+        796
+      ],
+      "suggestedBoxPixels": [
+        302,
+        139,
+        1440,
+        960
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        313,
+        152,
+        1424,
+        948
+      ],
+      "omittedApproxPixels": {
+        "left": 11,
+        "top": 13,
+        "right": 16,
+        "bottom": 12
+      }
+    },
+    {
+      "test": 4,
+      "question": 4,
+      "file": "public/ets-2024/figures/test-04-q-004.webp",
+      "source": "tmp/ets/lc-04/page-04.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1109,
+        797
+      ],
+      "suggestedBoxPixels": [
+        306,
+        1106,
+        1443,
+        1927
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        316,
+        1118,
+        1425,
+        1915
+      ],
+      "omittedApproxPixels": {
+        "left": 10,
+        "top": 12,
+        "right": 18,
+        "bottom": 12
+      }
+    },
+    {
+      "test": 4,
+      "question": 5,
+      "file": "public/ets-2024/figures/test-04-q-005.webp",
+      "source": "tmp/ets/lc-04/page-05.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Sky and mountain horizon strip is missing.",
+      "currentSize": [
+        1108,
+        579
+      ],
+      "suggestedBoxPixels": [
+        270,
+        146,
+        1404,
+        967
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        281,
+        375,
+        1389,
+        954
+      ],
+      "omittedApproxPixels": {
+        "left": 11,
+        "top": 229,
+        "right": 15,
+        "bottom": 13
+      }
+    },
+    {
+      "test": 4,
+      "question": 6,
+      "file": "public/ets-2024/figures/test-04-q-006.webp",
+      "source": "tmp/ets/lc-04/page-05.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper wall/ceiling strip, including the upper light/picture area, is clipped (about 78 source pixels).",
+      "currentSize": [
+        723,
+        969
+      ],
+      "suggestedBoxPixels": [
+        462,
+        1113,
+        1209,
+        2169
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        474,
+        1191,
+        1197,
+        2160
+      ],
+      "omittedApproxPixels": {
+        "left": 12,
+        "top": 78,
+        "right": 12,
+        "bottom": 9
+      }
+    },
+    {
+      "test": 5,
+      "question": 1,
+      "file": "public/ets-2024/figures/test-05-q-001.webp",
+      "source": "tmp/ets/lc-05/page-03.png",
+      "sourceSize": [
+        1743,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper background/utility-pole strip is clipped.",
+      "currentSize": [
+        724,
+        981
+      ],
+      "suggestedBoxPixels": [
+        480,
+        153,
+        1227,
+        1209
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        491,
+        216,
+        1215,
+        1197
+      ],
+      "omittedApproxPixels": {
+        "left": 11,
+        "top": 63,
+        "right": 12,
+        "bottom": 12
+      }
+    },
+    {
+      "test": 5,
+      "question": 2,
+      "file": "public/ets-2024/figures/test-05-q-002.webp",
+      "source": "tmp/ets/lc-05/page-03.png",
+      "sourceSize": [
+        1743,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1109,
+        774
+      ],
+      "suggestedBoxPixels": [
+        270,
+        1359,
+        1405,
+        2159
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        280,
+        1371,
+        1389,
+        2145
+      ],
+      "omittedApproxPixels": {
+        "left": 10,
+        "top": 12,
+        "right": 16,
+        "bottom": 14
+      }
+    },
+    {
+      "test": 5,
+      "question": 3,
+      "file": "public/ets-2024/figures/test-05-q-003.webp",
+      "source": "tmp/ets/lc-05/page-04.png",
+      "sourceSize": [
+        1743,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1110,
+        793
+      ],
+      "suggestedBoxPixels": [
+        306,
+        157,
+        1441,
+        975
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        315,
+        169,
+        1425,
+        962
+      ],
+      "omittedApproxPixels": {
+        "left": 9,
+        "top": 12,
+        "right": 16,
+        "bottom": 13
+      }
+    },
+    {
+      "test": 5,
+      "question": 4,
+      "file": "public/ets-2024/figures/test-05-q-004.webp",
+      "source": "tmp/ets/lc-05/page-04.png",
+      "sourceSize": [
+        1743,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Right edge of the room/cabinet strip is clipped (about 59 source pixels).",
+      "currentSize": [
+        1065,
+        794
+      ],
+      "suggestedBoxPixels": [
+        309,
+        1124,
+        1444,
+        1939
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        320,
+        1131,
+        1385,
+        1925
+      ],
+      "omittedApproxPixels": {
+        "left": 11,
+        "top": 7,
+        "right": 59,
+        "bottom": 14
+      }
+    },
+    {
+      "test": 5,
+      "question": 5,
+      "file": "public/ets-2024/figures/test-05-q-005.webp",
+      "source": "tmp/ets/lc-05/page-05.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1107,
+        796
+      ],
+      "suggestedBoxPixels": [
+        270,
+        153,
+        1407,
+        970
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        287,
+        166,
+        1394,
+        962
+      ],
+      "omittedApproxPixels": {
+        "left": 17,
+        "top": 13,
+        "right": 13,
+        "bottom": 8
+      }
+    },
+    {
+      "test": 5,
+      "question": 6,
+      "file": "public/ets-2024/figures/test-05-q-006.webp",
+      "source": "tmp/ets/lc-05/page-05.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        724,
+        1031
+      ],
+      "suggestedBoxPixels": [
+        480,
+        1119,
+        1229,
+        2171
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        493,
+        1129,
+        1217,
+        2160
+      ],
+      "omittedApproxPixels": {
+        "left": 13,
+        "top": 10,
+        "right": 12,
+        "bottom": 11
+      }
+    },
+    {
+      "test": 6,
+      "question": 1,
+      "file": "public/ets-2024/figures/test-06-q-001.webp",
+      "source": "tmp/ets/lc-06/page-03.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Lower half missing: skier legs, skis, pole and snow foreground are clipped.",
+      "currentSize": [
+        1108,
+        451
+      ],
+      "suggestedBoxPixels": [
+        274,
+        142,
+        1407,
+        959
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        286,
+        153,
+        1394,
+        604
+      ],
+      "omittedApproxPixels": {
+        "left": 12,
+        "top": 11,
+        "right": 13,
+        "bottom": 355
+      }
+    },
+    {
+      "test": 6,
+      "question": 2,
+      "file": "public/ets-2024/figures/test-06-q-002.webp",
+      "source": "tmp/ets/lc-06/page-03.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1107,
+        796
+      ],
+      "suggestedBoxPixels": [
+        274,
+        1109,
+        1407,
+        1929
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        288,
+        1120,
+        1395,
+        1916
+      ],
+      "omittedApproxPixels": {
+        "left": 14,
+        "top": 11,
+        "right": 12,
+        "bottom": 13
+      }
+    },
+    {
+      "test": 6,
+      "question": 3,
+      "file": "public/ets-2024/figures/test-06-q-003.webp",
+      "source": "tmp/ets/lc-06/page-04.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper section missing: man's head and background car/houses/street are clipped.",
+      "currentSize": [
+        722,
+        651
+      ],
+      "suggestedBoxPixels": [
+        512,
+        142,
+        1261,
+        1201
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        524,
+        536,
+        1246,
+        1187
+      ],
+      "omittedApproxPixels": {
+        "left": 12,
+        "top": 394,
+        "right": 15,
+        "bottom": 14
+      }
+    },
+    {
+      "test": 6,
+      "question": 4,
+      "file": "public/ets-2024/figures/test-06-q-004.webp",
+      "source": "tmp/ets/lc-06/page-04.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper roof/sky and lower patio foreground are clipped.",
+      "currentSize": [
+        1107,
+        444
+      ],
+      "suggestedBoxPixels": [
+        306,
+        1350,
+        1443,
+        2146
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        316,
+        1494,
+        1423,
+        1938
+      ],
+      "omittedApproxPixels": {
+        "left": 10,
+        "top": 144,
+        "right": 20,
+        "bottom": 208
+      }
+    },
+    {
+      "test": 6,
+      "question": 5,
+      "file": "public/ets-2024/figures/test-06-q-005.webp",
+      "source": "tmp/ets/lc-06/page-05.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1106,
+        793
+      ],
+      "suggestedBoxPixels": [
+        274,
+        153,
+        1408,
+        971
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        287,
+        166,
+        1393,
+        959
+      ],
+      "omittedApproxPixels": {
+        "left": 13,
+        "top": 13,
+        "right": 15,
+        "bottom": 12
+      }
+    },
+    {
+      "test": 6,
+      "question": 6,
+      "file": "public/ets-2024/figures/test-06-q-006.webp",
+      "source": "tmp/ets/lc-06/page-05.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1106,
+        795
+      ],
+      "suggestedBoxPixels": [
+        274,
+        1116,
+        1408,
+        1938
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        287,
+        1130,
+        1393,
+        1925
+      ],
+      "omittedApproxPixels": {
+        "left": 13,
+        "top": 14,
+        "right": 15,
+        "bottom": 13
+      }
+    },
+    {
+      "test": 7,
+      "question": 1,
+      "file": "public/ets-2024/figures/test-07-q-001.webp",
+      "source": "tmp/ets/lc-07/page-03.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1103,
+        794
+      ],
+      "suggestedBoxPixels": [
+        277,
+        146,
+        1407,
+        963
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        289,
+        157,
+        1392,
+        951
+      ],
+      "omittedApproxPixels": {
+        "left": 12,
+        "top": 11,
+        "right": 15,
+        "bottom": 12
+      }
+    },
+    {
+      "test": 7,
+      "question": 2,
+      "file": "public/ets-2024/figures/test-07-q-002.webp",
+      "source": "tmp/ets/lc-07/page-03.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1103,
+        792
+      ],
+      "suggestedBoxPixels": [
+        277,
+        1109,
+        1407,
+        1929
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        290,
+        1122,
+        1393,
+        1914
+      ],
+      "omittedApproxPixels": {
+        "left": 13,
+        "top": 13,
+        "right": 14,
+        "bottom": 15
+      }
+    },
+    {
+      "test": 7,
+      "question": 3,
+      "file": "public/ets-2024/figures/test-07-q-003.webp",
+      "source": "tmp/ets/lc-07/page-04.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        723,
+        1025
+      ],
+      "suggestedBoxPixels": [
+        512,
+        146,
+        1261,
+        1201
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        524,
+        164,
+        1247,
+        1189
+      ],
+      "omittedApproxPixels": {
+        "left": 12,
+        "top": 18,
+        "right": 14,
+        "bottom": 12
+      }
+    },
+    {
+      "test": 7,
+      "question": 4,
+      "file": "public/ets-2024/figures/test-07-q-004.webp",
+      "source": "tmp/ets/lc-07/page-04.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1094,
+        767
+      ],
+      "suggestedBoxPixels": [
+        306,
+        1350,
+        1439,
+        2146
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        317,
+        1360,
+        1411,
+        2127
+      ],
+      "omittedApproxPixels": {
+        "left": 11,
+        "top": 10,
+        "right": 28,
+        "bottom": 19
+      }
+    },
+    {
+      "test": 7,
+      "question": 5,
+      "file": "public/ets-2024/figures/test-07-q-005.webp",
+      "source": "tmp/ets/lc-07/page-05.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Only a narrow middle strip remains; street light, sky, pedestrians' legs and foreground street are missing.",
+      "currentSize": [
+        722,
+        277
+      ],
+      "suggestedBoxPixels": [
+        480,
+        146,
+        1229,
+        1201
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        492,
+        436,
+        1214,
+        713
+      ],
+      "omittedApproxPixels": {
+        "left": 12,
+        "top": 290,
+        "right": 15,
+        "bottom": 488
+      }
+    },
+    {
+      "test": 7,
+      "question": 6,
+      "file": "public/ets-2024/figures/test-07-q-006.webp",
+      "source": "tmp/ets/lc-07/page-05.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1107,
+        775
+      ],
+      "suggestedBoxPixels": [
+        270,
+        1350,
+        1403,
+        2150
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        282,
+        1363,
+        1389,
+        2138
+      ],
+      "omittedApproxPixels": {
+        "left": 12,
+        "top": 13,
+        "right": 14,
+        "bottom": 12
+      }
+    },
+    {
+      "test": 8,
+      "question": 1,
+      "file": "public/ets-2024/figures/test-08-q-001.webp",
+      "source": "tmp/ets/lc-08/page-03.png",
+      "sourceSize": [
+        1750,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper wall and lower floor areas are clipped.",
+      "currentSize": [
+        659,
+        679
+      ],
+      "suggestedBoxPixels": [
+        493,
+        146,
+        1175,
+        1121
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        503,
+        341,
+        1162,
+        1020
+      ],
+      "omittedApproxPixels": {
+        "left": 10,
+        "top": 195,
+        "right": 13,
+        "bottom": 101
+      }
+    },
+    {
+      "test": 8,
+      "question": 2,
+      "file": "public/ets-2024/figures/test-08-q-002.webp",
+      "source": "tmp/ets/lc-08/page-03.png",
+      "sourceSize": [
+        1750,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        658,
+        939
+      ],
+      "suggestedBoxPixels": [
+        493,
+        1211,
+        1175,
+        2182
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        507,
+        1221,
+        1165,
+        2160
+      ],
+      "omittedApproxPixels": {
+        "left": 14,
+        "top": 10,
+        "right": 10,
+        "bottom": 22
+      }
+    },
+    {
+      "test": 8,
+      "question": 3,
+      "file": "public/ets-2024/figures/test-08-q-003.webp",
+      "source": "tmp/ets/lc-08/page-04.png",
+      "sourceSize": [
+        1750,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Left waterside/jetty region, including part of the signpost, is clipped.",
+      "currentSize": [
+        888,
+        709
+      ],
+      "suggestedBoxPixels": [
+        357,
+        146,
+        1496,
+        964
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        592,
+        242,
+        1480,
+        951
+      ],
+      "omittedApproxPixels": {
+        "left": 235,
+        "top": 96,
+        "right": 16,
+        "bottom": 13
+      }
+    },
+    {
+      "test": 8,
+      "question": 4,
+      "file": "public/ets-2024/figures/test-08-q-004.webp",
+      "source": "tmp/ets/lc-08/page-04.png",
+      "sourceSize": [
+        1750,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1110,
+        796
+      ],
+      "suggestedBoxPixels": [
+        357,
+        1111,
+        1496,
+        1936
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        369,
+        1124,
+        1479,
+        1920
+      ],
+      "omittedApproxPixels": {
+        "left": 12,
+        "top": 13,
+        "right": 17,
+        "bottom": 16
+      }
+    },
+    {
+      "test": 8,
+      "question": 5,
+      "file": "public/ets-2024/figures/test-08-q-005.webp",
+      "source": "tmp/ets/lc-08/page-05.png",
+      "sourceSize": [
+        1751,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1112,
+        793
+      ],
+      "suggestedBoxPixels": [
+        272,
+        147,
+        1412,
+        968
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        286,
+        158,
+        1398,
+        951
+      ],
+      "omittedApproxPixels": {
+        "left": 14,
+        "top": 11,
+        "right": 14,
+        "bottom": 17
+      }
+    },
+    {
+      "test": 8,
+      "question": 6,
+      "file": "public/ets-2024/figures/test-08-q-006.webp",
+      "source": "tmp/ets/lc-08/page-05.png",
+      "sourceSize": [
+        1751,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper wall/clock/noticeboard and right instruments/wall area are missing; only the bed/lower region remains.",
+      "currentSize": [
+        908,
+        337
+      ],
+      "suggestedBoxPixels": [
+        275,
+        1111,
+        1415,
+        1937
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        293,
+        1585,
+        1201,
+        1922
+      ],
+      "omittedApproxPixels": {
+        "left": 18,
+        "top": 474,
+        "right": 214,
+        "bottom": 15
+      }
+    },
+    {
+      "test": 9,
+      "question": 1,
+      "file": "public/ets-2024/figures/test-09-q-001.webp",
+      "source": "tmp/ets/lc-09/page-03.png",
+      "sourceSize": [
+        1749,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Top of head and upper door/wall area are clipped.",
+      "currentSize": [
+        632,
+        777
+      ],
+      "suggestedBoxPixels": [
+        485,
+        146,
+        1167,
+        1121
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        508,
+        323,
+        1140,
+        1100
+      ],
+      "omittedApproxPixels": {
+        "left": 23,
+        "top": 177,
+        "right": 27,
+        "bottom": 21
+      }
+    },
+    {
+      "test": 9,
+      "question": 2,
+      "file": "public/ets-2024/figures/test-09-q-002.webp",
+      "source": "tmp/ets/lc-09/page-03.png",
+      "sourceSize": [
+        1749,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper ceiling/sign region and lower table legs/floor are missing.",
+      "currentSize": [
+        657,
+        358
+      ],
+      "suggestedBoxPixels": [
+        485,
+        1206,
+        1167,
+        2181
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        502,
+        1450,
+        1159,
+        1808
+      ],
+      "omittedApproxPixels": {
+        "left": 17,
+        "top": 244,
+        "right": 8,
+        "bottom": 373
+      }
+    },
+    {
+      "test": 9,
+      "question": 3,
+      "file": "public/ets-2024/figures/test-09-q-003.webp",
+      "source": "tmp/ets/lc-09/page-04.png",
+      "sourceSize": [
+        1749,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper wall/picture/cabinet region is clipped.",
+      "currentSize": [
+        659,
+        695
+      ],
+      "suggestedBoxPixels": [
+        593,
+        143,
+        1274,
+        1117
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        603,
+        410,
+        1262,
+        1105
+      ],
+      "omittedApproxPixels": {
+        "left": 10,
+        "top": 267,
+        "right": 12,
+        "bottom": 12
+      }
+    },
+    {
+      "test": 9,
+      "question": 4,
+      "file": "public/ets-2024/figures/test-09-q-004.webp",
+      "source": "tmp/ets/lc-09/page-04.png",
+      "sourceSize": [
+        1749,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1112,
+        796
+      ],
+      "suggestedBoxPixels": [
+        357,
+        1206,
+        1499,
+        2027
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        374,
+        1217,
+        1486,
+        2013
+      ],
+      "omittedApproxPixels": {
+        "left": 17,
+        "top": 11,
+        "right": 13,
+        "bottom": 14
+      }
+    },
+    {
+      "test": 9,
+      "question": 5,
+      "file": "public/ets-2024/figures/test-09-q-005.webp",
+      "source": "tmp/ets/lc-09/page-05.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1109,
+        796
+      ],
+      "suggestedBoxPixels": [
+        274,
+        146,
+        1408,
+        963
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        286,
+        156,
+        1395,
+        952
+      ],
+      "omittedApproxPixels": {
+        "left": 12,
+        "top": 10,
+        "right": 13,
+        "bottom": 11
+      }
+    },
+    {
+      "test": 9,
+      "question": 6,
+      "file": "public/ets-2024/figures/test-09-q-006.webp",
+      "source": "tmp/ets/lc-09/page-05.png",
+      "sourceSize": [
+        1742,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        655,
+        949
+      ],
+      "suggestedBoxPixels": [
+        483,
+        1052,
+        1163,
+        2026
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        497,
+        1063,
+        1152,
+        2012
+      ],
+      "omittedApproxPixels": {
+        "left": 14,
+        "top": 11,
+        "right": 11,
+        "bottom": 14
+      }
+    },
+    {
+      "test": 10,
+      "question": 1,
+      "file": "public/ets-2024/figures/test-10-q-001.webp",
+      "source": "tmp/ets/lc-10/page-03.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper shop shelving/ceiling strip is clipped.",
+      "currentSize": [
+        1111,
+        698
+      ],
+      "suggestedBoxPixels": [
+        313,
+        146,
+        1450,
+        963
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        324,
+        257,
+        1435,
+        955
+      ],
+      "omittedApproxPixels": {
+        "left": 11,
+        "top": 111,
+        "right": 15,
+        "bottom": 8
+      }
+    },
+    {
+      "test": 10,
+      "question": 2,
+      "file": "public/ets-2024/figures/test-10-q-002.webp",
+      "source": "tmp/ets/lc-10/page-03.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1111,
+        788
+      ],
+      "suggestedBoxPixels": [
+        313,
+        1112,
+        1450,
+        1933
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        324,
+        1128,
+        1435,
+        1916
+      ],
+      "omittedApproxPixels": {
+        "left": 11,
+        "top": 16,
+        "right": 15,
+        "bottom": 17
+      }
+    },
+    {
+      "test": 10,
+      "question": 3,
+      "file": "public/ets-2024/figures/test-10-q-003.webp",
+      "source": "tmp/ets/lc-10/page-04.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1114,
+        795
+      ],
+      "suggestedBoxPixels": [
+        359,
+        146,
+        1496,
+        966
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        371,
+        157,
+        1485,
+        952
+      ],
+      "omittedApproxPixels": {
+        "left": 12,
+        "top": 11,
+        "right": 11,
+        "bottom": 14
+      }
+    },
+    {
+      "test": 10,
+      "question": 4,
+      "file": "public/ets-2024/figures/test-10-q-004.webp",
+      "source": "tmp/ets/lc-10/page-04.png",
+      "sourceSize": [
+        1741,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Upper wall strip and rightmost dining chair/floor region are clipped.",
+      "currentSize": [
+        842,
+        722
+      ],
+      "suggestedBoxPixels": [
+        359,
+        1112,
+        1496,
+        1929
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        377,
+        1185,
+        1219,
+        1907
+      ],
+      "omittedApproxPixels": {
+        "left": 18,
+        "top": 73,
+        "right": 277,
+        "bottom": 22
+      }
+    },
+    {
+      "test": 10,
+      "question": 5,
+      "file": "public/ets-2024/figures/test-10-q-005.webp",
+      "source": "tmp/ets/lc-10/page-05.png",
+      "sourceSize": [
+        1748,
+        2400
+      ],
+      "status": "visually-complete",
+      "issue": null,
+      "currentSize": [
+        1116,
+        773
+      ],
+      "suggestedBoxPixels": [
+        278,
+        146,
+        1423,
+        942
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        292,
+        157,
+        1408,
+        930
+      ],
+      "omittedApproxPixels": {
+        "left": 14,
+        "top": 11,
+        "right": 15,
+        "bottom": 12
+      }
+    },
+    {
+      "test": 10,
+      "question": 6,
+      "file": "public/ets-2024/figures/test-10-q-006.webp",
+      "source": "tmp/ets/lc-10/page-05.png",
+      "sourceSize": [
+        1748,
+        2400
+      ],
+      "status": "clipped",
+      "issue": "Lower foreground, including the drain/grating and floor beneath it, is clipped (about 95 source pixels).",
+      "currentSize": [
+        729,
+        956
+      ],
+      "suggestedBoxPixels": [
+        492,
+        1092,
+        1249,
+        2155
+      ],
+      "boundsMethod": "manual source comparison sheet rectangle, padded by 3 preview pixels; crop directly without density re-trimming",
+      "detectedBoxPixels": [
+        506,
+        1104,
+        1235,
+        2060
+      ],
+      "omittedApproxPixels": {
+        "left": 14,
+        "top": 12,
+        "right": 14,
+        "bottom": 95
+      }
+    }
+  ],
+  "graphics": [
+    {
+      "file": "public/ets-2024/figures/test-01-graphic-62.webp",
+      "test": 1,
+      "groupStart": 62,
+      "source": "tmp/ets/lc-01/page-09.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-01-graphic-65.webp",
+      "test": 1,
+      "groupStart": 65,
+      "source": "tmp/ets/lc-01/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-01-graphic-68.webp",
+      "test": 1,
+      "groupStart": 68,
+      "source": "tmp/ets/lc-01/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-01-graphic-95.webp",
+      "test": 1,
+      "groupStart": 95,
+      "source": "tmp/ets/lc-01/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-01-graphic-98.webp",
+      "test": 1,
+      "groupStart": 98,
+      "source": "tmp/ets/lc-01/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-02-graphic-62.webp",
+      "test": 2,
+      "groupStart": 62,
+      "source": "tmp/ets/lc-02/page-09.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-02-graphic-65.webp",
+      "test": 2,
+      "groupStart": 65,
+      "source": "tmp/ets/lc-02/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-02-graphic-68.webp",
+      "test": 2,
+      "groupStart": 68,
+      "source": "tmp/ets/lc-02/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-02-graphic-95.webp",
+      "test": 2,
+      "groupStart": 95,
+      "source": "tmp/ets/lc-02/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-02-graphic-98.webp",
+      "test": 2,
+      "groupStart": 98,
+      "source": "tmp/ets/lc-02/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-03-graphic-62.webp",
+      "test": 3,
+      "groupStart": 62,
+      "source": "tmp/ets/lc-03/page-09.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-03-graphic-65.webp",
+      "test": 3,
+      "groupStart": 65,
+      "source": "tmp/ets/lc-03/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-03-graphic-68.webp",
+      "test": 3,
+      "groupStart": 68,
+      "source": "tmp/ets/lc-03/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-03-graphic-95.webp",
+      "test": 3,
+      "groupStart": 95,
+      "source": "tmp/ets/lc-03/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-03-graphic-98.webp",
+      "test": 3,
+      "groupStart": 98,
+      "source": "tmp/ets/lc-03/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-04-graphic-62.webp",
+      "test": 4,
+      "groupStart": 62,
+      "source": "tmp/ets/lc-04/page-09.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-04-graphic-65.webp",
+      "test": 4,
+      "groupStart": 65,
+      "source": "tmp/ets/lc-04/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-04-graphic-68.webp",
+      "test": 4,
+      "groupStart": 68,
+      "source": "tmp/ets/lc-04/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-04-graphic-95.webp",
+      "test": 4,
+      "groupStart": 95,
+      "source": "tmp/ets/lc-04/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-04-graphic-98.webp",
+      "test": 4,
+      "groupStart": 98,
+      "source": "tmp/ets/lc-04/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-05-graphic-62.webp",
+      "test": 5,
+      "groupStart": 62,
+      "source": "tmp/ets/lc-05/page-09.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-05-graphic-65.webp",
+      "test": 5,
+      "groupStart": 65,
+      "source": "tmp/ets/lc-05/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-05-graphic-68.webp",
+      "test": 5,
+      "groupStart": 68,
+      "source": "tmp/ets/lc-05/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-05-graphic-95.webp",
+      "test": 5,
+      "groupStart": 95,
+      "source": "tmp/ets/lc-05/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-05-graphic-98.webp",
+      "test": 5,
+      "groupStart": 98,
+      "source": "tmp/ets/lc-05/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-06-graphic-62.webp",
+      "test": 6,
+      "groupStart": 62,
+      "source": "tmp/ets/lc-06/page-09.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-06-graphic-65.webp",
+      "test": 6,
+      "groupStart": 65,
+      "source": "tmp/ets/lc-06/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-06-graphic-68.webp",
+      "test": 6,
+      "groupStart": 68,
+      "source": "tmp/ets/lc-06/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-06-graphic-95.webp",
+      "test": 6,
+      "groupStart": 95,
+      "source": "tmp/ets/lc-06/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-06-graphic-98.webp",
+      "test": 6,
+      "groupStart": 98,
+      "source": "tmp/ets/lc-06/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-07-graphic-62.webp",
+      "test": 7,
+      "groupStart": 62,
+      "source": "tmp/ets/lc-07/page-09.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-07-graphic-65.webp",
+      "test": 7,
+      "groupStart": 65,
+      "source": "tmp/ets/lc-07/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-07-graphic-68.webp",
+      "test": 7,
+      "groupStart": 68,
+      "source": "tmp/ets/lc-07/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-07-graphic-95.webp",
+      "test": 7,
+      "groupStart": 95,
+      "source": "tmp/ets/lc-07/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-07-graphic-98.webp",
+      "test": 7,
+      "groupStart": 98,
+      "source": "tmp/ets/lc-07/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-08-graphic-62.webp",
+      "test": 8,
+      "groupStart": 62,
+      "source": "tmp/ets/lc-08/page-09.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-08-graphic-65.webp",
+      "test": 8,
+      "groupStart": 65,
+      "source": "tmp/ets/lc-08/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-08-graphic-68.webp",
+      "test": 8,
+      "groupStart": 68,
+      "source": "tmp/ets/lc-08/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-08-graphic-95.webp",
+      "test": 8,
+      "groupStart": 95,
+      "source": "tmp/ets/lc-08/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-08-graphic-98.webp",
+      "test": 8,
+      "groupStart": 98,
+      "source": "tmp/ets/lc-08/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-09-graphic-62.webp",
+      "test": 9,
+      "groupStart": 62,
+      "source": "tmp/ets/lc-09/page-09.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-09-graphic-65.webp",
+      "test": 9,
+      "groupStart": 65,
+      "source": "tmp/ets/lc-09/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-09-graphic-68.webp",
+      "test": 9,
+      "groupStart": 68,
+      "source": "tmp/ets/lc-09/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-09-graphic-95.webp",
+      "test": 9,
+      "groupStart": 95,
+      "source": "tmp/ets/lc-09/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-09-graphic-98.webp",
+      "test": 9,
+      "groupStart": 98,
+      "source": "tmp/ets/lc-09/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-10-graphic-62.webp",
+      "test": 10,
+      "groupStart": 62,
+      "source": "tmp/ets/lc-10/page-09.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-10-graphic-65.webp",
+      "test": 10,
+      "groupStart": 65,
+      "source": "tmp/ets/lc-10/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-10-graphic-68.webp",
+      "test": 10,
+      "groupStart": 68,
+      "source": "tmp/ets/lc-10/page-10.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-10-graphic-95.webp",
+      "test": 10,
+      "groupStart": 95,
+      "source": "tmp/ets/lc-10/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    },
+    {
+      "file": "public/ets-2024/figures/test-10-graphic-98.webp",
+      "test": 10,
+      "groupStart": 98,
+      "source": "tmp/ets/lc-10/page-13.png",
+      "status": "visually-complete",
+      "verification": "Compared contact-sheet extraction against source-page composition, all graphic borders/labels/data remain present."
+    }
+  ],
+  "evidenceDirectory": "tmp/ets/figure-audit"
+}

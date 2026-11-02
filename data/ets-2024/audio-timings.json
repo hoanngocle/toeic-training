@@ -1,0 +1,303 @@
+{
+  "method": "Offline Chromium WebAudio decoded original MP3 to 16kHz mono; normalized RMS-envelope correlation at 50Hz against original Test01 Part cut announcements. No network upload or source modification.",
+  "resolutionSeconds": 0.02,
+  "boundaryPolicy": "Part1 begins at file start, preserving general instructions. Parts2–4 begin in the final verified 0.20-second quiet span before the matched Part announcement. Each Part ends at the next playback start; Part4 ends at decoded original duration.",
+  "verification": "Recorded-speech waveform matching, not a human listening pass. Different title-to-directions pauses in Tests08/09 were resolved by matching the spoken title independently.",
+  "tests": [
+    {
+      "id": 6,
+      "duration": 2742.88325,
+      "sha256": "5e8893c8aba2ac065a1e3b05ddf2e4ff047286e5d6abe8566eeabc23326d4400",
+      "parts": [
+        {
+          "number": 1,
+          "start": 0,
+          "evidence": {
+            "template": "PART 1 - TEST 1.mp3",
+            "templateOffset": 0,
+            "matchedSpeechStart": 93.34,
+            "matchedSeconds": 5,
+            "correlation": 0.977029,
+            "quietSpanSeconds": null
+          },
+          "end": 271.08
+        },
+        {
+          "number": 2,
+          "start": 271.08,
+          "evidence": {
+            "template": "PART 2 - TEST 1.mp3",
+            "templateOffset": 0.74,
+            "matchedSpeechStart": 271.28,
+            "matchedSeconds": 1,
+            "correlation": 0.960467,
+            "quietSpanSeconds": 0.2
+          },
+          "end": 806.26
+        },
+        {
+          "number": 3,
+          "start": 806.26,
+          "evidence": {
+            "template": "PART 3 - TEST 1.mp3",
+            "templateOffset": 4.52,
+            "matchedSpeechStart": 806.46,
+            "matchedSeconds": 1,
+            "correlation": 0.997333,
+            "quietSpanSeconds": 0.2
+          },
+          "end": 1890.82
+        },
+        {
+          "number": 4,
+          "start": 1890.82,
+          "evidence": {
+            "template": "PART 4 - TEST 1.mp3",
+            "templateOffset": 6.2,
+            "matchedSpeechStart": 1891.02,
+            "matchedSeconds": 1,
+            "correlation": 0.98171,
+            "quietSpanSeconds": 0.2
+          },
+          "end": 2742.88325
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "duration": 2736.091375,
+      "sha256": "e4843b3ac250fe2f3f563eb1fdde9bf70c113890a9ce9aa5491738b09a0a76a1",
+      "parts": [
+        {
+          "number": 1,
+          "start": 0,
+          "evidence": {
+            "template": "PART 1 - TEST 1.mp3",
+            "templateOffset": 0,
+            "matchedSpeechStart": 93.32,
+            "matchedSeconds": 5,
+            "correlation": 0.97538,
+            "quietSpanSeconds": null
+          },
+          "end": 274.7
+        },
+        {
+          "number": 2,
+          "start": 274.7,
+          "evidence": {
+            "template": "PART 2 - TEST 1.mp3",
+            "templateOffset": 0.74,
+            "matchedSpeechStart": 274.9,
+            "matchedSeconds": 1,
+            "correlation": 0.978497,
+            "quietSpanSeconds": 0.2
+          },
+          "end": 837.96
+        },
+        {
+          "number": 3,
+          "start": 837.96,
+          "evidence": {
+            "template": "PART 3 - TEST 1.mp3",
+            "templateOffset": 4.52,
+            "matchedSpeechStart": 838.16,
+            "matchedSeconds": 1,
+            "correlation": 0.998902,
+            "quietSpanSeconds": 0.2
+          },
+          "end": 1880.36
+        },
+        {
+          "number": 4,
+          "start": 1880.36,
+          "evidence": {
+            "template": "PART 4 - TEST 1.mp3",
+            "templateOffset": 6.2,
+            "matchedSpeechStart": 1880.56,
+            "matchedSeconds": 1,
+            "correlation": 0.994282,
+            "quietSpanSeconds": 0.2
+          },
+          "end": 2736.091375
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "duration": 2758.9746875,
+      "sha256": "4620ff46f61b2e6573456acfafb84123ed9014907a7f9799fd2575c2d52b5a7a",
+      "parts": [
+        {
+          "number": 1,
+          "start": 0,
+          "evidence": {
+            "template": "PART 1 - TEST 1.mp3",
+            "templateOffset": 0,
+            "matchedSpeechStart": 93.34,
+            "matchedSeconds": 5,
+            "correlation": 0.97526,
+            "quietSpanSeconds": null
+          },
+          "end": 268.98
+        },
+        {
+          "number": 2,
+          "start": 268.98,
+          "evidence": {
+            "template": "PART 2 - TEST 1.mp3",
+            "templateOffset": 0.74,
+            "matchedSpeechStart": 269.18,
+            "matchedSeconds": 1,
+            "correlation": 0.978008,
+            "quietSpanSeconds": 0.2
+          },
+          "end": 804.44
+        },
+        {
+          "number": 3,
+          "start": 804.44,
+          "evidence": {
+            "template": "PART 3 - TEST 1.mp3",
+            "templateOffset": 4.52,
+            "matchedSpeechStart": 804.64,
+            "matchedSeconds": 1,
+            "correlation": 0.984172,
+            "quietSpanSeconds": 0.2
+          },
+          "end": 1902.32
+        },
+        {
+          "number": 4,
+          "start": 1902.32,
+          "evidence": {
+            "template": "PART 4 - TEST 1.mp3",
+            "templateOffset": 6.2,
+            "matchedSpeechStart": 1902.52,
+            "matchedSeconds": 1,
+            "correlation": 0.995654,
+            "quietSpanSeconds": 0.2
+          },
+          "end": 2758.9746875
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "duration": 2776.6073125,
+      "sha256": "b8f9d61c84e8ac5c80948affad02296ce3b126ab7c89bc2b1839131e3a20bc55",
+      "parts": [
+        {
+          "number": 1,
+          "start": 0,
+          "evidence": {
+            "template": "PART 1 - TEST 1.mp3",
+            "templateOffset": 0,
+            "matchedSpeechStart": 93.36,
+            "matchedSeconds": 5,
+            "correlation": 0.985973,
+            "quietSpanSeconds": null
+          },
+          "end": 269.7
+        },
+        {
+          "number": 2,
+          "start": 269.7,
+          "evidence": {
+            "template": "PART 2 - TEST 1.mp3",
+            "templateOffset": 0.74,
+            "matchedSpeechStart": 269.9,
+            "matchedSeconds": 1,
+            "correlation": 0.964112,
+            "quietSpanSeconds": 0.2
+          },
+          "end": 813.54
+        },
+        {
+          "number": 3,
+          "start": 813.54,
+          "evidence": {
+            "template": "PART 3 - TEST 1.mp3",
+            "templateOffset": 4.52,
+            "matchedSpeechStart": 813.74,
+            "matchedSeconds": 1,
+            "correlation": 0.999835,
+            "quietSpanSeconds": 0.2
+          },
+          "end": 1940.02
+        },
+        {
+          "number": 4,
+          "start": 1940.02,
+          "evidence": {
+            "template": "PART 4 - TEST 1.mp3",
+            "templateOffset": 6.2,
+            "matchedSpeechStart": 1940.24,
+            "matchedSeconds": 1,
+            "correlation": 0.997162,
+            "quietSpanSeconds": 0.2
+          },
+          "end": 2776.6073125
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "duration": 2758.217125,
+      "sha256": "1363ff48d17ac5f5f410b377f87473c33dc744adfea56f93869ea0ddb8792ef3",
+      "parts": [
+        {
+          "number": 1,
+          "start": 0,
+          "evidence": {
+            "template": "PART 1 - TEST 1.mp3",
+            "templateOffset": 0,
+            "matchedSpeechStart": 93.24,
+            "matchedSeconds": 5,
+            "correlation": 0.974932,
+            "quietSpanSeconds": null
+          },
+          "end": 275.58
+        },
+        {
+          "number": 2,
+          "start": 275.58,
+          "evidence": {
+            "template": "PART 2 - TEST 1.mp3",
+            "templateOffset": 0.74,
+            "matchedSpeechStart": 275.78,
+            "matchedSeconds": 1,
+            "correlation": 0.987524,
+            "quietSpanSeconds": 0.2
+          },
+          "end": 825.16
+        },
+        {
+          "number": 3,
+          "start": 825.16,
+          "evidence": {
+            "template": "PART 3 - TEST 1.mp3",
+            "templateOffset": 4.52,
+            "matchedSpeechStart": 825.36,
+            "matchedSeconds": 1,
+            "correlation": 0.988251,
+            "quietSpanSeconds": 0.2
+          },
+          "end": 1904.82
+        },
+        {
+          "number": 4,
+          "start": 1904.82,
+          "evidence": {
+            "template": "PART 4 - TEST 1.mp3",
+            "templateOffset": 6.2,
+            "matchedSpeechStart": 1905.02,
+            "matchedSeconds": 1,
+            "correlation": 0.988753,
+            "quietSpanSeconds": 0.2
+          },
+          "end": 2758.217125
+        }
+      ]
+    }
+  ]
+}

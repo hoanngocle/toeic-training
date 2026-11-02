@@ -6,6 +6,10 @@
 
 Version `toeic-learning-v1`: base mỗi câu 16 EXP, hướng Việt → Anh nhân 1,15. Essential dùng base 16. Tổng base của lượt nhân hệ số kết quả: sai hết 0; dưới 50% là 0,5; từ 50% đến dưới 90% là 0,7; từ 90% đến dưới 100% là 1,5; đúng hết là 2. Làm tròn xuống một lần ở cuối. Flashcards không có EXP.
 
+Version `toeic-learning-badges-v2` giữ nguyên EXP gốc, thêm buff huy hiệu: cấp thứ n trong mỗi nhóm cho `n × 0,5%` EXP. Cộng tất cả huy hiệu đã mở, kể cả các cấp thấp trong cùng nhóm; không giới hạn tổng. Với 43 huy hiệu hiện tại, tổng có thể đạt 77%. EXP thưởng thêm = `floor(EXP gốc × tổng buff / 100)`.
+
+Server lấy huy hiệu từ lịch sử đã lưu và thành tích được giữ lại trước lượt nộp bài. Huy hiệu vừa mở có hiệu lực từ lượt tiếp theo. Snapshot lưu `baseExp`, `badgeBonusPercent`, `bonusExp`; gửi lại bài giữ nguyên snapshot. Không cộng bù cho các lượt cũ; backfill giữ nguyên cả v1 và v2 đã được cấp. Chạy `supabase/migrations/202611020002_badge_exp.sql` trước khi triển khai mã server dùng buff.
+
 Chấm bài và tính thưởng ở máy chủ. `learning_exp_ledger` ghi nguồn, snapshot công thức và version riêng theo người dùng. Cùng ID trong vocabulary và Essential là hai nguồn khác nhau; gửi lại cùng bài không cộng trùng. Transaction lưu session, tiến độ, ngày hoạt động và EXP cùng thành công hoặc cùng hoàn tác. Chỉ lần lưu đầu trả thông báo tăng cấp; lịch sử/retry giữ số thưởng cũ.
 
 ## Backend thực tế

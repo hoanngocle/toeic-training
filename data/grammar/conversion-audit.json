@@ -1,0 +1,922 @@
+[
+  {
+    "category": "listening-part-2",
+    "page": 1,
+    "sourceWords": 184,
+    "blocks": 39,
+    "tables": 10,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 2,
+    "sourceWords": 59,
+    "blocks": 9,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 3,
+    "sourceWords": 59,
+    "blocks": 7,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 4,
+    "sourceWords": 126,
+    "blocks": 12,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 5,
+    "sourceWords": 58,
+    "blocks": 6,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 6,
+    "sourceWords": 118,
+    "blocks": 7,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 7,
+    "sourceWords": 187,
+    "blocks": 15,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 8,
+    "sourceWords": 120,
+    "blocks": 4,
+    "tables": 3,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 9,
+    "sourceWords": 175,
+    "blocks": 24,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 10,
+    "sourceWords": 85,
+    "blocks": 3,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 11,
+    "sourceWords": 142,
+    "blocks": 8,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 12,
+    "sourceWords": 154,
+    "blocks": 16,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 13,
+    "sourceWords": 161,
+    "blocks": 15,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 14,
+    "sourceWords": 131,
+    "blocks": 12,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 15,
+    "sourceWords": 80,
+    "blocks": 7,
+    "tables": 4,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 16,
+    "sourceWords": 128,
+    "blocks": 6,
+    "tables": 3,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 17,
+    "sourceWords": 204,
+    "blocks": 23,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 18,
+    "sourceWords": 87,
+    "blocks": 8,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 19,
+    "sourceWords": 102,
+    "blocks": 6,
+    "tables": 3,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 20,
+    "sourceWords": 134,
+    "blocks": 20,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 21,
+    "sourceWords": 134,
+    "blocks": 10,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 22,
+    "sourceWords": 140,
+    "blocks": 13,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 23,
+    "sourceWords": 104,
+    "blocks": 4,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 24,
+    "sourceWords": 126,
+    "blocks": 6,
+    "tables": 3,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 25,
+    "sourceWords": 121,
+    "blocks": 3,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 26,
+    "sourceWords": 165,
+    "blocks": 13,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 27,
+    "sourceWords": 76,
+    "blocks": 5,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 28,
+    "sourceWords": 223,
+    "blocks": 18,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 29,
+    "sourceWords": 42,
+    "blocks": 5,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 30,
+    "sourceWords": 143,
+    "blocks": 5,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 31,
+    "sourceWords": 161,
+    "blocks": 8,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 32,
+    "sourceWords": 275,
+    "blocks": 26,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-2",
+    "page": 33,
+    "sourceWords": 100,
+    "blocks": 11,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 1,
+    "sourceWords": 239,
+    "blocks": 25,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 2,
+    "sourceWords": 308,
+    "blocks": 21,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 3,
+    "sourceWords": 271,
+    "blocks": 20,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 4,
+    "sourceWords": 234,
+    "blocks": 24,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 5,
+    "sourceWords": 263,
+    "blocks": 22,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 6,
+    "sourceWords": 218,
+    "blocks": 22,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 7,
+    "sourceWords": 316,
+    "blocks": 21,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 8,
+    "sourceWords": 262,
+    "blocks": 23,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 9,
+    "sourceWords": 339,
+    "blocks": 22,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 10,
+    "sourceWords": 295,
+    "blocks": 16,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 11,
+    "sourceWords": 376,
+    "blocks": 11,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 12,
+    "sourceWords": 366,
+    "blocks": 25,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 13,
+    "sourceWords": 164,
+    "blocks": 15,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 14,
+    "sourceWords": 256,
+    "blocks": 21,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 15,
+    "sourceWords": 248,
+    "blocks": 20,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 16,
+    "sourceWords": 206,
+    "blocks": 23,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 17,
+    "sourceWords": 304,
+    "blocks": 24,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 18,
+    "sourceWords": 306,
+    "blocks": 22,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 19,
+    "sourceWords": 245,
+    "blocks": 17,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 20,
+    "sourceWords": 135,
+    "blocks": 16,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 21,
+    "sourceWords": 199,
+    "blocks": 14,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 22,
+    "sourceWords": 61,
+    "blocks": 12,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 23,
+    "sourceWords": 265,
+    "blocks": 21,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 24,
+    "sourceWords": 222,
+    "blocks": 13,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 25,
+    "sourceWords": 387,
+    "blocks": 25,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 26,
+    "sourceWords": 397,
+    "blocks": 22,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 27,
+    "sourceWords": 413,
+    "blocks": 19,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "listening-part-3",
+    "page": 28,
+    "sourceWords": 45,
+    "blocks": 3,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "reading-part-6",
+    "page": 1,
+    "sourceWords": 168,
+    "blocks": 25,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "reading-part-6",
+    "page": 2,
+    "sourceWords": 126,
+    "blocks": 29,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "reading-part-6",
+    "page": 3,
+    "sourceWords": 150,
+    "blocks": 28,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "reading-part-6",
+    "page": 4,
+    "sourceWords": 192,
+    "blocks": 29,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "reading-part-6",
+    "page": 5,
+    "sourceWords": 18,
+    "blocks": 1,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "reading-part-7",
+    "page": 1,
+    "sourceWords": 356,
+    "blocks": 27,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "reading-part-7",
+    "page": 2,
+    "sourceWords": 393,
+    "blocks": 21,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "reading-part-7",
+    "page": 3,
+    "sourceWords": 450,
+    "blocks": 21,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "reading-part-7",
+    "page": 4,
+    "sourceWords": 438,
+    "blocks": 18,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "reading-part-7",
+    "page": 5,
+    "sourceWords": 605,
+    "blocks": 11,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "reading-part-7",
+    "page": 6,
+    "sourceWords": 673,
+    "blocks": 8,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "reading-part-7",
+    "page": 7,
+    "sourceWords": 347,
+    "blocks": 21,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "reading-part-7",
+    "page": 8,
+    "sourceWords": 307,
+    "blocks": 21,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "reading-part-7",
+    "page": 9,
+    "sourceWords": 398,
+    "blocks": 22,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "reading-part-7",
+    "page": 10,
+    "sourceWords": 58,
+    "blocks": 5,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "tinh-tu",
+    "page": 1,
+    "sourceWords": 184,
+    "blocks": 5,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "tinh-tu",
+    "page": 2,
+    "sourceWords": 166,
+    "blocks": 4,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "tinh-tu",
+    "page": 3,
+    "sourceWords": 196,
+    "blocks": 8,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "tinh-tu",
+    "page": 4,
+    "sourceWords": 74,
+    "blocks": 1,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "tinh-tu",
+    "page": 5,
+    "sourceWords": 220,
+    "blocks": 14,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "tinh-tu",
+    "page": 6,
+    "sourceWords": 53,
+    "blocks": 5,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "gioi-tu-lien-tu-menh-de",
+    "page": 1,
+    "sourceWords": 158,
+    "blocks": 18,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "gioi-tu-lien-tu-menh-de",
+    "page": 2,
+    "sourceWords": 140,
+    "blocks": 3,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "gioi-tu-lien-tu-menh-de",
+    "page": 3,
+    "sourceWords": 86,
+    "blocks": 5,
+    "tables": 3,
+    "missingCharacters": 0
+  },
+  {
+    "category": "gioi-tu-lien-tu-menh-de",
+    "page": 4,
+    "sourceWords": 84,
+    "blocks": 5,
+    "tables": 3,
+    "missingCharacters": 0
+  },
+  {
+    "category": "gioi-tu-lien-tu-menh-de",
+    "page": 5,
+    "sourceWords": 114,
+    "blocks": 5,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "gioi-tu-lien-tu-menh-de",
+    "page": 6,
+    "sourceWords": 110,
+    "blocks": 8,
+    "tables": 3,
+    "missingCharacters": 0
+  },
+  {
+    "category": "gioi-tu-lien-tu-menh-de",
+    "page": 7,
+    "sourceWords": 128,
+    "blocks": 14,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "gioi-tu-lien-tu-menh-de",
+    "page": 8,
+    "sourceWords": 113,
+    "blocks": 9,
+    "tables": 3,
+    "missingCharacters": 0
+  },
+  {
+    "category": "gioi-tu-lien-tu-menh-de",
+    "page": 9,
+    "sourceWords": 119,
+    "blocks": 12,
+    "tables": 2,
+    "missingCharacters": 0
+  },
+  {
+    "category": "gioi-tu-lien-tu-menh-de",
+    "page": 10,
+    "sourceWords": 64,
+    "blocks": 8,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "danh-tu",
+    "page": 1,
+    "sourceWords": 263,
+    "blocks": 26,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "danh-tu",
+    "page": 2,
+    "sourceWords": 285,
+    "blocks": 32,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "danh-tu",
+    "page": 3,
+    "sourceWords": 229,
+    "blocks": 14,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "danh-tu",
+    "page": 4,
+    "sourceWords": 326,
+    "blocks": 25,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "danh-tu",
+    "page": 5,
+    "sourceWords": 100,
+    "blocks": 1,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "danh-tu",
+    "page": 6,
+    "sourceWords": 119,
+    "blocks": 2,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "danh-tu",
+    "page": 7,
+    "sourceWords": 305,
+    "blocks": 27,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "danh-tu",
+    "page": 8,
+    "sourceWords": 293,
+    "blocks": 19,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "danh-tu",
+    "page": 9,
+    "sourceWords": 162,
+    "blocks": 9,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "danh-tu",
+    "page": 10,
+    "sourceWords": 361,
+    "blocks": 22,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "danh-tu",
+    "page": 11,
+    "sourceWords": 350,
+    "blocks": 38,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "danh-tu",
+    "page": 12,
+    "sourceWords": 208,
+    "blocks": 22,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "trat-tu-tu",
+    "page": 1,
+    "sourceWords": 204,
+    "blocks": 30,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "trat-tu-tu",
+    "page": 2,
+    "sourceWords": 193,
+    "blocks": 34,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "trat-tu-tu",
+    "page": 3,
+    "sourceWords": 89,
+    "blocks": 24,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "dong-tu",
+    "page": 1,
+    "sourceWords": 252,
+    "blocks": 11,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "dong-tu",
+    "page": 2,
+    "sourceWords": 220,
+    "blocks": 3,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "dong-tu",
+    "page": 3,
+    "sourceWords": 239,
+    "blocks": 37,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "dong-tu",
+    "page": 4,
+    "sourceWords": 279,
+    "blocks": 38,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "dong-tu",
+    "page": 5,
+    "sourceWords": 265,
+    "blocks": 16,
+    "tables": 1,
+    "missingCharacters": 0
+  },
+  {
+    "category": "dong-tu",
+    "page": 6,
+    "sourceWords": 314,
+    "blocks": 15,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "dong-tu",
+    "page": 7,
+    "sourceWords": 368,
+    "blocks": 29,
+    "tables": 0,
+    "missingCharacters": 0
+  },
+  {
+    "category": "dong-tu",
+    "page": 8,
+    "sourceWords": 263,
+    "blocks": 26,
+    "tables": 0,
+    "missingCharacters": 0
+  }
+]

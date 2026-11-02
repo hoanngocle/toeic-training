@@ -1,6 +1,7 @@
 import { Suspense } from "react";
 import type { Metadata } from "next";
 import localFont from "next/font/local";
+import { LoadingScreen } from "../components/ui/loading";
 import "./globals.css";
 import "./theme.css";
 
@@ -21,5 +22,5 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  return <html lang="vi" className={beVietnamPro.variable} suppressHydrationWarning><head><script dangerouslySetInnerHTML={{ __html: `(function(){var t;try{t=localStorage.getItem('english-space-theme')}catch(e){}document.documentElement.dataset.theme=t==='light'||t==='dark'?t:matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'})()` }}/></head><body><Suspense fallback={<p role="status" style={{ padding: 32 }}>Đang tải…</p>}>{children}</Suspense></body></html>;
+  return <html lang="vi" className={beVietnamPro.variable} suppressHydrationWarning><head><script dangerouslySetInnerHTML={{ __html: `(function(){var t;try{t=localStorage.getItem('english-space-theme')}catch(e){}document.documentElement.dataset.theme=t==='light'||t==='dark'?t:matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'})()` }}/></head><body><Suspense fallback={<LoadingScreen fullScreen />}>{children}</Suspense></body></html>;
 }

@@ -1,5 +1,6 @@
 'use client';
 import { useCallback, useEffect, useState, type FormEvent } from 'react';
+import { LoadingSpinner, LoadingStatus } from '../ui/loading';
 import './users.css';
 type UserRow={id:string;email:string;role:'admin'|'learner';disabled:boolean};
 export default function UserManager() {
@@ -48,11 +49,11 @@ export default function UserManager() {
           <label htmlFor="new-email">Email</label><input id="new-email" name="email" type="email" autoComplete="off" placeholder="nguoi.hoc@example.com" maxLength={254} required disabled={busy}/>
           <label htmlFor="new-password">Mật khẩu ban đầu</label><input id="new-password" name="password" type="password" autoComplete="new-password" minLength={12} maxLength={256} required disabled={busy} aria-describedby="password-help"/>
           <small id="password-help">Ít nhất 12 ký tự. Gửi mật khẩu riêng cho người học.</small>
-          <button className="users-primary" disabled={busy}>{busy?'Đang xử lý…':'Tạo tài khoản'}</button>
+          <button className="users-primary" disabled={busy}>{busy?<><LoadingSpinner /> Đang xử lý…</>:'Tạo tài khoản'}</button>
         </form>
       </section>
       <section className="users-card users-list" aria-busy={loading}><div className="users-list-title"><h2>Danh sách tài khoản</h2><span>{total} tài khoản</span></div>
-        {loading?<p role="status">Đang tải…</p>:users.length===0?<p>Chưa có tài khoản nào.</p>:<ul>{users.map(user=><li key={user.id}>
+        {loading?<p><LoadingStatus label="Đang tải tài khoản…" /></p>:users.length===0?<p>Chưa có tài khoản nào.</p>:<ul>{users.map(user=><li key={user.id}>
           <div className="users-row"><div className="users-identity"><strong>{user.email}</strong><span className={`users-badge${user.disabled?' is-disabled':''}`}>{user.role==='admin'?'Quản trị viên':user.disabled?'Đã khóa':'Đang hoạt động'}</span></div>
             {user.role==='learner'&&<div className="users-actions">
               <button type="button" disabled={busy} onClick={()=>{setResetId(resetId===user.id?null:user.id);setMessage('');}}>Đặt mật khẩu</button>

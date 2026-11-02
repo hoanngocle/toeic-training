@@ -1,0 +1,754 @@
+{
+  "1-101": {
+    "prompt": "Former Sendai Company CEO Ken Nakata spoke about ____ career experiences.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "he"
+      },
+      {
+        "label": "B",
+        "text": "his"
+      },
+      {
+        "label": "C",
+        "text": "him"
+      },
+      {
+        "label": "D",
+        "text": "himself"
+      }
+    ]
+  },
+  "1-134": {
+    "choices": [
+      {
+        "label": "A",
+        "text": "we"
+      },
+      {
+        "label": "B",
+        "text": "they"
+      },
+      {
+        "label": "C",
+        "text": "both"
+      },
+      {
+        "label": "D",
+        "text": "yours"
+      }
+    ]
+  },
+  "1-160": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Please refrain from making phone calls or texting at all times.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "1-171": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Our openings cover a broad range of skill sets.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "2-64": {
+    "prompt": "Look at the graphic. Where will the man go first?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Area 1"
+      },
+      {
+        "label": "B",
+        "text": "Area 2"
+      },
+      {
+        "label": "C",
+        "text": "Area 3"
+      },
+      {
+        "label": "D",
+        "text": "Area 4"
+      }
+    ]
+  },
+  "2-69": {
+    "prompt": "Look at the graphic. How much will the man save on his purchase?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "5%"
+      },
+      {
+        "label": "B",
+        "text": "3%"
+      },
+      {
+        "label": "C",
+        "text": "7%"
+      },
+      {
+        "label": "D",
+        "text": "2%"
+      }
+    ]
+  },
+  "2-111": {
+    "prompt": "____ she travels, Jacintha Flores collects samples of local fabrics and patterns.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Wherever"
+      },
+      {
+        "label": "B",
+        "text": "In addition to"
+      },
+      {
+        "label": "C",
+        "text": "Either"
+      },
+      {
+        "label": "D",
+        "text": "In contrast to"
+      }
+    ]
+  },
+  "2-115": {
+    "prompt": "Ms. Charisse is taking on a new account ____ she finishes the Morrison project.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "with"
+      },
+      {
+        "label": "B",
+        "text": "going"
+      },
+      {
+        "label": "C",
+        "text": "after"
+      },
+      {
+        "label": "D",
+        "text": "between"
+      }
+    ]
+  },
+  "2-157": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"This is something I would be happy to arrange.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "2-171": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"These markets are supplied using more readily available truck and train transportation.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "3-154": {
+    "prompt": "How many tickets did Mr. Califf purchase?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "3"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "7"
+      }
+    ]
+  },
+  "3-160": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Everyday financial details only add more distractions.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "3-167": {
+    "prompt": "In which of the positions marked [1], [2], [3], or [4] does the following sentence best belong? \"Just share your unique referral code with friends and family.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "4-103": {
+    "prompt": "The annual report will be ready after ____ make the necessary revisions.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "me"
+      },
+      {
+        "label": "C",
+        "text": "myself"
+      },
+      {
+        "label": "D",
+        "text": "my"
+      }
+    ]
+  },
+  "4-167": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"The senior staff will be presenting a commemorative plaque on behalf of the whole office.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "4-175": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"It will also have a large meeting room.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "5-60": {
+    "prompt": "What department do the speakers work in?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Sales"
+      },
+      {
+        "label": "B",
+        "text": "Human Resources"
+      },
+      {
+        "label": "C",
+        "text": "Legal"
+      },
+      {
+        "label": "D",
+        "text": "Accounting"
+      }
+    ]
+  },
+  "5-121": {
+    "prompt": "Custom furniture orders require a 50 percent deposit ____ the time of the order.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "as"
+      },
+      {
+        "label": "B",
+        "text": "off"
+      },
+      {
+        "label": "C",
+        "text": "into"
+      },
+      {
+        "label": "D",
+        "text": "at"
+      }
+    ]
+  },
+  "5-123": {
+    "prompt": "Though she lacks political experience, Ms. Diaz has been ____ impressive in her first term as mayor.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "quite"
+      },
+      {
+        "label": "B",
+        "text": "soon"
+      },
+      {
+        "label": "C",
+        "text": "ever"
+      },
+      {
+        "label": "D",
+        "text": "next"
+      }
+    ]
+  },
+  "5-144": {
+    "choices": [
+      {
+        "label": "A",
+        "text": "itself"
+      },
+      {
+        "label": "B",
+        "text": "his"
+      },
+      {
+        "label": "C",
+        "text": "whose"
+      },
+      {
+        "label": "D",
+        "text": "everyone"
+      }
+    ]
+  },
+  "5-160": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"If I am not around, please see my assistant.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "5-171": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"The answers will give us a sense of your taste and requirements.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "6-131": {
+    "choices": [
+      {
+        "label": "A",
+        "text": "is"
+      },
+      {
+        "label": "B",
+        "text": "or"
+      },
+      {
+        "label": "C",
+        "text": "likely"
+      },
+      {
+        "label": "D",
+        "text": "from"
+      }
+    ]
+  },
+  "6-158": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Homestead, however, is more than just a pretty place.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "6-167": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"You can perform numerous specific tasks.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "7-157": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"This can be done in one of two ways.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "7-167": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Part of her fact-finding involved interviewing government scientists.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "8-134": {
+    "choices": [
+      {
+        "label": "A",
+        "text": "Ms. Blaire will be back in the office earlier than expected."
+      },
+      {
+        "label": "B",
+        "text": "Please come and see us if you ever find yourself in Toronto."
+      },
+      {
+        "label": "C",
+        "text": "It is essential to hire a competent payroll and tax accountant."
+      },
+      {
+        "label": "D",
+        "text": "Ms. Lewis is in the office on weekdays from 9 A.M. to 5 P.M."
+      }
+    ]
+  },
+  "8-163": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"If you continue to have problems after doing so, then give us a call.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "8-175": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"These include items such as furniture, needlework, diaries, musical instruments, and clothing.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "9-105": {
+    "prompt": "Mr. Kam has invited all staff members to attend ____ retirement party.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "he"
+      },
+      {
+        "label": "B",
+        "text": "his"
+      },
+      {
+        "label": "C",
+        "text": "him"
+      },
+      {
+        "label": "D",
+        "text": "himself"
+      }
+    ]
+  },
+  "9-157": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"The newly acquired ship is scheduled to begin running later this month.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "9-175": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Each reclinable seat will have an individual power supply and USB port.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "10-160": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"The last position he held at the company was director of research and development.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "10-171": {
+    "prompt": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Our entire style collection can be viewed on our Web site.\"",
+    "choices": [
+      {
+        "label": "A",
+        "text": "[1]"
+      },
+      {
+        "label": "B",
+        "text": "[2]"
+      },
+      {
+        "label": "C",
+        "text": "[3]"
+      },
+      {
+        "label": "D",
+        "text": "[4]"
+      }
+    ]
+  },
+  "10-194": {
+    "choices": [
+      {
+        "label": "A",
+        "text": "It is not accessible by bus."
+      },
+      {
+        "label": "B",
+        "text": "It will be renovated and reopened."
+      },
+      {
+        "label": "C",
+        "text": "It is far from the warehouse."
+      },
+      {
+        "label": "D",
+        "text": "It contains a bakery section."
+      }
+    ],
+    "prompt": "What is suggested about the Paterra store at 1506 Maple Street?"
+  }
+}

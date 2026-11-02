@@ -1,7 +1,7 @@
 import sourceLessons from "../../data/vocabulary/lessons.json";
 import sourceExamples from "../../data/vocabulary/examples.json";
 import { essentialLessons } from "../../lib/essential/catalog";
-import type { BookPage } from "../../lib/essential/types";
+import type { BookPage, WordFamilyRow } from "../../lib/essential/types";
 
 type Example = { english: string; vietnamese: string };
 const examples: Record<string, Record<string, Example>> = sourceExamples;
@@ -18,6 +18,7 @@ export type Lesson = Omit<(typeof originalLessons)[number], "words"> & {
   group?: number;
   groupTitle?: string;
   vocabularyPages?: BookPage[];
+  wordFamilies?: WordFamilyRow[];
   words: (Omit<(typeof originalLessons)[number]["words"][number], "example"> & { example?: Example; definition?: string })[];
 };
 // Only vocabulary fields cross into the client. Exercise answers remain on the server.
@@ -30,6 +31,7 @@ const lessons: Lesson[] = [...originalLessons, ...essentialLessons.map(lesson =>
   group: lesson.group,
   groupTitle: lesson.groupTitle,
   vocabularyPages: lesson.vocabularyPages,
+  wordFamilies: lesson.sections.families.units.flatMap(unit => unit.wordFamilies ?? []),
   words: lesson.words,
 }))];
 export type LessonSummary = Pick<Lesson, "slug" | "number" | "title" | "source" | "group" | "groupTitle"> & {

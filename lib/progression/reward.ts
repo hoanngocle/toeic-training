@@ -3,6 +3,16 @@ import type { ExerciseResult } from '../essential/types.ts';
 import type { RewardCalculation } from './types.ts';
 
 export const REWARD_VERSION = 'toeic-learning-v1';
+export const BADGE_REWARD_VERSION = 'toeic-learning-badges-v2';
+export function applyBadgeBonus(base: RewardCalculation, percent: number): RewardCalculation {
+  if (!Number.isSafeInteger(percent * 2) || percent < 0) throw new RangeError('Invalid badge bonus');
+  if (base.version !== REWARD_VERSION || !Number.isSafeInteger(base.exp) || base.exp < 0) throw new Error('Invalid base reward');
+  // Use integer half-percent units and BigInt to avoid floating-point rounding.
+  const bonusExp = Number(BigInt(base.exp) * BigInt(percent * 2) / BigInt(200));
+  const exp = base.exp + bonusExp;
+  if (!Number.isSafeInteger(exp)) throw new RangeError('Reward overflow');
+  return {...base, version: BADGE_REWARD_VERSION, exp, baseExp: base.exp, badgeBonusPercent: percent, bonusExp};
+}
 function calculate(session: Session | ExerciseResult, vocabulary: boolean): RewardCalculation {
   if (!session || !Array.isArray(session.results) || !Number.isSafeInteger(session.total) || session.total < 1 ||
       session.results.length !== session.total || session.results.some(answer => !answer || typeof answer.correct !== 'boolean')) {

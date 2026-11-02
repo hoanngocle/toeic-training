@@ -4,8 +4,9 @@ export type ProgressionSummary = {
 };
 export type RewardCalculation = {
   exp: number; version: string; questionCount: number; correctCount: number; baseTotal: number; scoreMultiplier: number;
+  baseExp?: number; badgeBonusPercent?: number; bonusExp?: number;
 };
 export type ProgressionResult = {
-  reward?: { exp: number; version: string };
+  reward?: { exp: number; version: string; baseExp?: number; badgeBonusPercent?: number; bonusExp?: number };
   progressionChange?: { before: ProgressionSummary; after: ProgressionSummary };
 };

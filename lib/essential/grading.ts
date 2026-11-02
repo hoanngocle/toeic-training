@@ -26,5 +26,7 @@ export function gradeExercise(input: unknown, unit: BookUnit, scope = unit.quest
       ...(question.sourceNote ? { sourceNote: question.sourceNote } : {}),
     };
   });
-  return {id:request.id,unitId:unit.id,durationMs:request.durationMs,createdAt:new Date().toISOString(),score:results.filter(r=>r.correct).length,total:results.length,results};
+  return {id:request.id,unitId:unit.id,durationMs:request.durationMs,createdAt:new Date().toISOString(),score:results.filter(r=>r.correct).length,total:results.length,results,
+    ...(unit.passageTranslation ? { passageTranslation: unit.passageTranslation } : {}),
+  };
 }

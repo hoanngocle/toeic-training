@@ -2,6 +2,7 @@
 
 import { useState, type FormEvent } from 'react';
 import { EyeIcon, EyeSlashIcon } from '@heroicons/react/24/outline';
+import { LoadingSpinner } from '../../components/ui/loading';
 
 export default function LoginForm({ destination }: { destination: string }) {
   const [error, setError] = useState('');
@@ -26,6 +27,6 @@ export default function LoginForm({ destination }: { destination: string }) {
     <label htmlFor="password">Mật khẩu</label>
     <div className="login-password"><input id="password" name="password" type={showPassword ? 'text' : 'password'} autoComplete="current-password" placeholder="Nhập mật khẩu" maxLength={256} required disabled={pending} /><button type="button" onClick={() => setShowPassword(!showPassword)} aria-label={showPassword ? 'Ẩn mật khẩu' : 'Hiện mật khẩu'} aria-pressed={showPassword}>{showPassword ? <EyeSlashIcon width={20} height={20} aria-hidden="true" /> : <EyeIcon width={20} height={20} aria-hidden="true" />}</button></div>
     <div className="login-error" role="alert">{error}</div>
-    <button className="login-submit" type="submit" disabled={pending}>{pending ? 'Đang đăng nhập…' : 'Đăng nhập'}<span aria-hidden="true">→</span></button>
+    <button className="login-submit" type="submit" disabled={pending}>{pending ? 'Đang đăng nhập…' : 'Đăng nhập'}{pending ? <LoadingSpinner size={21} /> : <span aria-hidden="true">→</span>}</button>
   </form>;
 }

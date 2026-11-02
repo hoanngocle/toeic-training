@@ -1,10 +1,11 @@
 "use client";
 
 import Link from "next/link";
-import { MagnifyingGlassIcon, SparklesIcon } from "@heroicons/react/24/outline";
+import { CheckCircleIcon, MagnifyingGlassIcon, SparklesIcon } from "@heroicons/react/24/outline";
 import { useState } from "react";
 import type { LessonSummary } from "./catalog";
 import { normalizeSearch } from "./search";
+import type { lessonCompletion } from '../../lib/learning/completion';
 
 
 const categories = [
@@ -14,7 +15,7 @@ const categories = [
 ] as const;
 type Category = (typeof categories)[number]["id"];
 
-export default function VocabularyLibrary({ lessons }: { lessons: LessonSummary[] }) {
+export default function VocabularyLibrary({ lessons, completion }: { lessons: LessonSummary[]; completion: Record<string, ReturnType<typeof lessonCompletion>> }) {
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState<Category | null>(null);
   const term = normalizeSearch(query);
@@ -39,8 +40,12 @@ export default function VocabularyLibrary({ lessons }: { lessons: LessonSummary[
       <div className="vocab-filters" role="group" aria-label="Lọc theo bộ từ vựng">
         {categories.map(item => <button key={item.id} type="button" className="vocab-filterBadge" aria-pressed={category === item.id} onClick={() => setCategory(current => current === item.id ? null : item.id)}>{item.label}</button>)}
       </div>
-      {visible.length ? Array.from(groups, ([key, group]) => <section className="vocab-lessonGroup" key={key} aria-labelledby={`group-${key}`}><div className="vocab-groupHeading"><h3 id={`group-${key}`}>{group.title}</h3><span>{group.lessons.length} bài</span></div><div className="vocab-grid">{group.lessons.map(lesson => <article className="vocab-card" key={lesson.slug}>
+      {visible.length ? Array.from(groups, ([key, group]) => <section className="vocab-lessonGroup" key={key} aria-labelledby={`group-${key}`}><div className="vocab-groupHeading"><h3 id={`group-${key}`}>{group.title}</h3><span>{group.lessons.length} bài</span></div><div className="vocab-grid">{group.lessons.map(lesson => <article className={`vocab-card${completion[lesson.slug]?.completed ? ' is-completed' : ''}`} key={lesson.slug}>
         <Link href={`/tu-vung/${lesson.slug}`} className="vocab-coverArea" aria-label={`Mở ${lesson.title}`}><span className="vocab-badge vocab-coverBadge">{lesson.count} từ</span><div className="vocab-bookCover"><small>ENGLISH SPACE<br/>VOCABULARY COLLECTION</small><span>{String(lesson.number).padStart(2, "0")}</span><strong>{lesson.title}</strong>{lesson.sourceLabel && <small>{lesson.sourceLabel}</small>}<div>WORDS FOR YOUR NEXT CHAPTER</div></div></Link>
+        <div className="vocab-cardProgress">
+          {completion[lesson.slug]?.completed ? <span className="vocab-completedBadge"><CheckCircleIcon width={18} height={18} aria-hidden="true" />Đã học xong</span> : <span>Đã nhớ</span>}
+          <span>{completion[lesson.slug]?.percent ?? 0}% · {completion[lesson.slug]?.learned ?? 0}/{lesson.count} từ</span>
+        </div>
         {lesson.source === "essential" && <span className="vocab-badge essential-sourceBadge essential-cardBadge">Essential Word</span>}
       </article>)}</div></section>) : <div className="vocab-empty"><h3>Chưa tìm thấy bài phù hợp</h3><p>Thử tìm bằng số bài, từ tiếng Anh hoặc nghĩa tiếng Việt.</p><button onClick={() => setQuery("")}>Xóa tìm kiếm</button></div>}
     </section>

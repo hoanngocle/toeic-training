@@ -2,8 +2,10 @@ import type { BookUnit, PublicBookUnit } from './types.ts';
 
 // Explicitly allow public question fields: solutions are returned only by grading.
 export function toPublicBookUnit(unit: BookUnit): PublicBookUnit {
+  const publicUnit = { ...unit };
+  delete publicUnit.passageTranslation;
   return {
-    ...unit,
+    ...publicUnit,
     questions: unit.questions.map(q => ({
       id: q.id, label: q.label,
       ...(q.choices ? { choices: q.choices } : {}),

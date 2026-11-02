@@ -2,6 +2,7 @@
 
 import { SpeakerWaveIcon } from "@heroicons/react/24/outline";
 import { useEffect, useRef, useState } from "react";
+import { LoadingSpinner } from '../ui/loading';
 
 const stopEvent = "vocabulary-stop-audio";
 
@@ -46,7 +47,7 @@ export default function PronounceButton({ text }: { text: string }) {
       <button type="button" className="pronounce-button" onClick={pronounce}
         disabled={status === "loading"} aria-busy={status === "loading"}
         aria-label={`Nghe phát âm ${text}`} title={`Nghe phát âm ${text}`}>
-        <SpeakerWaveIcon width={22} height={22} aria-hidden="true" />
+        {status === "loading" ? <LoadingSpinner size={22} /> : <SpeakerWaveIcon width={22} height={22} aria-hidden="true" />}
       </button>
       <span className="pronunciation-status" role="status">
         {status === "loading" ? "Đang tải…" : status === "error" ? "Chưa phát được. Nhấn loa để thử lại." : ""}

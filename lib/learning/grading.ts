@@ -11,9 +11,11 @@ export function validateRequest(input: unknown, words: Word[]): SaveRequest {
       !Array.isArray(value.answers) || value.answers.length < 1 || value.answers.length > 20 ||
       (value.mode !== 'test' && value.answers.length !== 1)) throw new InputError('Dữ liệu lượt học không hợp lệ.');
   if (value.retryOf !== undefined && (value.mode !== 'test' || typeof value.retryOf !== 'string' || !/^[\w-]{10,80}$/.test(value.retryOf))) throw new InputError('Lượt ôn lại không hợp lệ.');
+  if ((value.includeWordFamilies !== undefined && typeof value.includeWordFamilies !== 'boolean') ||
+      (value.includeWordFamilies && (value.mode === 'flashcard' || !words.some(word => word.family)))) throw new InputError('Tùy chọn Word Families không hợp lệ.');
   const ids = new Set<number>();
   for (const answer of value.answers) {
-    if (!answer || !Number.isInteger(answer.wordId) || !words.some(word => word.id === answer.wordId) || ids.has(answer.wordId) ||
+    if (!answer || !Number.isInteger(answer.wordId) || !words.some(word => word.id === answer.wordId && (!word.family || value.includeWordFamilies)) || ids.has(answer.wordId) ||
         !['en-vi','vi-en'].includes(answer.direction) || typeof answer.answer !== 'string' || answer.answer.length > 2000 ||
         (value.mode === 'writing' && !answer.answer.trim()) ||
         (value.mode === 'flashcard' && !['known','learning'].includes(answer.answer))) throw new InputError('Câu trả lời không hợp lệ.');
@@ -21,6 +23,7 @@ export function validateRequest(input: unknown, words: Word[]): SaveRequest {
   }
   return { id: value.id, lesson: value.lesson, mode: value.mode, durationMs: value.durationMs,
     ...(value.retryOf ? {retryOf:value.retryOf} : {}),
+    ...(value.includeWordFamilies ? {includeWordFamilies:true} : {}),
     answers: value.answers.map(({wordId, direction, answer}) => ({wordId, direction, answer})) };
 }
 
@@ -29,11 +32,14 @@ export function gradeLearning(input: unknown, words: Word[], createdAt = new Dat
       const results = request.answers.map(answer => {
         const word = words.find(word => word.id === answer.wordId)!;
         return {...answer, term: word.spokenText, meaning: word.meaning,
-          expected: answer.direction === 'en-vi' ? word.meaning : word.spokenText,
+          ...(word.partOfSpeech ? {partOfSpeech:word.partOfSpeech} : {}),
+          ...(word.family && word.example ? {example:word.example} : {}),
+          expected: answer.direction === 'en-vi' ? word.meaning : word.acceptedForms?.join(' / ') ?? word.spokenText,
           correct: request.mode === 'flashcard' ? answer.answer === 'known' : gradeAnswer(word, answer.direction, answer.answer)};
       });
       const result: Session = {id: request.id, lesson: request.lesson, mode: request.mode, durationMs: request.durationMs, createdAt,
-        fullTest: request.mode === 'test' && !request.retryOf && results.length === Math.min(20, new Set(words.map(word => normalizeAnswer(word.spokenText))).size),
+        ...(request.includeWordFamilies ? {includeWordFamilies:true} : {}),
+        fullTest: request.mode === 'test' && !request.retryOf && results.length === Math.min(20, new Set(words.filter(word => request.includeWordFamilies || !word.family).map(word => normalizeAnswer(word.spokenText))).size),
         total: results.length, score: request.mode === 'flashcard' ? null : results.filter(answer => answer.correct).length, results};
   return {request,result};
 }

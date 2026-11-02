@@ -5,7 +5,7 @@
 .app-shell .breadcrumb { display: flex; flex-wrap: wrap; align-items: center; max-width: none; row-gap: 4px; }
 .app-shell .breadcrumb a:hover { color: var(--accent); }
 .app-shell #main { min-width: 0; scroll-margin-top: 96px; }
-.app-shell .vocab-library { min-height: calc(100dvh - 76px); width: 100%; max-width: 1212px; margin-inline: auto; padding-inline: 46px; }
+.app-shell .vocab-library { min-height: calc(100dvh - 60px); width: 100%; max-width: 1212px; margin-inline: auto; padding-inline: 46px; }
 .app-shell .vocab-footer { flex-wrap: wrap; }
 .app-shell .sidebar .theme-toggle { margin: auto 0 24px; padding: 10px; }
 .app-shell .sidebar .brand { flex-shrink: 0; }
@@ -36,3 +36,4 @@
   .app-shell .vocab-lessonNumber { font-size: 42px; margin-left: 8px; }
   .app-shell .vocab-resultLine { flex-wrap: wrap; }
 }
+.app-shell .vocabulary-topbar { min-height: 60px; padding-block: 10px; }

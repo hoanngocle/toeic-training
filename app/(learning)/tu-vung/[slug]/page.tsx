@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { getLesson, lessonSummaries } from "../../../../components/vocabulary/catalog";
 import LessonDetail from "../../../../components/vocabulary/lesson-detail";
 import { essentialLessons, getPublicSections } from "../../../../lib/essential/catalog";
+import { cacheLife } from 'next/cache';
 
 type Props = { params: Promise<{ slug: string }> };
 export function generateStaticParams() {
@@ -15,7 +16,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 export default async function LessonPage({ params }: Props) {
   await requireUser();
-  const lesson = getLesson((await params).slug);
+  return <LessonContent slug={(await params).slug} />;
+}
+
+async function LessonContent({ slug }: { slug: string }) {
+  'use cache';
+  cacheLife('max');
+  const lesson = getLesson(slug);
   if (!lesson) notFound();
   const navigation = lessonSummaries.filter(item => item.source === lesson.source).map(({ slug, title, count }) => ({ slug, title, count }));
   const bookLesson = lesson.source === "essential" ? essentialLessons.find(item => item.slug === lesson.slug) : undefined;

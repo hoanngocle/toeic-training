@@ -6,6 +6,7 @@
 .home-content .primary-button { padding: 8px 14px; font-size: 13px; }
 .home-content .hero-art { transform: scale(.7); transform-origin: center; top: -38px; bottom: -38px; }
 .home-content .skills-section { padding-top: 16px; }
+.home-content .skill-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 .home-content .section-heading { margin-bottom: 12px; }
 .home-content .section-heading h2 { font-size: 21px; margin: 0; }
 .home-content .skill-card { min-width: 0; padding: 14px 16px 0; }
@@ -39,3 +40,5 @@
   .home-content .tags > span { font-size: 10px; }
   .home-content .skill-card-bottom { grid-column: 1 / -1; padding: 5px 0; font-size: 11px; }
 }
+
+@media(min-width:521px) and (max-width:1000px) { .home-content .skill-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }

@@ -1,0 +1,852 @@
+{
+  "essential-01": {
+    "translation": "Hợp đồng là một phần không thể thiếu tại nơi làm việc. Nói đơn giản, hợp đồng là một thỏa thuận giữa hai bên trở lên, quy định các điều khoản và buộc các bên phải tuân theo. Hợp đồng thường bao gồm số tiền khách hàng sẽ trả cho nhà thầu và những dịch vụ sẽ được cung cấp. Chẳng hạn, tại văn phòng, bạn có thể có một hợp đồng bảo đảm rằng máy photocopy hoặc điện thoại sẽ được sửa chữa trong một khoảng thời gian nhất định. Dịch vụ này có thể được thực hiện bên ngoài hoặc ngay tại cơ sở của bạn. Hợp đồng thường nêu các cách xác định liệu chất lượng công việc được bàn giao có đạt yêu cầu hay không. Những hợp đồng được soạn thảo tốt thường đưa ra cách giải quyết các vấn đề như vậy khi chúng xảy ra. Trước khi giao kết hợp đồng, cả hai bên nên cân nhắc kỹ, vì họ sẽ phải tuân thủ những điều kiện được quy định trong đó. Hợp đồng thường quy định cách hai bên có thể hủy bỏ hợp đồng nếu một trong hai bên không đáp ứng các điều khoản.",
+    "explanations": [
+      "agreement nghĩa là thỏa thuận; sau mạo từ an cần một danh từ số ít, diễn tả bản chất của hợp đồng.",
+      "parties nghĩa là các bên tham gia hợp đồng; two or more yêu cầu danh từ số nhiều.",
+      "specifies nghĩa là quy định rõ; chủ ngữ là một thỏa thuận nên động từ hiện tại đơn thêm -s, đi với terms.",
+      "obligates nghĩa là buộc phải; cấu trúc obligate somebody to do something chỉ nghĩa vụ tuân theo điều khoản.",
+      "assurance nghĩa là sự bảo đảm; provide assurance that mở đầu nội dung cam kết về việc sửa chữa thiết bị.",
+      "establishment nghĩa là cơ sở kinh doanh; at your establishment đối lập với off-site, tức sửa ngay tại cơ sở của bạn.",
+      "determine nghĩa là xác định; ways to determine if chỉ các cách đánh giá xem chất lượng có chấp nhận được không.",
+      "provide nghĩa là cung cấp; chủ ngữ contracts ở số nhiều nên dùng dạng nguyên thể, trong cụm provide ways to.",
+      "resolve nghĩa là giải quyết; resolve problems là kết hợp từ tự nhiên khi nói về xử lý vấn đề phát sinh.",
+      "engaging nghĩa là tham gia, giao kết; sau giới từ before dùng dạng -ing, còn engage in chỉ tham gia một hoạt động.",
+      "abide by nghĩa là tuân thủ; cụm này đi với conditions, diễn tả việc chấp hành các điều kiện đã cam kết.",
+      "cancel nghĩa là hủy bỏ; sau động từ khuyết thiếu can dùng nguyên thể, với it thay cho hợp đồng."
+    ]
+  },
+  "essential-02": {
+    "translation": "Yassir đang chuẩn bị thực hiện ước mơ của mình: mở một doanh nghiệp bán cây trên Internet. Sau khi hoàn thành bản kế hoạch kinh doanh giúp anh xác định rằng thị trường có nhu cầu đối với sản phẩm của mình, Yassir đã sẵn sàng bắt đầu quảng bá việc kinh doanh. Sau khi thuyết phục ngân hàng rằng có thị trường — tức là có những người tiêu dùng sẵn lòng mua cây trên Internet — anh cần tìm được những người tiêu dùng ấy. Khi đã có một nhóm khách hàng ổn định, Yassir, cũng như các chủ doanh nghiệp khác, sẽ phải liên tục thu hút khách hàng mới. Đồng thời, anh phải bảo đảm khách hàng hiện tại hài lòng. Để hài lòng, khách hàng hiện tại phải thấy vui với sản phẩm họ nhận được. Nhiệm vụ của Yassir là khơi dậy sự hứng thú ở những khách hàng này để họ tiếp tục mua hàng. Muốn vậy, anh sẽ phải thuyết phục người tiêu dùng rằng mình cung cấp sản phẩm tốt với mức giá hợp lý, nhất là khi so với những doanh nghiệp mà anh đang cạnh tranh. Anh hy vọng việc mua cây trên Internet sẽ tồn tại lâu dài, chứ không chỉ là một phần của một trào lưu nhất thời.",
+    "explanations": [
+      "product nghĩa là sản phẩm; demand for his product diễn tả nhu cầu mua cây mà Yassir dự định bán.",
+      "market nghĩa là thị trường; in the market chỉ môi trường nơi nhu cầu đối với sản phẩm tồn tại.",
+      "persuaded nghĩa là đã thuyết phục; having + quá khứ phân từ cho biết việc thuyết phục ngân hàng xảy ra trước.",
+      "consumers nghĩa là người tiêu dùng; these consumers nhắc lại những người sẵn lòng mua cây vừa được đề cập.",
+      "attract nghĩa là thu hút; attract new customers là việc doanh nghiệp phải tiếp tục làm để mở rộng lượng khách.",
+      "satisfied nghĩa là hài lòng; sau are cần tính từ chỉ trạng thái của những khách hàng hiện có.",
+      "current nghĩa là hiện tại; current customers phân biệt nhóm khách đã có với new customers ở câu trước.",
+      "inspire nghĩa là khơi gợi hứng thú; ở đây là tạo động lực để khách quay lại mua, phù hợp với repeat business.",
+      "convince nghĩa là thuyết phục; convince consumers that dẫn mệnh đề nêu điều cần làm khách tin: chất lượng và giá tốt.",
+      "compared nghĩa là được so sánh; when compared to là mệnh đề bị động rút gọn để đối chiếu với doanh nghiệp khác.",
+      "competes nghĩa là cạnh tranh; compete with là cụm cố định, và chủ ngữ he yêu cầu động từ thêm -s.",
+      "fad nghĩa là mốt hoặc trào lưu nhất thời; đối lập với here to stay, tức sẽ tồn tại bền vững."
+    ]
+  },
+  "essential-03": {
+    "translation": "Bảo hành là lời hứa của người bán về việc chịu trách nhiệm đối với sản phẩm của mình. Phần lớn những món hàng có giá trị lớn như máy tính hoặc ô tô đều đi kèm bảo hành, cũng như những món hàng nhỏ hơn, chẳng hạn dàn âm thanh hoặc các đồ điện tử gia dụng khác. Bảo hành không phải là điều pháp luật bắt buộc, nhưng thường có ở phần lớn sản phẩm. Nếu định mua hàng, bạn nên xem xét từng đặc điểm riêng của chính sách bảo hành, vì mỗi chính sách có thể khác nhau về phạm vi bảo vệ mà nó cung cấp. Tối thiểu, bảo hành phải cam kết rằng sản phẩm sẽ thực hiện được chức năng mà nó ngụ ý sẽ làm; chẳng hạn máy xay phải xay được, hoặc máy sấy tóc phải sấy khô được tóc. Phần lớn bảo hành có hiệu lực trong một thời hạn nhất định, rồi hết hạn. Bạn có thể tự bảo vệ mình bằng cách mua sản phẩm từ những công ty có uy tín tốt và giữ gìn món hàng mới mua. Việc không chăm sóc sản phẩm sẽ dẫn đến hậu quả, vì đa số chính sách bảo hành yêu cầu bạn sử dụng sản phẩm theo một cách nhất định.",
+    "explanations": [
+      "promise nghĩa là lời hứa; danh từ này đứng sau sở hữu cách a seller's và được bổ nghĩa bởi to stand behind its products.",
+      "required nghĩa là bắt buộc; are not required by law là cấu trúc bị động, nói rằng luật không yêu cầu có bảo hành.",
+      "frequently nghĩa là thường xuyên; trạng từ này bổ nghĩa cho found, mô tả mức độ phổ biến của bảo hành.",
+      "consider nghĩa là xem xét; sau should dùng động từ nguyên thể để khuyên người mua cân nhắc nội dung bảo hành.",
+      "characteristics nghĩa là các đặc điểm; individual characteristics chỉ những điều khoản, đặc tính riêng của từng bảo hành.",
+      "vary nghĩa là khác nhau; vary in chỉ sự khác biệt về một phương diện, ở đây là mức độ bảo hành.",
+      "coverage nghĩa là phạm vi bảo hành; amount of coverage nói đến mức bảo vệ mà chính sách dành cho người mua.",
+      "implies nghĩa là ngụ ý; it implies that nói đến chức năng sản phẩm được hiểu là sẽ thực hiện, như máy xay dùng để xay.",
+      "expire nghĩa là hết hạn; then nối thời điểm sau khoảng thời gian bảo hành cố định, khi hiệu lực chấm dứt.",
+      "protect nghĩa là bảo vệ; protect yourself by + V-ing chỉ cách người mua tự hạn chế rủi ro.",
+      "reputations nghĩa là danh tiếng; companies with good reputations chỉ các công ty được đánh giá tốt và đáng tin cậy.",
+      "consequences nghĩa là hậu quả; consequences to not taking care chỉ điều bất lợi có thể xảy ra khi không giữ gìn sản phẩm."
+    ]
+  },
+  "essential-04": {
+    "translation": "Mọi doanh nghiệp đều phải xây dựng một kế hoạch kinh doanh. Mục đích chính của kế hoạch là giúp doanh nhân kiểm soát hoạt động kinh doanh tốt hơn và tránh những sai lầm thường gặp. Không quá lời khi nói rằng doanh nghiệp thành công hay thất bại phụ thuộc vào chất lượng của kế hoạch kinh doanh, vì vậy không có gì thay thế được một bản kế hoạch chuẩn bị kỹ lưỡng. Kế hoạch kinh doanh ghi lại chiến lược phát triển doanh nghiệp. Hãy coi kế hoạch như một tấm bản đồ chỉ rõ công ty đang đi theo hướng nào, mục tiêu là gì và sẽ đạt được chúng bằng cách nào. Khi xây dựng kế hoạch, doanh nhân sẽ nghiên cứu để đưa ra đánh giá có hệ thống và thực tế về khả năng thành công của công ty trên thị trường. Trong quá trình lập kế hoạch, doanh nhân phải nghiên cứu thị trường mục tiêu và xác định tiềm năng của thị trường đó. Họ phải có khả năng dùng nghiên cứu để chứng minh khách hàng trong thị trường cần hàng hóa hoặc dịch vụ được cung cấp và có đủ khách hàng tiềm năng để duy trì doanh nghiệp. Kế hoạch kinh doanh cũng xem xét những rủi ro doanh nghiệp đối mặt. Đứng đầu trong số đó là các đối thủ cạnh tranh. Kế hoạch phải phân tích sự cạnh tranh bằng cách thu thập thông tin về thị phần, sản phẩm và chiến lược của đối thủ. Kế hoạch cần cho thấy sản phẩm hoặc dịch vụ của doanh nhân khác biệt thế nào so với những gì đã có trên thị trường. Doanh nghiệp cũng thường thất bại vì chủ sở hữu không đầu tư hoặc tìm kiếm đủ vốn để vận hành. Một kế hoạch kinh doanh tốt cũng cần giải quyết vấn đề này.",
+    "explanations": [
+      "develop nghĩa là xây dựng, phát triển; develop a business plan là cụm chỉ quá trình hình thành kế hoạch kinh doanh.",
+      "primary nghĩa là chính, chủ yếu; đứng trước purpose để xác định mục đích quan trọng nhất của kế hoạch.",
+      "avoid nghĩa là tránh; avoid common mistakes diễn tả lợi ích của kế hoạch trong việc phòng ngừa sai sót phổ biến.",
+      "strength nghĩa là sức mạnh, chất lượng; on the strength of chỉ thành công dựa vào mức độ vững chắc của kế hoạch.",
+      "substitute nghĩa là vật thay thế; no substitute for nhấn mạnh không có thứ gì thay thế được kế hoạch chuẩn bị kỹ.",
+      "strategy nghĩa là chiến lược; strategy for growing the business chỉ phương hướng phát triển được ghi trong kế hoạch.",
+      "evaluation nghĩa là sự đánh giá; systematic and realistic bổ nghĩa cho danh từ này, còn of chỉ đối tượng được đánh giá.",
+      "offered nghĩa là được cung cấp; is offered là dạng bị động mô tả hàng hóa hoặc dịch vụ doanh nghiệp chào bán.",
+      "risks nghĩa là những rủi ro; risks the business faces chỉ các nguy cơ mà doanh nghiệp phải đối mặt, gồm cạnh tranh.",
+      "gathering nghĩa là thu thập; sau by dùng V-ing để nêu phương pháp phân tích thông tin về các đối thủ.",
+      "demonstrate nghĩa là chứng minh, cho thấy; demonstrate what distinguishes dẫn nội dung về điểm khác biệt của sản phẩm.",
+      "address nghĩa là xử lý, đề cập để giải quyết; address this issue nói tới việc tính đến nguy cơ thiếu vốn trong kế hoạch."
+    ]
+  },
+  "essential-05": {
+    "translation": "Nhiều hiệp hội và tổ chức tổ chức hội nghị hằng năm để các thành viên có thể liên lạc với nhau và tham gia các chương trình giáo dục. Khi lập kế hoạch hội nghị, người điều phối sự kiện cố gắng bố trí nhiều phiên hoạt động khác nhau để người tham dự có thể chọn buổi hội thảo hoặc cuộc họp phù hợp nhất với nhu cầu của mình. Khi thu xếp cho một hội nghị, họ tìm địa điểm có thể đáp ứng mọi nhu cầu. Địa điểm phải đủ sức chứa số người dự kiến tham dự mà không khiến các phòng họp quá đông đúc. Những người điều phối sự kiện giỏi sẽ trực tiếp tham quan địa điểm trước khi quyết định cuối cùng, vì tài liệu quảng cáo không thể thể hiện tất cả các chi tiết cần thiết. Tổ chức họp tại một địa điểm thú vị thực sự có thể khuyến khích mọi người đăng ký tham dự.",
+    "explanations": [
+      "associations nghĩa là các hiệp hội; đứng song song với organizations và làm chủ ngữ số nhiều của hold.",
+      "get in touch nghĩa là liên lạc; get in touch with each other nói đến việc các thành viên kết nối tại hội nghị.",
+      "take part in nghĩa là tham gia; theo sau là educational programs, diễn tả hoạt động giáo dục của hội nghị.",
+      "sessions nghĩa là các phiên, buổi hoạt động; a variety of sessions nói đến nhiều lựa chọn hội thảo hoặc cuộc họp.",
+      "attending nghĩa là đang tham dự; people attending là dạng rút gọn của people who are attending, bổ nghĩa cho people.",
+      "select nghĩa là lựa chọn; sau can dùng nguyên thể, với a workshop or meeting là đối tượng được chọn.",
+      "arrangements nghĩa là các việc thu xếp; make arrangements for a conference là cụm chỉ công tác tổ chức hội nghị.",
+      "accommodate nghĩa là đáp ứng; accommodate all their needs ở đây nói địa điểm đáp ứng yêu cầu của người tổ chức.",
+      "hold nghĩa là chứa được; hold the number of people nói về sức chứa địa điểm, không phải hành động tổ chức họp.",
+      "overcrowded nghĩa là quá đông; sau being dùng tính từ để mô tả tình trạng phòng họp cần tránh.",
+      "location nghĩa là địa điểm; in a fun location chỉ nơi tổ chức có sức hấp dẫn với người tham dự.",
+      "register nghĩa là đăng ký; register for the meeting là cụm dùng khi ghi danh tham gia cuộc họp."
+    ]
+  },
+  "essential-06": {
+    "translation": "Khi tôi cố tắt máy tính, một cảnh báo hiện lên ghi rằng “Bộ nhớ thấp”. Đến đó thì tôi không biết phải làm gì. Máy tính không cho tôi truy cập bất kỳ tệp nào, nên tôi không thể tìm những tệp có thể xóa. Tôi đã xóa tất cả các tệp trùng lặp và không thể tin rằng những tệp còn lại lại chiếm nhiều bộ nhớ đến vậy. Tôi rất muốn bỏ qua cảnh báo của máy tính, nhưng không có lựa chọn nào vì màn hình bị đứng ở thông báo này. Bạn có nghĩ tôi đã không hiểu điều gì đó về cách vận hành chiếc máy tính này không? Nếu có thể, bạn vui lòng dành vài phút trong lịch trình bận rộn để giúp tôi giải quyết tình thế khó xử này được không? Như tôi đã nói, tôi chắc chắn phần mềm của mình tương thích và không phải là nguyên nhân của vấn đề này.",
+    "explanations": [
+      "shut down nghĩa là tắt máy; try to shut down mô tả thao tác khiến cảnh báo bộ nhớ xuất hiện.",
+      "warning nghĩa là cảnh báo; danh từ số ít sau a chỉ thông báo Low Memory bật lên trên máy tính.",
+      "figure out nghĩa là hiểu ra, tìm ra; figure out what to do diễn tả việc xác định cách xử lý sự cố.",
+      "access nghĩa là truy cập; let me access dùng động từ nguyên thể không to sau let + tân ngữ.",
+      "search nghĩa là tìm kiếm; search for those chỉ tìm những tệp có thể xóa, với those thay cho files.",
+      "deleted nghĩa là đã xóa; I've already deleted dùng hiện tại hoàn thành cho thao tác đã thực hiện trước lúc nói.",
+      "duplicate nghĩa là trùng lặp; duplicate files là các tệp có bản sao thừa mà người dùng đã xóa.",
+      "ignore nghĩa là bỏ qua; ignore the computer's warning chỉ không làm theo thông báo, nhưng máy đang bị đứng.",
+      "display nghĩa là màn hình hiển thị; the display is frozen mô tả giao diện bị kẹt ở một thông báo.",
+      "failed nghĩa là không làm được; fail to understand chỉ việc chưa hiểu một điều trong cách máy tính hoạt động.",
+      "allocate nghĩa là phân bổ, dành ra; allocate a few minutes xin người nghe dành thời gian trong lịch bận rộn.",
+      "compatible nghĩa là tương thích; sau is cần tính từ, chỉ phần mềm phù hợp với hệ thống nên không gây sự cố."
+    ]
+  },
+  "essential-07": {
+    "translation": "Nhiều công ty có một người hoặc một bộ phận phụ trách vận hành văn phòng. Nếu từng làm việc cho một công ty không có quản lý văn phòng, bạn sẽ rất nhanh chóng biết trân trọng tầm quan trọng của công việc này. Ai chịu trách nhiệm đặt hàng? Ai bảo dưỡng máy fax hoặc máy in? Ai bảo đảm văn phòng đủ tươm tất để đón khách hàng? Những chiếc bàn họp và kệ mới có bền và vừa túi tiền không? Trách nhiệm của quản lý văn phòng là duy trì một văn phòng hiệu quả và vận hành trôi chảy. Họ tìm cách giảm chi phí và hạn chế tối đa gián đoạn trong hoạt động hằng ngày. Trong khi các quản lý chuyên môn biết năng lực của nhân viên, quản lý văn phòng biết sức chứa thực tế của văn phòng cũng như vật tư và máy móc ở đó. Quản lý văn phòng chủ động tiến hành đặt mua nội thất và vật tư, đồng thời theo sát những thay đổi của công nghệ văn phòng. Theo thời gian, họ có thể nhận thấy những vấn đề tái diễn đòi hỏi phải đổi nhà cung cấp dịch vụ. Nội thất và các món đồ lớn được đặt mua khi cần. Những vật dụng dùng thường xuyên khác, như giấy, bìa hồ sơ và vật liệu gửi thư, được đặt theo lịch tự động, và văn phòng luôn có sẵn một lượng dự trữ các vật tư ấy.",
+    "explanations": [
+      "is in charge of nghĩa là phụ trách; of được theo sau bởi running, vì sau giới từ dùng danh động từ.",
+      "durable nghĩa là bền; tính từ sau are mô tả khả năng sử dụng lâu dài của bàn và kệ mới.",
+      "affordable nghĩa là có giá phải chăng; as well as nối hai tính từ, yêu cầu nội thất vừa bền vừa hợp ngân sách.",
+      "reduce nghĩa là giảm; reduce costs là kết hợp từ nói về việc quản lý văn phòng tiết kiệm chi phí.",
+      "capacity nghĩa là năng lực; capacity of their employees chỉ khả năng làm việc của nhân viên mà quản lý chuyên môn biết.",
+      "physical nghĩa là thuộc không gian, vật chất; physical capacity chỉ sức chứa thực tế của văn phòng.",
+      "initiates nghĩa là khởi xướng, bắt đầu; initiates the ordering nói người quản lý chủ động tiến hành việc mua sắm.",
+      "stays on top of nghĩa là theo sát, nắm vững; đi với changing office technology để chỉ cập nhật công nghệ đang đổi mới.",
+      "recurring nghĩa là tái diễn; recurring problems chỉ những trục trặc lặp lại, có thể khiến công ty đổi dịch vụ.",
+      "provider nghĩa là bên cung cấp; service provider là cụm chỉ đơn vị cung ứng một dịch vụ cho văn phòng.",
+      "as needed nghĩa là khi cần; on an as needed basis chỉ đặt nội thất theo nhu cầu thực tế thay vì theo lịch tự động.",
+      "stock nghĩa là lượng dự trữ; a stock of those supplies kết hợp với on hand để nói vật tư luôn có sẵn tại văn phòng."
+    ]
+  },
+  "essential-08": {
+    "translation": "Có bao nhiêu nhân viên thể hiện sự trân trọng đối với văn hóa doanh nghiệp của mình? Có bao nhiêu lãnh đạo hiểu được văn hóa doanh nghiệp là gì và được tạo nên từ những yếu tố nào? Văn hóa đó thường được củng cố bởi các quy trình và thói quen văn phòng hình thành qua nhiều năm. Hai mươi năm trước, một nữ quản lý đã để lại dấu ấn bằng cách ăn mặc giản dị, qua đó thay đổi mãi mãi quy định trang phục. Một giám đốc mua hàng từ đối thủ cạnh tranh khi hết hàng trong kho, và việc này nhanh chóng trở thành thông lệ. Những ví dụ ấy góp phần tạo nên văn hóa công ty. Nhân viên giỏi biết các quy trình tiêu chuẩn là gì. Đây là yếu tố quan trọng trong việc tuyển nhân viên mới cũng như đào tạo người lao động. Khi đào tạo, điều thường quan trọng là yêu cầu họ đọc các quy trình, viết lại phản ứng của mình và nói ra ý kiến về những thông lệ ấy. Điều này thúc đẩy tinh thần hợp tác giữa người đặt ra thông lệ và người phải tuân theo. Nhân viên đã gắn bó với công ty nhiều năm có thể không nhận ra những thông lệ lỗi thời vì họ chưa từng tiếp xúc với cách làm nào khác. Điều gì xảy ra khi một bộ phận cần thêm người giúp? Công ty sẽ đưa một nhân viên thời vụ vào làm, hay mượn người từ bộ phận khác? Những nhân viên mới thường đặt ra các câu hỏi giúp nhân viên lâu năm hiểu thêm một phần về văn hóa doanh nghiệp.",
+    "explanations": [
+      "appreciation nghĩa là sự trân trọng, nhận thức giá trị; show appreciation for chỉ thái độ coi trọng văn hóa công ty.",
+      "made of nghĩa là được tạo thành từ; what it is made of hỏi các yếu tố cấu thành văn hóa doanh nghiệp.",
+      "reinforced nghĩa là được củng cố; is reinforced by là bị động, nêu vai trò của quy trình và thói quen lâu năm.",
+      "casually nghĩa là theo kiểu giản dị; trạng từ bổ nghĩa cho dressing, chỉ cách ăn mặc đã làm đổi quy định.",
+      "code nghĩa là quy định; dress code là cụm cố định chỉ quy tắc trang phục tại nơi làm việc.",
+      "out of nghĩa là hết, cạn; ran out of stock nói rằng giám đốc phải mua từ đối thủ do không còn hàng.",
+      "verbalize nghĩa là nói ra thành lời; song song với read và write, yêu cầu học viên trình bày ý kiến về thông lệ.",
+      "practices nghĩa là các thông lệ; those who establish the practices là những người đặt ra cách làm mà nhân viên theo.",
+      "outdated nghĩa là lỗi thời; tính từ trước practices chỉ các cách làm không còn phù hợp nhưng người lâu năm khó nhận ra.",
+      "been exposed to nghĩa là đã được tiếp xúc với; haven't been exposed to anything else giải thích việc thiếu trải nghiệm cách làm khác.",
+      "brought in nghĩa là được đưa vào, thuê đến; is a temp brought in là câu hỏi bị động về việc bổ sung nhân sự thời vụ.",
+      "glimpse nghĩa là cái nhìn thoáng qua; get a glimpse of chỉ hiểu được một phần văn hóa qua câu hỏi của người mới."
+    ]
+  },
+  "essential-09": {
+    "translation": "Đến giữa thập niên 1980, gần như mọi doanh nghiệp ở Hoa Kỳ đều sở hữu ít nhất một máy tính. Giá máy tính giảm mạnh trong vài năm tiếp theo, khiến mức độ phổ biến tăng vọt. Đồng thời, các văn phòng bắt đầu dựa vào hệ thống mạng, giúp việc chia sẻ và xử lý dữ liệu thuận lợi hơn. Việc xử lý dữ liệu như vậy trở nên khả thi nhờ những cải tiến trong cả ngành phần cứng lẫn phần mềm. Gần đây hơn, các đĩa lưu trữ dữ liệu cũng trải qua cuộc cách mạng riêng. Nhờ tiến bộ kỹ thuật, dung lượng lưu trữ của đĩa compact đã tăng đáng kể. Ngoài ra, các nhà sản xuất phần mềm cung cấp những bản nâng cấp có tính cạnh tranh để thay thế sản phẩm của đối thủ. Ngày nay, gần như mọi nhân viên văn phòng đều được đào tạo sử dụng phần mềm xử lý văn bản phổ biến nhất. Máy tính liên tục tạo ra những thay đổi mang tính cách mạng tại nơi làm việc, và mọi người, dù thành thạo những kỹ năng khác đến đâu, cũng cần theo kịp các xu hướng lớn trong sự phát triển của máy tính.",
+    "explanations": [
+      "sharply nghĩa là mạnh, đột ngột; trạng từ bổ nghĩa cho declined để mô tả mức giảm giá máy tính rõ rệt.",
+      "networks nghĩa là các hệ thống mạng; rely on networks chỉ dùng kết nối máy tính để chia sẻ và xử lý dữ liệu.",
+      "facilitated nghĩa là tạo thuận lợi; mệnh đề which bổ sung tác dụng của mạng đối với sharing and processing.",
+      "processing nghĩa là việc xử lý; data processing là cụm danh từ, nhắc lại hoạt động xử lý dữ liệu ở câu trước.",
+      "disks nghĩa là các đĩa; data storage disks là thiết bị lưu dữ liệu, được minh họa bằng compact disc ở câu sau.",
+      "technical nghĩa là thuộc kỹ thuật; technical advancements chỉ những tiến bộ khiến dung lượng đĩa tăng lên.",
+      "storage nghĩa là lưu trữ; storage capacity là dung lượng chứa dữ liệu, phù hợp với sự cải tiến của đĩa compact.",
+      "software nghĩa là phần mềm; manufacturers of software là những đơn vị cung cấp bản nâng cấp để cạnh tranh.",
+      "replace nghĩa là thay thế; to replace chỉ mục đích của các bản nâng cấp: thay sản phẩm đối thủ bằng sản phẩm của mình.",
+      "popular nghĩa là phổ biến; the most popular là so sánh nhất, nói phần mềm xử lý văn bản được dùng rộng rãi nhất.",
+      "revolutionize nghĩa là làm thay đổi căn bản; chủ ngữ computers số nhiều dùng dạng nguyên thể ở hiện tại đơn.",
+      "skills nghĩa là các kỹ năng; accomplished with other skills nhấn mạnh dù giỏi lĩnh vực khác vẫn phải cập nhật máy tính."
+    ]
+  },
+  "essential-10": {
+    "translation": "Ở các văn phòng nhỏ, trợ lý điều hành thường là người phải quản lý toàn bộ tài liệu in do công ty tạo ra. Trách nhiệm công việc bao gồm đánh máy và in thư từ. Tất cả thư và bản ghi nhớ này phải được đọc soát cẩn thận để bảo đảm không có lỗi. Nếu có lỗi thì phải sửa. Nếu ý nghĩa chưa rõ, thư từ cần được chỉnh sửa lại. Việc chỉnh sửa này nên được làm từ trước, không phải lúc lá thư đã sẵn sàng gửi đi. Trước khi cho thư vào phong bì, trợ lý điều hành phải tập hợp mọi tài liệu đính kèm và giấy tờ khác cần gửi cùng thư. Khi gấp thư, trợ lý phải bảo đảm người nhận nhìn thấy phần tiêu đề có tên công ty trước tiên khi mở phong bì. Sau khi chuẩn bị xong, thư phải được gửi bằng phương thức thích hợp. Thư gấp trong khu vực có thể được dịch vụ chuyển phát giao tận tay. Thư gấp đi xa có thể gửi qua đêm hoặc bằng chuyển phát nhanh. Nếu cần lưu bằng chứng gửi thư, có thể gửi bảo đảm và người gửi sẽ được cấp biên nhận. Ngoài việc gửi và nhận fax, trợ lý điều hành phải phối hợp chặt chẽ với các lãnh đạo công ty. Khi lãnh đạo cần thuyết trình, trợ lý điều hành thường trở thành nhà thiết kế đồ họa, phụ trách bố cục — tức hình thức trình bày — của hình ảnh và chữ trong các tài liệu in dùng cho buổi thuyết trình. Tôi đã nhắc rằng những nhiệm vụ này thường đòi hỏi học phần mềm thiết kế cực kỳ phức tạp chưa nhỉ? Thật đáng ngạc nhiên là không có nhiều trợ lý điều hành hơn nữa kiến nghị với sếp để được tăng lương.",
+    "explanations": [
+      "proofed nghĩa là được đọc soát lỗi; must be proofed là bị động, bảo đảm thư và bản ghi nhớ không có sai sót.",
+      "revision nghĩa là việc chỉnh sửa; this revision nhắc lại hành động sửa nội dung khi ý nghĩa thư chưa rõ.",
+      "beforehand nghĩa là từ trước; đối lập về thời điểm với when the letter is ready to be sent ở vế sau.",
+      "assemble nghĩa là tập hợp; assemble attachments chỉ gom đủ tài liệu đính kèm trước khi cho vào phong bì.",
+      "folding nghĩa là gấp; when folding là mệnh đề rút gọn, nói cách gấp thư để phần letterhead hiện ra trước.",
+      "courier nghĩa là người hoặc dịch vụ chuyển phát; courier service có thể giao thư gấp trong khu vực tận tay.",
+      "express nghĩa là nhanh, hỏa tốc; express mail là dịch vụ thư nhanh, phù hợp với thư gấp đi xa.",
+      "registered nghĩa là gửi bảo đảm; mail can be registered là bị động, gắn với việc có biên nhận làm bằng chứng.",
+      "layout nghĩa là bố cục; cụm or the look of giải thích đây là cách sắp xếp hình ảnh và chữ trên tài liệu.",
+      "mention nghĩa là nhắc đến; sau Did I dùng nguyên thể để hỏi người nói đã đề cập một yêu cầu công việc hay chưa.",
+      "complicated nghĩa là phức tạp; extremely bổ nghĩa cho tính từ này, mô tả phần mềm thiết kế khó học.",
+      "petition nghĩa là kiến nghị, yêu cầu chính thức; petition their bosses for a raise là xin cấp trên tăng lương."
+    ]
+  },
+  "essential-11": {
+    "translation": "Tuyển dụng nhân viên là một quá trình tốn thời gian và chi phí. Vì vậy, nhà tuyển dụng muốn ghép đúng người với đúng việc ngay từ lần đầu. Có nhiều cách tuyển được nhân viên giỏi: đăng quảng cáo trên báo và tạp chí chuyên ngành, tuyển tại các trường đại học hoặc hội nghị, hay nhận giới thiệu từ các chuyên gia săn nhân sự. Tuyển dụng là dịp để công ty tự hào giới thiệu thành tựu và làm mọi người hào hứng với tương lai của công ty. Mỗi công ty đều cố gắng tập hợp những người giỏi nhất, nhưng họ không đơn độc. Các đối thủ của họ cũng đang cố làm như vậy. Khi có nhiều việc làm và tỷ lệ thất nghiệp thấp, nhà tuyển dụng có thể phải đáp ứng những đòi hỏi cao hơn từ người tìm việc. Ngược lại, khi kinh tế chậm lại và việc làm ít đi, nhà tuyển dụng có lợi thế hơn trong việc thu hút những ứng viên tốt nhất. Nhà tuyển dụng tìm kiếm những đặc điểm và năng lực chuyên môn nhất định ở nhân viên. Xây dựng một bản mô tả ứng viên thật cụ thể, phù hợp với văn hóa công ty và yêu cầu riêng của công việc, là một việc khó. Nhà tuyển dụng muốn thấy một ứng viên có năng lực toàn diện và có kinh nghiệm làm việc liên quan. Họ sẵn lòng trả mức lương tương xứng với kinh nghiệm đó. Nhà tuyển dụng sẽ quyết định tuyển người và mức lương dựa trên thông tin ứng viên nộp trong suốt quá trình ứng tuyển và phỏng vấn.",
+    "explanations": [
+      "time-consuming nghĩa là tốn thời gian; đứng trước process và song song với costly để mô tả chi phí của tuyển dụng.",
+      "match nghĩa là ghép cho phù hợp; match the right person with the right job chỉ bố trí đúng người, đúng công việc.",
+      "recruit nghĩa là tuyển dụng; ways to recruit good employees mở đầu danh sách các phương thức tìm nhân viên giỏi.",
+      "accomplishments nghĩa là các thành tựu; brag about its accomplishments chỉ việc công ty quảng bá thành tích để hấp dẫn ứng viên.",
+      "bring together nghĩa là tập hợp; bring together the best and the brightest chỉ quy tụ những người tài giỏi nhất.",
+      "abundant nghĩa là dồi dào; jobs are abundant tương ứng với thất nghiệp thấp và người tìm việc có nhiều lựa chọn.",
+      "candidates nghĩa là các ứng viên; the best candidates là người tìm việc giỏi mà công ty muốn thu hút lúc kinh tế chậm lại.",
+      "qualifications nghĩa là trình độ, năng lực đáp ứng yêu cầu; đi cùng characteristics để nêu tiêu chí tuyển nhân viên.",
+      "coming up with nghĩa là nghĩ ra, xây dựng; cụm V-ing làm chủ ngữ của is a difficult job ở cuối câu.",
+      "profile nghĩa là bản mô tả đặc điểm ứng viên; profile that fits chỉ hình mẫu phù hợp văn hóa và yêu cầu công việc.",
+      "commensurate nghĩa là tương xứng; commensurate with that experience nói mức lương phù hợp kinh nghiệm của ứng viên.",
+      "submit nghĩa là nộp; information candidates submit là thông tin ứng viên cung cấp qua hồ sơ và phỏng vấn."
+    ]
+  },
+  "essential-12": {
+    "translation": "Trong đời mình, bạn sẽ tìm việc mới bao nhiêu lần? Các chuyên gia nói có lẽ nhiều lần hơn bạn nghĩ! Một số người thấy việc tìm việc tốn thời gian và làm giảm sự tự tin. Những người tìm việc giỏi nhất là những người không bao giờ ngừng tìm kiếm và không mãi bận tâm về điểm yếu của mình. Họ liên tục xây dựng quan hệ: tại các cuộc họp, những buổi gặp gỡ xã hội và với cả những người tình cờ gặp trên đường. Họ định kỳ liên lạc lại với các đầu mối và người quen để cập nhật diễn biến mới. Người tìm việc giỏi luôn đánh giá năng lực của mình. Ngay cả trước khi ứng tuyển một vị trí, họ đã nghiên cứu lĩnh vực và những công ty cụ thể mà mình quan tâm. Họ biết mình có thể phù hợp ở đâu trong công ty và điều chỉnh lý lịch nghề nghiệp cho từng vị trí. Họ cố gắng thể hiện kinh nghiệm và quá trình học tập của mình phù hợp với vị trí tuyển dụng như thế nào. Vì vậy, khi được gọi đến phỏng vấn, họ đã chuẩn bị sẵn. Họ sẵn sàng cho mọi tình huống! Trong buổi phỏng vấn, những người tìm việc này biết phải thể hiện bản thân theo cách tốt nhất có thể. Đây là cơ hội để họ tỏa sáng. Đây cũng là cơ hội để xem liệu đó có thực sự là công việc mình muốn hay không. Nếu một trong hai bên do dự trong buổi phỏng vấn, đó có thể là dấu hiệu cho thấy sự kết hợp này không phù hợp.",
+    "explanations": [
+      "experts nghĩa là các chuyên gia; danh từ số nhiều làm chủ ngữ của say, chỉ nguồn nhận định về số lần tìm việc.",
+      "confidence nghĩa là sự tự tin; kết hợp với self- có sẵn thành self-confidence, thứ có thể bị ảnh hưởng khi tìm việc.",
+      "weaknesses nghĩa là các điểm yếu; dwell on their weaknesses chỉ việc cứ bận tâm quá lâu về hạn chế của mình.",
+      "constantly nghĩa là liên tục; trạng từ bổ nghĩa cho network, được minh họa bằng kết nối ở nhiều hoàn cảnh khác nhau.",
+      "follow up nghĩa là liên lạc tiếp, theo sát; follow up with contacts chỉ duy trì trao đổi với người quen để cập nhật thông tin.",
+      "abilities nghĩa là năng lực; assess their abilities nói người tìm việc tự đánh giá khả năng để chọn vị trí phù hợp.",
+      "apply nghĩa là ứng tuyển; apply for a position là cấu trúc cố định khi nộp đơn xin một công việc.",
+      "backgrounds nghĩa là nền tảng học tập và kinh nghiệm; match the job opening chỉ sự phù hợp của hồ sơ với vị trí tuyển.",
+      "called in nghĩa là được gọi đến; are called in for an interview là bị động, nói công ty mời ứng viên phỏng vấn.",
+      "are ready for nghĩa là sẵn sàng cho; for đi trước anything để diễn tả chuẩn bị đối phó mọi tình huống phỏng vấn.",
+      "present nghĩa là thể hiện, giới thiệu; present themselves chỉ cách ứng viên giới thiệu bản thân với nhà tuyển dụng.",
+      "hesitant nghĩa là do dự; if either party is hesitant diễn tả sự thiếu chắc chắn của một trong hai bên về mức độ phù hợp."
+    ]
+  },
+  "essential-13": {
+    "translation": "Sau khi quảng cáo đã được đăng và các cuộc phỏng vấn đã được tiến hành, cần đưa ra quyết định. Công ty nên nhận ai vào làm? Các lời mời làm việc được đưa ra và được chấp nhận hoặc từ chối. Với những người chấp nhận lời mời, việc tìm kiếm công việc đã kết thúc thành công. Nhưng đối với cả người sử dụng lao động và nhân viên mới, công việc chỉ vừa bắt đầu. Các công ty muốn nhân viên mới tạo ra cơ hội kinh doanh và ý tưởng mới càng sớm càng tốt. Trước khi làm được điều đó, những người mới được tuyển cần được đào tạo. Mọi công ty đều có những kỳ vọng và phương thức hoạt động riêng. Người phụ trách đào tạo tổ chức các buổi hội thảo và chuyên đề cho cả nhân viên có kinh nghiệm lẫn người mới. Tất cả nhân viên phải chuẩn bị cho tương lai và liên tục cập nhật kiến thức chuyên môn của mình. Ngày nay, người lao động được kỳ vọng theo kịp những xu hướng và thông tin mới nhất. Nếu không, họ sẽ tụt lại phía sau. Nhiều công ty thiết lập chương trình cố vấn cho nhân viên mới. Người cố vấn thường là quản lý hoặc nhân viên có kinh nghiệm và nên là người mà nhân viên mới có thể kính trọng, noi theo. Người cố vấn thường cùng người được hướng dẫn xem lại các mục tiêu, chỉ tiêu và giúp họ tiếp tục đi đúng hướng.",
+    "explanations": [
+      "conducted nghĩa là được tiến hành; interviews have been conducted là hiện tại hoàn thành bị động, trước bước ra quyết định.",
+      "rejected nghĩa là bị từ chối; accepted or rejected nêu hai kết quả đối lập của lời mời làm việc.",
+      "successfully nghĩa là thành công; trạng từ bổ nghĩa cho completed, vì người tìm việc đã nhận được và chấp nhận lời mời.",
+      "generate nghĩa là tạo ra; generate new business and new ideas nói đóng góp công ty mong chờ từ nhân viên mới.",
+      "hires nghĩa là những người được tuyển; new hires là danh từ chỉ nhân viên mới, khác động từ hire nghĩa là thuê.",
+      "training nghĩa là sự đào tạo; some training là danh từ không đếm được, cần trước khi nhân viên làm việc hiệu quả.",
+      "update nghĩa là cập nhật; update themselves in their field chỉ chủ động bổ sung kiến thức chuyên môn mới.",
+      "keep up with nghĩa là theo kịp; đi với latest trends and information, đối lập với fall behind ở câu sau.",
+      "set up nghĩa là thiết lập; set up a mentoring program chỉ xây dựng chương trình cố vấn trong công ty.",
+      "mentor nghĩa là người cố vấn; danh từ số ít chỉ nhân viên hoặc quản lý có kinh nghiệm hướng dẫn người mới.",
+      "look up to nghĩa là kính trọng, ngưỡng mộ; whom là đối tượng của cụm này, nói về người cố vấn đáng noi theo.",
+      "on track nghĩa là đúng hướng; stay on track chỉ tiếp tục tiến tới các mục tiêu đã được người cố vấn cùng xem xét."
+    ]
+  },
+  "essential-14": {
+    "translation": "Một phần quan trọng của quá trình tìm việc thường diễn ra sau khi có lời mời làm việc. Bạn không nên ký giấy tờ cho tới khi đã thương lượng thành công mức lương và các phúc lợi. Bạn muốn bảo đảm mình được trả công thỏa đáng cho kỹ năng, công sức và thời gian. Đây là một vấn đề tế nhị và khó khăn. Bạn nên biết các khoảng lương trong công ty và trong ngành. Một số người lao động không nhận lương cố định; thay vào đó, họ được trả công theo giờ. Trong một số trường hợp, người hưởng lương giờ linh hoạt hơn về thời gian làm việc. Sự đánh đổi là họ có thể không được hưởng phúc lợi nào. Với người hưởng lương cố định, mức lương cơ bản được thương lượng rất quan trọng vì đa số những lần tăng lương sau đó chỉ tăng từng khoản nhỏ. Hầu hết công ty có quy trình đánh giá hằng năm hoặc nửa năm một lần. Sau đợt đánh giá, nhân viên có thể được tăng lương. Mỗi nhân viên có hoàn cảnh riêng. Bảo hiểm y tế và chương trình hưu trí có thể thiết yếu đối với một số người nhưng không quan trọng với người khác. Nhiều công ty cung cấp phúc lợi theo cách khiến nhân viên có lợi khi gắn bó lâu hơn. Nhân viên có thể chưa đủ điều kiện đăng ký chương trình hưu trí cho đến khi đã làm cho công ty một năm, và chưa có toàn bộ quyền hưởng lợi được bảo đảm trong các chương trình này cho đến khi đã có năm năm thâm niên. Một số chương trình thưởng được chi trả dần trong nhiều năm. Số ngày nghỉ phép cũng tăng theo số năm làm việc.",
+    "explanations": [
+      "negotiated nghĩa là đã thương lượng; have successfully negotiated là hiện tại hoàn thành, phải xong trước khi ký giấy tờ.",
+      "benefits nghĩa là các phúc lợi; salary and benefits là hai nội dung cần thương lượng trong lời mời làm việc.",
+      "compensated nghĩa là được trả công; be adequately compensated for chỉ nhận thù lao thỏa đáng cho kỹ năng, công việc và thời gian.",
+      "delicate nghĩa là tế nhị; delicate and difficult mô tả tính nhạy cảm khi bàn về lương và quyền lợi.",
+      "be aware of nghĩa là biết, nhận thức được; sau should giữ dạng be, rồi dẫn thông tin về khoảng lương cần nắm.",
+      "wage nghĩa là tiền công; an hourly wage là khoản trả theo giờ, khác với lương cố định theo kỳ.",
+      "flexibility nghĩa là sự linh hoạt; more flexibility with the hours chỉ quyền linh động hơn về thời gian làm việc.",
+      "basis nghĩa là cơ sở, định kỳ; on an annual or semiannual basis là cách nói đánh giá hằng năm hoặc mỗi nửa năm.",
+      "raise nghĩa là một lần tăng lương; receive a raise chỉ kết quả nhân viên có thể nhận sau kỳ đánh giá.",
+      "retirement nghĩa là nghỉ hưu; retirement plans là các chương trình tài chính hoặc phúc lợi cho thời kỳ hưu trí.",
+      "eligible nghĩa là đủ điều kiện; eligible to sign up chỉ đạt yêu cầu thâm niên để đăng ký chương trình hưu trí.",
+      "vested nghĩa là có quyền hưởng lợi đã được bảo đảm; fully vested chỉ toàn bộ quyền lợi hưu trí đã thuộc về nhân viên theo điều kiện chương trình."
+    ]
+  },
+  "essential-15": {
+    "translation": "Xin chúc mừng. Các đồng nghiệp đã chọn bạn để nhận Giải thưởng Xuất sắc Keeler. Giải thưởng danh giá này ghi nhận những nhân viên đã có đóng góp đặc biệt cho tập đoàn trong nhiều năm. Đồng nghiệp đưa ra một số lý do để chọn bạn. Trước hết, họ nhắc đến những thành tích của bạn tại phòng tiếp thị. Trong bốn năm qua, bạn đã được thăng chức bốn lần trong phòng này, tất cả đều dựa trên nhiều ưu điểm trong công việc phát triển hình ảnh của chúng ta tại các thị trường mới. Ngoài ra, lòng trung thành của bạn với phòng ban là điều ai cũng thấy rõ. Nhiều đồng nghiệp nói rằng họ tìm đến bạn để xin lời khuyên. Người quản lý trực tiếp khen ngợi năng suất làm việc cao của bạn. Giải thưởng Keeler ghi nhận giá trị của một nhân viên bằng khoản thưởng 1.000 đô la. Chúng tôi mong có cơ hội trồng và đề tặng một bụi hoa hồng trong vườn công ty mang tên từng người nhận giải. Lễ trao giải sẽ được tổ chức ngày 7 tháng 8 trên bãi cỏ phía trước lúc 10 giờ 30 sáng. Một lần nữa, xin chúc mừng.",
+    "explanations": [
+      "recognizes nghĩa là ghi nhận, tôn vinh; chủ ngữ award số ít nên thêm -s, và employees là những người được ghi nhận.",
+      "contributions nghĩa là các đóng góp; make contributions to the corporation là cụm chỉ cống hiến cho tập đoàn.",
+      "achievements/merits là hai đáp án nguồn chấp nhận: achievements chỉ thành tích, merits chỉ ưu điểm đáng khen của bạn tại phòng tiếp thị.",
+      "promotions nghĩa là những lần thăng chức; four promotions in four years nêu sự tiến bộ chức vụ của người nhận giải.",
+      "merits/achievements đều được nguồn chấp nhận: merits là những điểm xuất sắc, achievements là thành tựu làm căn cứ cho các lần thăng chức.",
+      "loyalty nghĩa là lòng trung thành; loyalty to the department diễn tả sự gắn bó của nhân viên với phòng ban.",
+      "obvious nghĩa là rõ ràng; is obvious to all nói lòng trung thành được mọi người dễ dàng nhận thấy.",
+      "look to nghĩa là trông cậy, tìm đến; look to someone for advice chỉ xin lời khuyên ở người mình tin tưởng.",
+      "productivity nghĩa là năng suất; high productivity chỉ hiệu quả tạo ra kết quả công việc được cấp trên khen ngợi.",
+      "value nghĩa là giá trị; an employee's value là điều giải thưởng ghi nhận thông qua khoản thưởng 1.000 đô la.",
+      "look forward nghĩa là mong đợi; look forward to the opportunity có to là giới từ, theo sau bởi danh từ opportunity.",
+      "dedicate nghĩa là đề tặng để vinh danh; dedicate a rosebush in each recipient's name chỉ dành bụi hồng mang tên người nhận giải."
+    ]
+  },
+  "essential-16": {
+    "translation": "Một số người thích mua sắm. Những người khác không chịu nổi việc mua sắm và chỉ đi khi quần áo đã sờn rách hoàn toàn. Không ai tránh được mua sắm — trừ khi bạn có thể sống mà không ăn! Sự tiêu dùng và hành vi người tiêu dùng ảnh hưởng đến mọi việc chúng ta làm. Một số việc mua sắm là hoàn toàn bắt buộc. Ai cũng cần ăn, mặc quần áo và có đồ nội thất để ngồi. Những lần mua khác hoàn toàn dành cho các món đồ xa xỉ. Phần lớn những thứ đa số chúng ta mua nằm đâu đó giữa nhu yếu phẩm và những món phù phiếm. Phần lớn mọi người mua sắm bằng cách đến các cửa hàng vào cuối tuần. Thật thú vị khi mở rộng số địa điểm mình mua sắm bằng cách khám phá những cửa hàng mới — ngay cả khi bạn không mua gì. Trở lại những cửa hàng quen thuộc, nơi bạn biết các mặt hàng được bày bán có thể gồm những gì, cũng đem lại cảm giác dễ chịu. Hầu hết người mua tìm những món hời. Một số người thậm chí đi xem hết các lối giữa các quầy để tìm xem những món thường dùng có được giảm giá không. Ai cũng thích phát hiện những mặt hàng mình ưa chuộng đang được giảm xuống mức giá thấp hơn. Một đợt giảm giá làm việc đến quầy thanh toán trở nên vui vẻ hơn. Một xu hướng đang tăng trưởng đều đặn là mua sắm ngay trong sự thoải mái của ngôi nhà mình. Nhiều người thích mua qua danh mục hàng hóa và trên Internet. Bạn có thể nhận qua bưu điện gần như mọi thứ, từ sách đến quần áo, mà không phải rời nhà.",
+    "explanations": [
+      "bear nghĩa là chịu đựng; can't bear shopping chỉ rất ghét, không chịu nổi hoạt động mua sắm; sau bear có thể dùng V-ing.",
+      "behavior nghĩa là hành vi; consumer behavior là cách người tiêu dùng lựa chọn và mua hàng, được ghép với consumption.",
+      "mandatory nghĩa là bắt buộc; absolutely mandatory mô tả các việc mua thiết yếu như thực phẩm, quần áo và đồ nội thất.",
+      "strictly nghĩa là hoàn toàn, chỉ riêng; trạng từ này giới hạn mục đích của những lần mua ấy vào hàng xa xỉ.",
+      "items nghĩa là các món hàng; luxury items là cụm chỉ đồ xa xỉ, đối lập với các vật phẩm thiết yếu.",
+      "expand nghĩa là mở rộng; expand the number of places chỉ tăng số cửa hàng mà người mua ghé đến.",
+      "exploring nghĩa là khám phá; sau by dùng V-ing để nêu cách mở rộng địa điểm mua sắm: tìm hiểu cửa hàng mới.",
+      "comforting nghĩa là đem lại cảm giác dễ chịu; it's comforting to return nêu sự an tâm khi quay lại cửa hàng quen.",
+      "merchandise nghĩa là hàng hóa; merchandise selection chỉ tập hợp mặt hàng cửa hàng có để người mua lựa chọn.",
+      "bargains nghĩa là những món hời; looking for bargains được giải thích bằng hành động tìm mặt hàng đã giảm giá.",
+      "checkout nghĩa là nơi thanh toán; checkout counter là quầy trả tiền, nơi khách vui hơn khi mua được hàng giảm giá.",
+      "trend nghĩa là xu hướng; a steadily growing trend chỉ hình thức mua sắm tại nhà đang ngày càng phổ biến."
+    ]
+  },
+  "essential-17": {
+    "translation": "Mọi doanh nghiệp, dù lớn hay nhỏ, đều phải duy trì lượng vật tư dự trữ. Trong phần lớn văn phòng doanh nghiệp có một số vật dụng thiết yếu dùng hằng ngày, gồm giấy viết thư, bút, kim bấm và bìa hồ sơ. Có thể dễ dàng mua những thứ này từ các cửa hàng văn phòng phẩm cung cấp các mặt hàng thường dùng nhất trong cùng một địa điểm. Một số cửa hàng thậm chí còn nhận đặt hàng qua điện thoại và giao miễn phí. Tuy nhiên, một số doanh nghiệp cần một danh mục vật tư đa dạng hơn. Chẳng hạn, doanh nghiệp vận chuyển sản phẩm thường luôn cần có sẵn thùng carton, hạt xốp chèn hàng, băng keo đóng gói và nhãn vận chuyển. Dù có thể mua những mặt hàng này ở cửa hàng văn phòng phẩm tổng hợp, cũng có những cửa hàng chuyên chỉ bán vật tư đóng gói và vận chuyển. Dù thuộc loại hình kinh doanh nào, người quản trị văn phòng cũng chịu trách nhiệm đặt vật tư và duy trì lượng hàng dự trữ. Luôn có sẵn vật tư thiết yếu là điều kiện tiên quyết để doanh nghiệp vận hành trôi chảy và hiệu quả. Người quản trị nên cố tìm nguồn cung rẻ nhất cho các vật tư cần thiết, đồng thời cũng chú ý đến chất lượng hàng hóa.",
+    "explanations": [
+      "everyday nghĩa là dùng hằng ngày; tính từ này đứng trước items, khác với every day là cụm trạng ngữ chỉ tần suất.",
+      "stationery nghĩa là văn phòng phẩm, đặc biệt giấy viết thư; nằm trong danh sách đồ dùng cùng bút, kim bấm và bìa hồ sơ.",
+      "obtained nghĩa là có được, mua được; are easily obtained from là bị động, chỉ nơi cung cấp các vật dụng văn phòng.",
+      "diverse nghĩa là đa dạng; a more diverse range of supplies chỉ danh mục vật tư phong phú hơn cho nhu cầu đặc thù.",
+      "maintaining nghĩa là duy trì; song song với ordering sau in charge of, nên đều dùng dạng V-ing.",
+      "essential nghĩa là thiết yếu; essential supplies chỉ những vật tư bắt buộc phải có để công việc không bị gián đoạn.",
+      "prerequisite nghĩa là điều kiện tiên quyết; a prerequisite for nêu việc có vật tư là điều kiện để doanh nghiệp vận hành tốt.",
+      "smooth nghĩa là trôi chảy; smooth and efficient cùng bổ nghĩa cho functioning, mô tả hoạt động không gặp trục trặc.",
+      "functioning nghĩa là sự vận hành; đứng sau hai tính từ smooth and efficient và trước of the enterprise nên là danh từ.",
+      "enterprise nghĩa là doanh nghiệp; functioning of the enterprise chỉ hoạt động của đơn vị kinh doanh cần vật tư.",
+      "source nghĩa là nguồn cung; the cheapest source of the supplies là nơi có thể mua những vật tư cần thiết với giá thấp nhất.",
+      "quality nghĩa là chất lượng; pay attention to the quality nhắc người mua cân nhắc phẩm chất hàng hóa bên cạnh giá rẻ."
+    ]
+  },
+  "essential-18": {
+    "translation": "Đối với cửa hàng đồ gia dụng châu Á của ông Park, vận chuyển là một phần không thể thiếu trong hoạt động kinh doanh. Nhiều khách hàng cần gửi hàng đã mua cho bạn bè hoặc người thân sống ở xa. Những khách khác không sống gần cửa hàng nào của ông thì mua qua ca-ta-lô và cần nhận đơn hàng qua đường bưu điện. Tất nhiên, vận chuyển là quá trình giao hàng đến khách, nhưng công việc này không chỉ đơn giản là gửi một chiếc hộp qua bưu điện. Hàng hóa phải được đóng gói cẩn thận để giảm thiểu đổ vỡ và bảo đảm đến nơi an toàn. Nhân viên phải ghi chép chính xác lượng hàng tồn kho đã gửi đi để bất cứ lúc nào ông Park cũng biết câu trả lời cho những câu hỏi sau: Kiện hàng rời cửa hàng khi nào? Đơn vị vận chuyển nào đã giao hàng? Hàng đến đích khi nào? Khách hàng sẽ tin tưởng doanh nghiệp của ông Park khi ông có thể trả lời nhanh chóng và chính xác. Quy trình vận chuyển phải gắn với hệ thống hàng tồn kho của cửa hàng. Khi nhận đơn, nhân viên vận chuyển phải biết rằng lượng sản phẩm có sẵn trong kho đủ để đáp ứng yêu cầu. Nếu một sản phẩm đang được đặt bổ sung, nhân viên bán hàng nên thông báo cho khách rằng việc giao hàng sẽ chậm. Khi các đơn hàng được gửi đi, số hàng đó phải được trừ khỏi hồ sơ tồn kho để ông Park biết chính xác còn bao nhiêu mặt hàng có sẵn trong kho. Cần có một chương trình máy tính tốt để theo dõi lượng hàng được bổ sung và trừ đi. Nhân viên bán hàng phải nhớ thu phí vận chuyển và các khoản thuế thích hợp. Ông Park phải ghi chép đầy đủ chi phí vật liệu vận chuyển, đóng gói và các vật tư khác, chi phí thuê đơn vị vận chuyển và thời gian làm việc của nhân viên để đánh giá xem khoản phí ông thu đã đủ trang trải chi phí vận chuyển hay chưa.",
+    "explanations": [
+      "Integral nghĩa là không thể thiếu; an integral part of the business diễn tả vai trò thiết yếu của vận chuyển đối với cửa hàng.",
+      "Catalog là ca-ta-lô giới thiệu hàng; shop by catalog là mua qua danh mục, phù hợp với khách sống xa cửa hàng.",
+      "Shipping là việc vận chuyển hàng; danh từ này làm chủ ngữ cho định nghĩa the process of getting goods delivered.",
+      "Minimize nghĩa là giảm đến mức thấp nhất; to minimize breakage nêu mục đích đóng gói kỹ nhằm giảm đổ vỡ.",
+      "Accurate nghĩa là chính xác; tính từ bổ nghĩa cho records vì hồ sơ phải cho biết đúng lượng hàng đã gửi.",
+      "Carrier là đơn vị hoặc người vận chuyển; who delivered it xác định bên đã giao kiện hàng.",
+      "Inventory là hàng tồn kho hoặc hệ thống quản lý tồn kho; quy trình gửi hàng phải gắn với số hàng cửa hàng đang có.",
+      "Sufficient nghĩa là đủ; sufficient inventory chỉ lượng hàng đủ để đáp ứng đơn khách yêu cầu.",
+      "Fulfill nghĩa là thực hiện, đáp ứng; fulfill the request là đáp ứng yêu cầu đặt hàng của khách.",
+      "On hand nghĩa là có sẵn; items are on hand in his warehouse nói đến số hàng thực tế còn trong kho.",
+      "Remember to do something là nhớ thực hiện việc gì; nhân viên cần nhớ tính phí vận chuyển và thuế.",
+      "Supplies là vật tư tiêu hao phục vụ công việc; other supplies được liệt kê cùng vật liệu vận chuyển và đóng gói."
+    ]
+  },
+  "essential-19": {
+    "translation": "Các công ty bán hàng qua bưu điện cần có quy trình hiệu quả để lập hóa đơn và thu tiền khách hàng. Khi khách đặt hàng, phải tổng hợp danh sách các mặt hàng và lập hóa đơn. Hóa đơn liệt kê những mặt hàng đã mua, giá từng mặt hàng và số lượng khách muốn mua. Các chi phí phát sinh khi gửi hàng đến khách cũng được cộng vào hóa đơn. Đôi khi phí vận chuyển chỉ được ước tính dựa trên trọng lượng hoặc giá trị hàng đã đặt. Hóa đơn cũng ghi các điều khoản thanh toán. Thông thường, tiền phải được thanh toán trong vòng 30 ngày. Các tài khoản quá hạn thường bị tính thêm phí. Nhiều công ty cũng giảm giá một chút nếu hóa đơn được thanh toán nhanh chóng. Đôi khi hàng bị hỏng hoặc thất lạc trong quá trình vận chuyển, hoặc khách phát hiện công ty đã gửi nhầm hàng. Họ thường gọi cho công ty để yêu cầu khắc phục vấn đề. Những khiếu nại như vậy cần được xử lý kịp thời. Nếu thiếu một món hàng, công ty sẽ gửi hàng thay thế, thường không thu thêm phí của khách.",
+    "explanations": [
+      "Efficient nghĩa là hiệu quả; an efficient process chỉ quy trình lập hóa đơn và thu tiền vận hành tốt, ít lãng phí.",
+      "Order là đơn đặt hàng; place an order là cụm cố định diễn tả việc khách đặt mua hàng.",
+      "Compiled nghĩa là được tổng hợp; must be compiled là bị động, vì danh sách mặt hàng được nhân viên lập ra.",
+      "Charges là các khoản phí; danh từ số nhiều đi với are added và chỉ chi phí phát sinh khi vận chuyển.",
+      "Customer là khách hàng; ship the items to the customer xác định người nhận hàng đã mua.",
+      "Estimated nghĩa là được ước tính; are estimated based on cho biết phí được tính gần đúng theo trọng lượng hoặc giá trị.",
+      "Terms là các điều khoản; terms of payment là điều kiện thanh toán, ở đây gồm hạn trả trong 30 ngày.",
+      "Imposed nghĩa là được áp dụng, áp đặt; charges are imposed on overdue accounts là phí bị tính cho tài khoản quá hạn.",
+      "Discount là khoản giảm giá; offer a discount là giảm số tiền khách phải trả khi họ thanh toán sớm.",
+      "Mistake nghĩa là sai sót; by mistake là cụm trạng ngữ nghĩa là do nhầm lẫn, giải thích việc gửi sai hàng.",
+      "Rectified nghĩa là được sửa chữa, khắc phục; have the problem rectified là nhờ công ty xử lý vấn đề.",
+      "Promptly nghĩa là nhanh chóng, kịp thời; trạng từ bổ nghĩa cho dealt with để yêu cầu xử lý khiếu nại sớm."
+    ]
+  },
+  "essential-20": {
+    "translation": "Trong kinh doanh bán lẻ, từ inventory có nhiều nghĩa. Nó chỉ toàn bộ hàng hóa công ty có sẵn hoặc có thể sử dụng trong kho. Nó cũng chỉ quá trình doanh nghiệp kiểm tra, xác nhận số lượng hàng. Việc thống kê chính xác lượng hàng tồn kho hiện có là vô cùng quan trọng. Lượng hàng dự trữ là một khoản nghĩa vụ tài chính vì doanh nghiệp đã sở hữu nó. Kiểm kê là đếm trực tiếp lượng hàng tồn kho. Ngày nay, hầu hết doanh nghiệp đều duy trì số liệu tồn kho được cập nhật liên tục bằng cách kết nối hồ sơ bán hàng với hồ sơ tồn kho qua máy tính. Khi khách mua hàng, hệ thống máy tính nối với máy tính tiền sẽ trừ lượng hàng đã mua khỏi hồ sơ tồn kho. Nếu khách trả lại hoặc đổi hàng, máy tính sẽ tự động điều chỉnh số liệu tồn kho. Đó thường là lý do việc quét mã vạch trong cửa hàng rất quan trọng. Nếu hàng hóa bị vỡ hoặc hư hỏng trong kho hay ở khu vực bán hàng, người quản lý sẽ yêu cầu nhân viên bán hàng và nhân viên kho điều chỉnh lượng hàng để phản ánh tổn thất đó. Dù hồ sơ máy tính có tốt đến đâu, đó vẫn chỉ là số liệu ước tính. Ít nhất mỗi năm một lần, phần lớn doanh nghiệp thực sự đếm trực tiếp hàng tồn kho. Quá trình này có thể tẻ nhạt, nhưng cần thiết vì luôn có chênh lệch giữa số hàng máy tính ghi nhận và kết quả kiểm đếm thực tế. Các cửa hàng thường đóng cửa một ngày, hoặc ít nhất đóng cửa sớm, để nhân viên kiểm kê mà không bị quấy rầy.",
+    "explanations": [
+      "Verifies nghĩa là kiểm tra, xác nhận; chủ ngữ the business số ít nên động từ thêm -s để nói việc xác minh số lượng hàng.",
+      "Crucial nghĩa là cực kỳ quan trọng; sau is cần tính từ đánh giá tầm quan trọng của số liệu tồn kho chính xác.",
+      "Liability nghĩa là khoản nợ hoặc nghĩa vụ tài chính. Đây là đáp án gốc, nhưng lập luận đã sở hữu nên là liability không chuẩn kế toán; hàng tồn kho thường là tài sản.",
+      "Running nghĩa là liên tục được cập nhật; a running inventory count là số liệu tồn kho thay đổi theo từng giao dịch.",
+      "Subtracts nghĩa là trừ đi; subtract the purchase from the inventory là trừ lượng hàng đã bán khỏi tồn kho.",
+      "Adjusted nghĩa là được điều chỉnh; will be adjusted là bị động vì số liệu thay đổi khi khách đổi hoặc trả hàng.",
+      "Automatically nghĩa là tự động; trạng từ nói rõ máy tính tự điều chỉnh số liệu mà không cần tính thủ công.",
+      "Scanning nghĩa là việc quét; scanning the bar code là cụm danh động từ làm chủ ngữ sau why.",
+      "Reflect nghĩa là phản ánh; to reflect the loss nêu mục đích sửa hồ sơ để thể hiện hàng bị hỏng.",
+      "Tedious nghĩa là tẻ nhạt, mất công; tính từ sau can be mô tả việc đếm trực tiếp từng món hàng.",
+      "Discrepancies là những chênh lệch; discrepancies between A and B chỉ khác biệt giữa số liệu máy tính và kiểm đếm thực tế.",
+      "Disturbances là những sự quấy rầy, gián đoạn; without disturbances giải thích lý do cửa hàng đóng cửa để kiểm kê."
+    ]
+  },
+  "essential-21": {
+    "translation": "Ngân hàng không chỉ là nơi tiết kiệm tiền hay thực hiện các giao dịch tài chính mà còn là tổ chức cho mọi người vay tiền. Hằng ngày, người ta tìm đến ngân hàng để vay, chẳng hạn vay thế chấp mua nhà mới. Về cơ bản, một khoản vay là hợp đồng ràng buộc bên cho vay với một lịch thanh toán, vì vậy cả hai bên nên thận trọng, không tham gia thỏa thuận mà thiếu suy xét. Khi quyết định có cho vay hay không, ngân hàng xem xét các yếu tố như số tiền người vay đã tiết kiệm cho khoản trả trước. Ngân hàng có nhiều loại tài khoản khác nhau. Một số trả cổ tức cao theo quý. Một số tài khoản thậm chí hạn chế nghiêm ngặt số lần được truy cập tài khoản, nếu có cho phép, hoặc số tiền mặt được rút. Ngày nay, có thể dùng ngân hàng điện tử để kiểm tra số dư tài khoản hoặc xem các khoản khấu trừ tự động đã được thực hiện chưa. Tất cả những việc này đều có thể làm từ máy tính ở nhà hoặc văn phòng. Khi đến ngân hàng, hãy nhớ mang theo giấy tờ tùy thân. Thông thường, ngân hàng chỉ chấp nhận giấy tờ có ảnh; chữ ký không phải giấy tờ nhận dạng hợp lệ.",
+    "explanations": [
+      "Transact nghĩa là thực hiện giao dịch; transact your financial business chỉ giải quyết các công việc tài chính tại ngân hàng.",
+      "Borrow nghĩa là vay; borrow money from banks thể hiện người dân nhận tiền vay từ ngân hàng.",
+      "Mortgages là các khoản vay thế chấp; mortgages for new homes là ví dụ cụ thể của khoản vay mua nhà.",
+      "Cautious nghĩa là thận trọng; be cautious đi cùng lời khuyên không ký thỏa thuận khi chưa suy nghĩ kỹ.",
+      "Down payment là khoản trả trước; save towards a down payment là tích cóp tiền cho phần thanh toán ban đầu.",
+      "Dividends là cổ tức hoặc khoản phân phối lợi nhuận; high quarterly dividends chỉ khoản chi trả cao mỗi quý theo cách dùng của bài.",
+      "Restrict nghĩa là hạn chế; restrict the number of times là giới hạn số lần khách được sử dụng tài khoản.",
+      "Take out nghĩa là rút ra; cash you can take out chỉ lượng tiền mặt có thể rút khỏi tài khoản.",
+      "Balance là số dư; check the balance on an account là xem số tiền hiện có trong tài khoản.",
+      "Deductions là các khoản khấu trừ; automatic deductions have been made nói đến tiền đã được tự động trừ khỏi tài khoản.",
+      "Accept nghĩa là chấp nhận; only accept a photo ID cho biết ngân hàng yêu cầu giấy tờ có ảnh.",
+      "Signature nghĩa là chữ ký; danh từ sau a được đối chiếu với photo ID để nói chữ ký không đủ làm giấy tờ nhận dạng."
+    ]
+  },
+  "essential-22": {
+    "translation": "Thông tin kế toán được tập hợp, hay tích lũy, nhằm giúp người sử dụng đưa ra quyết định. Người quản lý phải lập ngân sách để kiểm soát chi phí. Chủ một cửa hàng bán lẻ nhận thấy khách hàng của mình còn những hóa đơn chưa thanh toán. Chủ nhà hàng muốn biết phục vụ bữa trưa có sinh lời hay không. Một tổ chức phi lợi nhuận đang được chính phủ kiểm toán. Tất cả những cá nhân và tổ chức này đều có thể sử dụng dịch vụ của kế toán viên. Kế toán viên và hệ thống kế toán giúp công ty đi đúng hướng. Họ phát tín hiệu cảnh báo khi chi phí tăng dần và theo dõi vòng quay hàng tồn kho. Họ đối chiếu các tài khoản của khách hàng để bảo đảm sổ sách của khách chính xác. Hệ thống kế toán tốt giúp người quản lý tìm ra cách cải thiện hoạt động kinh doanh. Kế toán viên chuẩn bị thông tin để sử dụng cả trong nội bộ lẫn bên ngoài. Báo cáo tài chính cho cái nhìn nhanh về tình hình một doanh nghiệp. Chúng cho biết công ty đang gánh bao nhiêu nợ và tài sản của công ty có giá trị bao nhiêu. Những người bên ngoài sử dụng thông tin này để đánh giá sức khỏe của công ty.",
+    "explanations": [
+      "Accumulated nghĩa là được tích lũy, tập hợp; được nối bằng or với pulled together để diễn đạt lại cùng một ý.",
+      "Budget là ngân sách; come up with a budget là lập kế hoạch tiền bạc nhằm kiểm soát chi tiêu.",
+      "Clients nghĩa là khách hàng; her clients là những người mua hàng còn hóa đơn chưa trả tại cửa hàng.",
+      "Outstanding nghĩa là chưa thanh toán trong ngữ cảnh tài chính; outstanding bills là các hóa đơn còn nợ.",
+      "Profitable nghĩa là có lãi; it is profitable to serve lunch đặt câu hỏi liệu phục vụ bữa trưa có tạo lợi nhuận.",
+      "Audited nghĩa là được kiểm toán; is being audited là bị động tiếp diễn, chỉ cuộc kiểm tra đang được chính phủ thực hiện.",
+      "Accounting nghĩa là kế toán; accounting systems là hệ thống ghi chép và xử lý thông tin tài chính của doanh nghiệp.",
+      "Building up nghĩa là tăng dần, tích tụ; expenses are building up cảnh báo chi phí đang ngày càng nhiều.",
+      "Turnover là vòng quay; turnover of inventory chỉ tốc độ hàng tồn kho được bán và thay thế.",
+      "Reconcile nghĩa là đối chiếu để khớp số liệu; reconcile accounts nhằm phát hiện và xử lý sai lệch trong sổ sách.",
+      "Debt nghĩa là nợ; how much debt dùng much vì đây là danh từ không đếm được trong cách diễn đạt này.",
+      "Assets là tài sản; how much its assets are worth hỏi tổng giá trị các nguồn lực công ty sở hữu."
+    ]
+  },
+  "essential-23": {
+    "translation": "Đầu tư là chuyện phổ biến diễn ra hằng ngày. Các công ty đầu tư thời gian và tiền bạc vào việc tìm kiếm, đào tạo nhân viên. Nhân viên đầu tư vào việc học tập và đào tạo của chính mình. Đầu tư tài chính diễn ra ở cả cấp doanh nghiệp lẫn cá nhân. Dù là cá nhân hay công ty, đều phải quyết định dành bao nhiêu phần trăm nguồn lực cho đầu tư và giữ bao nhiêu phần trăm dưới dạng tiền mặt. Để tránh những quyết định thiếu khôn ngoan, nhiều người sử dụng chuyên gia tư vấn tài chính. Những chuyên gia này giúp cá nhân và doanh nghiệp đưa ra quyết định đầu tư sáng suốt. Nên duy trì danh mục đầu tư như thế nào? Danh mục này nên gồm những gì? Đến thời điểm nào nhà đầu tư nên giảm mức đầu tư hoặc rút khỏi thị trường? Nhà đầu tư nên kỳ vọng mức sinh lời thực tế nào? Nhà đầu tư chịu được mức rủi ro bao nhiêu, cả về cảm xúc lẫn tài chính? Những người cam kết đầu tư dài hạn có thể vượt qua các đợt lên xuống của thị trường dễ dàng hơn. Như một nhà phân tích nhận xét: “Nếu bạn thức trắng đêm nghĩ về thị trường chứng khoán, có lẽ bạn đã đầu tư quá nhiều.” Nhiều nhân viên có kế hoạch hưu trí tại nơi làm việc. Họ quyết định mức đóng góp vào một quỹ nhất định. Những quyết định này và các quyết định lớn của công ty phụ thuộc rất nhiều vào thái độ. Người ra quyết định thận trọng hay mạnh dạn chấp nhận rủi ro? Thái độ đó thường phụ thuộc vào tuổi của nhà đầu tư hoặc vào giai đoạn phát triển và nhu cầu của doanh nghiệp.",
+    "explanations": [
+      "Invest nghĩa là đầu tư; invest time and money in finding and training là dành thời gian, tiền bạc cho tuyển dụng và đào tạo.",
+      "Resources là các nguồn lực; percentage of resources phân chia phần nguồn lực đem đầu tư và phần giữ bằng tiền mặt.",
+      "Wise nghĩa là sáng suốt; wise investment decisions đối lập với stupid decisions ở câu trước.",
+      "Portfolio là danh mục đầu tư; this portfolio nhắc lại danh mục vừa được đặt câu hỏi cần duy trì thế nào.",
+      "Pull out nghĩa là rút khỏi; pull out of the market chỉ chấm dứt tham gia đầu tư trên thị trường.",
+      "Return là mức sinh lời; what kind of return hỏi kết quả tài chính mà người đầu tư có thể kỳ vọng.",
+      "Committed nghĩa là cam kết, kiên định; investors who are committed nói về người gắn bó với kế hoạch đầu tư.",
+      "Long-term nghĩa là dài hạn; for the long-term chỉ khoảng thời gian đủ dài để vượt qua biến động thị trường.",
+      "Fund nghĩa là quỹ; contribution to a certain fund là khoản tiền đóng vào quỹ hưu trí tại nơi làm việc.",
+      "Attitude là thái độ, quan điểm; depend on attitude nói quyết định đầu tư phụ thuộc cách nhìn nhận rủi ro.",
+      "Conservative là thận trọng, ít mạo hiểm; đáp án gốc cũng chấp nhận aggressive ở vị trí này nếu đổi thứ tự hai tính từ.",
+      "Aggressive là mạnh dạn chấp nhận rủi ro trong đầu tư; đi sau or để đối chiếu với conservative, và hai vị trí có thể hoán đổi."
+    ]
+  },
+  "essential-24": {
+    "translation": "Hằng năm, vợ tôi thu thập toàn bộ phiếu lương và báo cáo chi phí của chúng tôi rồi chuẩn bị điền các biểu mẫu thuế. Cô ấy cố hoàn thành trong tháng Ba, sớm hơn nhiều so với hạn chót ngày 15 tháng Tư. Đó là một quá trình tốn thời gian: phải tìm biên lai, sắp xếp hồ sơ và điền biểu mẫu. Khi mới kết hôn, chúng tôi nộp tờ khai riêng. Nhưng giờ cô ấy ghi tôi là chồng mình và nộp tờ khai chung. Việc đó giúp chúng tôi tiết kiệm tiền và giúp tôi tiết kiệm thời gian! Vợ tôi rất tự hào về sự chính xác của mình. Chính phủ chưa bao giờ gửi trả biểu mẫu kèm yêu cầu sửa chữa. Trong vài năm qua, chúng tôi đều được hoàn thuế. Nhưng năm nay, cô ấy tính đi tính lại và phát hiện chúng tôi đã không nộp đủ thuế trong năm. Cô ấy không muốn còn nợ khoản tiền nào. Cuối cùng, cô ấy đành chịu và gửi tấm séc thanh toán của chúng tôi đi. Thực ra, đó là lỗi của tôi. Tôi đã đổi việc mà không yêu cầu chủ lao động khấu trừ đủ tiền từ các kỳ lương. Tôi chỉ mừng vì chúng tôi đã phát hiện và sửa sai trước khi bị phạt.",
+    "explanations": [
+      "Prepares nghĩa là chuẩn bị; prepares to fill out dùng to + động từ để chỉ việc người vợ sắp thực hiện.",
+      "Deadline là hạn chót; the April 15th deadline xác định ngày cuối cùng phải hoàn tất khai thuế trong bài.",
+      "Fill out nghĩa là điền đầy đủ; forms to fill out là những biểu mẫu cần cung cấp thông tin.",
+      "Filed nghĩa là đã nộp; file separate returns là nộp các tờ khai thuế riêng, dùng quá khứ vì kể lúc mới cưới.",
+      "Spouse nghĩa là vợ hoặc chồng; marks me as her spouse là ghi người kể là chồng trên tờ khai.",
+      "Joint nghĩa là chung; a joint return là tờ khai thuế chung của hai vợ chồng, đối chiếu với separate returns.",
+      "Refund là khoản hoàn lại; received a refund nghĩa là nhận lại tiền thuế đã nộp dư.",
+      "Calculated nghĩa là tính toán; calculated the numbers over and over again nhấn mạnh việc tính lại nhiều lần.",
+      "Owe nghĩa là còn nợ; owe any money trong câu này là còn phải trả thêm tiền thuế.",
+      "Gave up nghĩa là bỏ cuộc, đành chấp nhận; sau nhiều lần tính lại, cô ấy chấp nhận kết quả và gửi séc trả thuế.",
+      "Withhold nghĩa là giữ lại, khấu trừ; employer withholds money from paychecks để nộp thuế thay cho nhân viên.",
+      "Penalized nghĩa là bị phạt; got penalized là cấu trúc bị động với get, chỉ hậu quả nếu sai sót thuế chưa được sửa."
+    ]
+  },
+  "essential-25": {
+    "translation": "Ngân sách doanh nghiệp tập trung vào lợi nhuận và nhu cầu vốn trong tương lai. Ngân sách có thể giúp chủ doanh nghiệp xác định mức lợi nhuận dự kiến, doanh số cần đạt để hoàn thành mục tiêu và mức chi phí gắn với doanh số đó. Doanh nghiệp đặt ra một chỉ tiêu, tức mục tiêu để phấn đấu. Doanh nghiệp dự báo doanh số cần thiết để đạt chỉ tiêu này. Dự tính hay lập kế hoạch trước là một phần của công tác hoạch định kinh doanh tổng thể. Khi lập báo cáo thu nhập dự kiến, chủ doanh nghiệp cố xác định cách đạt mục tiêu mong muốn. Lợi nhuận hằng năm phải đủ để đem lại cho chủ doanh nghiệp khoản thù lao tương xứng với thời gian điều hành, cộng thêm lợi tức từ khoản đầu tư. Thu nhập mục tiêu của chủ doanh nghiệp là tổng của mức lương hợp lý cho thời gian điều hành và mức lợi tức thông thường trên số vốn đầu tư vào công ty. Sau khi dự tính thu nhập cần thiết, chủ doanh nghiệp phải quy đổi lợi nhuận mục tiêu thành con số doanh thu thuần cho kỳ dự báo. Chủ doanh nghiệp phải xác định liệu mức doanh số đó có thực tế hay không. Một kỹ thuật hữu ích là chia doanh số cần đạt hằng năm thành con số bán hàng mỗi ngày để hình dung rõ hơn doanh số cần có nhằm tạo ra lợi nhuận năm. Ở giai đoạn này của kế hoạch tài chính, chủ doanh nghiệp nên lập bức tranh chi tiết về chi phí hoạt động dự kiến của công ty. Nhiều sách và tổ chức kinh doanh cung cấp số liệu thống kê hoạt động điển hình dựa trên tỷ lệ phần trăm doanh thu thuần. Kế toán viên của doanh nghiệp có thể giúp bạn xác định giá trị bằng tiền của những chi phí dự kiến. Lập báo cáo thu nhập dự kiến là phần quan trọng của mọi kế hoạch tài chính, vì quá trình đó buộc chủ doanh nghiệp xem xét khả năng sinh lời trong tương lai của công ty.",
+    "explanations": [
+      "Level nghĩa là mức độ; what level of expenses hỏi mức chi phí phát sinh tương ứng với doanh số bán hàng.",
+      "Target là chỉ tiêu, mục tiêu; phần giải thích a goal to work toward ngay sau dấu phẩy xác nhận nghĩa này.",
+      "Forecasts nghĩa là dự báo; chủ ngữ a business số ít nên thêm -s, tân ngữ là doanh số cần đạt.",
+      "Overall nghĩa là tổng thể; overall business planning bao quát toàn bộ hoạt động lập kế hoạch doanh nghiệp.",
+      "Projected nghĩa là dự kiến; a projected income statement là báo cáo thu nhập xây dựng cho tương lai.",
+      "Desired nghĩa là mong muốn; the desired target là mức mục tiêu mà chủ doanh nghiệp muốn đạt được.",
+      "Yield nghĩa là mang lại; yield the owner a return diễn tả lợi nhuận đem lại thu nhập cho chủ doanh nghiệp.",
+      "Translate nghĩa là chuyển đổi ở đây; translate the target profit into a net sales figure là quy lợi nhuận mục tiêu ra doanh thu cần thiết.",
+      "Realistic nghĩa là thực tế, khả thi; whether this sales volume is realistic hỏi doanh nghiệp có thể đạt mức bán đó không.",
+      "Perspective là góc nhìn, cách hình dung; get a better perspective giúp thấy rõ yêu cầu doanh số qua con số hằng ngày.",
+      "Detailed nghĩa là chi tiết; a detailed picture yêu cầu mô tả cụ thể các khoản chi phí hoạt động dự kiến.",
+      "Typical nghĩa là điển hình; typical operating statistics data là số liệu hoạt động thường gặp để tham khảo khi dự tính chi phí."
+    ]
+  },
+  "essential-26": {
+    "translation": "Cách bố trí văn phòng có ảnh hưởng quan trọng đến bầu không khí và hoạt động của công ty. Bộ phận vận chuyển rất có thể sẽ không được đặt cạnh bộ phận dịch vụ khách hàng vì tiếng ồn sẽ gây gián đoạn quá nhiều. Tương tự, bố trí bếp sát sảnh đón tiếp sẽ là thiếu chu đáo với khách đến văn phòng và khách hàng. Bộ phận tiếp thị thường ở gần bộ phận bán hàng vì hai bên cần cộng tác với nhau. Năng suất nhân viên có thể bị cản trở hoặc được cải thiện tùy cách sắp xếp nhân viên và các phòng ban. Nhân viên tranh nhau các phòng làm việc ở góc tòa nhà khi thăng tiến trong công ty. Họ muốn thuận tiện liên hệ với ban lãnh đạo cấp cao, nhưng không ở gần đến mức mọi việc họ làm đều bị soi xét kỹ. Đồng thời, nhiều công ty đang lựa chọn không gian làm việc mở thay cho văn phòng truyền thống. Không gian mở thuận lợi hơn cho các dự án nhóm, nơi nhân viên tự do tương tác. Tuy nhiên, một số nhân viên thấy môi trường đó khiến họ khó tập trung. Nhân viên biết mình làm việc tốt nhất trong những điều kiện nào. Nếu người sử dụng lao động sẵn lòng lắng nghe và cởi mở với các đề xuất, họ có thể tận dụng không gian văn phòng và giúp nhân viên phát huy hết tiềm năng.",
+    "explanations": [
+      "Disruptive nghĩa là gây gián đoạn; too disruptive mô tả tiếng ồn vận chuyển ảnh hưởng công việc phục vụ khách.",
+      "Adjacent nghĩa là liền kề; adjacent to là cụm giới từ cố định diễn tả bếp nằm ngay cạnh sảnh.",
+      "Lobby là sảnh đón tiếp; vị trí này liên quan trực tiếp đến office visitors and clients trong câu.",
+      "Inconsiderate nghĩa là thiếu quan tâm đến người khác; đặt bếp gần sảnh có thể gây phiền cho khách đến văn phòng.",
+      "Collaboration là sự cộng tác; their necessary collaboration giải thích tại sao tiếp thị và bán hàng nên ở gần nhau.",
+      "Hampered nghĩa là bị cản trở; may be hampered là bị động, đặt đối lập với improved về tác động của cách bố trí.",
+      "Move up nghĩa là tiến lên; move up the corporate ladder là thành ngữ chỉ thăng tiến trong công ty.",
+      "Scrutinized nghĩa là bị xem xét kỹ; everything is scrutinized diễn tả mọi hành động đều bị cấp trên soi xét.",
+      "Opting nghĩa là đang lựa chọn; are opting for là hiện tại tiếp diễn của opt for, chọn không gian mở.",
+      "Conducive nghĩa là tạo điều kiện thuận lợi; conducive to team projects nói không gian mở hỗ trợ làm việc nhóm.",
+      "Concentrate nghĩa là tập trung; difficult to concentrate nêu khó khăn khi làm việc trong môi trường nhiều tương tác.",
+      "Open to nghĩa là sẵn lòng tiếp nhận; are open to suggestions chỉ thái độ đón nhận đề xuất của nhân viên."
+    ]
+  },
+  "essential-27": {
+    "translation": "Các cuộc họp của ủy ban là sự kiện thường xuyên và cần thiết ở hầu hết công ty. Để cuộc họp có hiệu quả và không bị coi là lãng phí thời gian, cần điều hành chúng hiệu quả. Chương trình nghị sự có vai trò then chốt đối với thành công của mọi cuộc họp. Mọi người tham dự phải biết chương trình và chuẩn bị thảo luận các vấn đề đang đặt ra cùng những mục tiêu cần hoàn thành. Để tránh thảo luận kéo dài, cần đặt ra khung thời gian và tuân thủ. Chủ tọa tuyên bố khai mạc cuộc họp. Sau khi điểm danh, từng nội dung chương trình được đưa ra lần lượt. Nhìn chung, các chủ đề ưu tiên nên nằm ở đầu chương trình để bảo đảm người dự có thể thảo luận đầy đủ và quyết định kịp thời. Khi một kế hoạch hoặc dự án được cho phép triển khai, một kế hoạch hành động sẽ được xây dựng. Sau đó, ủy ban phải định kỳ kiểm tra tiến độ thực hiện kế hoạch. Cuộc họp kết thúc mà không còn vấn đề tồn đọng, và ngày họp tiếp theo được ấn định.",
+    "explanations": [
+      "Waste nghĩa là sự lãng phí; a waste of time là cụm cố định mô tả cuộc họp không đem lại kết quả.",
+      "Agenda là chương trình nghị sự; danh từ này chỉ danh sách nội dung quyết định hướng thảo luận của cuộc họp.",
+      "Matters là các vấn đề; matters at hand là những việc hiện cần xem xét, thảo luận.",
+      "Goals là các mục tiêu; goals to be accomplished chỉ những kết quả cuộc họp cần đạt được.",
+      "Lengthy nghĩa là kéo dài; lengthy discussions là các cuộc thảo luận tốn thời gian cần được giới hạn.",
+      "Adhered to nghĩa là được tuân thủ; time frames should be set and adhered to yêu cầu vừa đặt vừa giữ đúng khung giờ.",
+      "Brought up nghĩa là được nêu ra; agenda items are brought up one by one là từng mục được đưa ra thảo luận.",
+      "Priority nghĩa là ưu tiên; priority topics là chủ đề quan trọng nên xếp trước để có đủ thời gian giải quyết.",
+      "Go ahead ở đây là danh từ chỉ sự chấp thuận; the go ahead is given nghĩa là kế hoạch được cho phép triển khai.",
+      "Periodically nghĩa là định kỳ; trạng từ mô tả tần suất ủy ban kiểm tra việc thực hiện kế hoạch.",
+      "Progress nghĩa là tiến độ; check up on the progress là kiểm tra kế hoạch đã thực hiện đến đâu.",
+      "Concluded nghĩa là được kết thúc; the meeting is concluded là bị động, dùng khi các vấn đề đã được giải quyết."
+    ]
+  },
+  "essential-28": {
+    "translation": "Alex rất hào hứng với công việc mới tại Parapluie Rain Wear. Là quản lý kiểm soát chất lượng, anh phải bảo đảm hàng hóa của công ty tuân theo các tiêu chí chất lượng đã chuẩn hóa và không có lỗi. Trước khi bất kỳ sản phẩm quần áo nào rời nhà máy, Alex đều phải kiểm tra. Anh biết rằng nếu loại bỏ một sản phẩm bị hỏng trước khi khách nhìn thấy, anh sẽ nâng cao uy tín công ty và làm tăng nhu cầu đối với sản phẩm. Alex phải bảo đảm mọi sản phẩm đáp ứng những tiêu chí nhất định: khách mua một chiếc áo mưa không chống được nước mưa có lẽ sẽ mang trả cửa hàng và mua nhãn hiệu khác. Điều tương tự cũng xảy ra nếu đường may không chắc hoặc màu sắc không đồng đều. Alex biết ngoài việc ngăn mưa, sản phẩm còn phải hấp dẫn cả khi nhìn lẫn khi chạm vào. Sản phẩm không nên dễ nhăn và phải bền lâu. Alex biết rằng khách hàng cần nhìn nhận hàng hóa công ty là sản phẩm chất lượng để công ty có lãi — và anh có thể được tăng lương.",
+    "explanations": [
+      "Conform nghĩa là tuân theo; conform to standardized quality criteria là đáp ứng bộ tiêu chí chất lượng đã chuẩn hóa.",
+      "Defects là các lỗi, khuyết tật; free from defects là không có lỗi sản xuất hay hư hỏng.",
+      "Garment là một sản phẩm quần áo; any garment leaves the factory nói mỗi sản phẩm đều phải được kiểm tra.",
+      "Inspect nghĩa là kiểm tra kỹ; sau must dùng động từ nguyên mẫu để mô tả nhiệm vụ kiểm soát chất lượng của Alex.",
+      "Throws out nghĩa là loại bỏ; throws out a damaged garment ngăn sản phẩm lỗi đến tay khách hàng.",
+      "Enhance nghĩa là nâng cao; enhance his company's reputation là cải thiện uy tín nhờ loại bỏ hàng hỏng.",
+      "Repel nghĩa là đẩy lùi, không cho thấm; repel rain mô tả chức năng chống nước cần có của áo mưa.",
+      "Take back nghĩa là đem trả lại; take back the raincoat to the store là trả chiếc áo không đạt yêu cầu.",
+      "Brand là nhãn hiệu; buy another brand nghĩa là khách chuyển sang mua sản phẩm của nhãn hiệu khác.",
+      "Uniform nghĩa là đồng đều; the color is not uniform nói màu vải không nhất quán, không phải đồng phục.",
+      "Wrinkle nghĩa là nhăn; should not wrinkle easily yêu cầu chất liệu ít bị nhăn khi sử dụng.",
+      "Perceive nghĩa là nhìn nhận; perceive goods as quality products là coi hàng hóa đó là sản phẩm chất lượng."
+    ]
+  },
+  "essential-29": {
+    "translation": "Michael lo lắng về việc được thăng chức. Tuy nhiên, anh không cần phải lo như vậy. Anh đã làm ở Bộ phận Phát triển Sản phẩm chín năm rưỡi, gần một thập kỷ, và hiểu phòng ban này tường tận. Nhưng giờ đây anh sẽ là giám đốc. Khi còn là thành viên, anh chỉ cần làm theo lời cấp trên. Khi làm giám đốc, anh sẽ là người chịu trách nhiệm về thành công của bộ phận. Nỗi sợ không phải lúc nào cũng hợp lý; thực tế, chúng thường phi lý. Anh quyết định nhiệm vụ đầu tiên là phân tích có hệ thống các bước cần thiết để phát triển sản phẩm mới và sắp xếp công việc theo trình tự hợp lý. Bước đầu tiên sẽ là xác định thị trường cần loại sản phẩm nào và sản phẩm đang được sử dụng có những vấn đề gì. Nhiệm vụ thứ hai là tìm cách tốt nhất để xem xét những vấn đề đó và xác định cần nghiên cứu gì để giải quyết chúng. Nói chính xác hơn là xem xét lại, vì phần lớn những vấn đề chưa được giải quyết này đã được nghiên cứu kỹ qua nhiều năm. Nhiệm vụ thứ ba là xem xét chất lượng và đặc điểm sản phẩm của đối thủ. Qua việc nghiên cứu sản phẩm đối thủ, anh sẽ biết mình nên cải tiến ở đâu. Nhiệm vụ cuối cùng là quyết định cách thu thập được những thông tin quan trọng nhất từ số lần thử nghiệm ít nhất. Michael mỉm cười, ngả lưng và đọc lại danh sách. Tin rằng mình có đội ngũ tốt và kế hoạch tốt, anh cảm thấy sẵn sàng đảm nhận công việc mới.",
+    "explanations": [
+      "Anxious nghĩa là lo âu; needn't have been anxious nói Michael đã lo lắng dù thực tế không cần thiết.",
+      "Decade nghĩa là một thập kỷ, mười năm; nine and a half years được diễn đạt là almost a decade.",
+      "Supervisor là người giám sát, cấp trên; what his supervisor told him chỉ công việc trước kia làm theo chỉ đạo.",
+      "Responsible nghĩa là chịu trách nhiệm; responsible for the success gắn trách nhiệm của giám đốc với kết quả phòng ban.",
+      "Logical nghĩa là hợp lý; logical đối lập trực tiếp với illogical ở vế tiếp theo để nhận xét nỗi sợ.",
+      "Systematic nghĩa là có hệ thống; a systematic analysis là phân tích có trình tự các bước phát triển sản phẩm.",
+      "Ascertain nghĩa là xác định chắc chắn; ascertain what kind of products the market needed là tìm rõ nhu cầu thị trường.",
+      "Solve nghĩa là giải quyết; solve the problems nói mục đích nghiên cứu là khắc phục các vấn đề sản phẩm.",
+      "Researched nghĩa là được nghiên cứu; had been thoroughly researched là bị động quá khứ hoàn thành, chỉ nghiên cứu từ trước.",
+      "Examining nghĩa là việc xem xét; by examining dùng by + V-ing để chỉ cách tìm ra điểm cần cải tiến.",
+      "Experiments là các thử nghiệm; the fewest number of experiments nhấn mạnh thu thập thông tin với ít thử nghiệm nhất.",
+      "Assume nghĩa là đảm nhận trong ngữ cảnh này; assume his new job là nhận trách nhiệm mới, không phải phỏng đoán."
+    ]
+  },
+  "essential-30": {
+    "translation": "Khởi sự một doanh nghiệp vừa hào hứng vừa đáng sợ. Phần lớn chủ doanh nghiệp mới đều lo ngại về khả năng đưa ra tất cả những quyết định nảy sinh trong quá trình mở doanh nghiệp. Một trong những vấn đề đầu tiên là nên mua hay thuê bất động sản. Để đánh giá các lựa chọn, họ nghiên cứu thị trường bất động sản hiện tại. Tỷ lệ lấp đầy là chỉ báo tốt về môi trường kinh doanh tổng thể. Giá trên mỗi foot vuông sẽ tăng khi tỷ lệ lấp đầy tăng. Biến động kinh tế là một phần của môi trường kinh doanh. Trong cùng một thành phố thường có những chênh lệch lớn về giá. Những biến động này do nhiều yếu tố như tình trạng tòa nhà, khu vực xung quanh, khả năng tiếp cận giao thông công cộng và triển vọng kinh doanh của khu vực. Vì khởi nghiệp có quá nhiều điều chưa chắc chắn, nhiều chủ doanh nghiệp không muốn tự ràng buộc mình vào hợp đồng thuê dài hạn. Nhiều người thương lượng các điều khoản trong hợp đồng để có thể chấm dứt hợp đồng thuê trong những hoàn cảnh nhất định. Họ muốn bảo đảm về giá và các điều kiện của bất động sản trước khi đưa ra cam kết lớn. Thuê thường đem lại tính linh hoạt cao hơn mua bất động sản. Họ thích để ngỏ các lựa chọn và không muốn chịu sự chi phối của những thay đổi thất thường trên thị trường.",
+    "explanations": [
+      "Apprehensive nghĩa là lo ngại; apprehensive about their ability chỉ nỗi lo về khả năng đưa ra quyết định khi khởi nghiệp.",
+      "Lease nghĩa là thuê theo hợp đồng; buy or lease đặt hai lựa chọn mua và thuê bất động sản song song.",
+      "Occupancy nghĩa là sự sử dụng, có người thuê; occupancy rates là tỷ lệ diện tích bất động sản được lấp đầy.",
+      "Indicator nghĩa là chỉ báo; a good indicator of cho biết tỷ lệ lấp đầy phản ánh tình hình kinh doanh.",
+      "Fluctuations là các biến động; fluctuations in prices mô tả mức giá thay đổi hoặc chênh lệch trong thành phố.",
+      "Due to nghĩa là do, bởi vì; are due to many factors dẫn vào những nguyên nhân gây biến động giá.",
+      "Condition là tình trạng; the condition of the building nói chất lượng, mức bảo dưỡng của tòa nhà ảnh hưởng giá.",
+      "Lock themselves into nghĩa là tự ràng buộc vào. Đáp án gốc bị lặp themselves trong câu hiện có; cách viết đúng là lock themselves into a long-term lease.",
+      "Get out of nghĩa là thoát khỏi, chấm dứt nghĩa vụ; get out of a lease là kết thúc hợp đồng thuê theo điều khoản cho phép.",
+      "Circumstances là các hoàn cảnh, điều kiện cụ thể; under certain circumstances giới hạn trường hợp được hủy thuê.",
+      "Options là các lựa chọn; leave their options open là giữ khả năng chọn phương án khác trong tương lai.",
+      "Subject to nghĩa là chịu sự chi phối; be subject to the whims of the marketplace là phụ thuộc biến động thất thường của thị trường."
+    ]
+  },
+  "essential-31": {
+    "translation": "Khi muốn gây ấn tượng với những mối liên hệ kinh doanh có thể trở thành khách hàng mới, Atul đưa họ đến nhà hàng tốt nhất thành phố. Anh hy vọng việc này sẽ giúp giành được hợp đồng mới cho doanh nghiệp viễn thông của mình. Rất khó xác định nhà hàng nào là tốt nhất. Atul dựa vào các bài đánh giá trên báo và tạp chí. Anh cũng nhờ bạn bè, đồng nghiệp tư vấn. Họ vui vẻ đưa ra gợi ý. Khẩu vị ăn uống mang tính chủ quan. Dù Atul thích táo bạo và chấp nhận rủi ro, anh biết món ăn cần hợp với nhiều khẩu vị khác nhau. Anh muốn phần lớn khách mời hài lòng. Anh thường quyết định dung hòa bằng cách chọn một nhà hàng có thực đơn kết hợp những món quen thuộc, thông dụng với một số món đặc biệt hấp dẫn. Khi gọi đặt bàn, anh cho người nhận đặt chỗ biết nhóm mình sẽ đến lúc nào và cần chỗ ngồi cho bao nhiêu người.",
+    "explanations": [
+      "Secure nghĩa là giành được, bảo đảm có được; secure a new contract nói mục tiêu lấy được hợp đồng kinh doanh.",
+      "Relies nghĩa là dựa vào; relies on newspaper and magazine reviews chỉ nguồn thông tin Atul dùng để chọn nhà hàng.",
+      "Guidance nghĩa là sự hướng dẫn, tư vấn; ask somebody for guidance là nhờ người quen giúp định hướng lựa chọn.",
+      "Suggestion là lời gợi ý; make a suggestion là cụm thông dụng để đề xuất một nhà hàng.",
+      "Subjective nghĩa là chủ quan; food tastes are subjective cho biết sở thích món ăn tùy cảm nhận mỗi người.",
+      "Daring nghĩa là táo bạo; be daring đi cùng take risks để nói Atul thích thử lựa chọn mới.",
+      "Appeal nghĩa là hấp dẫn, hợp ý; appeal to a variety of palates là làm hài lòng nhiều khẩu vị.",
+      "Majority là phần lớn; the majority of his guests chỉ đa số khách mời cần thấy hài lòng.",
+      "Compromise nghĩa là dung hòa; compromise on a restaurant là chọn phương án cân bằng giữa món quen và món mới.",
+      "Mix là sự pha trộn, kết hợp; a mix of A and B chỉ thực đơn có cả hai nhóm món ăn.",
+      "Familiar nghĩa là quen thuộc; familiar standards là những món thông dụng mà khách dễ biết và dễ ăn.",
+      "Arrive nghĩa là đến; what time his party will arrive cung cấp giờ nhóm khách xuất hiện để nhà hàng chuẩn bị."
+    ]
+  },
+  "essential-32": {
+    "translation": "Chìa khóa để có một bữa ăn vui vẻ là ai cũng thích món mình đã gọi. Trước khi người phục vụ nhận yêu cầu, bạn có thể nhờ anh ấy gợi ý hoặc chọn ngẫu nhiên từ thực đơn. Dịch vụ tốt là một phần của trải nghiệm thưởng thức bữa ăn. Người phục vụ phải khiến thực khách cảm thấy được chào đón và thoải mái. Người phục vụ giỏi có thể đoán trước bạn cần gì, chẳng hạn thêm nước, mà không cần được yêu cầu. Người phục vụ dễ quên một việc nào đó, nhưng bạn không nên phải nhắc họ mang thứ gì quá một lần. Bạn cũng không muốn người phục vụ nhầm lẫn các món đã gọi. Bạn phải nhận đúng món đã gọi và đơn gọi món phải đầy đủ. Chất lượng món ăn là căn cứ chủ yếu để đánh giá nhà hàng. Món ăn phải ngon và đẹp mắt. Đĩa thức ăn phải kích thích mọi giác quan, có hương thơm và màu sắc hấp dẫn. Ngay cả những món đơn giản hoặc quen thuộc nhất cũng có thể mang hương vị khác nhau ở từng nhà hàng. Đầu bếp có thể làm nổi bật một hương vị riêng trong món ăn, tùy theo nguyên liệu họ sử dụng.",
+    "explanations": [
+      "Randomly nghĩa là ngẫu nhiên; select randomly from the menu là chọn món không theo tiêu chí hay gợi ý cụ thể.",
+      "Patrons là khách hàng, thực khách; make the patrons feel welcome nói trách nhiệm tạo cảm giác dễ chịu cho khách.",
+      "Predict nghĩa là dự đoán; predict what you need diễn tả người phục vụ đoán được nhu cầu trước khi khách hỏi.",
+      "Forget nghĩa là quên; easy for a waiter to forget something nói khả năng bỏ sót yêu cầu của khách.",
+      "Remind nghĩa là nhắc nhở; remind a waiter to bring you something có cấu trúc remind somebody to do something.",
+      "Mix up nghĩa là nhầm lẫn; mix up the food orders là giao lẫn món giữa các yêu cầu của khách.",
+      "Complete nghĩa là đầy đủ; your order should be complete yêu cầu mang đủ các món đã gọi.",
+      "Judged nghĩa là được đánh giá; restaurants are judged là bị động, chất lượng món ăn là tiêu chí đánh giá chính.",
+      "Excite nghĩa là kích thích; excite all your senses nói món ăn hấp dẫn cả vị giác, thị giác và khứu giác.",
+      "Basic nghĩa là cơ bản, đơn giản; basic or familiar dishes đối chiếu món quen thường ngày với cách chế biến riêng.",
+      "Flavor nghĩa là hương vị; bring out a distinct flavor là làm nổi bật vị riêng của món ăn.",
+      "Ingredients là các nguyên liệu; ingredients he or she uses giải thích vì sao món ăn có hương vị khác nhau."
+    ]
+  },
+  "essential-33": {
+    "translation": "Với vai trò quản lý văn phòng, Lucia thường là người chịu trách nhiệm đặt đồ ăn cho bữa trưa kết hợp làm việc hoặc tiệc văn phòng. Lucia thấy việc đặt đồ ăn cho bữa trưa làm việc đặc biệt nặng nề. Trước hết, để tránh phải đặt nhiều đơn nhỏ từ các cơ sở ăn uống khác nhau, cô phải thu hẹp lựa chọn xuống còn một loại thức ăn. Những lựa chọn phổ biến nhất là bánh mì kẹp và pizza khẩu phần cá nhân. Sau khi quyết định được phương án phù hợp, cô gọi cho nhà hàng hoặc đơn vị cung cấp đồ ăn trong danh sách đã được phê duyệt của mình. Cô thường cần thức ăn được giao đến để không phải rời văn phòng và tự đi lấy. Với bữa trưa trang trọng hơn, chẳng hạn khi sếp muốn gây ấn tượng với khách hàng mới, Lucia sẽ gọi dịch vụ tiệc có thể cung cấp bữa ăn thanh lịch hơn.",
+    "explanations": [
+      "Falls to nghĩa là thuộc trách nhiệm của ai; it falls to Lucia to order food giao nhiệm vụ cho Lucia. Dấu chấm sau ô trống trong bản gốc là lỗi ngắt câu.",
+      "Burdensome nghĩa là nặng nề, phiền toái; finds ordering food burdensome mô tả cảm nhận của Lucia về nhiệm vụ đặt ăn.",
+      "Multiple nghĩa là nhiều; multiple small orders chỉ nhiều đơn nhỏ ở các cơ sở khác nhau mà cô muốn tránh.",
+      "Narrow nghĩa là thu hẹp; narrow down the choice là giảm số lựa chọn để chỉ đặt một loại thức ăn.",
+      "Common nghĩa là phổ biến; the most common choices chỉ những món thường được chọn nhất cho bữa trưa văn phòng.",
+      "Individual nghĩa là dành cho từng người; individual pizzas là pizza khẩu phần cá nhân thay vì chiếc lớn chia chung.",
+      "Settled nghĩa là đã quyết định; settle on a choice là chốt một phương án sau khi cân nhắc.",
+      "List là danh sách; her approved list là danh sách nhà hàng hoặc nhà cung cấp đã được chấp thuận.",
+      "Delivered nghĩa là được giao đến; needs the food delivered dùng tân ngữ + phân từ quá khứ để yêu cầu giao đồ ăn.",
+      "Pick up nghĩa là đến lấy; pick up the order herself là Lucia tự đến nhận đồ ăn tại nơi bán.",
+      "Impress nghĩa là gây ấn tượng; impress new clients giải thích vì sao sếp cần một bữa trưa trang trọng.",
+      "Elegant nghĩa là thanh lịch, trang nhã; a more elegant meal là bữa ăn chỉn chu hơn do dịch vụ tiệc cung cấp."
+    ]
+  },
+  "essential-34": {
+    "translation": "Khi bắt đầu nghĩ đến nghề nghiệp, người ta có thể tìm một cách để thể hiện sự sáng tạo của mình. Nhiều người bị thu hút bởi nghề nấu ăn và xem đây là một nghề chuyên môn, chứ không đơn thuần là một nghề thủ công. Ngành nhà hàng đòi hỏi cao và cần nguồn nhân tài mới liên tục gia nhập. Các đầu bếp kết hợp nguyên liệu và phương pháp nấu ăn từ khắp thế giới để tạo ra những thực đơn thành công. Phần lớn đầu bếp phục vụ các món là những biến thể dựa trên kiểu món quen thuộc. Họ cố mở rộng khẩu vị của thực khách bằng cách lấy món ăn vẫn được nhận ra là truyền thống rồi thêm yếu tố mới, như một loại gia vị hoặc chất nêm hiếm. Những người đã quen với một số hương vị và kết cấu nhất định sẽ không từ bỏ sở thích ngay lập tức. Đầu bếp theo học trường ẩm thực hoặc được đào tạo trong nhà hàng với những đầu bếp giàu kinh nghiệm qua hình thức học nghề. Với những ai thích trực tiếp thực hành sáng tạo, làm đầu bếp có thể là lựa chọn tốt.",
+    "explanations": [
+      "Outlet nghĩa là phương tiện hoặc cơ hội bộc lộ; an outlet for their creativity là cách để thể hiện óc sáng tạo.",
+      "Drawn nghĩa là bị thu hút; are drawn to cooking là cấu trúc bị động diễn tả sức hấp dẫn của nghề nấu ăn.",
+      "Profession nghĩa là nghề chuyên môn; see it as a profession nhấn mạnh tính chuyên nghiệp của nấu ăn so với merely a trade.",
+      "Demanding nghĩa là đòi hỏi cao; the restaurant business is demanding mô tả áp lực và yêu cầu lớn của ngành.",
+      "Influx là dòng người đổ vào, nguồn bổ sung; a constant influx of new talent là nhân tài mới liên tục gia nhập ngành.",
+      "Incorporate nghĩa là kết hợp, đưa vào; incorporate ingredients and methods into menus là đưa nguyên liệu và kỹ thuật vào thực đơn.",
+      "Methods là các phương pháp; methods of cooking chỉ những cách chế biến từ nhiều nơi trên thế giới.",
+      "Themes là các chủ đề hoặc khuôn mẫu; variations on standard themes nói món mới biến tấu từ những kiểu món quen thuộc.",
+      "Accustomed nghĩa là quen với; people accustomed to certain tastes là cụm rút gọn của people who are accustomed to.",
+      "Relinquish nghĩa là từ bỏ; relinquish their preferences là bỏ sở thích khẩu vị, điều thực khách không làm ngay lập tức.",
+      "Culinary nghĩa là thuộc nấu ăn, ẩm thực; culinary school là trường đào tạo kỹ năng và nghề bếp.",
+      "Apprenticeship là thời gian hoặc chương trình học nghề; in an apprenticeship nói việc học thực tế dưới sự hướng dẫn của đầu bếp giàu kinh nghiệm."
+    ]
+  },
+  "essential-35": {
+    "translation": "Lên kế hoạch cho một sự kiện không hề đơn giản. Có hàng trăm chi tiết cần được phối hợp, dù đó là đám cưới hay hội nghị kinh doanh. Ngay từ đầu quá trình lập kế hoạch, bạn cần quyết định địa điểm. Nếu đã biết mình muốn tổ chức sự kiện ở đâu, bạn nên liên hệ người đại diện của địa điểm đó để được mô tả chính xác về cơ sở vật chất. Nhân viên sẽ cung cấp thông tin về kích thước phòng; việc sắp xếp đồ ăn, thức uống, bao gồm cả những quy định hoặc hạn chế của địa phương đối với việc phục vụ đồ uống có cồn; và khoảng thời gian cần đặt trước để giữ địa điểm. Nếu thấy địa điểm đầu tiên không hoàn toàn phù hợp với các yêu cầu cụ thể của mình, một cuốn sách hướng dẫn sẽ giúp bạn tìm một nơi khác. Khi cân nhắc vị trí, bạn cũng nên nghĩ đến mức độ gần các phương tiện giao thông công cộng. Khi đã có hình dung khái quát về số người tham dự và số tiền có thể chi, bạn có thể thu hẹp các địa điểm hiện có xuống còn những nơi đáp ứng tốt nhất nhu cầu của nhóm mình.",
+    "explanations": [
+      "coordinated nghĩa là được phối hợp, điều phối; have to be + phân từ quá khứ diễn tả hàng trăm chi tiết phải được sắp xếp đồng bộ.",
+      "planning nghĩa là việc lập kế hoạch; planning process là quá trình chuẩn bị sự kiện, trong đó phải chọn địa điểm từ sớm.",
+      "site là địa điểm; decide on the site nghĩa là quyết định chọn nơi tổ chức đám cưới hoặc hội nghị.",
+      "stage ở đây là động từ tổ chức; stage the event là tổ chức sự kiện, và sau want to cần động từ nguyên mẫu.",
+      "exact nghĩa là chính xác; an exact description là bản mô tả chính xác về cơ sở vật chất do người đại diện cung cấp.",
+      "dimensions là kích thước; room dimensions chỉ chiều dài, chiều rộng và các số đo của phòng, cần biết khi chọn nơi tổ chức.",
+      "regulations là các quy định; local regulations là quy định địa phương liên quan đến việc phục vụ đồ uống có cồn.",
+      "lead time là khoảng thời gian cần chuẩn bị hoặc đặt trước; ở đây là phải đặt địa điểm trước bao lâu.",
+      "ideally nghĩa là một cách lý tưởng; ideally suited for diễn tả địa điểm phù hợp hoàn toàn với yêu cầu cụ thể.",
+      "assist nghĩa là hỗ trợ; assist you in finding dùng cấu trúc assist someone in doing something, tức giúp bạn tìm nơi thay thế.",
+      "proximity là sự gần gũi về khoảng cách; proximity to public transportation nói đến việc địa điểm có gần phương tiện công cộng hay không.",
+      "general nghĩa là khái quát, sơ bộ; a general idea là hình dung ban đầu về số người và ngân sách để thu hẹp lựa chọn."
+    ]
+  },
+  "essential-36": {
+    "translation": "Khi phải đi công tác, cô Tan gọi cho nhân viên đại lý du lịch mà cô ưa thích. Anh nhắc cô nhớ mang theo hộ chiếu còn hiệu lực. Sau khi các chỗ đặt đã được thực hiện và xác nhận, nhân viên đại lý sẽ xuất vé và lịch trình. Trước khi ra sân bay, cô gọi cho hãng hàng không để kiểm tra xem chuyến bay có đúng giờ và có bị hoãn không. Tại sân bay, sau khi gửi vali ở quầy làm thủ tục vì cô không được phép mang quá một kiện hành lý xách tay lên máy bay, cô Tan nhận thẻ lên máy bay. Cô sẽ xuất trình thẻ tại cửa ra máy bay khi đến giờ lên chuyến bay của mình. Cô được dặn phải có mặt tại cửa ra máy bay trước giờ khởi hành 15 phút. Trong chuyến bay, tiếp viên có thể mời cô một loại đồ uống, và cô thậm chí có thể xin chăn nếu thấy lạnh. Cơ trưởng sẽ thông báo trong chuyến bay để hành khách biết máy bay đang ở độ cao nào và dự kiến khi nào đến nơi. Khi máy bay đã hạ cánh, cô Tan xuống máy bay, nhận hành lý rồi phải qua hải quan. Sau đó, cô sẽ đi taxi đến khách sạn nơi mình lưu trú để nghỉ ngơi và chuẩn bị cho cuộc họp ngày hôm sau. Cô cũng sẽ xác nhận lại chuyến bay về trước ngày về nhà một hoặc hai ngày.",
+    "explanations": [
+      "agent là nhân viên đại lý; travel agent chỉ người hỗ trợ đặt vé, lịch trình và các dịch vụ du lịch cho cô Tan.",
+      "valid nghĩa là còn hiệu lực, hợp lệ; a valid passport là hộ chiếu vẫn có giá trị để sử dụng cho chuyến đi.",
+      "itinerary là lịch trình chuyến đi; an itinerary đi cùng ticket vì đại lý cung cấp cả vé lẫn thông tin hành trình.",
+      "delayed nghĩa là bị trì hoãn; has not been delayed là hiện tại hoàn thành bị động, nói chuyến bay chưa bị hoãn.",
+      "prohibited nghĩa là bị cấm; be prohibited from + V-ing diễn tả việc cô không được mang quá một kiện hành lý xách tay.",
+      "embarkation là việc lên tàu hoặc máy bay; embarkation card trong bài chỉ thẻ để cô xuất trình khi lên máy bay.",
+      "board nghĩa là lên máy bay; board her flight dùng board như ngoại động từ, không cần thêm giới từ trước her flight.",
+      "depart nghĩa là khởi hành; is to depart nói giờ máy bay dự kiến rời đi, mốc để cô đến cửa trước 15 phút.",
+      "beverage là đồ uống; offer her a beverage là mời cô một thức uống trong lúc bay, không nhất thiết có cồn.",
+      "blanket là chăn; request a blanket phù hợp với điều kiện if she is cold, tức cô muốn đắp cho ấm.",
+      "announcements là các thông báo; make announcements là cụm dùng khi cơ trưởng thông tin về độ cao và giờ đến.",
+      "claims ở đây nghĩa là nhận lại; claims her baggage là nhận hành lý đã ký gửi, với động từ thêm -s theo chủ ngữ she."
+    ]
+  },
+  "essential-37": {
+    "translation": "Nếu đi du lịch, rất có thể bạn sẽ phải tính đến việc đi máy bay. Máy bay là phương tiện nhanh nhất, thuận tiện nhất để di chuyển giữa các nước, và thường cả giữa những vùng khác nhau trong cùng một nước. Đi máy bay đắt tiền, nhưng nếu tính mọi khoản chi phí khi đi một quãng đường đáng kể, di chuyển bằng đường hàng không thường ít tốn kém hơn lái ô tô. Xét về thời gian, đây cũng là cách di chuyển tiết kiệm nhất. Bạn sẽ bỏ lỡ phong cảnh dọc đường, nhưng đi máy bay giúp bạn có thêm thời gian tại điểm đến nghỉ dưỡng. Các hãng hàng không bán chỗ ngồi với nhiều mức giá theo một hệ thống yêu cầu và hạn chế. Vé nguyên giá đắt nhất nhưng cho bạn sự linh hoạt cao nhất khi thay đổi. Người dự định đi có thể mua vé cho đến sát giờ cất cánh, miễn là còn chỗ. Giá vé thay đổi nhanh, đến cả chuyên gia du lịch cũng thấy khó theo kịp. Tình hình thay đổi này là do nhiều yếu tố, trong đó có sự cạnh tranh gia tăng. Theo nguyên tắc chung, trả càng ít tiền vé thì bạn càng phải chấp nhận nhiều hạn chế. Nếu muốn tiết kiệm tiền, hãy tìm giá vé du lịch giảm giá. Đó là hình thức tương đương với một đợt bán hàng đặc biệt của hãng hàng không. Phần lớn vé loại này dành cho hành trình khứ hồi, có quy định nghiêm ngặt cùng thời hạn lưu trú tối thiểu và tối đa, vì vậy đừng trông mong kéo dài kỳ nghỉ hoặc ở ít ngày hơn mức yêu cầu. Tuy nhiên, một khi đã lên máy bay, người khác không thể phân biệt bạn với những hành khách trả giá vé cao hơn.",
+    "explanations": [
+      "deal with nghĩa là đối mặt, xử lý hoặc tính đến; have to deal with flying nói việc đi máy bay là điều người đi xa khó tránh.",
+      "expensive nghĩa là đắt đỏ; sau Flying is cần tính từ nêu chi phí cao trước khi bài so sánh tổng chi phí với ô tô.",
+      "substantial nghĩa là đáng kể; a substantial distance là quãng đường đủ dài để chi phí đi ô tô có thể vượt tiền vé máy bay.",
+      "economical nghĩa là tiết kiệm; economical in terms of time nhấn mạnh tiết kiệm thời gian chứ không chỉ tiền bạc.",
+      "destination là điểm đến; vacation destination là nơi nghỉ dưỡng, nơi hành khách có thêm thời gian nhờ bay nhanh.",
+      "system là hệ thống; a system of requirements and restrictions chỉ các điều kiện và hạn chế chi phối mức giá vé.",
+      "prospective nghĩa là có dự định, tiềm năng; a prospective traveler là người định đi và đang tìm mua vé.",
+      "situation là tình hình; the changing situation nối với việc giá vé biến động nhanh do cạnh tranh và các yếu tố khác.",
+      "excursion nghĩa là chuyến du lịch; excursion fares là giá vé du lịch ưu đãi, thường kèm điều kiện về khứ hồi và thời gian lưu trú.",
+      "equivalent là thứ tương đương; the airline's equivalent of a special sale ví giá vé ưu đãi với một đợt bán hàng giảm giá.",
+      "extending nghĩa là kéo dài; sau count on cần danh động từ, nên extending your vacation là việc kéo dài kỳ nghỉ.",
+      "distinguishable nghĩa là có thể phân biệt; distinguishable from nói người mua vé rẻ không khác biệt dễ nhận thấy so với người trả giá cao."
+    ]
+  },
+  "essential-38": {
+    "translation": "Tàu hỏa là một trong những cách tốt nhất để tham quan nhiều nơi trong một đất nước trong khoảng thời gian tương đối ngắn. Ngoài yếu tố thời gian, đi tàu còn cho phép bạn thực sự ngắm nhìn vùng đất mình đi qua. Bạn chỉ cần đến ga đúng giờ; sau đó có thể thư giãn và ngắm cảnh qua cửa sổ. Hầu hết tàu chạy đúng giờ và theo lịch trình chuẩn giờ. Tuyến đường, lịch chạy và giá vé được liệt kê trong bảng giờ tàu có tại nhà ga, trong nhiều sách tra cứu du lịch, hoặc được đăng trên mạng World Wide Web. Những sách tra cứu đầy đủ liệt kê tất cả các chuyến tàu, các thành phố chúng phục vụ, ga khởi hành và các hạng dịch vụ hiện có. Một số điểm đến xa xôi chỉ có thể đến được trong mùa du lịch cao điểm; tàu không chạy tới đó trong phần còn lại của năm. Giá vé dựa trên quãng đường đi và chất lượng chỗ ngồi hoặc chỗ nghỉ. Giá vé cơ bản mua cho bạn một chỗ ngồi trong suốt chuyến đi. Nói chính xác hơn, vé không đặt chỗ chỉ bảo đảm hành khách được vận chuyển; chỗ ngồi được phân theo nguyên tắc ai đến trước được phục vụ trước. Vào những kỳ nghỉ đông khách, bạn có thể phải đứng ít nhất một phần hành trình. Với chuyến đi dài, bạn nên đặt trước chỗ ngồi. Nếu đi qua đêm, chi phí phòng ngủ phụ thuộc vào mức độ sang trọng của phòng. Mặc dù đi tàu ít tốn kém hơn đi máy bay, khoản tiết kiệm có thể bị bù trừ bởi chi phí đặt phòng ngủ. Du khách đến Hoa Kỳ có thể tận dụng những mức giá đặc biệt không được bán tại Hoa Kỳ. Các thẻ vé này cho phép người cầm vé đi tàu không giới hạn ở hạng ghế thường trong một số ngày cố định, thường là một tháng.",
+    "explanations": [
+      "relatively nghĩa là tương đối; relatively short bổ nghĩa mức độ ngắn của khoảng thời gian cần để tham quan bằng tàu.",
+      "punctual nghĩa là đúng giờ; a punctual schedule nhấn mạnh tàu chạy theo lịch đúng giờ, như câu trước đề cập.",
+      "fares là giá vé vận chuyển; routes, schedules, and fares liệt kê ba loại thông tin người đi tàu tra cứu.",
+      "directories là các tài liệu hoặc sách tra cứu; travel directories cung cấp thông tin tàu để hành khách tìm lịch chạy.",
+      "comprehensive nghĩa là đầy đủ, bao quát; directories that are comprehensive chứa tất cả tàu, thành phố, ga và hạng dịch vụ.",
+      "remote nghĩa là xa xôi; remote travel destinations là những điểm đến ít thuận tiện tiếp cận, chỉ có tàu vào mùa cao điểm.",
+      "operate nghĩa là hoạt động, chạy; sau does not dùng nguyên mẫu operate để nói tàu không chạy đến đó ngoài mùa.",
+      "remainder là phần còn lại; the remainder of the year chỉ khoảng thời gian trong năm nằm ngoài mùa du lịch cao điểm.",
+      "duration là khoảng thời gian kéo dài; for the duration of the trip nghĩa là trong toàn bộ thời gian chuyến đi.",
+      "deluxe nghĩa là sang trọng, cao cấp; how deluxe your room is nói mức độ tiện nghi của phòng quyết định giá.",
+      "offset nghĩa là bù trừ, triệt tiêu; may be offset by là bị động, nói tiền phòng ngủ có thể làm mất khoản tiết kiệm.",
+      "entitle nghĩa là cho quyền; entitle the bearer to + danh từ cho người cầm thẻ quyền đi hạng ghế thường không giới hạn."
+    ]
+  },
+  "essential-39": {
+    "translation": "Người ta ở khách sạn khi đi công tác và du lịch cá nhân. Nhưng vì giá phòng quá cao, nhiều người đang chọn ở nhà. Vì chi phí cao có thể khiến chuyến đi không thực hiện được, những du khách khôn ngoan biết rằng họ có thể tiết kiệm và có giá phòng tốt nhất bằng cách đặt phòng từ lâu trước khi bắt đầu chuyến đi. Khi bạn đặt phòng, nhân viên khách sạn sẽ yêu cầu bạn thông báo ngay khi kế hoạch đi lại có thay đổi. Để tránh bất ngờ, bạn nên gọi điện xác nhận phòng vẫn còn và mức giá đã được báo. Khi chọn khách sạn, trước tiên hãy nghĩ đến các loại dịch vụ bạn cần hoặc muốn có. Đương nhiên bạn mong có một căn phòng sạch sẽ, đủ ánh sáng. Bạn cũng đương nhiên mong nhân viên buồng phòng sẽ dọn phòng hằng ngày, ngay cả ở những khách sạn nhỏ nhất. Những chuỗi khách sạn lớn cung cấp nhiều dịch vụ nhất, chẳng hạn hồ bơi, câu lạc bộ sức khỏe hoặc đổi tiền. Nhân viên lễ tân sẽ giới thiệu những dịch vụ này khi bạn làm thủ tục nhận phòng tại khách sạn.",
+    "explanations": [
+      "preclude nghĩa là ngăn cản, khiến không thể xảy ra; high costs can preclude travel nói chi phí cao có thể khiến người ta không đi được.",
+      "rates là mức giá; the best rates for a room là những mức giá phòng có lợi nhất khi đặt sớm.",
+      "reservations là các lần đặt chỗ; make reservations là cụm cố định chỉ việc đặt phòng trước chuyến đi.",
+      "advance nghĩa là trước; well in advance of nhấn mạnh việc đặt phòng từ rất sớm so với ngày bắt đầu chuyến đi.",
+      "notify nghĩa là thông báo; notify them là báo cho nhân viên khách sạn biết ngay khi kế hoạch thay đổi.",
+      "confirm nghĩa là xác nhận lại; call and confirm yêu cầu gọi để kiểm tra phòng và mức giá trước đó vẫn đúng.",
+      "quoted nghĩa là được báo giá; the rate you were quoted là mức giá khách sạn từng thông báo cho bạn, dùng dạng bị động.",
+      "service nghĩa là dịch vụ; kinds of service nói các loại tiện ích hoặc sự phục vụ bạn cần khi chọn khách sạn.",
+      "expect nghĩa là kỳ vọng; expect a clean, well-lit room diễn tả yêu cầu thông thường về phòng sạch và đủ sáng.",
+      "housekeeper là nhân viên buồng phòng; a housekeeper will clean your room chỉ người có nhiệm vụ dọn phòng hằng ngày.",
+      "chains là các chuỗi; hotel chains là các hệ thống khách sạn có nhiều cơ sở, thường cung cấp nhiều tiện ích.",
+      "check in nghĩa là làm thủ tục nhận phòng; check in at the hotel là lúc lễ tân giới thiệu những dịch vụ của khách sạn."
+    ]
+  },
+  "essential-40": {
+    "translation": "Nhiều du khách đi nghỉ bằng ô tô chỉ cần thuê một chiếc xe. Yoko gọi trước để thuê xe tại nơi cô đến nghỉ. Dù rất muốn đợi đến lúc tới nơi mới đặt xe, cô vẫn lo lắng nếu không có đặt chỗ trước. Kỳ nghỉ của cô trùng với một dịp lễ, nên cô biết nhiều người khác cũng sẽ thuê xe. Yoko muốn tránh nỗi thất vọng khi phát hiện không còn xe vào thời điểm đi lại đông đúc này. Có nhiều công ty cho thuê xe, vì vậy cô liên hệ với vài nơi để so sánh giá và yêu cầu. Ở mỗi công ty cô gọi đến, cô đều được biết phải có bằng lái còn hiệu lực và một thẻ tín dụng lớn, được chấp nhận rộng rãi, mới thuê được xe. Yoko thấy nhiều mức giá thuê xe khác nhau thật khó hiểu. Một số công ty giảm giá đáng kể với điều kiện đặt xe trong một số ngày nhất định. Một công ty đưa ra mức giá ngày rất tốt, nhưng mức đó dựa trên việc thuê ba ngày. Vì cô chỉ định thuê hai ngày nên không được áp dụng giảm giá. Ngoài ra, giá cơ bản không bao gồm các khoản tùy chọn như bảo hiểm va chạm hoặc đổ lại xăng. Một yếu tố khác ảnh hưởng đến giá là loại xe. Giá thuê dựa trên một hệ thống phân bậc. Xe càng sang, càng thể thao hoặc càng lớn thì giá mỗi ngày càng cao. Vì Yoko chỉ cần một chiếc xe nhỏ, đáng tin cậy, cô tìm được mức giá hợp lý, dù cô cũng rất thích cảm giác phấn khích khi lái một chiếc xe mui trần!",
+    "explanations": [
+      "tempted nghĩa là bị hấp dẫn, rất muốn làm; be tempted to book nói Yoko muốn đợi tới nơi mới đặt xe.",
+      "nervous nghĩa là lo lắng; nervous about + V-ing diễn tả sự bất an khi không có đặt xe trước.",
+      "coincided nghĩa là trùng thời điểm; coincided with a holiday nói kỳ nghỉ của Yoko rơi đúng vào dịp lễ.",
+      "disappointment là nỗi thất vọng; avoid the disappointment of finding diễn tả việc muốn tránh phát hiện không còn xe.",
+      "busy nghĩa là đông đúc, bận rộn; busy travel time chỉ cao điểm đi lại khi nhiều người cùng muốn thuê xe.",
+      "contacted nghĩa là đã liên hệ; contacted several of them nói cô hỏi nhiều công ty để so sánh mức giá và điều kiện.",
+      "license là giấy phép; driver's license là bằng lái xe, và valid cho biết bằng phải còn hiệu lực.",
+      "confusing nghĩa là gây khó hiểu; find + tân ngữ + tính từ diễn tả cô thấy các mức giá khác nhau khó hiểu.",
+      "intended nghĩa là có ý định; intended to rent nói cô chỉ định thuê hai ngày, nên không đủ điều kiện giảm giá ba ngày.",
+      "optional nghĩa là tùy chọn; optional costs là các khoản ngoài giá cơ bản như bảo hiểm va chạm hoặc dịch vụ đổ xăng.",
+      "tier nghĩa là bậc, tầng; tier price system trong nguồn chỉ hệ thống giá phân bậc theo loại xe; cách nói tự nhiên hơn là tiered pricing system.",
+      "thrill là cảm giác phấn khích; the thrill of driving a convertible chỉ niềm thích thú khi được lái xe mui trần."
+    ]
+  },
+  "essential-41": {
+    "translation": "Điện ảnh bắt đầu được ưa chuộng từ đầu thế kỷ XX và vẫn được ưa chuộng đến ngày nay. Người ở mọi lứa tuổi đều thấy phim có tính giải trí. Điện ảnh là một hiện tượng toàn cầu, vì tính quốc tế của hoạt động phát hành phim đã giúp truyền bá ý tưởng khắp thế giới. Một bộ phim có thể nhanh chóng ảnh hưởng đến những phim khác. Nhưng vì sao phim lại phổ biến đến vậy? Phim là một hình thức kể chuyện. Chúng cố gắng mô tả một ý tưởng hoặc ghi lại một quan sát về văn hóa của chúng ta. Những mô tả này được ghi lại bằng hình ảnh chuyển động. Một số phim khắc họa tình huống chính xác và chân thực, trong khi những phim khác tìm các biểu tượng thị giác để đại diện cho những tình huống ấy. Ở mức đơn giản nhất, phim là một chuỗi hình ảnh chuyển động. Những hình ảnh liên tiếp này được ghi trên phim. Đạo diễn quay rất nhiều loại cảnh — toàn cảnh, trung cảnh và cận cảnh — để tạo bố cục thị giác. Các hình ảnh, cùng với cốt truyện, việc xây dựng nhân vật và âm thanh, tạo nên câu chuyện mong muốn. Các cảnh quay được nối với nhau theo vô số cách trong quá trình gọi là dựng phim. Làm phim là một công việc quy mô lớn, phức tạp và tốn kém, kết hợp nghệ thuật với kinh doanh. Quá trình này huy động tài năng của hàng trăm, đôi khi hàng nghìn nghệ sĩ, nhà sản xuất và người làm kinh doanh. Có thể mất nhiều tháng, thậm chí nhiều năm, một bộ phim mới được phát hành ra rạp. Giống như tiểu thuyết, phim không chỉ là một câu chuyện mà còn là câu chuyện được kể theo một cách nhất định. Đạo diễn có thể muốn làm một bộ phim kể câu chuyện ý nghĩa hoặc chủ yếu mang tính giải trí, và sẽ dùng những kỹ thuật quay khác nhau để đạt mục tiêu ấy. Không thể tách nội dung được kể trong phim khỏi cách kể. Tầm nhìn nghệ thuật của đạo diễn có thể trải từ ứng biến đến kiểm soát kỹ lưỡng. Lần tới khi xem phim, hãy nghĩ đến mức độ phức tạp của nó.",
+    "explanations": [
+      "continues nghĩa là tiếp tục; chủ ngữ The popularity là số ít nên dùng continues để nói sự yêu thích điện ảnh kéo dài đến nay.",
+      "entertaining nghĩa là thú vị, có tính giải trí; find movies entertaining dùng cấu trúc find + tân ngữ + tính từ.",
+      "disperse nghĩa là phát tán, truyền đi; disperse ideas around the globe nói phim giúp ý tưởng lan khắp thế giới.",
+      "influence nghĩa là ảnh hưởng; sau can dùng nguyên mẫu, và influence other movies không cần giới từ đi kèm.",
+      "descriptions là những sự mô tả; These descriptions nhắc lại việc phim mô tả ý tưởng hoặc quan sát văn hóa ở câu trước.",
+      "represent nghĩa là biểu đạt, đại diện cho; visual symbols represent situations là dùng biểu tượng hình ảnh để thể hiện tình huống.",
+      "successive nghĩa là liên tiếp; successive images chỉ chuỗi hình ảnh nối tiếp nhau tạo nên chuyển động trong phim.",
+      "range là phạm vi, tập hợp đa dạng; a wide range of shots bao gồm toàn cảnh, trung cảnh và cận cảnh.",
+      "combines nghĩa là kết hợp; a task that combines art and business nói việc làm phim kết nối nghệ thuật với kinh doanh.",
+      "released nghĩa là được phát hành; be released diễn tả phim ra rạp sau nhiều tháng hoặc nhiều năm sản xuất.",
+      "attain nghĩa là đạt được; attain that goal nói đạo diễn dùng kỹ thuật quay phù hợp để đạt mục tiêu nghệ thuật.",
+      "separate nghĩa là tách rời; separate A from B diễn tả việc tách nội dung phim khỏi cách câu chuyện được kể."
+    ]
+  },
+  "essential-42": {
+    "translation": "Nhiều người thấy không gì hào hứng bằng một buổi tối xem sân khấu trực tiếp. Sân khấu kết hợp các tác phẩm văn học lớn được viết để biểu diễn, tài năng của những diễn viên xuất sắc và công sức của hàng trăm thợ thủ công lành nghề cùng tạo nên một bầu không khí. Bầu không khí này do diễn viên, đạo diễn và nhà viết kịch tạo ra với sự hỗ trợ của các yếu tố như cảnh trí, ánh sáng và trang phục; đó chính là điều khiến một buổi diễn sân khấu trở nên kỳ diệu. Khi màn kéo lên, phép màu ấy xảy ra ngay trước mắt bạn. Đạo diễn tiếp cận tác phẩm từ góc nhìn nghệ thuật của riêng mình. Mỗi đạo diễn có một cách nhìn khác nhau, và điều này định hình cách họ chỉ đạo chuyển động hoặc hành động giữa các nhân vật. Đạo diễn không chỉ dùng kiến thức được đào tạo về sân khấu mà còn dùng kinh nghiệm đời thực để tạo nên một buổi diễn chân thực, có ý nghĩa. Diễn viên cũng mang những trải nghiệm nghệ thuật và cá nhân của mình vào công việc. Vì vậy mỗi lần dàn dựng một vở kịch đều độc đáo. Kịch dựng nên một thế giới khác trước mắt bạn. Những từ ngữ bình thường biến thành lời thoại đầy ý nghĩa. Trang phục và cảnh trí có thể chân thực hoặc mang tính biểu tượng. Mọi thứ trong một vở kịch trông có vẻ dễ dàng, nhưng phải mất nhiều tuần tập dượt mới sắp xếp được mọi thứ ổn thỏa. Ngồi ở hàng ghế khán giả xem kịch rất thú vị. Để biết một vở có hay không, hãy tìm các bài phê bình trên báo hoặc hỏi bạn bè. Khi vở kịch thực sự được yêu thích, ghế còn trống có thể được đặt kín rất nhanh và vé sẽ bán hết.",
+    "explanations": [
+      "created nghĩa là được tạo ra; created by the actors là cụm phân từ bị động rút gọn, bổ nghĩa cho this mood.",
+      "elements là các yếu tố; supporting elements of sets, lighting, and costumes là những thành phần hỗ trợ tạo không khí sân khấu.",
+      "performance là buổi biểu diễn; a theatrical performance chỉ một buổi diễn sân khấu được bầu không khí ấy làm cho kỳ diệu.",
+      "occurs nghĩa là xảy ra; this magic occurs nói sự kỳ diệu xuất hiện ngay trước mắt khi màn sân khấu kéo lên.",
+      "approach nghĩa là tiếp cận; approach the work là xem xét, xử lý tác phẩm từ góc nhìn nghệ thuật của đạo diễn.",
+      "action là hành động, diễn biến; movement or action between the characters là điều đạo diễn điều phối giữa các nhân vật.",
+      "experiences là những trải nghiệm; artistic and personal experiences là vốn sống và kinh nghiệm nghệ thuật diễn viên mang vào vai diễn.",
+      "dialogue là lời thoại, đối thoại; meaningful dialogue là những lời nhân vật nói có ý nghĩa, khác với từ ngữ rời rạc.",
+      "rehearsal là việc tập dượt; weeks of rehearsal nói cần nhiều tuần luyện tập để mọi yếu tố của vở kịch vào đúng vị trí.",
+      "audience là khán giả; from the audience ở đây nghĩa là từ vị trí người ngồi xem trong khán phòng.",
+      "reviews là các bài đánh giá, phê bình; reviews in the newspapers giúp người đọc biết chất lượng vở diễn trước khi mua vé.",
+      "sell out nghĩa là bán hết vé; the play will sell out nói mọi chỗ ngồi đều được mua khi vở diễn nổi tiếng."
+    ]
+  },
+  "essential-43": {
+    "translation": "Dường như ai cũng yêu âm nhạc. Và cũng chẳng có mấy lý do để thắc mắc vì sao. Có rất nhiều âm nhạc sẵn có để lựa chọn, và luôn có một thể loại phù hợp với mọi gu thưởng thức. Âm nhạc được chia khái quát thành các nhóm chính là cổ điển, đại chúng và jazz. Trong những nhóm lớn này có nhiều phân nhóm khác. Ví dụ, những loại nhạc khác biệt như nhạc phim, rhythm and blues, rock và rap đều thuộc thể loại âm nhạc đại chúng. Thôi thúc sáng tạo và thưởng thức âm nhạc có thể là bản năng. Ngay cả trẻ nhỏ cũng thích một số loại nhạc hơn những loại khác. Một lý do nữa khiến âm nhạc phổ biến là có rất nhiều bối cảnh để thưởng thức loại nhạc yêu thích. Bạn có thể đến nhà thờ nghe những bản nhạc tôn giáo tuyệt vời, hoặc đến phòng hòa nhạc nghe một bản giao hưởng cổ điển nổi tiếng. Vào một tối khác, bạn có thể đến câu lạc bộ nhỏ nghe một nhóm jazz đang lên trong lúc thưởng thức đồ uống. Vài tối sau, bạn có thể đi cùng bạn bè, hòa vào hàng nghìn người khác ở sân vận động để nghe ban nhạc rock yêu thích biểu diễn tại thành phố của mình trong chuyến lưu diễn thế giới. Và khi trở về nhà hoặc căn hộ, bạn có thể thư giãn, mở băng hoặc đĩa CD và nghe đi nghe lại những nghệ sĩ yêu thích ngay tại nhà.",
+    "explanations": [
+      "reason là lý do; little reason to wonder why nghĩa là có rất ít lý do để ngạc nhiên về việc mọi người yêu âm nhạc.",
+      "available nghĩa là sẵn có; music available là âm nhạc có sẵn để người nghe lựa chọn, tính từ đứng sau danh từ.",
+      "category là thể loại, nhóm; a category of music chỉ một loại âm nhạc đáp ứng một sở thích nghe nhất định.",
+      "taste nghĩa là gu, thị hiếu; appeal to every taste nói có thể loại hợp với mọi sở thích thưởng thức âm nhạc.",
+      "divided nghĩa là được chia; are divided into là cấu trúc bị động nói âm nhạc được chia thành cổ điển, đại chúng và jazz.",
+      "broad nghĩa là rộng, khái quát; these broad groups chỉ các nhóm chính, bên trong còn nhiều nhóm nhỏ.",
+      "disparate nghĩa là khác biệt rõ rệt; disparate types nhấn mạnh nhạc phim, rhythm and blues, rock và rap khác nhau dù cùng nhóm lớn.",
+      "urge là sự thôi thúc; the urge to make and enjoy music là nhu cầu mạnh mẽ muốn tạo ra và thưởng thức âm nhạc.",
+      "instinctive nghĩa là mang tính bản năng; may be instinctive giải thích vì sao ngay trẻ nhỏ đã có sở thích âm nhạc.",
+      "prefer nghĩa là thích hơn; prefer certain kinds of music nói trẻ nhỏ cũng thiên về một số loại nhạc nhất định.",
+      "favorite nghĩa là yêu thích nhất; favorite kind of music là loại nhạc mỗi người muốn nghe tại những địa điểm khác nhau.",
+      "relax nghĩa là thư giãn; sau can dùng động từ nguyên mẫu, nói việc nghỉ ngơi ở nhà trong khi nghe băng hoặc CD."
+    ]
+  },
+  "essential-44": {
+    "translation": "Bảo tàng là nơi để ngắm nhìn và chiêm ngưỡng những tác phẩm nghệ thuật lớn. Tất cả các thành phố lớn, và cả nhiều thành phố nhỏ, đều có những bảo tàng nghệ thuật tốt, nơi bạn tìm thấy rất nhiều tranh vẽ, tượng điêu khắc, bản vẽ và tranh in. Các bảo tàng cố gắng sưu tầm và trưng bày nhiều ví dụ về cách mà qua các thời đại, nam giới và nữ giới đã phản ứng với những điều họ thấy, nghĩ và cảm nhận bằng việc thể hiện bản thân qua vật liệu như đá, đất sét, sơn, hoặc mực và giấy. Nghệ sĩ sắp đặt những vật liệu ấy theo một trật tự có ý nghĩa. Một số phong cách nghệ thuật hay hiện vật cụ thể chỉ thịnh hành trong một thời gian, còn những tác phẩm khác qua thời gian nhận được sự đánh giá tích cực và được xem là những tác phẩm kinh điển bền vững. Bảo tàng sưu tầm những tác phẩm tốt nhất để công chúng thưởng lãm. Khi đến bảo tàng, hãy nhớ dành đủ thời gian ngắm nghệ thuật mà không cảm thấy vội vàng. Nếu may mắn sống gần bảo tàng, bạn có thể quay lại bất cứ lúc nào thuận tiện. Một số bảo tàng trưng bày bộ sưu tập nghệ thuật phong phú từ nhiều thời kỳ và nền văn hóa, thường do những nhà bảo trợ hào phóng sưu tầm và hiến tặng. Các bảo tàng khác chuyên trưng bày nghệ thuật của một thời kỳ nhất định, chẳng hạn thời cổ đại, hoặc của một nhóm người hay dân tộc nhất định, như người Mỹ bản địa. Hoạt động của nhiều bảo tàng được chính phủ chi trả, và những bảo tàng này thường mở cửa miễn phí cho công chúng; các bảo tàng khác phải thu phí từng người vào cửa. Những khoản phí này giúp bảo tàng hoạt động và mua thêm tác phẩm.",
+    "explanations": [
+      "admire nghĩa là chiêm ngưỡng, ngưỡng mộ; view and admire nói vừa ngắm vừa trân trọng các tác phẩm lớn trong bảo tàng.",
+      "spectrum là dải, phạm vi đa dạng; a wide spectrum of chỉ nhiều loại tác phẩm, từ tranh đến điêu khắc và tranh in.",
+      "responded nghĩa là đã phản ứng, hồi đáp; have responded to diễn tả cách con người đáp lại điều mình thấy, nghĩ và cảm nhận.",
+      "expressing nghĩa là thể hiện; by expressing themselves dùng by + V-ing để chỉ cách nghệ sĩ bộc lộ bản thân qua vật liệu.",
+      "significant nghĩa là có ý nghĩa; an order that is significant là cách sắp xếp vật liệu mang ý nghĩa nghệ thuật.",
+      "fashion nghĩa là xu hướng thịnh hành; in fashion là đang được ưa chuộng, đôi khi chỉ trong một thời gian ngắn.",
+      "criticism ở đây là sự phê bình, đánh giá nghệ thuật; positive criticism là đánh giá tích cực chứ không phải lời chê.",
+      "schedule nghĩa là bố trí thời gian; schedule plenty of time là chủ động dành nhiều thời gian để xem mà không vội.",
+      "leisure là lúc nhàn rỗi; at your leisure nghĩa là vào lúc thuận tiện, thong thả, phù hợp với việc có thể trở lại bảo tàng.",
+      "collected nghĩa là được sưu tầm; collected and donated by là hai phân từ bị động chỉ tác phẩm do nhà bảo trợ gom và hiến tặng.",
+      "specialize nghĩa là chuyên về; specialize in + V-ing nói một số bảo tàng chỉ tập trung trưng bày nghệ thuật của một thời kỳ hoặc nhóm người.",
+      "acquire nghĩa là có được, mua thêm; operate and acquire more works nói phí vào cửa giúp duy trì bảo tàng và bổ sung tác phẩm."
+    ]
+  },
+  "essential-45": {
+    "translation": "Chen thích đọc tin từ báo. Lemma bật ti vi để biết chuyện gì đang xảy ra trên thế giới. Eve đặt mua dài hạn nhiều tạp chí đến mức không nhớ hết, trong khi Kobi chọn nghe các chương trình trò chuyện trên đài phân tích vấn đề kỹ lưỡng để nắm bắt tình hình thế giới. Tất cả những người này đều chịu ảnh hưởng của truyền thông. Truyền thông là gì? Những gì tạo thành truyền thông? Truyền thông bao gồm mọi cách thức truyền tin tức và thông tin đến đông đảo công chúng. Truyền thông đưa tin về mọi thứ, từ tin thời sự nghiêm túc, tức báo chí điều tra, đến những câu chuyện thuần túy giải trí, chẳng hạn ngôi sao điện ảnh bạn yêu thích có nằm trong danh sách “Mặc đẹp nhất/Mặc xấu nhất” hay không. Dù được in ra hay phát trên ti vi, các câu chuyện là sản phẩm của công việc đưa tin do nhiều nhà báo viết bài, và của các biên tập viên giao đề tài, đánh giá chất lượng bài viết cùng công tác nghiên cứu, rồi quyết định bài được đăng hoặc phát ở đâu, khi nào. Tin tức tạo tác động tức thì. Internet đưa tin toàn cầu lên máy tính cá nhân trên bàn của bạn. Hầu như mọi trình duyệt đều có liên kết đến những bản tin mới nhất từ nhiều hãng tin. Bạn có thể liên tục nhận tin cập nhật từ nhiều nguồn qua máy tính cá nhân, nhờ đó có được thông tin thời sự mới nhất và chuyên sâu nhất.",
+    "explanations": [
+      "subscribes nghĩa là đặt mua định kỳ; subscribes to magazines dùng giới từ to và thêm -s vì chủ ngữ Eve là số ít.",
+      "chooses nghĩa là lựa chọn; chooses to listen dùng choose to + động từ nguyên mẫu, nói Kobi chọn nghe chương trình trên đài.",
+      "thoroughly nghĩa là kỹ lưỡng, toàn diện; cover issues thoroughly nói chương trình phân tích các vấn đề một cách đầy đủ.",
+      "constitutes nghĩa là cấu thành, tạo nên; What constitutes the media? hỏi những hình thức nào hợp thành truyền thông.",
+      "disseminated nghĩa là được phổ biến, truyền bá; is disseminated to a mass audience nói tin tức được đưa tới đông đảo công chúng.",
+      "investigative nghĩa là mang tính điều tra; investigative reporting là hoạt động báo chí tìm hiểu, điều tra sâu sự việc.",
+      "assignments là các nhiệm vụ, đề tài được giao; give out the assignments là việc biên tập viên phân công phóng viên viết bài.",
+      "decisions là các quyết định; make the decisions about where and when nói biên tập viên quyết định nơi và thời điểm đăng tin.",
+      "impact là tác động; has an immediate impact nhấn mạnh tin tức ảnh hưởng ngay tới người tiếp nhận.",
+      "links là các đường liên kết; links to news stories đưa người dùng trình duyệt đến các bản tin mới nhất.",
+      "constant nghĩa là liên tục; constant news updates là các lượt cập nhật tin thường xuyên từ nhiều nguồn qua máy tính.",
+      "in-depth nghĩa là chuyên sâu; in-depth coverage chỉ việc đưa tin có chiều sâu bên cạnh tính cập nhật mới nhất."
+    ]
+  },
+  "essential-46": {
+    "translation": "Sớm hay muộn, ai cũng cần đến phòng khám bác sĩ. Thực ra, đi khám ít nhất mỗi năm một lần là điều có lợi nhất cho bạn. Bác sĩ càng hiểu bạn và sức khỏe của bạn thì càng có thể giúp đỡ hiệu quả. Phần lớn mọi người cần được giúp chẩn đoán những vấn đề y tế thông thường đang gặp, chẳng hạn các triệu chứng cảm lạnh và cúm, dị ứng, phát ban và đau tai. Những lúc khác, người ta đến bác sĩ để được giúp ngăn vấn đề sức khỏe xảy ra ngay từ đầu, bằng cách giảm nguy cơ đau tim hoặc đột quỵ thông qua ăn kiêng hay tập thể dục. Khi bạn đến theo lịch hẹn, nhân viên phòng khám sẽ chuẩn bị sẵn hồ sơ tất cả các lần khám để bác sĩ có tài liệu tham khảo đầy đủ về sức khỏe của bạn. Buổi khám bắt đầu bằng việc đánh giá sức khỏe tổng quát và trao đổi về bất cứ vấn đề nào khiến bạn lo lắng. Bác sĩ có thể dùng nhiều dụng cụ để kiểm tra bạn kỹ hơn. Bác sĩ sẽ xử lý vấn đề của bạn và đề xuất kế hoạch điều trị. Bác sĩ có thể kê thuốc, giới thiệu bạn đến chuyên gia có nhiều kinh nghiệm hơn trong việc điều trị tình trạng của bạn, hoặc yêu cầu xét nghiệm để có thêm thông tin. Trong những trường hợp nghiêm trọng, bác sĩ có thể chuyển bạn vào bệnh viện để được chăm sóc.",
+    "explanations": [
+      "annually nghĩa là hằng năm; at least annually là ít nhất mỗi năm một lần, chỉ tần suất đi khám được nêu trong bài.",
+      "effective nghĩa là hiệu quả; the more effective your doctor can be thuộc cấu trúc so sánh kép, bác sĩ càng hiểu bạn thì càng điều trị hiệu quả.",
+      "diagnosing nghĩa là chẩn đoán; help in diagnosing dùng danh động từ sau in, nói việc xác định các vấn đề sức khỏe thông thường.",
+      "preventing nghĩa là ngăn ngừa; preventing problems from occurring dùng prevent + tân ngữ + from + V-ing để nói phòng bệnh.",
+      "appointment là cuộc hẹn; arrive for your appointment là đến phòng khám đúng buổi khám đã được sắp xếp.",
+      "record là hồ sơ ghi chép; a record of all your visits giúp bác sĩ có đầy đủ thông tin về những lần khám trước.",
+      "assessment là sự đánh giá; an assessment of your general health chỉ bước kiểm tra tình trạng sức khỏe tổng quát đầu buổi khám.",
+      "instruments là dụng cụ; a variety of instruments chỉ nhiều công cụ y khoa giúp bác sĩ kiểm tra bệnh nhân kỹ hơn.",
+      "manage ở đây nghĩa là kiểm soát, xử lý; manage your problem nói việc bác sĩ điều trị và theo dõi vấn đề sức khỏe.",
+      "recommend nghĩa là đề xuất; recommend a treatment plan là đưa ra kế hoạch điều trị được cho là phù hợp.",
+      "refer nghĩa là giới thiệu, chuyển khám; refer you to a specialist dùng refer someone to để chuyển bệnh nhân tới bác sĩ chuyên khoa.",
+      "serious nghĩa là nghiêm trọng; in serious cases chỉ các trường hợp nặng đến mức cần được chăm sóc trong bệnh viện."
+    ]
+  },
+  "essential-47": {
+    "translation": "Ít nhất hai lần mỗi năm, Toshiro đặt lịch hẹn với nha sĩ. Anh hiểu rằng chăm sóc răng tốt và khám nha sĩ có thể giúp ngăn sự tích tụ cao răng và mảng bám, vốn có thể gây vấn đề nghiêm trọng về sau. Nha sĩ bắt đầu buổi khám bằng việc xem hồ sơ của Toshiro, trong đó ghi chi tiết mọi công việc đã thực hiện trên răng anh, để cập nhật tình trạng răng miệng của anh. Toshiro đánh răng đều đặn, nhưng chưa đều đặn dùng chỉ nha khoa hằng ngày như vậy. Nha sĩ đang cố khuyến khích thói quen dùng chỉ nha khoa tốt hơn bằng cách hướng dẫn những kỹ thuật dễ áp dụng. Khi sẵn sàng kiểm tra miệng Toshiro, cô điều chỉnh độ cao và vị trí ghế để chắc chắn nhìn thấy tất cả răng của anh. Ánh đèn sáng khiến mắt Toshiro khó chịu nhưng soi rõ những vùng tối sâu trong miệng. Nha sĩ kiểm tra tổng quát nhanh khoang miệng, tìm những vấn đề rõ ràng như lỗ sâu hoặc răng gãy. Cô hỏi anh có gặp vấn đề gì như đau răng, chảy máu hay ê đau không. Đôi khi, các vấn đề trong miệng khá rõ và đôi mắt được đào tạo của nha sĩ có thể nhận ra. Nhưng vào những lúc khác, nha sĩ sẽ chụp X-quang để chắc chắn không có vấn đề ở những vùng cô không nhìn thấy, như dưới đường viền nướu hoặc bên trong răng. Sau đó nha sĩ bắt tay vào sửa chữa mọi tổn thương. Tiếp theo, cô làm sạch kỹ để khôi phục màu tự nhiên cho răng anh. Tiếng máy khoan và dụng cụ làm sạch có thể khiến một số bệnh nhân lo lắng, nên nha sĩ của Toshiro chu đáo cung cấp tai nghe để giúp anh phân tán sự chú ý.",
+    "explanations": [
+      "aware nghĩa là biết, nhận thức rõ; be aware that + mệnh đề diễn tả Toshiro hiểu lợi ích của việc chăm sóc và khám răng.",
+      "catch up nghĩa là cập nhật; catch up on Toshiro's dental health nói nha sĩ xem hồ sơ để nắm tình hình mới nhất.",
+      "regularly nghĩa là đều đặn; brushes regularly nói thói quen đánh răng ổn định, đối lập với việc dùng chỉ nha khoa chưa thường xuyên.",
+      "encourage nghĩa là khuyến khích; encourage a better habit nói nha sĩ thúc đẩy thói quen dùng chỉ nha khoa tốt hơn.",
+      "habit là thói quen; a flossing habit là thói quen làm sạch kẽ răng bằng chỉ nha khoa mỗi ngày.",
+      "position là vị trí, tư thế; height and position of the chair là hai yếu tố được điều chỉnh để nhìn rõ toàn bộ răng.",
+      "irritates nghĩa là làm khó chịu; ánh sáng gây chói mắt Toshiro. Dấu chấm sau chỗ trống trong nguồn là lỗi ngắt câu, không đổi nghĩa đáp án.",
+      "illuminates nghĩa là chiếu sáng, soi rõ; illuminates the dark places nói đèn giúp nha sĩ thấy vùng tối phía sau miệng.",
+      "overview là cái nhìn tổng quát; a quick overview of his mouth ở đây chỉ lần kiểm tra nhanh các vấn đề dễ thấy.",
+      "evident nghĩa là rõ ràng, dễ nhận thấy; problems are quite evident nói nha sĩ có thể phát hiện bằng quan sát đã được đào tạo.",
+      "restores nghĩa là khôi phục; restores the natural color to his teeth nói việc làm sạch kỹ đưa răng về màu tự nhiên.",
+      "distraction là sự phân tán chú ý; provide a distraction nói tai nghe giúp bệnh nhân bớt tập trung vào tiếng dụng cụ gây lo lắng."
+    ]
+  },
+  "essential-48": {
+    "translation": "Chi phí và khả năng tiếp cận bảo hiểm y tế là một trong những mối quan tâm lớn nhất của nhân viên công ty. Nhân viên được bảo hiểm nên hiểu rõ các điều khoản và điều kiện trong hợp đồng bảo hiểm. Dù người được bảo hiểm trả một phần chi phí bảo hiểm thông qua các khoản khấu trừ lương, người sử dụng lao động nhìn chung chi trả phần lớn chi phí. Người tự kinh doanh có thể tự thu xếp bảo hiểm hoặc tham gia một hiệp hội gồm những người làm công việc tương tự để có mức phí bảo hiểm thấp hơn. Theo thông lệ, hãng bảo hiểm sẽ chấp thuận phần lớn các khoản chi liên quan đến chăm sóc y tế, dù người được bảo hiểm có thể phải chịu một phần nhỏ. Mặc dù công ty hoặc hiệp hội thương lượng các điều khoản phù hợp nhất có thể, phần lớn chuyên gia nhấn mạnh rằng nhân viên nên chú ý tìm những phương án thay thế có thể đáp ứng nhu cầu của mình tốt hơn. Bất kể mức phí bảo hiểm là bao nhiêu, khía cạnh quan trọng nhất của một bảo hiểm y tế tốt là đáp ứng nhu cầu của người được bảo hiểm và làm phát sinh chi phí thấp nhất có thể cho các thủ thuật cần thiết.",
+    "explanations": [
+      "concerns là các mối quan tâm, lo ngại; one of the greatest concerns dùng danh từ số nhiều sau one of để nói vấn đề nhân viên rất quan tâm.",
+      "personnel là đội ngũ nhân viên; company personnel chỉ người làm trong công ty, những người lo về chi phí bảo hiểm.",
+      "policy ở đây là hợp đồng bảo hiểm; terms and conditions of the insurance policy là các điều khoản xác định quyền lợi và nghĩa vụ.",
+      "portion là một phần; pays a portion of the cost nói nhân viên chỉ đóng một phần, còn chủ lao động thường trả phần lớn.",
+      "salary là tiền lương; salary deductions là các khoản khấu trừ lương để đóng phần phí bảo hiểm của nhân viên.",
+      "allow ở đây nghĩa là chấp thuận khoản chi; allow most of the charges nói hãng bảo hiểm công nhận phần lớn chi phí y tế để chi trả.",
+      "suitable nghĩa là phù hợp; the most suitable terms là các điều kiện bảo hiểm được thương lượng để đáp ứng nhu cầu tốt nhất.",
+      "emphasize nghĩa là nhấn mạnh; experts emphasize that + mệnh đề nêu lời khuyên quan trọng về việc tìm lựa chọn khác.",
+      "alternatives là các phương án thay thế; on the lookout for alternatives nghĩa là chủ động tìm những bảo hiểm phù hợp hơn.",
+      "regardless nghĩa là bất kể; regardless of the cost dùng cụm regardless of + danh từ để gạt mức phí sang một bên khi xét tiêu chí chính.",
+      "aspect là khía cạnh; the most important aspect of good health insurance là đặc điểm cốt yếu khi đánh giá chất lượng bảo hiểm.",
+      "incurs nghĩa là làm phát sinh, phải chịu chi phí; incurs the least possible cost nhấn mạnh chi phí cho thủ thuật cần thiết phải thấp nhất có thể."
+    ]
+  },
+  "essential-49": {
+    "translation": "Bệnh viện có sứ mệnh cung cấp cho bệnh nhân dịch vụ chăm sóc y tế chất lượng cao. Mọi nhân viên sẽ bảo đảm bạn nhận được phương pháp điều trị tốt nhất có thể cho tình trạng của mình. Khi đến bệnh viện, bạn nên mang đầy đủ thông tin liên quan cần cho việc nhập viện, chẳng hạn thông tin bảo hiểm và bản sao phim X-quang cùng những kết quả xét nghiệm khác, kể cả khi chúng được thực hiện ở cơ sở khác. Hãy mang thẻ bảo hiểm và mọi giấy giới thiệu hoặc giấy cho phép của bác sĩ. Bạn cũng nên có một loại giấy tờ tùy thân có ảnh. Bạn còn cần ký thỏa thuận chấp thuận điều trị. Khi bạn tới, thường có nhân viên hướng dẫn hỗ trợ thủ tục tiếp nhận nhập viện. Nhiều ca phẫu thuật theo kế hoạch và các thủ thuật khác thường được thực hiện trong ngày. Thông thường, một nhân viên bệnh viện sẽ đưa bạn ra cửa và bảo đảm bạn lên xe an toàn. Sau khi rời bệnh viện, bạn sẽ nhận bảng kê các khoản phí mà bên bảo hiểm không chi trả. Hợp đồng bảo hiểm sẽ nêu rõ những khoản bạn có thể phải tự chịu. Bạn sẽ thấy việc hút thuốc không được phép trong bất kỳ tòa nhà bệnh viện nào. Bệnh viện thường có những khu vực hút thuốc được chỉ định ở bên ngoài cho bệnh nhân, gia đình và nhân viên muốn hút thuốc.",
+    "explanations": [
+      "mission là sứ mệnh; a mission to provide nói nhiệm vụ cốt lõi của bệnh viện là cung cấp dịch vụ chăm sóc chất lượng cao.",
+      "pertinent nghĩa là liên quan, thích hợp; pertinent information là thông tin cần thiết cho việc nhập viện như bảo hiểm và xét nghiệm.",
+      "results là kết quả; test results là các kết quả xét nghiệm cần mang theo, kể cả do một cơ sở khác thực hiện.",
+      "authorization là sự cho phép, giấy chấp thuận; authorization form là giấy bác sĩ cấp để cho phép một dịch vụ hoặc thủ tục.",
+      "identification là giấy tờ xác minh danh tính; some form of identification with a photo là một loại giấy tờ tùy thân có ảnh.",
+      "admitting nghĩa là tiếp nhận nhập viện; the admitting process là quá trình làm thủ tục để bệnh nhân được nhận vào bệnh viện.",
+      "procedures là các thủ thuật y khoa; surgeries and other procedures bao gồm phẫu thuật và những can thiệp điều trị khác.",
+      "usually nghĩa là thường; are usually done đặt trạng từ giữa trợ động từ và phân từ, nói các thủ thuật thường được thực hiện trong ngày.",
+      "escort nghĩa là đưa, dẫn đi; escort you to the exit là nhân viên đi cùng đưa bạn ra lối ra và giúp bạn lên xe an toàn.",
+      "statement là bảng kê, thông báo thanh toán; a statement for the charges liệt kê những khoản bảo hiểm không chi trả sau khi bạn rời viện.",
+      "permitted nghĩa là được phép; smoking is not permitted là bị động, diễn tả quy định cấm hút thuốc trong tòa nhà bệnh viện.",
+      "designated nghĩa là được chỉ định; designated smoking areas là các khu vực riêng ngoài trời được quy định dành cho việc hút thuốc."
+    ]
+  },
+  "essential-50": {
+    "translation": "Yoko đang khổ sở vì dị ứng theo mùa vào mùa thu này. Sau khi trao đổi với bác sĩ, họ quyết định cô nên dùng thuốc đều đặn để kiểm soát triệu chứng. Bác sĩ đề nghị loại thuốc mà ông cho là hiệu quả nhất và đưa cô vài mẫu thuốc dùng thử miễn phí. Để đáp ứng nhu cầu lâu dài, Yoko sẽ phải mua thuốc theo đơn. Bác sĩ chủ động đề nghị gọi đến nhà thuốc Yoko sử dụng để đặt thuốc, giúp giảm thời gian cô phải chờ nhà thuốc chuẩn bị đơn. Yoko mới đến thị trấn và chưa biết muốn chọn nhà thuốc nào. Cô biết có một nhà thuốc gần căn hộ và một nhà thuốc gần chỗ làm, nhưng không nhớ giờ mở cửa của cả hai. Yoko biết giờ mở cửa và địa điểm thuận tiện là những yếu tố quan trọng khi chọn nhà thuốc. Dù có thể mua thuốc theo các đơn khác nhau ở những nhà thuốc khác nhau, cô thấy mua toàn bộ thuốc tại một nơi hợp lý hơn. Đôi khi, một số thuốc có những tương tác có hại. Thông thường, bác sĩ sẽ ngăn vấn đề tương tác thuốc trước khi nó xảy ra. Nhưng nếu bạn khám nhiều bác sĩ thì khó theo dõi các loại thuốc khác nhau đang dùng. Mua toàn bộ thuốc theo đơn tại một nơi làm tăng khả năng dược sĩ phát hiện một vấn đề tương tác thuốc tiềm ẩn. Việc phát hiện kịp thời này có thể cứu mạng bạn.",
+    "explanations": [
+      "consulting nghĩa là tham khảo, trao đổi chuyên môn; after consulting with her doctor dùng V-ing sau after để nói sau khi cô hỏi ý kiến bác sĩ.",
+      "control nghĩa là kiểm soát; to control her symptoms nêu mục đích dùng thuốc đều đặn nhằm hạn chế triệu chứng dị ứng.",
+      "samples là các mẫu dùng thử; a handful of samples at no charge là một ít mẫu thuốc bác sĩ đưa miễn phí.",
+      "volunteers nghĩa là tự nguyện đề nghị; volunteers to call là bác sĩ chủ động nhận gọi nhà thuốc để đặt thuốc cho Yoko.",
+      "limit nghĩa là hạn chế, giảm bớt; limit the time she spends waiting là rút ngắn thời gian chờ chuẩn bị thuốc theo đơn.",
+      "convenient nghĩa là thuận tiện; convenient hours and location nói cả giờ mở cửa lẫn vị trí phải phù hợp với người mua.",
+      "factors là các yếu tố; important factors in selecting a pharmacy chỉ các tiêu chí cần cân nhắc khi chọn nhà thuốc.",
+      "sense là tính hợp lý trong cụm make sense; makes more sense to Yoko nghĩa là cô thấy mua tất cả thuốc tại một nơi hợp lý hơn.",
+      "interactions là các tương tác; harmful interactions nói những tác động có hại có thể xảy ra khi dùng các thuốc cùng nhau.",
+      "monitor nghĩa là theo dõi, giám sát; monitor the various medications là nắm rõ nhiều thuốc đang dùng, khó hơn khi khám nhiều bác sĩ.",
+      "potential nghĩa là tiềm ẩn, có khả năng xảy ra; a potential drug interaction problem là nguy cơ tương tác được nhận ra trước khi gây hại.",
+      "detection là việc phát hiện; this timely detection nhắc lại việc dược sĩ nhận ra nguy cơ tương tác thuốc đủ sớm để cứu người."
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+.spinner {
+  display: inline-block;
+  flex: none;
+  vertical-align: middle;
+  animation: spin .85s linear infinite;
+}
+
+.status {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  vertical-align: middle;
+}
+
+.screen {
+  min-height: 60svh;
+  padding: 56px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: var(--text);
+  background: var(--bg);
+}
+
+.fullScreen { min-height: 100svh; }
+.mark { position: relative; display: grid; place-items: center; color: var(--accent); }
+.mark > span { position: absolute; font-size: 36px; font-weight: 700; letter-spacing: -3px; padding-right: 3px; line-height: 1; color: var(--text); }
+.mark > span > span { color: var(--accent); }
+.brand { margin-top: 24px; color: var(--accent); font-size: 11px; font-weight: 600; letter-spacing: .2em; }
+.title { margin: 14px 0 0; font-size: clamp(18px, 3vw, 24px); font-weight: 600; line-height: 1.6; letter-spacing: -.4px; }
+.description { max-width: 320px; margin: 10px 0 0; font-size: 14px; line-height: 1.8; color: var(--muted); }
+
+@keyframes spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .spinner { animation: none; } }

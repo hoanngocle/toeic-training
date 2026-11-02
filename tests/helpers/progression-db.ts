@@ -12,7 +12,7 @@ export async function database(progression=true) {
  CREATE FUNCTION auth.uid() RETURNS uuid LANGUAGE sql STABLE AS $$ SELECT nullif(current_setting('request.jwt.claim.sub',true),'')::uuid $$;
  GRANT USAGE ON SCHEMA public,auth TO anon,authenticated,service_role;
  GRANT EXECUTE ON FUNCTION auth.uid() TO authenticated;`);
- for(const name of ['202611010001_accounts.sql','202611010002_legacy_import.sql',...(progression?['202611020001_progression.sql']:[])])await db.exec(readFileSync(new URL(`../../supabase/migrations/${name}`,import.meta.url),'utf8'));
+ for(const name of ['202611010001_accounts.sql','202611010002_legacy_import.sql',...(progression?['202611020001_progression.sql','202611020002_badge_exp.sql']:[])])await db.exec(readFileSync(new URL(`../../supabase/migrations/${name}`,import.meta.url),'utf8'));
  await db.query('INSERT INTO auth.users(id,email) VALUES ($1,$2),($3,$4)',[alice,'a@example.com',bob,'b@example.com']);
  return db;
 }

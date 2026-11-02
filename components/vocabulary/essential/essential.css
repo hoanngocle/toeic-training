@@ -36,8 +36,8 @@
 .essential-srOnly { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
 @media (max-width:600px) { .essential-questions { grid-template-columns: 1fr; }.essential-question { padding: 12px; }.essential-audio { padding: 14px; }.essential-unitHeading { gap: 6px; }.essential-pages figcaption { padding: 9px 11px; }.essential-tabs button { white-space: normal; min-width: 110px; }.essential-audioControls .study-direction { flex-basis: 100%; } }
 .vocab-lessonGroup { margin-top: 34px; }
-.vocab-toolbar + .vocab-lessonGroup { margin-top: 0; }
-.vocab-groupHeading { display: flex; align-items: baseline; justify-content: space-between; gap: 15px; border-bottom: 1px solid var(--line); padding-bottom: 14px; margin-bottom: 22px; }
+.vocab-toolbar + .vocab-lessonGroup, .vocab-filters + .vocab-lessonGroup { margin-top: 0; }
+.vocab-groupHeading { display: flex; align-items: baseline; justify-content: space-between; gap: 15px; border-bottom: 1px solid var(--line); padding-bottom: 12px; margin-bottom: 16px; }
 .vocab-groupHeading h3 { margin: 0; font-size: 19px; font-weight: 500; }
 .vocab-groupHeading > span { color: var(--muted); font-size: 12px; white-space: nowrap; }
 .essential-sourceBadge { display: inline-flex; align-items: center; color: var(--accent); background: var(--hero); border-color: var(--line); font-size: 11px; letter-spacing: .02em; }
@@ -68,6 +68,7 @@
 .essential-readingQuestions .essential-question { padding: 16px 20px 20px; }
 .essential-readingQuestions legend { max-width: 100%; line-height: 1.8; }
 .essential-readingPrompt { display: block; margin: 8px 0; font-size: 16px; line-height: 1.8; font-weight: 500; overflow-wrap: anywhere; }
+.essential-question > .essential-readingPrompt { margin: 0 0 18px; }
 .essential-readingQuestions .essential-choices { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .essential-readingQuestions .essential-choices label { justify-content: flex-start; gap: 12px; padding: 13px 14px; line-height: 1.6; overflow-wrap: anywhere; }
 .essential-readingQuestions .essential-choices input { flex-shrink: 0; }
@@ -75,22 +76,26 @@
 .essential-explanation { margin-top: 16px; padding: 16px; border-radius: 6px; background: var(--panel-hover); color: var(--text); line-height: 1.8; }
 .essential-explanation > strong { font-size: 13px; color: var(--accent); }
 .essential-explanation p { margin: 6px 0 0; white-space: pre-wrap; }
+.essential-contextTranslation { margin-top: 24px; }
+.essential-contextTranslation h3 { margin: 0; font-size: 18px; font-weight: 600; }
+.essential-reviewHeading { margin: 28px 0 16px; font-size: 18px; font-weight: 600; }
 @media (max-width:600px) {
   .essential-readingPassage { padding: 16px; }
   .essential-readingQuestions .essential-question { padding: 12px; }
   .essential-readingQuestions .essential-choices { grid-template-columns: 1fr; }
 }
 
-.essential-originalAudio { display: flex; flex-direction: column; gap: 12px; }
-.essential-originalAudio audio { display: block; width: 100%; margin: 0; }
-.essential-originalAudio .study-direction { display: inline-flex; gap: 8px; align-items: center; align-self: flex-end; }
+.essential-originalAudio { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 12px; }
+.essential-originalAudio audio { display: block; width: 100%; min-width: 0; margin: 0; }
+.essential-originalAudio .study-direction { display: inline-flex; gap: 8px; align-items: center; margin: 0; white-space: nowrap; }
+.essential-originalAudio > .study-error { grid-column: 1 / -1; margin: 0; }
 .essential-listeningPhoto { margin: 0 0 24px; }
 .essential-listeningPhoto img { display: block; max-width: 100%; width: 640px; height: auto; border-radius: 6px; }
 .essential-listeningPhoto figcaption { margin-top: 10px; font-size: 13px; color: var(--muted); }
 
 .essential-speedSelect { position: relative; display: inline-flex; }
-.essential-originalAudio .essential-speedSelect select { appearance: none; padding-right: 34px; }
-.essential-speedSelect svg { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); width: 16px; height: 16px; pointer-events: none; }
+.essential-originalAudio .essential-speedSelect select { appearance: none; background-image: none; padding-right: 34px; }
+.essential-speedSelect svg { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); width: 16px; height: 16px; color: var(--muted); pointer-events: none; }
 
 .essential-reviewQuestions .essential-question { border: 0; border-radius: 0; padding: 0; background: transparent; }
 .essential-reviewQuestions .essential-question legend { padding: 0; }

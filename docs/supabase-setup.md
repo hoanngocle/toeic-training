@@ -9,6 +9,8 @@ Trong SQL Editor của project, chạy lần lượt nội dung đầy đủ c�
 1. `supabase/migrations/202611010001_accounts.sql`
 2. `supabase/migrations/202611010002_legacy_import.sql`
 3. `supabase/migrations/202611020001_progression.sql` (EXP/cấp độ, cần cho phiên bản ứng dụng hiện tại)
+4. `supabase/migrations/202611020002_badge_exp.sql` (buff EXP từ huy hiệu, triển khai trước mã máy chủ sử dụng buff)
+5. `supabase/migrations/202611020003_ets.sql` (lưu lịch sử ETS 2024 riêng theo tài khoản, không cộng EXP)
 
 Mỗi file là một transaction. Chỉ chạy migration một lần; lỗi không được bỏ qua. Nếu dùng Supabase CLI để quản lý migration, dùng quy trình `supabase db push` thay vì vừa chạy tay vừa push cùng migration.
 

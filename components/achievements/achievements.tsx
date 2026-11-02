@@ -11,6 +11,7 @@ import type { AchievementsData } from '../../lib/achievements/summary';
 import './achievements.css';
 import Badge from './badge';
 import { CATEGORIES } from '../../lib/achievements/collection';
+import { badgeBonusPercent, collectionBonusPercent } from '../../lib/achievements/bonus';
 
 function moveMonth(month: string, amount: number) {
   const date = new Date(`${month}-01T00:00:00Z`);
@@ -64,6 +65,7 @@ export default function Achievements({data,progression}: {data: AchievementsData
     <div className="achievements-stats"><div><span>Tổng lượt học</span><strong>{data.totalSessions.toLocaleString('vi-VN')}<small> lượt</small></strong></div><div><span>Số ngày đã học</span><strong>{data.activeDays}<small> ngày</small></strong></div><div><span>Chuỗi dài nhất</span><strong>{data.longest}<small> ngày</small></strong></div></div>
     <section aria-labelledby="milestones-title" className="achievements-milestones">
       <div className="achievements-milestones-heading"><h2 id="milestones-title" className="achievements-section-title"><TrophyIcon aria-hidden="true"/> Bộ sưu tập thành tựu</h2><p>{unlocked.length}/43 huy hiệu đã mở khóa</p></div>
+      <p className="achievements-note">Buff huy hiệu hiện tại: <strong>+{collectionBonusPercent(data.collection.awards).toLocaleString('vi-VN')}% EXP</strong>. Tất cả huy hiệu đã mở cộng dồn, không giới hạn tổng. Huy hiệu mới có hiệu lực từ lượt học tiếp theo.</p>
       <div className="collection-filters" role="group" aria-label="Lọc thành tựu">{([{id:'all',label:'Tất cả'},{id:'earned',label:'Đã đạt được'},{id:'locked',label:'Chưa mở khóa'}] as const).map(item=><button key={item.id} aria-pressed={filter===item.id} onClick={()=>setFilter(item.id)}>{item.label}</button>)}</div>
       {CATEGORIES.map(category=>{
         const items=badges.filter(b=>b.category.id===category.id && (filter==='all'||(filter==='earned'?!!b.earned:!b.earned)));
@@ -72,6 +74,7 @@ export default function Achievements({data,progression}: {data: AchievementsData
         return <section key={category.id} className="collection-category" aria-labelledby={`category-${category.id}`}><div className="collection-category-heading"><h3 id={`category-${category.id}`}>{category.title}</h3><span>{count.toLocaleString('vi-VN')} {category.unit}</span></div><p className="collection-description">{category.description}</p><div className="collection-grid">{items.map(({value,tier,earned})=><article key={value} className={`collection-card${earned?' earned':''}`}>
           <Badge category={category.id} value={value} tier={tier} locked={!earned} small/>
           <h4>{value.toLocaleString('vi-VN')} {category.unit}</h4>
+          <p className="collection-description">+{badgeBonusPercent(tier).toLocaleString('vi-VN')}% EXP{earned ? ' · Đang áp dụng' : ' khi mở khóa'}</p>
           {earned?<p className="collection-earned"><CheckIcon aria-hidden="true"/><span>Đã đạt · <time dateTime={earned}>{new Intl.DateTimeFormat('vi-VN',{day:'numeric',month:'numeric',year:'numeric',timeZone:'UTC'}).format(new Date(`${earned}T00:00:00Z`))}</time></span></p>:<div className="collection-progress"><span>{Math.min(count,value).toLocaleString('vi-VN')}/{value.toLocaleString('vi-VN')} · Chưa mở khóa</span><progress value={Math.min(count,value)} max={value} aria-label={`Tiến độ ${value} ${category.unit}`}/></div>}
         </article>)}</div></section>;
       })}

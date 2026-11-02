@@ -2,7 +2,7 @@ import { isDeepStrictEqual } from 'node:util';
 import type { SupabaseClient } from '@supabase/supabase-js';
 import type { Session } from '../learning/types.ts';
 import type { ExerciseResult } from '../essential/types.ts';
-import { calculateVocabularyReward, calculateEssentialReward } from './reward.ts';
+import { applyBadgeBonus, BADGE_REWARD_VERSION, calculateVocabularyReward, calculateEssentialReward } from './reward.ts';
 import type { RewardCalculation } from './types.ts';
 
 export type BackfillRow = {id:string;created_at:string;result:Session | ExerciseResult};
@@ -41,8 +41,9 @@ export function prepareBackfill(vocabulary:BackfillRow[],essential:BackfillRow[]
         if (!row.id || row.id !== row.result?.id || !Number.isFinite(Date.parse(row.created_at)) ||
             Date.parse(row.created_at)!==Date.parse(row.result.createdAt)) throw new Error('Invalid source identity or timestamp');
         validateHistoryResult(row,sourceType);
-        const calculation=sourceType==='vocabulary'?calculateVocabularyReward(row.result as Session):calculateEssentialReward(row.result as ExerciseResult);
+        let calculation=sourceType==='vocabulary'?calculateVocabularyReward(row.result as Session):calculateEssentialReward(row.result as ExerciseResult);
         const prior=existingById.get(`${sourceType}:${row.id}`);
+        if (prior?.reward_version===BADGE_REWARD_VERSION) calculation=applyBadgeBonus(calculation,prior.calculation.badgeBonusPercent!);
         if (prior) {
           if (Number(prior.amount)!==calculation.exp || prior.reward_version!==calculation.version ||
             !isDeepStrictEqual(prior.calculation,calculation) || Date.parse(prior.created_at)!==Date.parse(row.created_at)) throw new Error('Reward conflict');

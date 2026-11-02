@@ -30,6 +30,7 @@ export function RewardPopup({result}: {result:ProgressionResult & {id:string}}) 
     <h2 id={titleId}>{realmUp?'Một cảnh giới mới!':leveledUp?'Bạn đã lên cấp!':'Thêm một bước tiến'}</h2>
     <p id={descriptionId} className="reward-dialog-description">{result.reward.exp>0?'Nỗ lực của bạn đã được ghi nhận.':'Lượt luyện tập đã được lưu. Cùng thử lại để nhận EXP nhé.'}</p>
     <div className="reward-dialog-amount"><strong>+{result.reward.exp.toLocaleString('vi-VN')}</strong><span>EXP</span></div>
+    {!!result.reward.badgeBonusPercent && <p className="reward-dialog-description">EXP gốc: {result.reward.baseExp?.toLocaleString('vi-VN')} · Huy hiệu +{result.reward.badgeBonusPercent.toLocaleString('vi-VN')}% (+{result.reward.bonusExp?.toLocaleString('vi-VN')} EXP)</p>}
     {change && <div className="reward-dialog-progress">
       <div className="reward-dialog-levels"><span>Level {change.before.level}</span>{leveledUp?<><ArrowRightIcon width={16} height={16} aria-hidden="true"/><strong>Level {change.after.level}</strong></>:<strong>Đang tiến bộ</strong>}</div>
       <p>{change.after.realmName}{change.after.stageName && <span> · {change.after.stageName}</span>}</p>
