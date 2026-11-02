@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { MagnifyingGlassIcon, ChatBubbleLeftEllipsisIcon, ArrowLeftIcon, ArrowRightIcon } from "@heroicons/react/24/outline";
+import { MagnifyingGlassIcon, ChatBubbleLeftEllipsisIcon, ArrowLeftIcon, ArrowRightIcon, BarsArrowDownIcon, ChevronDownIcon, CheckIcon, XMarkIcon } from "@heroicons/react/24/outline";
 import { useState } from "react";
 import type { Lesson, LessonSummary } from "./catalog";
 import PracticeWorkspace from "./practice/workspace";
@@ -49,10 +49,28 @@ export default function LessonDetail({ lesson, navigation, sections }: { lesson:
       return <>
     <div className="vocab-detailContent">
       <section className="vocab-wordSection" aria-labelledby="words-heading">
-        <div className="vocab-wordToolbar"><div><h2 id="words-heading">Từ vựng trong bài</h2><p role="status">{words.length} / {lesson.words.length} từ</p></div><label className="vocab-search"><MagnifyingGlassIcon className="vocab-searchIcon" width={24} height={24} aria-hidden="true" /><input type="search" aria-label="Tìm từ trong bài" placeholder="Tìm từ hoặc nghĩa trong bài…" value={query} onChange={event => setQuery(event.target.value)}/></label></div>
-        <div className="vocab-orderToolbar"><label>Order <select value={order} onChange={event => setOrder(event.target.value)}><option value="original">Thứ tự gốc</option><option value="least-remembered" disabled={!state}>Ít nhớ trước</option><option value="most-remembered" disabled={!state}>Nhớ nhiều trước</option></select></label><p>Độ nhớ = số lần đúng − số lần sai</p></div>
-        {words.length ? <ol className="vocab-words">{words.map(word => <li key={word.id} value={originalNumbers.get(word.id)}><span className="vocab-wordNumber">{String(originalNumbers.get(word.id)).padStart(2, "0")}</span><div className="vocab-wordContent"><h3 lang="en">{word.term}</h3><p className="vocab-phonetic" lang="en">{word.pronunciation}</p><p className="vocab-meaning">{word.meaning}</p><p className="vocab-wordMemory">{!state ? 'Đang tải độ nhớ…' : !progressByWord.get(word.id) || !((progressByWord.get(word.id)?.correct ?? 0) + (progressByWord.get(word.id)?.incorrect ?? 0)) ? 'Chưa có lượt trả lời' : <>Độ nhớ: <b className={memory(word.id)>0?'study-wordCorrect':memory(word.id)<0?'study-wordIncorrect':undefined}>{memory(word.id)>0?'+':''}{memory(word.id)}</b><span className="study-wordCounts"><b className="study-wordCorrect" aria-label={`${(progressByWord.get(word.id)?.correct ?? 0)} lần đúng`}>+{(progressByWord.get(word.id)?.correct ?? 0)}</b><b className="study-wordIncorrect" aria-label={`${(progressByWord.get(word.id)?.incorrect ?? 0)} lần sai`}>−{(progressByWord.get(word.id)?.incorrect ?? 0)}</b></span></>}</p>
-</div><div className="vocab-wordActions"><PronounceButton text={word.spokenText}/>
+        <div className="vocab-wordToolbar">
+          <div><h2 id="words-heading">Từ vựng trong bài</h2><p role="status">{words.length} / {lesson.words.length} từ</p></div>
+          <div className="vocab-wordFilters">
+            <label className="vocab-search"><MagnifyingGlassIcon className="vocab-searchIcon" width={24} height={24} aria-hidden="true" /><input type="search" aria-label="Tìm từ trong bài" placeholder="Tìm từ hoặc nghĩa trong bài…" value={query} onChange={event => setQuery(event.target.value)}/></label>
+            <label className="vocab-orderControl">
+              <BarsArrowDownIcon width={20} height={20} aria-hidden="true" />
+              <select aria-label="Sắp xếp từ vựng" value={order} onChange={event => setOrder(event.target.value)}>
+                <option value="original">Thứ tự gốc</option><option value="least-remembered" disabled={!state}>Ít nhớ trước</option><option value="most-remembered" disabled={!state}>Nhớ nhiều trước</option>
+              </select>
+              <ChevronDownIcon className="vocab-orderChevron" width={16} height={16} aria-hidden="true" />
+            </label>
+          </div>
+        </div>
+        {words.length ? <ol className="vocab-words">{words.map(word => <li key={word.id} value={originalNumbers.get(word.id)}><span className="vocab-wordNumber">{String(originalNumbers.get(word.id)).padStart(2, "0")}</span><div className="vocab-wordContent"><h3 lang="en">{word.term}</h3><p className="vocab-phonetic" lang="en">{word.pronunciation}</p><p className="vocab-meaning">{word.meaning}</p>
+</div><div className="vocab-wordActions">
+          <span className="vocab-wordMemory" aria-label={`Kết quả luyện ${word.spokenText}`}>
+            {state ? <>
+              <span className="study-wordCorrect" aria-label={`${progressByWord.get(word.id)?.correct ?? 0} lần đúng`}><CheckIcon width={16} height={16} aria-hidden="true" />{progressByWord.get(word.id)?.correct ?? 0}</span>
+              <span className="study-wordIncorrect" aria-label={`${progressByWord.get(word.id)?.incorrect ?? 0} lần sai`}><XMarkIcon width={16} height={16} aria-hidden="true" />{progressByWord.get(word.id)?.incorrect ?? 0}</span>
+            </> : <span aria-label="Đang tải kết quả">…</span>}
+          </span>
+          <PronounceButton text={word.spokenText}/>
           {word.example && <button type="button" className="vocab-exampleToggle" onClick={() => toggleExample(word.id)} aria-expanded={expandedExamples.has(word.id)} aria-controls={`example-${lesson.slug}-${word.id}`} aria-label={`${expandedExamples.has(word.id) ? "Ẩn" : "Xem"} ví dụ cho ${word.spokenText}`} title={`${expandedExamples.has(word.id) ? "Ẩn" : "Xem"} ví dụ`}>
             <ChatBubbleLeftEllipsisIcon width={22} height={22} aria-hidden="true" />
           </button>}

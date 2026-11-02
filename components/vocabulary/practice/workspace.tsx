@@ -8,7 +8,7 @@ import DeferredContent from '../../ui/deferred-content';
 import { useRememberedTab } from '../use-remembered-tab';
 import type { EssentialTab, PublicBookSection } from '../../../lib/essential/types';
 import { LoadingStatus } from '../../ui/loading';
-import { lessonCompletion } from '../../../lib/learning/completion';
+import { lessonCompletion, lessonAnswerProgress } from '../../../lib/learning/completion';
 import { CheckCircleIcon } from '@heroicons/react/24/outline';
 
 const tabLoading = () => <LoadingStatus label="Đang tải phần luyện tập…" />;
@@ -48,12 +48,13 @@ export default function PracticeWorkspace({lesson,children,sections}: {lesson:Le
     event.preventDefault();choose(tabs[target][0]);document.getElementById(`tab-${tabs[target][0]}`)?.focus();
   }
   const baseProgress=state?.progress.filter(progress=>lesson.words.some(word=>word.id===progress.wordId))??[];
-  const {learned,completed}=lessonCompletion(lesson.words,baseProgress);
+  const {completed}=lessonCompletion(lesson.words,baseProgress);
+  const {answeredCorrectly,percent}=lessonAnswerProgress(lesson.words,baseProgress);
   return <>
     <section className={`study-summary${completed ? ' is-completed' : ''}`} aria-label="Tiến độ bài học">
-      <div><span className="study-eyebrow">TIẾN ĐỘ CỦA BẠN</span><strong>{state?`${learned} / ${lesson.words.length} từ đã nhớ`:error ? 'Chưa tải được tiến độ' : <LoadingStatus label="Đang tải tiến độ…" />}</strong><p>{state?`${baseProgress.length} từ chính đã luyện · ${state.totalSessions} lượt Writing / Test`: 'Kết quả được lưu trên máy chạy app.'}</p></div>
+      <div><span className="study-eyebrow">TIẾN ĐỘ CỦA BẠN</span><strong>{state?`${answeredCorrectly} / ${lesson.words.length} từ đã trả lời đúng · ${percent}%`:error ? 'Chưa tải được tiến độ' : <LoadingStatus label="Đang tải tiến độ…" />}</strong><p>{state?`${baseProgress.length} từ chính đã luyện · ${state.totalSessions} lượt Writing / Test`: 'Kết quả được lưu trên máy chạy app.'}</p></div>
       {completed && <span className="vocab-completedBadge"><CheckCircleIcon width={18} height={18} aria-hidden="true" />Đã học xong</span>}
-      <progress max={lesson.words.length} value={learned} aria-label="Số từ đã nhớ"/>
+      <progress max={lesson.words.length} value={answeredCorrectly} aria-label="Số từ đã trả lời đúng ít nhất một lần"/>
     </section>
     {error&&<p className="study-error" role="alert">{error} <button className="study-button" onClick={refresh}>Tải lại tiến độ</button></p>}
     <div className="study-tabs study-modeTabs" role="tablist" aria-label="Chế độ học">{tabs.map(([id,label],index)=><button key={id} id={`tab-${id}`} role="tab" aria-selected={tab===id} aria-controls={`panel-${id}`} tabIndex={tab===id?0:-1} onKeyDown={event=>handleKeys(event,index)} onClick={()=>choose(id)}>{label}</button>)}</div>

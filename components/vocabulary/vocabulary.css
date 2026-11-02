@@ -169,4 +169,20 @@
 
 .study-historyHeading { display: inline-flex; align-items: baseline; justify-content: space-between; gap: 12px; width: 100%; vertical-align: top; }.study-historyScore { flex-shrink: 0; font-weight: 500; font-variant-numeric: tabular-nums; }
 
-.vocab-orderToolbar { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin-bottom: 16px; font-size: 13px; }.vocab-orderToolbar label { display: flex; align-items: center; gap: 10px; }.vocab-orderToolbar select { font: inherit; padding: 9px 12px; border: 1px solid var(--line); border-radius: 6px; background: var(--panel); color: var(--text); }.vocab-orderToolbar p { margin: 0; font-size: 12px; color: var(--muted); }.vocab-wordMemory { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin: 10px 0 0; font-size: 12px; color: var(--muted); }.vocab-wordMemory .study-wordCounts { margin-left: 8px; }
+.vocab-wordFilters { display: flex; align-items: stretch; gap: 10px; min-width: 0; }
+.vocab-wordFilters .vocab-search { flex: 1; min-width: 0; }
+.vocab-orderControl { display: flex; align-items: center; gap: 8px; position: relative; padding: 0 12px; border: 1px solid var(--line); border-radius: 6px; background: var(--panel); color: var(--muted); }
+.vocab-orderControl select { appearance: none; font: inherit; font-size: 13px; padding: 12px 24px 12px 0; border: 0; background: transparent; color: var(--text); cursor: pointer; width: 100%; }
+.vocab-orderControl:focus-within { outline: 2px solid var(--accent); outline-offset: 2px; }
+.vocab-orderControl select:focus { outline: none; }
+.vocab-orderControl > svg { flex-shrink: 0; pointer-events: none; }
+.vocab-orderChevron { position: absolute; right: 12px; }
+.vocab-wordMemory { display: inline-flex; align-items: center; gap: 10px; min-height: 38px; font-size: 12px; font-variant-numeric: tabular-nums; }
+.vocab-wordMemory > span { display: inline-flex; align-items: center; gap: 3px; }
+@media(max-width: 600px) {
+  .vocab-wordFilters { gap: 8px; }
+  .vocab-orderControl { padding: 0 8px; gap: 4px; }
+  .vocab-orderControl select { font-size: 12px; }
+  .vocab-wordActions { grid-column: 2 / -1; flex-wrap: wrap; }
+  .vocab-wordMemory { gap: 8px; }
+}
